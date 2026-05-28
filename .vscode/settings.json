@@ -1,0 +1,40 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.ruff": "explicit",
+      "source.organizeImports.ruff": "explicit"
+    }
+  },
+  "ruff.enable": true,
+  "ruff.organizeImports": true,
+  "python.analysis.typeCheckingMode": "basic",
+  "editor.fontFamily": "'JetBrains Mono', 'Cascadia Code', 'Fira Code', Consolas, 'Courier New', monospace",
+  "editor.fontSize": 15,
+  "editor.lineHeight": 22,
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontFamily": "Cascadia Mono",
+  "terminal.integrated.fontSize": 14,
+  "remote.SSH.configFile": "${workspaceFolder}/.vscode/ssh_config",
+  "chat.fontSize": 14,
+  "chat.editor.fontSize": 14,
+  "scm.inputFontSize": 14,
+  "workbench.tree.indent": 16,
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.editor.tabSizingFixedMinWidth": 50,
+  "workbench.editor.tabSizingFixedMaxWidth": 160,
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.sash.size": 8,
+  "window.zoomLevel": 1,
+  "python.analysis.diagnosticMode": "workspace",
+  "chatgpt.openOnStartup": false,
+  "python-envs.defaultEnvManager": "ms-python.python:conda",
+  "python-envs.defaultPackageManager": "ms-python.python:conda",
+  "terminal.integrated.env.windows": {
+  "PATH": "C:\\Program Files\\Git\\cmd;${env:PATH}",
+  "CLAUDE_CODE_GIT_BASH_PATH": "C:\\Program Files\\Git\\bin\\bash.exe"
+},
+"cursorpyright.analysis.diagnosticMode": "workspace",
+"cursorpyright.analysis.typeCheckingMode": "basic"
+}

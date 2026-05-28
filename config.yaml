@@ -1,0 +1,97 @@
+# SiliconFlow 统一接口配置。
+# 当前流水线的聊天、Embedding 与 Batch 全部通过同一套 API 访问。
+# 建议把真实密钥直接填写到 api_key；如果暂时留空，程序会兼容读取系统环境变量 SILICONFLOW_API_KEY。
+api_key: ""
+
+# SiliconFlow OpenAI 兼容接口根地址。
+base_url: "https://api.siliconflow.cn/v1"
+
+# 聊天模型：用于 S0、S1、S2、S3、S5 等文本生成阶段。
+llm_model: "Qwen/Qwen3.6-27B"
+
+# 是否显式透传 SiliconFlow 的 enable_thinking。
+# enabled=传 true；disabled=传 false；omit=不传该字段。
+enable_thinking: "disabled"
+
+# Batch 聊天模型：用于官方 Batch 通道。
+# 当前实测 deepseek-ai/DeepSeek-V3 可以成功创建 SiliconFlow Batch，
+# 而 Qwen/Qwen3-32B 等模型会返回“不支持 batch inference”。
+batch_llm_model: "deepseek-ai/DeepSeek-V3"
+
+# 向量模型：用于 S2 相似概念检索、S4 嵌入和增量链接。
+# 这里选择支持 dimensions 参数的 Qwen3 Embedding 系列。
+embed_model: "Qwen/Qwen3-Embedding-8B"
+
+# 向量维度。仅在支持 dimensions 的 Embedding 模型上生效。
+embed_dimensions: 512
+
+# API 超时时间，单位秒。聊天、嵌入、Batch 文件操作都使用这一超时。
+request_timeout_seconds: 300
+
+# API 重试次数。发生临时网络错误、429 或 5xx 错误时按指数退避重试。
+api_retry_count: 6
+
+# API 重试基准等待秒数。实际等待时间会按 1x、2x、4x 递增。
+api_retry_base_delay_seconds: 2.0
+
+# 同步聊天请求之间的最小间隔秒数。
+# 当描述生成按单条顺序调用时，这个值越大，越不容易触发 429。
+api_min_interval_seconds: 2.0
+
+# 抽取类阶段默认温度。用于 S0、S1、S3 等结构化抽取任务。
+temperature_extract: 0.1
+
+# 描述类阶段默认温度。用于 S5 和增量链接中的描述生成。
+temperature_describe: 0.3
+
+# 单次生成的最大输出 token 数。
+max_tokens: 2000
+
+# S2/S4 同步嵌入时的单批文本数量。
+embed_batch_size: 64
+
+# S2 检索增强规范化时，每个抽取概念检索的相似概念数量。
+tuple_concept_top_k: 16
+
+# S5 去重时每个聚类的最大候选规模。
+dedup_cluster_size: 128
+
+# S5 混合检索时每个元素保留的近邻数量。
+dedup_top_k: 16
+
+# S5 中 BM25 与向量分数的融合权重。
+dedup_bm25_weight: 0.5
+
+# S5 迭代去重的最大轮次。
+dedup_max_iterations: 10
+
+# 结构化抽取结果保留的最小置信度。
+min_confidence: 0.6
+
+# 上下文拼接时的 token 预算上限。
+context_token_budget: 6000
+
+# 上下文窗口大小。
+context_window_size: 5
+
+# Batch 轮询间隔，单位秒。
+batch_poll_interval: 30
+
+# Batch 完成窗口。当前 SiliconFlow 文档示例使用 24h。
+batch_completion_window: "24h"
+
+# 全局随机种子。
+random_seed: 42
+
+# 执行模式：sync 或 batch。
+# 注意：SiliconFlow 官方 Batch 当前只支持聊天接口，S2/S4 的 Embedding 会自动回退为同步嵌入。
+execution_mode: "sync"
+
+# 是否严格检查阶段依赖文件是否存在。
+strict_dependency_check: true
+
+# 是否严格要求 S7 规范化必须命中 alias_map。
+strict_canonical_resolution: false
+
+# 输入加载方式。当前新闻原文推荐使用 news_txt。
+data_loader: "news_txt"

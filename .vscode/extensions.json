@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-toolsai.jupyter",
+    "ms-python.black-formatter",
+    "charliermarsh.ruff",
+    "ms-vscode-remote.remote-explorer"
+  ]
+}
