@@ -21,7 +21,7 @@
   "chat.editor.fontSize": 14,
   "scm.inputFontSize": 14,
   "workbench.tree.indent": 16,
-  "workbench.colorTheme": "GitHub Dark",
+  "workbench.colorTheme": "One Dark Pro",
   "workbench.editor.tabSizingFixedMinWidth": 50,
   "workbench.editor.tabSizingFixedMaxWidth": 160,
   "workbench.editor.tabSizing": "shrink",
