@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "NM005_s001_t001", "subject": "美国政府", "relation": "输出军事干涉理念", "object": "台湾地区当局", "location": "台岛", "time": "2022-02"},
+  {"tuple_id": "NM005_s002_t001", "subject": "台湾地区当局", "relation": "提出无人武器研发计划", "object": "中国国家主体", "location": null, "time": "2024-06"},
+  {"tuple_id": "NM005_s006_t003", "subject": "台湾地区军方", "relation": "监测并统计解放军军机动向", "object": "中国人民解放军", "location": "台海周边海空域", "time": "2024-07-21"},
+  {"tuple_id": "NM005_s006_t001", "subject": "中国人民解放军军机", "relation": "在台海周边进行军事活动", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-07-21"},
+  {"tuple_id": "NM005_s006_t002", "subject": "中国人民解放军舰艇", "relation": "在台海周边海空域巡航活动", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-07-21"},
+  {"tuple_id": "NM005_s007_t001", "subject": "中国人民解放军", "relation": "实施常态化空中巡航", "object": "台湾地区军方", "location": "台岛周边海空域", "time": "2024-07"},
+  {"tuple_id": "NM005_s009_t001", "subject": "台湾地区行政管理机构", "relation": "计划大规模采购军用无人机", "object": "中国国家主体", "location": null, "time": "2024-07"},
+  {"tuple_id": "NM005_s008_t001", "subject": "台湾地区军方", "relation": "提出无人武器研发计划", "object": "军用无人机", "location": null, "time": "2026/2027"}
+]

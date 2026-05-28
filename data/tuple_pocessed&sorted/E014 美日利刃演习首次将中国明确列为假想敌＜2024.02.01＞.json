@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "E014_s001_t001", "subject": "美国政府", "relation": "纵容他国扩军备武", "object": "日本政府", "location": null, "time": "2024-01"},
+  {"tuple_id": "E014_s001_t002", "subject": "中国国防部发言人", "relation": "释放对军事扩张的抗议信号", "object": ["美国政府", "日本政府"], "location": null, "time": "2024-01"},
+  {"tuple_id": "E014_s002_t001", "subject": "中国国防部发言人", "relation": "释放要求日方在军事安全领域谨言慎行的警告信号", "object": "日本政府", "location": null, "time": "2024-01"},
+  {"tuple_id": "E014_s003_t001", "subject": ["日本自卫队", "美军"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": null, "time": "2024-02"},
+  {"tuple_id": "E014_s004_t001", "subject": ["日本自卫队", "美军"], "relation": "在联合演习中将对方列为假想敌", "object": "中国国家主体", "location": null, "time": "2024-02"}
+]

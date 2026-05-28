@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "M080_s001_t001", "subject": "中国人民解放军海军", "relation": "出动军舰进行周边活动", "object": "台湾地区当局", "location": "基隆外海", "time": "2022"},
+  {"tuple_id": "M080_s003_t001", "subject": "台湾地区防务部门", "relation": "释放对军事抵近行动的被动回应信号", "object": "中国人民解放军", "location": null, "time": "2022"},
+  {"tuple_id": "M080_s005_t001", "subject": ["中国人民解放军空军", "中国人民解放军海军"], "relation": "实施战术包夹", "object": "台湾地区军方", "location": "台岛周边海空域", "time": "2022"},
+  {"tuple_id": "M080_s006_t001", "subject": "台湾地区当局", "relation": "部署陆基反舰导弹系统", "object": "中国国家主体", "location": "台湾地区", "time": "2022"},
+  {"tuple_id": "M080_s007_t001", "subject": "台湾地区防务部门", "relation": "释放应对军事威胁的正当化信号", "object": "中国人民解放军", "location": null, "time": "2022"}
+]

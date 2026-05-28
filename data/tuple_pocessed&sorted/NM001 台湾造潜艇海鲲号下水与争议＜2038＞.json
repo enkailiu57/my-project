@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "NM001_s011_t001", "subject": "台湾地区领导人", "relation": "释放强化军事对抗的挑衅信号", "object": "中国国家主体", "location": null, "time": "2024-05"},
+  {"tuple_id": "NM001_s005_t001", "subject": "台湾地区行政管理机构", "relation": "公布军事预算计划", "object": "台军自制潜艇计划", "location": null, "time": "2024-08"},
+  {"tuple_id": "NM001_s006_t001", "subject": "台湾地区当局", "relation": "实施潜艇量产计划", "object": "台湾地区当局", "location": null, "time": "2025/2038"},
+  {"tuple_id": "NM001_s009_t001", "subject": "台湾地区海军", "relation": "接收自制军事装备", "object": "台军自制潜艇计划", "location": null, "time": "2027"}
+]

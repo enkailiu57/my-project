@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "I017_s002_t001", "subject": "台湾地区当局", "relation": "释放破坏两岸政治基础的分裂信号", "object": "中国国家主体", "location": null, "time": "2017"},
+  {"tuple_id": "I017_s002_t002", "subject": "台湾地区当局", "relation": "丧失参与国际组织资格", "object": "世界卫生组织", "location": null, "time": "2017"},
+  {"tuple_id": "I017_s003_t001", "subject": "世界卫生大会", "relation": "拒绝观察员参与资格", "object": "台湾地区当局", "location": null, "time": "2017"},
+  {"tuple_id": "I017_s004_t001", "subject": "中国国家主体", "relation": "向台湾地区通报疫情信息", "object": "台湾地区当局", "location": null, "time": "2020"},
+  {"tuple_id": "I017_s004_t002", "subject": "中国国家主体", "relation": "批准台湾地区专家参加世卫组织技术活动", "object": "台湾地区当局", "location": null, "time": "2021"},
+  {"tuple_id": "I017_s005_t001", "subject": "台湾地区当局", "relation": "释放破坏国际防疫体系的政治信号", "object": "国际社会", "location": null, "time": "2020-01"},
+  {"tuple_id": "I017_s005_t002", "subject": "台湾地区当局", "relation": "鼓动他国提出涉台政治提案", "object": "支持台湾参与世卫大会的国家群体", "location": null, "time": "2020-01"},
+  {"tuple_id": "I017_s006_t001", "subject": "世界卫生大会", "relation": "拒绝将涉台提案列入议程", "object": "台湾地区当局", "location": null, "time": "2022-05"}
+]

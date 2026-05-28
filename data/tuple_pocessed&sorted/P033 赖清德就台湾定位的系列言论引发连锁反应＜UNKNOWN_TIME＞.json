@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "P033_s001_t001", "subject": "台湾地区当局", "relation": "释放分裂国家与推行台独的政治信号", "object": "中国国家主体", "location": null, "time": "2024-05"},
+  {"tuple_id": "P033_s004_t001", "subject": "台湾地区领导人", "relation": "释放挑战一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "2024-05"},
+  {"tuple_id": "P033_s002_t001", "subject": "台湾地区领导人", "relation": "释放对中国战略意图的负面定性信号", "object": "中国国家主体", "location": null, "time": "2024-05"},
+  {"tuple_id": "P033_s003_t001", "subject": "台湾地区领导人", "relation": "释放拉拢国际势力抗衡中国大陆的政治信号", "object": "中国国家主体", "location": null, "time": "2024-05"}
+]

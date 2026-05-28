@@ -1,0 +1,17 @@
+[
+  {"tuple_id": "E035_s001_t001", "subject": "台湾地区军方", "relation": "计划举行实兵军事演习", "object": "汉光41号演习", "location": "台湾地区", "time": "2025-07"},
+  {"tuple_id": "E035_s002_t001", "subject": "台湾地区军方", "relation": "开展计算机辅助指挥所演习", "object": "中国国家主体", "location": null, "time": "2025-04"},
+  {"tuple_id": "E035_s003_t001", "subject": "中国国防部发言人", "relation": "释放反对军事演训的抗议信号", "object": "台湾地区军方", "location": null, "time": "2025-04"},
+  {"tuple_id": "E035_s004_t003", "subject": "中国人民解放军军机", "relation": "越过海峡中线", "object": "台湾地区防务部门", "location": "台湾海峡中线附近", "time": "2025-07"},
+  {"tuple_id": "E035_s004_t002", "subject": "台湾地区防务部门", "relation": "实施空中监视与侦测", "object": "中国人民解放军军机", "location": "台湾海峡上空", "time": "2025-07"},
+  {"tuple_id": "E035_s005_t001", "subject": "台湾地区军方", "relation": "实施空中监视与侦测", "object": "中国人民解放军军机", "location": "台岛西南空域", "time": "2025-07-08"},
+  {"tuple_id": "E035_s004_t001", "subject": "台湾地区防务部门", "relation": "发布军事动态通报", "object": "中国国家主体", "location": null, "time": "2025-07"},
+  {"tuple_id": "E035_s006_t001", "subject": "中国国防部发言人", "relation": "释放反对以武谋独的警告信号", "object": "台湾地区当局", "location": null, "time": "2025-07"},
+  {"tuple_id": "E035_s008_t001", "subject": "中国国台办发言人", "relation": "释放反对以武谋独的警告信号", "object": "台湾地区当局", "location": null, "time": "2025-07"},
+  {"tuple_id": "E035_s015_t001", "subject": "美军", "relation": "鼓动进行军事动员", "object": "台湾地区军方", "location": null, "time": "2025-07"},
+  {"tuple_id": "E035_s015_t002", "subject": "台湾地区军方", "relation": "实施后备兵力动员编成", "object": "中国国家主体", "location": null, "time": "2025-07"},
+  {"tuple_id": "E035_s009_t001", "subject": "台湾地区军方", "relation": "举行军事演习", "object": "中国国家主体", "location": "台海周边海空域", "time": "2025-07"},
+  {"tuple_id": "E035_s009_t002", "subject": "美国政府", "relation": "提供军事装备支持", "object": "台湾地区军方", "location": "台海周边海空域", "time": "2025-07"},
+  {"tuple_id": "E035_s016_t001", "subject": "美国政府", "relation": "派遣人员介入军事训练与演习", "object": "台湾地区军方", "location": "台湾岛内军事演习区域", "time": "2025-07"},
+  {"tuple_id": "E035_s027_t001", "subject": "中国国防部发言人", "relation": "释放对军事演习的否定与嘲讽信号", "object": "台湾地区当局", "location": null, "time": "2025-07"}
+]

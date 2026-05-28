@@ -1,0 +1,5 @@
+[
+  {"tuple_id": "M068_s003_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-12"},
+  {"tuple_id": "M068_s003_t002", "subject": "中国人民解放军", "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-12"},
+  {"tuple_id": "M068_s001_t001", "subject": "中国人民解放军", "relation": "公开展示先进战机参与台海演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-12"}
+]

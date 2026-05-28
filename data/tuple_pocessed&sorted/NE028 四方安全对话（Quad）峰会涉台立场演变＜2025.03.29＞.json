@@ -1,0 +1,15 @@
+[
+  {"tuple_id": "NE028_s001_t001", "subject": "美国政府", "relation": "重启多边安全对话机制", "object": ["日本政府", "澳大利亚政府", "印度政府"], "location": null, "time": "2021-02"},
+  {"tuple_id": "NE028_s001_t002", "subject": ["美国政府", "日本政府", "澳大利亚政府", "印度政府"], "relation": "举行高层政治会谈", "object": ["美国政府", "日本政府", "澳大利亚政府", "印度政府"], "location": null, "time": "2021-02"},
+  {"tuple_id": "NE028_s002_t001", "subject": ["美国政府", "日本政府", "澳大利亚政府", "印度政府"], "relation": "举行四方安全对话首脑会谈", "object": ["美国政府", "日本政府", "澳大利亚政府", "印度政府"], "location": null, "time": "2021-03"},
+  {"tuple_id": "NE028_s002_t002", "subject": ["美国政府", "日本政府", "澳大利亚政府", "印度政府"], "relation": "释放关注台海和平稳定的政治信号", "object": "中国国家主体", "location": null, "time": "2021-03"},
+  {"tuple_id": "NE028_s003_t001", "subject": ["美国政府", "日本政府", "印度政府", "澳大利亚政府"], "relation": "举行四方安全对话首脑会谈", "object": ["美国政府", "日本政府", "印度政府", "澳大利亚政府"], "location": null, "time": "2022-05"},
+  {"tuple_id": "NE028_s003_t002", "subject": ["美国政府", "日本政府", "印度政府", "澳大利亚政府"], "relation": "释放干涉台湾问题的政治信号", "object": "中国国家主体", "location": null, "time": "2022-05"},
+  {"tuple_id": "NE028_s005_t001", "subject": ["美国政府", "日本政府", "澳大利亚政府", "印度政府"], "relation": "释放对南海局势及中国海上活动的关切与谴责信号", "object": "中国国家主体", "location": "南海海域", "time": "2024-09"},
+  {"tuple_id": "NE028_s006_t001", "subject": "中国外交部发言人", "relation": "释放维护领土主权和海洋权益的坚定信号", "object": ["美国政府", "日本政府", "印度政府", "澳大利亚政府"], "location": null, "time": "2025-03"},
+  {"tuple_id": "NE028_s007_t001", "subject": "域外国家", "relation": "实施海空域军事存在", "object": "中国国家主体", "location": "南海海域", "time": "2025-03"},
+  {"tuple_id": "NE028_s007_t002", "subject": "域外国家", "relation": "组建排他性联盟制造分裂", "object": "中国国家主体", "location": null, "time": "2025-03"},
+  {"tuple_id": "NE028_s007_t003", "subject": "中国外交部发言人", "relation": "释放反对域外势力干涉的抗议信号", "object": "域外国家", "location": null, "time": "2025-03"},
+  {"tuple_id": "NE028_s008_t001", "subject": "中国外交部发言人", "relation": "释放反对阵营对抗的政治信号", "object": ["美国政府", "日本政府", "澳大利亚政府", "印度政府"], "location": null, "time": "2025-03"},
+  {"tuple_id": "NE028_s008_t002", "subject": "中国外交部发言人", "relation": "释放要求尊重地区和平稳定的敦促信号", "object": ["美国政府", "日本政府", "澳大利亚政府", "印度政府"], "location": null, "time": "2025-03"}
+]

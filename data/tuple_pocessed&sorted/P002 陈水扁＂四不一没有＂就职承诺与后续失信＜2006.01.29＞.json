@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "P002_s001_t001", "subject": "台湾地区领导人", "relation": "释放维持现状的政治信号", "object": "中国国家主体", "location": null, "time": "2000-05"},
+  {"tuple_id": "P002_s002_t001", "subject": "台湾地区当局", "relation": "释放维持现状的政治信号", "object": "美国政府", "location": null, "time": "2000/2008"},
+  {"tuple_id": "P002_s002_t002", "subject": "美国政府", "relation": "释放对维持现状承诺的积极回应信号", "object": "台湾地区当局", "location": null, "time": "2000/2008"},
+  {"tuple_id": "P002_s003_t001", "subject": "台湾地区领导人", "relation": "提出修宪政治主张", "object": "中国国家主体", "location": null, "time": "2003-09"},
+  {"tuple_id": "P002_s003_t002", "subject": "美国国务院发言人", "relation": "释放要求克制与遵守承诺的外交警告信号", "object": "台湾地区领导人", "location": null, "time": "2003-09"},
+  {"tuple_id": "P002_s004_t001", "subject": "台湾地区官方发言人", "relation": "释放维持现状的政治信号", "object": "美国政府", "location": null, "time": "2003-09"},
+  {"tuple_id": "P002_s005_t001", "subject": "中国国家主体", "relation": "通过反分裂国家法律", "object": "台湾地区当局", "location": null, "time": "2005-03"},
+  {"tuple_id": "P002_s006_t001", "subject": "台湾地区当局", "relation": "单方面终止两岸政治基础文件", "object": "中国国家主体", "location": null, "time": "2006-01"}
+]

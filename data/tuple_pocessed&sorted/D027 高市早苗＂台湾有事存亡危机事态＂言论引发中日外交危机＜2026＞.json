@@ -1,0 +1,21 @@
+[
+  {"tuple_id": "D027_s001_t001", "subject": "日本首相", "relation": "释放将台湾安全与日本存亡绑定的军事介入信号", "object": "中国国家主体", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s002_t001", "subject": "中国外交部", "relation": "释放对干涉内政的抗议信号", "object": "日本政府", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s003_t001", "subject": "中国驻外外交官员", "relation": "释放针对特定政要的攻击性威慑信号", "object": "日本首相", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s004_t001", "subject": "中国国家主体", "relation": "释放对干涉内政的抗议信号", "object": "日本政府", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s004_t002", "subject": "日本政府", "relation": "释放对干涉内政的抗议信号", "object": "中国国家主体", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s004_t003", "subject": "中国国家主体", "relation": "导致双边关系恶化", "object": "日本政府", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s005_t002", "subject": "中国国家主体", "relation": "发布针对特定国家的旅行警告", "object": "日本政府", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s005_t003", "subject": "中国国家主体", "relation": "实施特定商品进口禁令", "object": "日本政府", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s005_t004", "subject": "中国国家主体", "relation": "取消或暂停对方在华文化活动", "object": "日本政府", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s006_t001", "subject": "中国国家主体", "relation": "释放对干涉内政及军国主义倾向的抗议与警告信号", "object": "日本政府", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s007_t001", "subject": "日本政府", "relation": "释放维持涉台立场的政治信号", "object": "中国国家主体", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s007_t002", "subject": "日本政府", "relation": "拒绝撤回涉台言论", "object": "中国国家主体", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s008_t001", "subject": "日本政府", "relation": "释放否认军事扩张意图的反驳信号", "object": "中国国家主体", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s009_t001", "subject": "台湾地区当局", "relation": "释放政治支持信号", "object": "日本政府", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s010_t001", "subject": "美国国会", "relation": "释放呼吁克制过激反应的政治信号", "object": ["中国国家主体", "日本政府", "台湾地区当局"], "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s011_t001", "subject": "中国常驻联合国代表", "relation": "释放对军事扩张的抗议信号", "object": "日本政府", "location": null, "time": "2025-11"},
+  {"tuple_id": "D027_s013_t001", "subject": "中国军方官方媒体", "relation": "释放将采取必要反制措施的威慑信号", "object": "日本政府", "location": "台海周边海空域", "time": "2025-11"},
+  {"tuple_id": "D027_s014_t001", "subject": "中国人民解放军东部战区", "relation": "释放军事威慑与警告信号", "object": "日本政府", "location": null, "time": "2025-12"},
+  {"tuple_id": "D027_s015_t001", "subject": "日本首相", "relation": "计划进行高层政治访问", "object": "美国政府", "location": null, "time": "2026-03"}
+]

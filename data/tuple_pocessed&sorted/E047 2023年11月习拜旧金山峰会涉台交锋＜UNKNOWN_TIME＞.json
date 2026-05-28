@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "E047_s002_t001", "subject": "中国国家主席", "relation": "举行高层政治会晤", "object": ["美国政府", "美国总统"], "location": null, "time": "2023-11"},
+  {"tuple_id": "E047_s001_t001", "subject": "中国国家主体", "relation": "举行高层政治会谈", "object": "美国政府", "location": null, "time": "2023-11"},
+  {"tuple_id": "E047_s003_t002", "subject": "中国国家主体", "relation": "释放维护国家主权和领土完整的坚定信号", "object": "美国政府", "location": null, "time": "2023-11"},
+  {"tuple_id": "E047_s003_t001", "subject": "中国国家主体", "relation": "释放稳定发展双边关系的积极信号", "object": "美国政府", "location": null, "time": "2023-11"},
+  {"tuple_id": "E047_s004_t001", "subject": "美国总统", "relation": "释放支持一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "2023-11"},
+  {"tuple_id": "E047_s005_t001", "subject": ["中国国家主体", "美国政府"], "relation": "同意建立政府间对话机制", "object": "人工智能领域合作", "location": null, "time": "2023-11"},
+  {"tuple_id": "E047_s007_t001", "subject": ["中国人民解放军", "美国军方"], "relation": "恢复两军高层沟通机制", "object": ["美国军方", "中国人民解放军"], "location": null, "time": "2023-11"},
+  {"tuple_id": "E047_s011_t001", "subject": "中国国家主席", "relation": "出席外交欢迎宴会", "object": "美国友好团体", "location": null, "time": "2023-11"},
+  {"tuple_id": "E047_s011_t002", "subject": "中国国家主席", "relation": "释放推进中美友好关系的积极信号", "object": "美国政府", "location": null, "time": "2023-11"},
+  {"tuple_id": "E047_s012_t001", "subject": "中国国家主体", "relation": "释放推进中美友好关系的积极信号", "object": "美国政府", "location": null, "time": "2023-11"}
+]

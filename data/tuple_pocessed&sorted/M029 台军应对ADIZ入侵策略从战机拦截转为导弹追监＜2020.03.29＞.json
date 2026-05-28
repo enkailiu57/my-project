@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "M029_s001_t001", "subject": "中国人民解放军军机", "relation": "实施常态化空中监视与威慑", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2019"},
+  {"tuple_id": "M029_s002_t001", "subject": "中国人民解放军军机", "relation": "进入特定空域巡航", "object": "台湾地区当局", "location": "台岛西南空域", "time": "2020-03"},
+  {"tuple_id": "M029_s002_t002", "subject": "台湾地区防务部门", "relation": "发布军事动态通报", "object": "中国人民解放军军机", "location": null, "time": "2020-03"},
+  {"tuple_id": "M029_s003_t001", "subject": "台湾地区军方", "relation": "调整军事应对策略", "object": "中国人民解放军", "location": "台海周边海空域", "time": "2020-03"},
+  {"tuple_id": "M029_s004_t001", "subject": "台湾地区军方", "relation": "以防空导弹追监", "object": "中国人民解放军军机", "location": "台海周边海空域", "time": "2020-03"},
+  {"tuple_id": "M029_s005_t001", "subject": "台湾地区当局", "relation": "释放调整军事应对策略的信号", "object": "中国人民解放军", "location": "台海周边海空域", "time": "2020-03"}
+]

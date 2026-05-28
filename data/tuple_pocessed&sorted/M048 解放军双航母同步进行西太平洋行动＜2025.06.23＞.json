@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "M048_s001_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "在台海方向实施舰载机起降训练", "object": "台湾地区当局", "location": "台湾岛以北东海海域", "time": "2025-05"},
+  {"tuple_id": "M048_s002_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "穿越宫古海峡进入西太平洋", "object": "美国及其盟友", "location": "宫古海峡及西太平洋海域", "time": "2025-05"},
+  {"tuple_id": "M048_s003_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "穿越第二岛链进行远洋演训", "object": "美国及其盟友", "location": "第二岛链及南鸟岛附近海域", "time": "2025-06"},
+  {"tuple_id": "M048_s004_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "穿越第二岛链", "object": "美国主导的西太平洋战略防御体系", "location": "第二岛链", "time": "2025-06"},
+  {"tuple_id": "M048_s004_t002", "subject": "中国海军山东舰航母编队", "relation": "穿越巴士海峡进入西太平洋", "object": "美国主导的西太平洋战略防御体系", "location": "巴士海峡", "time": "2025-06"},
+  {"tuple_id": "M048_s004_t003", "subject": "中国海军山东舰航母编队", "relation": "抵达西太平洋深远海域", "object": "美国主导的西太平洋战略防御体系", "location": "硫磺岛西南海域", "time": "2025-06"},
+  {"tuple_id": "M048_s006_t001", "subject": "中国人民解放军海军航母编队", "relation": "开展航母编队军事演习", "object": "中国人民解放军海军航母编队", "location": "西太平洋海域", "time": "2025-06"},
+  {"tuple_id": "M048_s007_t001", "subject": ["美国军方", "日本自卫队"], "relation": "实施抵近监视", "object": "中国人民解放军海军", "location": "西太平洋海域", "time": "2025-06"},
+  {"tuple_id": "M048_s008_t001", "subject": "中国人民解放军航母编队", "relation": "穿越第一岛链关键水道返回近海", "object": "中国国家主体", "location": "宫古海峡", "time": "2025-06"},
+  {"tuple_id": "M048_s009_t001", "subject": "中国海军山东舰航母编队", "relation": "穿越巴士海峡进入南海", "object": "南海海域", "location": "巴士海峡", "time": "2025-06"}
+]

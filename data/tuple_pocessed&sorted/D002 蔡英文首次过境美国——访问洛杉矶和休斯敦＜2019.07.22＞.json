@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "D002_s001_t001", "subject": "台湾地区领导人", "relation": "计划访问加勒比海国家", "object": ["海地政府", "圣卢西亚政府", "圣文森特和格林纳丁斯政府", "圣基茨和尼维斯政府"], "location": null, "time": "2019-07"},
+  {"tuple_id": "D002_s003_t001", "subject": "美国政府", "relation": "释放拒绝蔡英文过境的政治信号", "object": "台湾地区当局", "location": null, "time": "2019-07"},
+  {"tuple_id": "D002_s003_t002", "subject": "台湾地区当局", "relation": "争取过境美国城市", "object": "美国政府", "location": null, "time": "2019-07"},
+  {"tuple_id": "D002_s003_t003", "subject": "美国政府", "relation": "同意蔡英文过境美国城市", "object": "台湾地区当局", "location": null, "time": "2019-07"},
+  {"tuple_id": "D002_s004_t001", "subject": "台湾地区领导人", "relation": "计划与美国国会高层政要会面", "object": "美国国会参众议员", "location": null, "time": "2019-07"},
+  {"tuple_id": "D002_s004_t002", "subject": "台湾地区领导人", "relation": "计划与美国地方官员会面", "object": "美国地方官员", "location": null, "time": "2019-07"},
+  {"tuple_id": "D002_s005_t001", "subject": "中国外交部发言人", "relation": "释放反对美台官方往来的抗议信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2019-07"},
+  {"tuple_id": "D002_s005_t002", "subject": "中国外交部发言人", "relation": "释放要求恪守一个中国原则的政治信号", "object": "美国政府", "location": null, "time": "2019-07"},
+  {"tuple_id": "D002_s005_t003", "subject": "中国外交部发言人", "relation": "释放拒绝蔡英文过境的政治信号", "object": "美国政府", "location": null, "time": "2019-07"},
+  {"tuple_id": "D002_s006_t001", "subject": "中国外交部发言人", "relation": "释放反对美台官方往来的抗议信号", "object": "美国政府", "location": null, "time": "2019-07"}
+]

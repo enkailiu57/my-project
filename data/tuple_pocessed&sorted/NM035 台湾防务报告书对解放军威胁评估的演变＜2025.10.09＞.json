@@ -1,0 +1,16 @@
+[
+  {"tuple_id": "NM035_s001_t001", "subject": "台湾地区军方", "relation": "发布国防报告书并宣称对方具备对台作战能力", "object": "中国人民解放军", "location": null, "time": "2021-11"},
+  {"tuple_id": "NM035_s002_t001", "subject": "台湾地区军方", "relation": "公布军事能力建设与武器引进计划", "object": "中国国家主体", "location": null, "time": "2021-11"},
+  {"tuple_id": "NM035_s003_t001", "subject": "台湾地区防务部门", "relation": "释放指控大陆实施灰色地带行动的抗议信号", "object": "中国国家主体", "location": null, "time": "2021"},
+  {"tuple_id": "NM035_s004_t001", "subject": "台湾地区防务部门", "relation": "发布对台局势评估报告", "object": "中国人民解放军海军福建舰", "location": null, "time": "2023-09"},
+  {"tuple_id": "NM035_s005_t002", "subject": "中国人民解放军", "relation": "推进走向远洋海军的战略规划", "object": "台湾地区防务部门", "location": null, "time": "2023-09"},
+  {"tuple_id": "NM035_s005_t001", "subject": "台湾地区防务部门官员", "relation": "释放对解放军战略动向的警示信号", "object": "中国人民解放军", "location": null, "time": "2023-09"},
+  {"tuple_id": "NM035_s005_t003", "subject": "台湾地区军方", "relation": "制定应对解放军动向的军事计划", "object": "中国人民解放军", "location": null, "time": "2023-09"},
+  {"tuple_id": "NM035_s006_t002", "subject": "中国人民解放军海军", "relation": "实施远海巡航", "object": "台湾地区当局", "location": "台湾南部海域及西太平洋", "time": "2023-09"},
+  {"tuple_id": "NM035_s006_t003", "subject": "台湾地区军方", "relation": "实施海空跟监警戒", "object": "中国人民解放军海军", "location": "台湾南部海域及西太平洋", "time": "2023-09"},
+  {"tuple_id": "NM035_s006_t001", "subject": "台湾地区防务部门", "relation": "发布军事动态通报", "object": "国际社会", "location": null, "time": "2023-09"},
+  {"tuple_id": "NM035_s009_t002", "subject": "中国国家主体", "relation": "持续扩张军事力量", "object": "台湾地区当局", "location": null, "time": "2025-10"},
+  {"tuple_id": "NM035_s009_t003", "subject": "中国国家主体", "relation": "运用灰色地带胁迫手段", "object": ["台湾地区当局", "印度-太平洋地区"], "location": null, "time": "2025-10"},
+  {"tuple_id": "NM035_s009_t001", "subject": "台湾地区防务部门", "relation": "释放对中国军力扩张的威胁警告信号", "object": "中国国家主体", "location": null, "time": "2025-10"},
+  {"tuple_id": "NM035_s013_t001", "subject": "台湾地区军方", "relation": "强化军事交流与战略沟通", "object": ["美国政府", "美国盟友和伙伴国家"], "location": null, "time": "2025-10"}
+]

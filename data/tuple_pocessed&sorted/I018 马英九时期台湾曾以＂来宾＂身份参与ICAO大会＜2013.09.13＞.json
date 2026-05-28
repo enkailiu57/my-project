@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "I018_s002_t001", "subject": "台湾地区当局", "relation": "谋求加入国际组织", "object": "联合国及其下属专门机构", "location": null, "time": "李登辉和陈水扁执政时期"},
+  {"tuple_id": "I018_s003_t001", "subject": "台湾地区当局", "relation": "释放坚持九二共识和反对台独的政治信号", "object": "中国国家主体", "location": null, "time": "2008"},
+  {"tuple_id": "I018_s004_t001", "subject": "台湾地区当局", "relation": "以特定名义参与国际组织会议", "object": "世界卫生组织", "location": null, "time": "2009-09"},
+  {"tuple_id": "I018_s004_t002", "subject": "台湾地区当局", "relation": "释放要求参与国际组织的政治信号", "object": ["国际民航组织", "联合国气候变化框架公约"], "location": null, "time": "2009-09"},
+  {"tuple_id": "I018_s005_t001", "subject": "台湾地区当局", "relation": "释放争取参与国际组织的政治信号", "object": "国际民航组织", "location": null, "time": "2010-08"},
+  {"tuple_id": "I018_s005_t002", "subject": "台湾地区当局", "relation": "释放争取参与国际组织的政治信号", "object": "国际民航组织", "location": null, "time": "2011-04"},
+  {"tuple_id": "I018_s006_t001", "subject": "台湾地区当局", "relation": "释放争取参与国际组织的政治信号", "object": "中国国家主体", "location": null, "time": "2010/2013"},
+  {"tuple_id": "I018_s007_t002", "subject": "国际民航组织理事会主席", "relation": "发出列席邀请", "object": "中华台北民航局", "location": null, "time": "2013-09"},
+  {"tuple_id": "I018_s007_t001", "subject": "中国国务院台湾事务办公室", "relation": "证实政治军事互动事件", "object": "国际民航组织", "location": null, "time": "2013-09"}
+]

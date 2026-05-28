@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "M041_s005_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "穿越敏感海峡进入远海", "object": "日本方面", "location": "宫古海峡", "time": "2016-12"},
+  {"tuple_id": "M041_s006_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "实施特定航向的军事航行", "object": "台湾地区当局", "location": "台岛东南海域", "time": "2016-12"},
+  {"tuple_id": "M041_s007_t001", "subject": "台湾地区军方", "relation": "实施空中侦察", "object": "中国人民解放军海军", "location": "西太平洋海域", "time": "2016-12"},
+  {"tuple_id": "M041_s008_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "穿越巴士海峡进入南海", "object": "中国国家主体", "location": "巴士海峡", "time": "2016-12"}
+]

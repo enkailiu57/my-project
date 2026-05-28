@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "EC003_s001_t002", "subject": "台湾地区当局", "relation": "实施歧视性贸易限制", "object": "中国国家主体", "location": null, "time": "2023-12"},
+  {"tuple_id": "EC003_s001_t001", "subject": "中国国务院关税税则委员会办公室", "relation": "发布贸易违规通报", "object": "台湾地区当局", "location": null, "time": "2023-12"},
+  {"tuple_id": "EC003_s002_t001", "subject": "中国国务院关税税则委员会办公室", "relation": "中止关税减让", "object": "台湾地区当局", "location": null, "time": "2023-12"},
+  {"tuple_id": "EC003_s003_t001", "subject": "中国国家主体", "relation": "释放要求取消贸易限制的施压信号", "object": "台湾地区当局", "location": null, "time": "2023-12"},
+  {"tuple_id": "EC003_s004_t001", "subject": "中国商务部发言人", "relation": "释放对贸易限制及政治操弄的抗议信号", "object": "民进党当局", "location": null, "time": "2024-01"},
+  {"tuple_id": "EC003_s005_t001", "subject": "中国国家主体", "relation": "中止关税减让", "object": "台湾地区当局", "location": null, "time": "2024-01"}
+]

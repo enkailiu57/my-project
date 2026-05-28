@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "NM029_s002_t001", "subject": "美国军机", "relation": "实施空中侦察", "object": "中国人民解放军", "location": "东沙岛周边空域", "time": "2020-04"},
+  {"tuple_id": "NM029_s001_t001", "subject": "中国人民解放军南部战区", "relation": "举行两栖登陆作战军事演习", "object": "台湾地区当局", "location": "南海靠近海南岛区域", "time": "2020-08"},
+  {"tuple_id": "NM029_s005_t001", "subject": "台湾地区海巡署", "relation": "计划开展实弹射击演习", "object": "中国国家主体", "location": "东沙群岛", "time": "2020-06"},
+  {"tuple_id": "NM029_s008_t001", "subject": "美国总统", "relation": "释放对台军事保护承诺信号", "object": "台湾地区当局", "location": null, "time": "2021-10"},
+  {"tuple_id": "NM029_s009_t001", "subject": "美国国务卿", "relation": "释放支持台湾参与国际组织的政治信号", "object": "台湾地区当局", "location": null, "time": "2021-10"},
+  {"tuple_id": "NM029_s010_t001", "subject": "中国驻外使馆发言人", "relation": "释放反对台独分裂及外部干涉的抗议信号", "object": ["台湾地区当局", "美国政府"], "location": null, "time": "2021-10"}
+]

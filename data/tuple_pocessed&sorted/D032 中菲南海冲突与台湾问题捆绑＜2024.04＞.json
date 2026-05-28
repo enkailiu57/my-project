@@ -1,0 +1,19 @@
+[
+  {"tuple_id": "D032_s001_t001", "subject": "菲律宾政府", "relation": "在南海实施军事挑衅", "object": "中国国家主体", "location": "南海海域", "time": "2022-06"},
+  {"tuple_id": "D032_s001_t002", "subject": "菲律宾政府", "relation": "释放利用台湾问题牵制中国的战略信号", "object": ["中国国家主体", "台湾地区当局"], "location": null, "time": "2022-06"},
+  {"tuple_id": "D032_s006_t001", "subject": "美国国会众议院议长", "relation": "访问台湾地区", "object": "台湾地区当局", "location": "台湾地区", "time": "2022-08"},
+  {"tuple_id": "D032_s006_t002", "subject": "菲律宾政府", "relation": "释放支持一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "2022-08"},
+  {"tuple_id": "D032_s010_t001", "subject": "菲律宾军方", "relation": "采购军事装备", "object": "印度政府", "location": null, "time": "2022"},
+  {"tuple_id": "D032_s002_t001", "subject": "菲律宾政府", "relation": "同意开放军事基地使用权", "object": "美国政府", "location": "菲律宾军事基地", "time": "2023"},
+  {"tuple_id": "D032_s003_t001", "subject": "菲律宾政府", "relation": "计划建设具有军事潜力的民用基础设施", "object": "中国国家主体", "location": "巴丹群岛", "time": "2024-04"},
+  {"tuple_id": "D032_s004_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-04"},
+  {"tuple_id": "D032_s004_t002", "subject": "菲律宾政府", "relation": "计划部署海警前哨", "object": "台湾地区当局", "location": "巴丹群岛", "time": "2024-04"},
+  {"tuple_id": "D032_s005_t001", "subject": "菲律宾国防部长", "relation": "释放不干涉中国内政的外交信号", "object": "中国国家主体", "location": null, "time": "2024-04"},
+  {"tuple_id": "D032_s007_t001", "subject": "菲律宾政府", "relation": "释放干涉台海事务的政治信号", "object": "中国国家主体", "location": "台海周边海空域", "time": "2024-04"},
+  {"tuple_id": "D032_s008_t001", "subject": "菲律宾政府", "relation": "同意开放军事基地使用权", "object": "美国政府", "location": "菲律宾境内", "time": "2024-04"},
+  {"tuple_id": "D032_s011_t001", "subject": "印度政府", "relation": "向菲方交付反舰导弹系统", "object": "菲律宾军方", "location": null, "time": "2024-04"},
+  {"tuple_id": "D032_s012_t001", "subject": "菲律宾军方", "relation": "部署陆基反舰导弹系统", "object": "中国国家主体", "location": ["吕宋岛西岸", "吕宋海峡西口"], "time": "2024-04"},
+  {"tuple_id": "D032_s014_t001", "subject": "菲律宾海军陆战队", "relation": "部署陆基反舰导弹系统", "object": "中国国家主体", "location": "吕宋岛北部", "time": "2024-04"},
+  {"tuple_id": "D032_s015_t001", "subject": "菲律宾总统", "relation": "释放干涉台海事务的政治信号", "object": ["中国国家主体", "美国政府"], "location": null, "time": "2024"},
+  {"tuple_id": "D032_s011_t002", "subject": "印度政府", "relation": "向菲方交付反舰导弹系统", "object": "菲律宾军方", "location": null, "time": "2025-04"}
+]

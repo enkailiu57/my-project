@@ -1,0 +1,16 @@
+[
+  {"tuple_id": "E030_s001_t001", "subject": "台湾地区当局", "relation": "与美国断绝外交关系", "object": "美国政府", "location": null, "time": "1979-08"},
+  {"tuple_id": "E030_s001_t002", "subject": "台湾地区军方", "relation": "举行全岛性实兵防卫作战演习", "object": "中国国家主体", "location": "台湾全岛", "time": "1979-08"},
+  {"tuple_id": "E030_s002_t001", "subject": "台湾地区军方", "relation": "举行军事演习", "object": "中国国家主体", "location": "澎湖海域", "time": "1984-06"},
+  {"tuple_id": "E030_s003_t001", "subject": "台湾地区军方", "relation": "组建模拟对手的假想敌部队", "object": "中国国家主体", "location": null, "time": "2000"},
+  {"tuple_id": "E030_s007_t001", "subject": "台湾地区军方", "relation": "举行军事演习", "object": "中国国家主体", "location": "台海周边海空域", "time": "2007"},
+  {"tuple_id": "E030_s007_t002", "subject": "台湾地区军方", "relation": "演练反制潜艇封锁", "object": "中国人民解放军", "location": "台岛西南至东北海空域", "time": "2007"},
+  {"tuple_id": "E030_s010_t001", "subject": "台湾地区军方", "relation": "举行针对大陆的军事演习", "object": "中国国家主体", "location": null, "time": "2010"},
+  {"tuple_id": "E030_s014_t002", "subject": "中国人民解放军", "relation": "实施海空联合战备警巡", "object": "台湾地区军方", "location": "台岛西南空域", "time": "2021"},
+  {"tuple_id": "E030_s014_t001", "subject": "台湾地区军方", "relation": "举行针对大陆的军事演习", "object": "中国国家主体", "location": "台岛周边海空域", "time": "2021"},
+  {"tuple_id": "E030_s015_t001", "subject": "台湾地区军方", "relation": "举行军事演习", "object": "中国国家主体", "location": null, "time": "2023-07"},
+  {"tuple_id": "E030_s016_t001", "subject": "台湾地区军方", "relation": "举行军事演习", "object": "中国国家主体", "location": "台岛周边海空域", "time": "2024"},
+  {"tuple_id": "E030_s017_t001", "subject": "台湾地区军方", "relation": "规划扩大规模军事演习", "object": "中国国家主体", "location": "台湾地区", "time": "2025-07"},
+  {"tuple_id": "E030_s019_t001", "subject": "美国军方", "relation": "派遣人员指导一线战斗部队", "object": "台湾地区军方", "location": null, "time": "2025"},
+  {"tuple_id": "E030_s019_t002", "subject": "美国军方", "relation": "派遣人员观察与指导动员演习", "object": "台湾地区军方", "location": null, "time": "2025"}
+]

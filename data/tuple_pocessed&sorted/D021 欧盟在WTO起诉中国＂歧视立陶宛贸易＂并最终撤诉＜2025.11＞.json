@@ -1,0 +1,16 @@
+[
+  {"tuple_id": "D021_s001_t001", "subject": "中国国家主体", "relation": "释放反对建交国与台湾官方往来的抗议信号", "object": "立陶宛政府", "location": null, "time": "2021-08"},
+  {"tuple_id": "D021_s001_t002", "subject": "立陶宛政府", "relation": "允许设立台湾官方性质代表处", "object": "台湾地区当局", "location": "维尔纽斯", "time": "2021-08"},
+  {"tuple_id": "D021_s002_t001", "subject": "中国国家主体", "relation": "实施外交降级", "object": "立陶宛政府", "location": null, "time": "2021-08"},
+  {"tuple_id": "D021_s002_t002", "subject": "中国国家主体", "relation": "召回驻外大使", "object": "立陶宛政府", "location": null, "time": "2021-08"},
+  {"tuple_id": "D021_s003_t001", "subject": "欧盟", "relation": "向世贸组织提起贸易诉讼", "object": "中国国家主体", "location": null, "time": "2022-01"},
+  {"tuple_id": "D021_s004_t001", "subject": "中国外交部发言人", "relation": "释放反对无理诉讼的抗议信号", "object": "欧盟", "location": null, "time": "2022-01"},
+  {"tuple_id": "D021_s005_t001", "subject": "欧盟", "relation": "暂停针对中国的贸易诉讼程序", "object": "中国国家主体", "location": null, "time": "2024-01"},
+  {"tuple_id": "D021_s006_t001", "subject": "欧盟", "relation": "重启贸易诉讼程序", "object": "中国国家主体", "location": null, "time": "2025-01"},
+  {"tuple_id": "D021_s006_t002", "subject": "欧盟", "relation": "暂停针对中国的贸易诉讼程序", "object": "中国国家主体", "location": null, "time": "2025-01"},
+  {"tuple_id": "D021_s007_t001", "subject": "欧盟", "relation": "终止针对中国的贸易诉讼", "object": "中国国家主体", "location": null, "time": "2025-01"},
+  {"tuple_id": "D021_s010_t001", "subject": "立陶宛政府", "relation": "计划恢复双边外交关系", "object": "中国国家主体", "location": null, "time": "2025-11"},
+  {"tuple_id": "D021_s010_t002", "subject": "立陶宛政府", "relation": "删除涉华负面政策表述", "object": "中国国家主体", "location": null, "time": "2025-11"},
+  {"tuple_id": "D021_s012_t001", "subject": "立陶宛政府", "relation": "发起外交接触请求", "object": "中国国家主体", "location": null, "time": "2025-11"},
+  {"tuple_id": "D021_s013_t001", "subject": "中国外交部发言人", "relation": "释放要求停止损害主权和领土完整的抗议信号", "object": "立陶宛政府", "location": null, "time": "2025-11"}
+]

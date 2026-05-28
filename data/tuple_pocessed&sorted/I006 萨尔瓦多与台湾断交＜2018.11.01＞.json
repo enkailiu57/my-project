@@ -1,0 +1,19 @@
+[
+  {"tuple_id": "I006_s011_t001", "subject": "中国政府", "relation": "实施物资援助外交", "object": "萨尔瓦多政府", "location": null, "time": "2018-06"},
+  {"tuple_id": "I006_s001_t001", "subject": "台湾地区领导人", "relation": "进行涉外政治访问", "object": "美国政府", "location": null, "time": "2018-08"},
+  {"tuple_id": "I006_s004_t002", "subject": "美国政府", "relation": "释放反对断交的外交警告信号", "object": "萨尔瓦多政府", "location": null, "time": "2018-08"},
+  {"tuple_id": "I006_s002_t001", "subject": "萨尔瓦多政府", "relation": "宣布与台湾地区断绝外交关系", "object": "台湾地区当局", "location": null, "time": "2018-08"},
+  {"tuple_id": "I006_s002_t002", "subject": "萨尔瓦多政府", "relation": "宣布与中华人民共和国建立外交关系", "object": "中国国家主体", "location": null, "time": "2018-08"},
+  {"tuple_id": "I006_s003_t001", "subject": "萨尔瓦多政府", "relation": "释放支持与中国建交的政治信号", "object": "中国国家主体", "location": null, "time": "2018-08"},
+  {"tuple_id": "I006_s005_t001", "subject": "美国政府", "relation": "拟议削减财政援助", "object": "萨尔瓦多政府", "location": null, "time": "2018-08"},
+  {"tuple_id": "I006_s005_t002", "subject": "美国政府", "relation": "实施签证限制制裁", "object": "萨尔瓦多政府", "location": null, "time": "2018-08"},
+  {"tuple_id": "I006_s006_t001", "subject": "美国政府", "relation": "释放对干涉内政的抗议信号", "object": "中国国家主体", "location": null, "time": "2018-08"},
+  {"tuple_id": "I006_s006_t002", "subject": "美国政府", "relation": "计划重新评估双边关系", "object": "萨尔瓦多政府", "location": null, "time": "2018-08"},
+  {"tuple_id": "I006_s007_t001", "subject": "美国政府", "relation": "召回驻外大使", "object": ["萨尔瓦多政府", "多米尼加政府", "巴拿马政府"], "location": null, "time": "2018-09"},
+  {"tuple_id": "I006_s008_t001", "subject": "美国政府", "relation": "推迟双边或多边外交会议", "object": "萨尔瓦多政府", "location": null, "time": "2018-09"},
+  {"tuple_id": "I006_s009_t001", "subject": "美国政府高级官员", "relation": "释放终止外交惩罚并恢复对话的信号", "object": "萨尔瓦多政府", "location": null, "time": "2018-09"},
+  {"tuple_id": "I006_s015_t001", "subject": "中国国家主体", "relation": "实施物资援助外交", "object": "萨尔瓦多政府", "location": null, "time": "2018-09"},
+  {"tuple_id": "I006_s013_t001", "subject": "中国国家主体", "relation": "举行高层政治会谈", "object": "萨尔瓦多政府", "location": null, "time": "2018-11"},
+  {"tuple_id": "I006_s014_t001", "subject": "中国国家主体", "relation": "释放提供多领域发展支持的友好信号", "object": "萨尔瓦多政府", "location": null, "time": "2018-11"},
+  {"tuple_id": "I006_s015_t002", "subject": "萨尔瓦多总统", "relation": "释放感谢援助的友好信号", "object": "中国国家主体", "location": null, "time": "2018-11"}
+]

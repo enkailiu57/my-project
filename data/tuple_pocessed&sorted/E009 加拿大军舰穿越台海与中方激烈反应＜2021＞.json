@@ -1,0 +1,15 @@
+[
+  {"tuple_id": "E009_s002_t001", "subject": ["美国海军军舰", "加拿大军舰"], "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2020-06"},
+  {"tuple_id": "E009_s003_t001", "subject": "中国人民解放军海军", "relation": "实施近距离战术横切", "object": "美国海军", "location": "台湾海峡", "time": "2020-06"},
+  {"tuple_id": "E009_s004_t001", "subject": "中国人民解放军海军", "relation": "实施近距离军事控制", "object": "加拿大海军", "location": "台湾海峡", "time": "2020-06"},
+  {"tuple_id": "E009_s001_t001", "subject": "加拿大海军", "relation": "伴随他国军舰穿越敏感水域", "object": "中国国家主体", "location": "台湾海峡", "time": "2021"},
+  {"tuple_id": "E009_s006_t001", "subject": ["加拿大海军", "美国海军"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": "东海海域", "time": "2021-10"},
+  {"tuple_id": "E009_s005_t001", "subject": "加拿大海军", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2021-10"},
+  {"tuple_id": "E009_s007_t001", "subject": "中国人民解放军", "relation": "实施海空跟监警戒", "object": "加拿大海军", "location": "台湾海峡", "time": "2021-10"},
+  {"tuple_id": "E009_s008_t001", "subject": "中国人民解放军东部战区", "relation": "释放对破坏台海和平稳定的抗议信号", "object": "加拿大政府", "location": "台海周边海空域", "time": "2021-10"},
+  {"tuple_id": "E009_s009_t001", "subject": ["美国海军", "加拿大海军"], "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2021-10"},
+  {"tuple_id": "E009_s010_t002", "subject": ["美国海军军舰", "加拿大军舰"], "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2021-10"},
+  {"tuple_id": "E009_s010_t001", "subject": "美国海军第七舰队", "relation": "发布航行自由与例行过境声明", "object": "国际社会", "location": null, "time": "2021-10"},
+  {"tuple_id": "E009_s011_t003", "subject": "中国人民解放军东部战区发言人", "relation": "发布军事行动通报", "object": "加拿大海军", "location": null, "time": "2021-10"},
+  {"tuple_id": "E009_s011_t002", "subject": "中国人民解放军东部战区", "relation": "实施海空跟监警戒", "object": "加拿大海军", "location": "台湾海峡", "time": "2021-10"}
+]

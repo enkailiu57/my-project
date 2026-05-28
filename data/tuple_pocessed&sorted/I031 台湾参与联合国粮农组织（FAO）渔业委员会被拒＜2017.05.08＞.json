@@ -1,0 +1,14 @@
+[
+  {"tuple_id": "I031_s001_t001", "subject": "台湾地区当局", "relation": "释放拒绝承认九二共识的政治信号", "object": "中国国家主体", "location": null, "time": "2016-05"},
+  {"tuple_id": "I031_s007_t001", "subject": "台湾地区当局", "relation": "通过非正式渠道参与国际会议", "object": "联合国粮农组织", "location": null, "time": "2016"},
+  {"tuple_id": "I031_s007_t002", "subject": "联合国粮农组织", "relation": "拒绝台湾官员参会", "object": "台湾地区当局", "location": null, "time": "2016"},
+  {"tuple_id": "I031_s002_t001", "subject": "台湾地区海巡部门", "relation": "查扣并处罚违规渔船", "object": "大陆籍渔船", "location": "台湾周边海域", "time": "2017-02"},
+  {"tuple_id": "I031_s002_t002", "subject": "台湾地区海巡部门", "relation": "驱逐出境", "object": "大陆籍渔民", "location": "台湾周边海域", "time": "2017-02"},
+  {"tuple_id": "I031_s003_t001", "subject": "台湾地区海巡部门", "relation": "查扣渔船并带回侦办", "object": "大陆籍渔民", "location": "高雄港", "time": "2017-03"},
+  {"tuple_id": "I031_s011_t001", "subject": "台湾地区领导人", "relation": "释放以国际组织参与问题要挟大陆的政治信号", "object": "中国国家主体", "location": null, "time": "2017-04"},
+  {"tuple_id": "I031_s011_t002", "subject": "台湾地区领导人", "relation": "释放挑战一个中国框架的政治信号", "object": "国际社会", "location": null, "time": "2017-04"},
+  {"tuple_id": "I031_s004_t001", "subject": "台湾地区海巡部门", "relation": "查扣大陆渔船", "object": "大陆籍渔船", "location": "澎湖海域", "time": "2017-05"},
+  {"tuple_id": "I031_s005_t001", "subject": "台湾地区海巡部门", "relation": "实施武力射击阻遏", "object": "大陆籍渔船", "location": "澎湖海域", "time": "2017-05"},
+  {"tuple_id": "I031_s006_t001", "subject": "中国国台办发言人", "relation": "释放对暴力执法的抗议与交涉信号", "object": "台湾地区当局", "location": null, "time": "2017-05"},
+  {"tuple_id": "I031_s010_t001", "subject": "台湾卫生官员", "relation": "计划强行参与国际组织活动", "object": "世界卫生大会", "location": null, "time": "2017-05"}
+]

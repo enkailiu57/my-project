@@ -1,0 +1,14 @@
+[
+  {"tuple_id": "I019_s001_t001", "subject": "中国国家主体", "relation": "对台参与国际组织作出务实安排", "object": "台湾地区当局", "location": null, "time": "2008"},
+  {"tuple_id": "I019_s002_t001", "subject": "台湾地区当局", "relation": "以特定名义参与国际组织会议", "object": "国际民航组织", "location": null, "time": "2013"},
+  {"tuple_id": "I019_s003_t001", "subject": "台湾地区当局", "relation": "释放拒绝承认九二共识的政治信号", "object": "中国国家主体", "location": null, "time": "2016"},
+  {"tuple_id": "I019_s003_t002", "subject": "台湾地区当局", "relation": "导致两岸沟通机制停摆", "object": "中国国家主体", "location": null, "time": "2016"},
+  {"tuple_id": "I019_s004_t001", "subject": "中国国台办发言人", "relation": "释放坚持一个中国原则及两岸协商前提的信号", "object": "台湾地区当局", "location": null, "time": "2016-08"},
+  {"tuple_id": "I019_s005_t001", "subject": "海协会会长", "relation": "释放坚持一个中国原则及两岸协商前提的信号", "object": "台湾地区当局", "location": null, "time": "2016-09"},
+  {"tuple_id": "I019_s006_t001", "subject": "台湾地区当局", "relation": "寻求外部势力斡旋以参与国际组织", "object": "美国政府", "location": null, "time": "2016-09"},
+  {"tuple_id": "I019_s007_t001", "subject": "台湾地区外事部门", "relation": "释放对国际组织排除台湾的抗议信号", "object": "国际民航组织", "location": null, "time": "2016-09"},
+  {"tuple_id": "I019_s008_t001", "subject": "台湾地区领导人", "relation": "举行高层政治会晤", "object": "欧洲议会政治团体", "location": null, "time": "2016-09"},
+  {"tuple_id": "I019_s008_t002", "subject": "台湾地区领导人", "relation": "释放对国际组织排除台湾的抗议信号", "object": "欧洲议会政治团体", "location": null, "time": "2016-09"},
+  {"tuple_id": "I019_s009_t001", "subject": "中国台湾地区民进党立法机构代表", "relation": "释放对国际组织排除台湾的抗议信号", "object": "中国国家主体", "location": null, "time": "2016-09"},
+  {"tuple_id": "I019_s010_t001", "subject": "台湾地区当局", "relation": "计划强行参与国际组织活动", "object": "国际民航组织", "location": null, "time": "2016-09"}
+]

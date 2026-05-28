@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "M076_s002_t001", "subject": "中国国家主体", "relation": "调整航线以淡化军事界限", "object": "M503航线", "location": "台海周边空域", "time": "2015-03"},
+  {"tuple_id": "M076_s003_t001", "subject": "台湾地区当局", "relation": "实施民航行政限制", "object": ["中国东方航空公司", "中国厦门航空公司"], "location": null, "time": "2018"},
+  {"tuple_id": "M076_s004_t001", "subject": "中国国家主体", "relation": "调整航线以淡化军事界限", "object": "台湾地区当局", "location": "M503航线空域", "time": "2024-02"},
+  {"tuple_id": "M076_s004_t002", "subject": "中国国家主体", "relation": "启用空域衔接航线", "object": "台湾地区当局", "location": "W122、W123衔接线空域", "time": "2024-02"}
+]

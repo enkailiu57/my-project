@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "I011_s002_t001", "subject": "民进党当局", "relation": "释放拒绝承认九二共识的政治信号", "object": "中国国家主体", "location": null, "time": "2016"},
+  {"tuple_id": "I011_s002_t002", "subject": "民进党当局", "relation": "导致双边关系恶化", "object": "中国国家主体", "location": null, "time": "2016"},
+  {"tuple_id": "I011_s002_t003", "subject": "民进党当局", "relation": "推进分裂国家活动", "object": "中国国家主体", "location": null, "time": "2016"},
+  {"tuple_id": "I011_s003_t001", "subject": "台湾地区领导人", "relation": "进行高层政治访问", "object": ["马绍尔群岛政府", "图瓦卢政府"], "location": null, "time": "2017-12"},
+  {"tuple_id": "I011_s003_t002", "subject": "台湾地区领导人", "relation": "释放构建族群认同的政治信号", "object": ["马绍尔群岛政府", "图瓦卢政府"], "location": null, "time": "2017-12"},
+  {"tuple_id": "I011_s005_t001", "subject": "诺鲁政府", "relation": "宣布承认一个中国原则", "object": "中国国家主体", "location": null, "time": "2024-01"},
+  {"tuple_id": "I011_s005_t002", "subject": "诺鲁政府", "relation": "终止外交关系", "object": "台湾地区当局", "location": null, "time": "2024-01"}
+]

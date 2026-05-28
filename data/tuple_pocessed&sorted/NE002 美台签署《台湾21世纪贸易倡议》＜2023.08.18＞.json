@@ -1,0 +1,18 @@
+[
+  {"tuple_id": "NE002_s001_t001", "subject": ["台湾地区当局", "美国政府"], "relation": "举行经贸议题高层会谈", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2022-06"},
+  {"tuple_id": "NE002_s002_t001", "subject": ["台湾地区当局", "美国政府"], "relation": "启动双边经贸谈判", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2022-08"},
+  {"tuple_id": "NE002_s012_t001", "subject": ["中国商务部", "中国外交部", "中共中央台湾工作办公室"], "relation": "释放反对美台官方往来的抗议信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2022-08"},
+  {"tuple_id": "NE002_s003_t001", "subject": ["台湾地区当局", "美国政府"], "relation": "举行经贸议题高层会谈", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2022-11"},
+  {"tuple_id": "NE002_s004_t001", "subject": ["台湾地区当局", "美国政府"], "relation": "举行经贸议题高层会谈", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2023-01"},
+  {"tuple_id": "NE002_s005_t002", "subject": ["台湾地区当局", "美国政府"], "relation": "完成特定经贸议题谈判", "object": ["台湾地区当局", "美国政府"], "location": null, "time": "2023-03"},
+  {"tuple_id": "NE002_s005_t001", "subject": "台湾地区经贸主管部门", "relation": "发布经贸谈判阶段性进展通报", "object": "美国政府", "location": null, "time": "2023-03"},
+  {"tuple_id": "NE002_s006_t001", "subject": "美国贸易代表", "relation": "完成特定经贸议题谈判", "object": "台湾地区当局", "location": null, "time": "2023-05"},
+  {"tuple_id": "NE002_s006_t002", "subject": ["美国政府", "台湾地区当局"], "relation": "完成特定经贸议题谈判", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2023-05"},
+  {"tuple_id": "NE002_s007_t001", "subject": "台湾地区当局", "relation": "计划签署双边贸易协定", "object": "美国政府", "location": null, "time": "2023-05"},
+  {"tuple_id": "NE002_s013_t001", "subject": "中国外交部发言人", "relation": "释放反对美台官方往来的抗议信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2023-05"},
+  {"tuple_id": "NE002_s008_t001", "subject": "台湾地区当局", "relation": "签署双边经贸协定", "object": "美国政府", "location": null, "time": "2023-06"},
+  {"tuple_id": "NE002_s010_t001", "subject": "台湾地区立法机构", "relation": "立法通过涉美贸易协定", "object": "美国政府", "location": null, "time": "2023-07"},
+  {"tuple_id": "NE002_s009_t001", "subject": "美国政府", "relation": "通过涉台贸易协定实施法案", "object": "台湾地区当局", "location": null, "time": "2023-08"},
+  {"tuple_id": "NE002_s011_t001", "subject": "美国政府", "relation": "举行经贸议题高层会谈", "object": "台湾地区当局", "location": null, "time": "2023-08"},
+  {"tuple_id": "NE002_s011_t002", "subject": "美国政府", "relation": "进行贸易磋商", "object": "台湾地区当局", "location": null, "time": "2023-08"}
+]

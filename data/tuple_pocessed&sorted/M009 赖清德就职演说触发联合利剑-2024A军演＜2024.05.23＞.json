@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "M009_s001_t001", "subject": "台湾地区领导人", "relation": "释放支持台湾分裂的政治信号", "object": "中国国家主体", "location": null, "time": "2024-05"},
+  {"tuple_id": "M009_s002_t001", "subject": ["中国外交部", "中国国务院台湾事务办公室"], "relation": "释放反对台独分裂行径的抗议信号", "object": "台湾地区当局", "location": null, "time": "2024-05"},
+  {"tuple_id": "M009_s003_t001", "subject": "中国国务院台湾事务办公室", "relation": "释放反对台独分裂行径的抗议信号", "object": "赖清德", "location": null, "time": "2024-05"},
+  {"tuple_id": "M009_s007_t001", "subject": "梵蒂冈政府", "relation": "释放支持与中国建交的政治信号", "object": "中国国家主体", "location": null, "time": "2024-05"},
+  {"tuple_id": "M009_s004_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-05"},
+  {"tuple_id": "M009_s006_t001", "subject": "中国国务院台湾事务办公室", "relation": "释放对台独分裂行径的定性警告信号", "object": "赖清德", "location": null, "time": "2024-05"},
+  {"tuple_id": "M009_s008_t001", "subject": "美国军方高层官员", "relation": "释放对军事演习的关切与预期信号", "object": "中国人民解放军", "location": null, "time": "2024-05"}
+]

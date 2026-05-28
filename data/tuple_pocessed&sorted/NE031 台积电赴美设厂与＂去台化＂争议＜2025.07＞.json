@@ -1,0 +1,4 @@
+[
+  {"tuple_id": "NE031_s005_t001", "subject": "美国商务部", "relation": "提供财政补助与贷款", "object": "台积电", "location": "美国亚利桑那州", "time": "2024-04"},
+  {"tuple_id": "NE031_s007_t001", "subject": "美国政府", "relation": "签署半导体产业支持法案", "object": "美国半导体产业", "location": null, "time": "2024-10"}
+]

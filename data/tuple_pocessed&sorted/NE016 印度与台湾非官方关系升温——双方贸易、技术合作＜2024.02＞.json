@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "NE016_s005_t001", "subject": "印度政府官员", "relation": "对台湾进行政治访问", "object": "台湾地区当局", "location": null, "time": "2023-10"},
+  {"tuple_id": "NE016_s005_t002", "subject": ["印度政府", "台湾地区当局"], "relation": "探讨产业技术合作", "object": ["印度政府", "台湾地区当局"], "location": null, "time": "2023-10"},
+  {"tuple_id": "NE016_s003_t001", "subject": "印度政府", "relation": "批准台湾企业在印投资建厂", "object": "台湾半导体企业", "location": "印度古吉拉特邦", "time": "2024-02"},
+  {"tuple_id": "NE016_s004_t001", "subject": "印度政府", "relation": "签署双边劳务合作备忘录", "object": "台湾地区当局", "location": null, "time": "2024"},
+  {"tuple_id": "NE016_s004_t002", "subject": "印度劳工", "relation": "计划赴台就业", "object": "台湾地区当局", "location": null, "time": "2024"}
+]

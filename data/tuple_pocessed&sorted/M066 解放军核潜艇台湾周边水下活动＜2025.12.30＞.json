@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "M066_s003_t002", "subject": "美国海军", "relation": "实施军事部署与挑衅", "object": "中国国家主体", "location": "西太平洋海域", "time": "2025-12"},
+  {"tuple_id": "M066_s001_t001", "subject": "中国人民解放军东部战区", "relation": "组织环台岛战备警巡与联合军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-12"},
+  {"tuple_id": "M066_s003_t001", "subject": "中国人民解放军东部战区发言人", "relation": "释放反对军事挑衅的抗议信号", "object": "美国海军", "location": null, "time": "2025-12"},
+  {"tuple_id": "M066_s008_t001", "subject": "美国海军核潜艇", "relation": "试图潜入特定海域", "object": "中国国家主体", "location": "巴士海峡附近海域", "time": "2025-12"},
+  {"tuple_id": "M066_s002_t001", "subject": "中国人民解放军", "relation": "实施水下军事拦截", "object": "美国海军核潜艇", "location": ["台岛周边海空域", "巴士海峡附近海域"], "time": "2025-12"},
+  {"tuple_id": "M066_s009_t001", "subject": "美国海军核潜艇", "relation": "撤离争议海域", "object": "中国人民解放军", "location": "台岛周边海域", "time": "2025-12"},
+  {"tuple_id": "M066_s004_t001", "subject": "中国人民解放军东部战区", "relation": "释放强化军事遏制力的威慑信号", "object": "美国海军", "location": null, "time": "2025-12-29"},
+  {"tuple_id": "M066_s005_t001", "subject": "中国人民解放军东部战区", "relation": "释放实施封锁管控与反击外部干涉的威慑信号", "object": "美国政府", "location": null, "time": "2025-12"},
+  {"tuple_id": "M066_s010_t001", "subject": "中国人民解放军", "relation": "实施对台军售运输工具的模拟拦截演练", "object": "向台湾地区运送武器的运输工具", "location": "台海周边海空域", "time": "2025-12"}
+]

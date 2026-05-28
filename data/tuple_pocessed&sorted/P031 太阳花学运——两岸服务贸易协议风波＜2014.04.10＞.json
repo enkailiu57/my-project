@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "P031_s001_t001", "subject": ["中国国家主体", "台湾地区当局"], "relation": "签署两岸经贸合作协议", "object": ["中国国家主体", "台湾地区当局"], "location": null, "time": "2013-06"},
+  {"tuple_id": "P031_s004_t001", "subject": "中国国民党立法委员", "relation": "强行推进法案审议程序", "object": "《海峡两岸服务贸易协议》", "location": "台湾立法院", "time": "2014-03"},
+  {"tuple_id": "P031_s006_t001", "subject": "台湾地区领导人", "relation": "释放对内部抗议活动的官方回应信号", "object": "反服贸抗议群体", "location": null, "time": "2014-03"},
+  {"tuple_id": "P031_s010_t001", "subject": "台湾地区立法院院长", "relation": "举行面对面政治对话", "object": "反服贸抗议群体", "location": "台湾地区立法院议场", "time": "2014-04-06"},
+  {"tuple_id": "P031_s010_t002", "subject": "台湾地区立法院院长", "relation": "释放推动两岸协议监督立法的政治信号", "object": "台湾地区立法机构", "location": null, "time": "2014-04-06"},
+  {"tuple_id": "P031_s010_t003", "subject": "台湾地区立法院院长", "relation": "释放推迟特定两岸协议审查的信号", "object": "《海峡两岸服务贸易协议》", "location": null, "time": "2014-04-06"},
+  {"tuple_id": "P031_s009_t001", "subject": "台湾地区立法机构负责人", "relation": "释放推动两岸协议监督立法的政治信号", "object": "中国国家主体", "location": null, "time": "2014-04"},
+  {"tuple_id": "P031_s012_t001", "subject": "台湾地区立法院院长", "relation": "重启朝野政治协商", "object": "台湾地区朝野政党", "location": null, "time": "2014-04"},
+  {"tuple_id": "P031_s013_t001", "subject": "台湾地区警方", "relation": "进驻争议政治场所", "object": "台湾地区立法院", "location": "台湾地区立法院议场", "time": "2014-04"}
+]

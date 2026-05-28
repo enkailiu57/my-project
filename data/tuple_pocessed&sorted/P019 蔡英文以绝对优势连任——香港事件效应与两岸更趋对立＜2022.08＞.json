@@ -1,0 +1,14 @@
+[
+  {"tuple_id": "P019_s002_t001", "subject": "台湾地区领导人", "relation": "释放反对一国两制及主权统一的抗议信号", "object": "中国国家主体", "location": null, "time": "2019-06"},
+  {"tuple_id": "P019_s005_t001", "subject": "中国国家主体", "relation": "实施多维度对台施压", "object": "台湾地区当局", "location": null, "time": "2020-05"},
+  {"tuple_id": "P019_s005_t002", "subject": "台湾地区领导人", "relation": "释放拒绝一国两制的政治信号", "object": "中国国家主体", "location": null, "time": "2020-05"},
+  {"tuple_id": "P019_s005_t003", "subject": "台湾地区领导人", "relation": "释放强化国家认同的政治信号", "object": "中国国家主体", "location": null, "time": "2020-05"},
+  {"tuple_id": "P019_s006_t001", "subject": "台湾地区当局", "relation": "限制中资投资", "object": "中国大陆资本", "location": null, "time": "2020-05"},
+  {"tuple_id": "P019_s006_t002", "subject": "台湾地区当局", "relation": "禁止中共党政军机构投资", "object": "中共党政军机构", "location": null, "time": "2020-05"},
+  {"tuple_id": "P019_s007_t001", "subject": "台湾地区当局", "relation": "制定反制统战渗透的法律措施", "object": "中国国家主体", "location": null, "time": "2020"},
+  {"tuple_id": "P019_s008_t001", "subject": "中国国家主体", "relation": "抵制台湾出口贸易", "object": "台湾地区当局", "location": null, "time": "2022-08"},
+  {"tuple_id": "P019_s008_t002", "subject": "中国国家主体", "relation": "阻止台湾与乌克兰类比", "object": "台湾地区当局", "location": null, "time": "2022-08"},
+  {"tuple_id": "P019_s009_t001", "subject": "美国国会众议院议长", "relation": "窜访台湾地区", "object": "台湾地区", "location": "台湾", "time": "2022-08"},
+  {"tuple_id": "P019_s009_t002", "subject": "中国国家主体", "relation": "开展台岛周边军事演训", "object": "台湾地区", "location": "台岛周边海空域", "time": "2022-08"},
+  {"tuple_id": "P019_s009_t003", "subject": "台湾地区军方", "relation": "宣布进入强化战备状态", "object": "中国国家主体", "location": null, "time": "2022-08"}
+]

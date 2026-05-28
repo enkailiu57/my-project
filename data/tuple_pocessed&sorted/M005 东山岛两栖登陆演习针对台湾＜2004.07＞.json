@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "M005_s007_t001", "subject": "台湾地区军方", "relation": "举行针对大陆的军事演习", "object": "中国国家主体", "location": "台湾地区", "time": "2004-04"},
+  {"tuple_id": "M005_s009_t001", "subject": "台湾地区军方", "relation": "举行针对大陆的军事演习", "object": "中国国家主体", "location": "台北地区", "time": "2004-06"},
+  {"tuple_id": "M005_s012_t001", "subject": "美军", "relation": "派遣人员介入军事训练与演习", "object": "台湾地区军方", "location": "台湾地区", "time": "2004-06"},
+  {"tuple_id": "M005_s013_t001", "subject": ["美国政府", "日本政府"], "relation": "举行联合军事演习", "object": ["中国国家主体", "台湾地区当局"], "location": "冲绳", "time": "2004-06"},
+  {"tuple_id": "M005_s014_t001", "subject": "美军驻冲绳基地", "relation": "开展计算机辅助指挥所演习", "object": "中国国家主体", "location": "冲绳", "time": "2004-06"},
+  {"tuple_id": "M005_s002_t001", "subject": "中国人民解放军", "relation": "举行两栖登陆作战军事演习", "object": "台湾地区当局", "location": "福建省东山岛", "time": "2004-07"},
+  {"tuple_id": "M005_s010_t001", "subject": "台湾地区军方", "relation": "实施战机高速公路起降演习", "object": "中国国家主体", "location": "台湾中山高速公路仁德路段", "time": "2004-07"},
+  {"tuple_id": "M005_s011_t001", "subject": "台湾地区军方", "relation": "实施空中侦察", "object": "中国人民解放军", "location": "台海周边海空域", "time": "2004-07"},
+  {"tuple_id": "M005_s015_t001", "subject": "台湾地区军方", "relation": "释放对解放军军力现状的评估信号", "object": "中国人民解放军", "location": null, "time": "2004-07"}
+]

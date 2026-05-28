@@ -1,0 +1,18 @@
+[
+  {"tuple_id": "NE045_s001_t001", "subject": "美国国务院", "relation": "批准对日军售", "object": "日本政府", "location": null, "time": "2025-01"},
+  {"tuple_id": "NE045_s002_t001", "subject": ["美国政府", "日本政府"], "relation": "部署中程导弹系统", "object": "中国国家主体", "location": "亚太地区", "time": "2025-09"},
+  {"tuple_id": "NE045_s003_t001", "subject": "美国政府", "relation": "部署中程导弹系统", "object": "日本政府", "location": "亚太地区", "time": "2025-09"},
+  {"tuple_id": "NE045_s003_t002", "subject": "中国外交部发言人", "relation": "释放对地区军事部署的抗议信号", "object": "美国政府", "location": null, "time": "2025-09"},
+  {"tuple_id": "NE045_s004_t001", "subject": ["日本航空自卫队", "日本陆上自卫队"], "relation": "开展联合导弹防御实弹射击训练", "object": "美军", "location": "美国白沙导弹靶场", "time": "2025-10/2025-11"},
+  {"tuple_id": "NE045_s004_t002", "subject": ["日本航空自卫队", "日本陆上自卫队"], "relation": "开展防空反导项目技术交流", "object": "美军", "location": "美国白沙导弹靶场", "time": "2025-10/2025-11"},
+  {"tuple_id": "NE045_s005_t001", "subject": ["美国政府", "日本政府"], "relation": "举行联合防空反导测试", "object": ["美国政府", "日本政府"], "location": "驻日美军横田基地", "time": "2025-11"},
+  {"tuple_id": "NE045_s006_t001", "subject": "美国国务院", "relation": "批准对日军售", "object": "日本海上自卫队", "location": null, "time": "2025-12"},
+  {"tuple_id": "NE045_s007_t001", "subject": "中国外交部发言人", "relation": "释放反对干涉中国内政的抗议信号", "object": ["美国政府", "日本政府"], "location": null, "time": "2026-02"},
+  {"tuple_id": "NE045_s008_t001", "subject": "中国外交部发言人", "relation": "释放对干涉内政及军国主义倾向的抗议与警告信号", "object": "日本首相", "location": null, "time": "2026-03"},
+  {"tuple_id": "NE045_s009_t001", "subject": "中国外交部发言人", "relation": "释放反对干涉中国内政的抗议信号", "object": "美国政府", "location": null, "time": "2026-03"},
+  {"tuple_id": "NE045_s010_t001", "subject": "中国国防部发言人", "relation": "释放反对干涉中国内政的抗议信号", "object": "美国政府", "location": null, "time": "2026-03"},
+  {"tuple_id": "NE045_s010_t002", "subject": "中国国防部发言人", "relation": "敦促停止支持分裂势力", "object": "美国政府", "location": null, "time": "2026-03"},
+  {"tuple_id": "NE045_s011_t001", "subject": "日本防卫大臣", "relation": "举行高层军事外交会谈", "object": "美国国防部长", "location": null, "time": "2026-03"},
+  {"tuple_id": "NE045_s011_t002", "subject": "日本政府", "relation": "提出导弹联合生产倡议", "object": "美国政府", "location": null, "time": "2026-03"},
+  {"tuple_id": "NE045_s011_t003", "subject": "美国政府", "relation": "释放支持防务工业合作的积极信号", "object": "日本政府", "location": null, "time": "2026-03"}
+]

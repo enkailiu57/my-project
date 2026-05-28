@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "NM006_s001_t001", "subject": "台湾地区当局", "relation": "向美国采购军事装备", "object": "美国政府", "location": null, "time": "2019"},
+  {"tuple_id": "NM006_s008_t001", "subject": "中国人民解放军", "relation": "实施战备警巡", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025"},
+  {"tuple_id": "NM006_s009_t001", "subject": "中国人民解放军", "relation": "开展大规模联合军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025"},
+  {"tuple_id": "NM006_s009_t002", "subject": "台湾地区空军", "relation": "派战机升空应对", "object": "中国人民解放军", "location": "台海周边海空域", "time": "2025"}
+]

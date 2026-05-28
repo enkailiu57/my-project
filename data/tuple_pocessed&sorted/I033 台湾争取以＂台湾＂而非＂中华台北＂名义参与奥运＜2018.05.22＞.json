@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "I033_s001_t001", "subject": "台湾“入联”宣达团", "relation": "提交政治公投联署书", "object": "台湾中选会", "location": null, "time": "2018-02"},
+  {"tuple_id": "I033_s003_t001", "subject": "国际奥委会", "relation": "释放反对台湾以独立名义参与国际体育赛事的信号", "object": "台湾地区当局", "location": null, "time": "2018-05"},
+  {"tuple_id": "I033_s006_t002", "subject": "中国国台办发言人", "relation": "转述国际组织对台湾政治操弄的警告", "object": "台湾地区当局", "location": null, "time": "2018-05-13"},
+  {"tuple_id": "I033_s007_t001", "subject": "中国国台办发言人", "relation": "释放反对破坏两岸关系和平稳定的抗议信号", "object": "台湾地区当局", "location": null, "time": "2018-05"}
+]

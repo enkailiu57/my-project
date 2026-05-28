@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "EC032_s001_t001", "subject": "中国商务部", "relation": "宣布对关键矿物实施出口管制", "object": "镓、锗相关物项", "location": null, "time": "2023-07"},
+  {"tuple_id": "EC032_s002_t001", "subject": "中国国家主体", "relation": "宣布对关键矿物实施出口管制", "object": "台湾地区当局", "location": null, "time": "2025-04"},
+  {"tuple_id": "EC032_s003_t001", "subject": "中国国家主体", "relation": "宣布对关键矿物实施出口管制", "object": "台湾地区当局", "location": null, "time": "2025-10"},
+  {"tuple_id": "EC032_s002_t002", "subject": "台湾地区经济主管部门", "relation": "通报关键资源管制事实", "object": "中国国家主体", "location": null, "time": "2025-10"}
+]

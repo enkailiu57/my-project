@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "NE018_s001_t001", "subject": "美国国会", "relation": "通过涉台法案", "object": "台湾地区当局", "location": null, "time": "2022"},
+  {"tuple_id": "NE018_s001_t002", "subject": "美国政府", "relation": "计划提供军事援助", "object": "台湾地区当局", "location": null, "time": "2022"},
+  {"tuple_id": "NE018_s001_t003", "subject": "美国政府", "relation": "释放提升对台官方互动层级的政治信号", "object": "台湾地区当局", "location": null, "time": "2022"},
+  {"tuple_id": "NE018_s002_t001", "subject": "美国国会众议院", "relation": "成立针对中国的特别委员会", "object": "中国国家主体", "location": null, "time": "2023-01"},
+  {"tuple_id": "NE018_s003_t002", "subject": "中国外交部发言人", "relation": "释放推进中美友好关系的积极信号", "object": "美国政府", "location": null, "time": "2023-01"}
+]

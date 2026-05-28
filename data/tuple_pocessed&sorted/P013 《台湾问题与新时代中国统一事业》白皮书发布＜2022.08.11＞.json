@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "P013_s001_t001", "subject": "美国国会众议院议长", "relation": "进行高层政治访问", "object": "台湾地区当局", "location": "台湾", "time": "2022-08"},
+  {"tuple_id": "P013_s002_t001", "subject": "中国国家主体", "relation": "发布涉台政策白皮书", "object": "台湾地区当局", "location": null, "time": "2022-08"},
+  {"tuple_id": "P013_s004_t001", "subject": "中国国台办发言人", "relation": "释放坚持一个中国原则及国家统一的坚定信号", "object": ["台湾地区当局", "国际社会"], "location": null, "time": "2022-08"},
+  {"tuple_id": "P013_s005_t001", "subject": "台湾地区大陆委员会", "relation": "释放反对一国两制及主权统一的抗议信号", "object": "中国国家主体", "location": null, "time": "2022-08"},
+  {"tuple_id": "P013_s006_t001", "subject": "台湾政党政治人物", "relation": "释放反对一个中国原则的抗议信号", "object": "中国国家主体", "location": null, "time": "2022-08"}
+]

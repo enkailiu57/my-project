@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "NM038_s003_t001", "subject": "台湾地区军方", "relation": "实施严密监控", "object": "中国国家主体", "location": "台海周边海空域", "time": "2023-08"},
+  {"tuple_id": "NM038_s003_t002", "subject": "台湾地区防务部门", "relation": "释放否认军事事故谣言的信号", "object": "中国国家主体", "location": null, "time": "2023-08"},
+  {"tuple_id": "NM038_s006_t001", "subject": "美国军机", "relation": "实施空中侦察", "object": "中国国家主体", "location": "南海及台湾东部海域", "time": "2023-08"},
+  {"tuple_id": "NM038_s007_t001", "subject": "中国国防部发言人", "relation": "释放否认军事事故谣言的信号", "object": "散布解放军核潜艇失事谣言的势力", "location": null, "time": "2023-08"}
+]

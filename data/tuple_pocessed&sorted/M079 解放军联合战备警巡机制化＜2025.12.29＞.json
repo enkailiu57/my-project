@@ -1,0 +1,18 @@
+[
+  {"tuple_id": "M079_s001_t001", "subject": "中国人民解放军东部战区", "relation": "实施环台岛战备警巡", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2023-04"},
+  {"tuple_id": "M079_s002_t001", "subject": "中国人民解放军东部战区", "relation": "组织环台岛战备警巡与联合军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2023-04"},
+  {"tuple_id": "M079_s003_t001", "subject": "中国人民解放军军机", "relation": "越过海峡中线并进入台岛周边空域", "object": "台湾地区防务部门", "location": "台湾海峡中线及台岛西南空域", "time": "2023-04"},
+  {"tuple_id": "M079_s003_t002", "subject": "中国人民解放军军机", "relation": "进入台岛西南空域", "object": "台湾地区防务部门", "location": "台岛西南空域", "time": "2023-04"},
+  {"tuple_id": "M079_s003_t003", "subject": "中国人民解放军舰艇", "relation": "开展台岛周边军事演训", "object": "台湾地区防务部门", "location": "台海周边海空域", "time": "2023-04"},
+  {"tuple_id": "M079_s003_t004", "subject": "台湾地区防务部门", "relation": "通报解放军军机动向", "object": "中国人民解放军军机", "location": null, "time": "2023-04"},
+  {"tuple_id": "M079_s004_t002", "subject": "中国人民解放军海军舰载机", "relation": "进入特定空域", "object": "台湾地区当局", "location": "台湾南方及东南方空域", "time": "2023-04"},
+  {"tuple_id": "M079_s005_t001", "subject": "中国海军山东舰航母编队", "relation": "组织环台岛战备警巡与联合军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2023"},
+  {"tuple_id": "M079_s005_t002", "subject": "中国海军山东舰航母编队", "relation": "开展远海多军兵种联合演练", "object": "中国人民解放军诸军兵种", "location": "第一岛链外海域", "time": "2023"},
+  {"tuple_id": "M079_s007_t001", "subject": "中国人民解放军东部战区", "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2023-08"},
+  {"tuple_id": "M079_s007_t002", "subject": "中国人民解放军东部战区", "relation": "开展联合军事演训", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2023-08"},
+  {"tuple_id": "M079_s008_t001", "subject": "中国海警", "relation": "发布环台执法管控通报", "object": "国际社会", "location": null, "time": "2025-04"},
+  {"tuple_id": "M079_s008_t002", "subject": "中国海警", "relation": "开展台岛周边海域执法演练", "object": "台湾地区当局", "location": "台岛周边海域", "time": "2025-04"},
+  {"tuple_id": "M079_s009_t001", "subject": "中国人民解放军东部战区", "relation": "实施环台岛战备警巡", "object": "台湾地区当局", "location": "台岛邻近海空域", "time": "2025-12"},
+  {"tuple_id": "M079_s010_t001", "subject": "中国海警", "relation": "开展海上执法巡查", "object": "台湾地区当局", "location": "台岛周边海域", "time": "2025-12"},
+  {"tuple_id": "M079_s011_t001", "subject": "中国国防部发言人", "relation": "释放维护国家主权的正当性信号", "object": ["台湾地区当局", "外部干涉势力"], "location": null, "time": "2025-12"}
+]

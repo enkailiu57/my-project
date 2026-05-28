@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "D015_s002_t001", "subject": "七国集团防长", "relation": "释放反对军事演训的抗议信号", "object": "中国人民解放军", "location": "台海周边海空域", "time": "2025-10"},
+  {"tuple_id": "D015_s003_t001", "subject": "七国集团防长", "relation": "释放维持一个中国政策的信号", "object": "中国国家主体", "location": null, "time": "2025-10"},
+  {"tuple_id": "D015_s004_t001", "subject": ["美国政府", "加拿大政府"], "relation": "派遣军舰穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2025-10"},
+  {"tuple_id": "D015_s005_t001", "subject": "中国海事局", "relation": "发布军事演习航行警告", "object": "相关海域航行方", "location": "牛山岛附近海域", "time": "2025-10"},
+  {"tuple_id": "D015_s005_t002", "subject": "中国人民解放军", "relation": "计划开展实弹射击演习", "object": "台湾地区当局", "location": "牛山岛附近海域", "time": "2025-10"}
+]

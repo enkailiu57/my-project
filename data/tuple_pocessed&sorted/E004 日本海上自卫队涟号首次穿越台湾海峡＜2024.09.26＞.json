@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "E004_s001_t001", "subject": "中国人民解放军海军", "relation": "进入他国毗连区", "object": "日本政府", "location": "冲绳与那国岛与西表岛之间海域", "time": "2024-09"},
+  {"tuple_id": "E004_s002_t001", "subject": ["中国人民解放军海军", "俄罗斯海军"], "relation": "联合穿越敏感海峡", "object": "日本方面", "location": "宗谷海峡", "time": "2024-09"},
+  {"tuple_id": "E004_s003_t001", "subject": "日本政府", "relation": "释放对军事行动扩张的抗议与警惕信号", "object": "中国人民解放军海军", "location": null, "time": "2024-09"},
+  {"tuple_id": "E004_s006_t001", "subject": "日本政府", "relation": "下令军舰穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-09"},
+  {"tuple_id": "E004_s004_t001", "subject": ["日本海上自卫队", "澳大利亚海军", "新西兰海军"], "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-09"},
+  {"tuple_id": "E004_s009_t001", "subject": "日本海上自卫队", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-09"},
+  {"tuple_id": "E004_s009_t002", "subject": "中国人民解放军", "relation": "依法依规处置", "object": "日本海上自卫队", "location": "台湾海峡", "time": "2024-09"},
+  {"tuple_id": "E004_s007_t001", "subject": "日本内阁官房长官", "relation": "释放回避敏感议题的外交信号", "object": "中国国家主体", "location": null, "time": "2024-09"},
+  {"tuple_id": "E004_s008_t001", "subject": "中国外交部发言人", "relation": "释放对涉台操弄的坚决反对信号", "object": "日本政府", "location": null, "time": "2024-09"},
+  {"tuple_id": "E004_s011_t001", "subject": "中国外交部发言人", "relation": "释放要求克制与遵守承诺的外交警告信号", "object": "日本政府", "location": null, "time": "2024-09"}
+]

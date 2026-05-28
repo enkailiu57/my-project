@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "M074_s001_t001", "subject": "中国海警", "relation": "开展海上执法巡查", "object": "台湾地区当局", "location": "台岛周边海域", "time": "2025"},
+  {"tuple_id": "M074_s003_t001", "subject": ["中国海警", "中国人民解放军海军"], "relation": "开展海警与海军联合演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025"},
+  {"tuple_id": "M074_s006_t001", "subject": "中国海警", "relation": "释放强化海上执法管控的信号", "object": "台湾地区当局", "location": "台岛港口附近海域", "time": "2025"},
+  {"tuple_id": "M074_s006_t002", "subject": "中国海警", "relation": "计划实施海上拦截行动", "object": "台湾地区船只", "location": "台岛港口附近海域", "time": "2025"},
+  {"tuple_id": "M074_s007_t001", "subject": "台湾地区军方", "relation": "出动军舰进行周边活动", "object": "中国国家主体", "location": "台岛周边海空域", "time": "2025"},
+  {"tuple_id": "M074_s007_t002", "subject": "台湾地区海巡部门", "relation": "抵近对峙", "object": "中国国家主体", "location": "台岛周边海空域", "time": "2025"},
+  {"tuple_id": "M074_s008_t001", "subject": "中国海警", "relation": "抵近对峙", "object": "台湾地区海巡署", "location": "台岛周边海域", "time": "2025"},
+  {"tuple_id": "M074_s009_t001", "subject": "中国海警", "relation": "释放对台独势力的警告信号", "object": "台湾地区海巡署", "location": "台岛周边海域", "time": "2025"},
+  {"tuple_id": "M074_s010_t001", "subject": "台湾地区海巡署", "relation": "释放对大陆执法行动的抗议与指控信号", "object": "中国国家主体", "location": null, "time": "2025"}
+]

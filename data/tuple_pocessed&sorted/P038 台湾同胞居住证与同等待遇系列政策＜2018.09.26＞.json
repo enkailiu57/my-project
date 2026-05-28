@@ -1,0 +1,5 @@
+[
+  {"tuple_id": "P038_s002_t001", "subject": "台湾地区大陆委员会", "relation": "释放对主权打压的抗议信号", "object": "中国国家主体", "location": null, "time": "2018-09"},
+  {"tuple_id": "P038_s003_t001", "subject": "台湾地区大陆委员会", "relation": "释放对大陆政策增加台湾民众负担的警示信号", "object": "中国国家主体", "location": null, "time": "2018-09"},
+  {"tuple_id": "P038_s005_t001", "subject": "台湾地区当局", "relation": "计划实施公民权限制措施", "object": "持有大陆居住证的台湾民众", "location": null, "time": "2018-09"}
+]

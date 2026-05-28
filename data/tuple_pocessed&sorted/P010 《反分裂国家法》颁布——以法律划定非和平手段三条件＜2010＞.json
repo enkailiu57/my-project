@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "P010_s001_t001", "subject": "台湾地区领导人", "relation": "释放推行分裂国家政治论调的信号", "object": "中国国家主体", "location": null, "time": "2000"},
+  {"tuple_id": "P010_s002_t001", "subject": "中国国家立法机构", "relation": "启动反分裂立法程序", "object": "台湾地区当局", "location": null, "time": "2004-12"},
+  {"tuple_id": "P010_s003_t001", "subject": "中国国家立法机构", "relation": "通过反分裂国家法律", "object": "台湾地区当局", "location": null, "time": "2005-03"},
+  {"tuple_id": "P010_s004_t001", "subject": "中国国家主体", "relation": "通过反分裂国家法律", "object": "台湾地区当局", "location": null, "time": "2005-03"},
+  {"tuple_id": "P010_s008_t001", "subject": "中国国务院总理", "relation": "释放和平统一与反对战争的政治信号", "object": "台湾地区当局", "location": null, "time": "2005-03"},
+  {"tuple_id": "P010_s009_t001", "subject": "中国国家主体", "relation": "释放对干涉内政的抗议信号", "object": "美国政府", "location": null, "time": "2005-03"},
+  {"tuple_id": "P010_s010_t001", "subject": "美国国务院发言人", "relation": "释放对立法行动的不满信号", "object": "中国国家主体", "location": null, "time": "2005-03"},
+  {"tuple_id": "P010_s011_t001", "subject": "美国国务院发言人", "relation": "释放维持涉台立场的政治信号", "object": ["中国国家主体", "台湾地区当局"], "location": null, "time": "2005-03"},
+  {"tuple_id": "P010_s012_t001", "subject": "台湾地区大陆委员会", "relation": "释放要求废除特定法律的政治信号", "object": "中国国家主体", "location": null, "time": "2010"}
+]

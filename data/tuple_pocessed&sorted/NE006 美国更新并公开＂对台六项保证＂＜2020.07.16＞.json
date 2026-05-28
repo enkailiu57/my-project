@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "NE006_s001_t001", "subject": "台湾地区当局", "relation": "开放美国农产品进口", "object": "美国政府", "location": null, "time": "2020-07"},
+  {"tuple_id": "NE006_s002_t001", "subject": "美国政府", "relation": "解密并公开涉台政策文件", "object": "中国国家主体", "location": null, "time": "2020-07"},
+  {"tuple_id": "NE006_s003_t001", "subject": "美国在台协会", "relation": "释放强化对台军事支持的承诺信号", "object": ["中国国家主体", "台湾地区当局"], "location": null, "time": "2020-08"},
+  {"tuple_id": "NE006_s010_t001", "subject": "台湾地区当局", "relation": "释放对美方涉台政治动作的欢迎信号", "object": "美国政府", "location": null, "time": "2020-08"},
+  {"tuple_id": "NE006_s011_t001", "subject": "美国政府", "relation": "对台军售", "object": "台湾地区当局", "location": null, "time": "2020-08"},
+  {"tuple_id": "NE006_s011_t002", "subject": "中国外交部发言人", "relation": "释放对对台军售的抗议信号", "object": "美国政府", "location": null, "time": "2020-08"},
+  {"tuple_id": "NE006_s013_t001", "subject": "中国国台办发言人", "relation": "释放对对台军售的抗议信号", "object": "美国政府", "location": null, "time": "2020-08"},
+  {"tuple_id": "NE006_s013_t002", "subject": "中国国台办发言人", "relation": "释放反对台美军事联系的抗议信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2020-08"},
+  {"tuple_id": "NE006_s013_t003", "subject": "中国国台办发言人", "relation": "释放反对以武谋独的警告信号", "object": "台湾地区当局", "location": null, "time": "2020-08"}
+]

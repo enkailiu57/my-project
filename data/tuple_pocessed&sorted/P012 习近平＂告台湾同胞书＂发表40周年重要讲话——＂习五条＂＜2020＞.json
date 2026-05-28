@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "P012_s001_t001", "subject": "中国国家主体", "relation": "释放推进两岸和平统一的政治信号", "object": "台湾地区当局", "location": null, "time": "2019-01"},
+  {"tuple_id": "P012_s001_t002", "subject": "中国国家主体", "relation": "释放深化两岸交流的友好信号", "object": "台湾地区当局", "location": null, "time": "2019-01"},
+  {"tuple_id": "P012_s002_t001", "subject": "中国国家主体", "relation": "释放不承诺放弃使用武力的威慑信号", "object": "台湾地区当局", "location": null, "time": "2019-01"},
+  {"tuple_id": "P012_s003_t001", "subject": "中国国民党前主席朱立伦", "relation": "释放坚持九二共识和反对台独的政治信号", "object": "中国国家主体", "location": null, "time": "2019-01"},
+  {"tuple_id": "P012_s004_t001", "subject": "台湾地区领导人", "relation": "释放拒绝一国两制及否定九二共识的对抗信号", "object": "中国国家主体", "location": null, "time": "2019-01"},
+  {"tuple_id": "P012_s005_t001", "subject": "中国国家主体", "relation": "施压国际企业", "object": "跨国公司", "location": null, "time": "2019-01"},
+  {"tuple_id": "P012_s005_t002", "subject": "中国人民解放军", "relation": "实施绕台军事巡航", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2019-01"},
+  {"tuple_id": "P012_s005_t003", "subject": "台湾地区领导人", "relation": "释放对大陆行动的政治指控与反对信号", "object": "中国国家主体", "location": null, "time": "2019-01"},
+  {"tuple_id": "P012_s006_t001", "subject": "中国国台办发言人", "relation": "释放反对台独分裂行径的抗议信号", "object": "台湾地区当局", "location": null, "time": "2019-01"},
+  {"tuple_id": "P012_s008_t001", "subject": "中国国务院台湾事务办公室", "relation": "释放对台独分裂行径的定性警告信号", "object": "台湾地区当局", "location": null, "time": "2019-01"}
+]

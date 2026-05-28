@@ -1,0 +1,20 @@
+[
+  {"tuple_id": "NE051_s001_t001", "subject": "美军印太司令部", "relation": "维持联合图上演习", "object": "台湾地区军方", "location": null, "time": "2023"},
+  {"tuple_id": "NE051_s005_t001", "subject": "美军印太司令部", "relation": "提供军事模拟技术与兵棋推演支持", "object": "台湾地区军方", "location": null, "time": "2023"},
+  {"tuple_id": "NE051_s004_t001", "subject": "台湾地区军方高层", "relation": "出席美方军事高层就职典礼", "object": "美军印太司令部", "location": "夏威夷", "time": "2024-05"},
+  {"tuple_id": "NE051_s007_t001", "subject": "美军", "relation": "公开参与台湾军事演习", "object": "台湾地区军方", "location": null, "time": "2025-02"},
+  {"tuple_id": "NE051_s012_t001", "subject": ["美国政府", "日本政府"], "relation": "将台湾纳入联合指挥体系", "object": "台湾地区当局", "location": null, "time": "2025-02"},
+  {"tuple_id": "NE051_s015_t001", "subject": "美军", "relation": "公开参与台湾军事演习", "object": "台湾地区当局", "location": null, "time": "2025-02"},
+  {"tuple_id": "NE051_s015_t002", "subject": "中国国防部发言人", "relation": "释放反对台独及外部干涉的警告信号", "object": "美国政府", "location": null, "time": "2025-02"},
+  {"tuple_id": "NE051_s009_t001", "subject": ["美国退役高级将领", "日本退役高级将领", "台湾地区退役高级将领"], "relation": "参与台海防卫兵棋推演", "object": "台湾地区当局", "location": "台湾地区", "time": "2025-06"},
+  {"tuple_id": "NE051_s008_t001", "subject": "美军", "relation": "派遣人员观察与指导动员演习", "object": "台湾地区军方", "location": null, "time": "2025-07"},
+  {"tuple_id": "NE051_s008_t002", "subject": "美军", "relation": "派遣人员介入军事训练与演习", "object": "台湾地区军方", "location": null, "time": "2025-07"},
+  {"tuple_id": "NE051_s013_t001", "subject": ["日本政府", "澳大利亚政府", "韩国政府", "台湾地区当局", "美国政府"], "relation": "举行针对中国的联合防空反导兵棋推演", "object": "中国国家主体", "location": null, "time": "2025"},
+  {"tuple_id": "NE051_s010_t001", "subject": ["台湾地区防务智库", "日本和平与安全智库", "美国印太安全智库"], "relation": "联合举办兵棋推演", "object": "中国国家主体", "location": null, "time": "2025-11"},
+  {"tuple_id": "NE051_s014_t001", "subject": ["美国政府", "台湾地区当局"], "relation": "升级军事勾连", "object": "中国国家主体", "location": null, "time": "2025"},
+  {"tuple_id": "NE051_s014_t002", "subject": "中国国家主体", "relation": "释放反对干涉中国内政的抗议信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2025"},
+  {"tuple_id": "NE051_s016_t001", "subject": "中国国台办发言人", "relation": "释放反对美台军事联系的抗议信号", "object": "美国政府", "location": null, "time": "2025-11"},
+  {"tuple_id": "NE051_s016_t002", "subject": "中国国台办发言人", "relation": "释放反对倚外谋独和以武谋独的警告信号", "object": "民进党当局", "location": null, "time": "2025-11"},
+  {"tuple_id": "NE051_s017_t001", "subject": "中国国防部发言人", "relation": "释放反对干涉中国内政的抗议信号", "object": ["台湾地区当局", "美国政府"], "location": null, "time": "2025-11"},
+  {"tuple_id": "NE051_s018_t001", "subject": "中国外交部发言人", "relation": "释放反对美台军事联系的抗议信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2025-11"}
+]

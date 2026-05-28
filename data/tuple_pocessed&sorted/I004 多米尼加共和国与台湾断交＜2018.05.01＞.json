@@ -1,0 +1,19 @@
+[
+  {"tuple_id": "I004_s001_t001", "subject": "多米尼加政府", "relation": "举行高层外交谈判", "object": "中国国家主体", "location": null, "time": "2016-12"},
+  {"tuple_id": "I004_s003_t001", "subject": "台湾地区军方高层", "relation": "进行高层外交访问", "object": "多米尼加政府", "location": "多米尼加", "time": "2017"},
+  {"tuple_id": "I004_s003_t002", "subject": "台湾地区军方高层", "relation": "确定军事物资援助协议", "object": "多米尼加政府", "location": "多米尼加", "time": "2017"},
+  {"tuple_id": "I004_s004_t001", "subject": "多米尼加国防部长", "relation": "进行高层外交访问", "object": "台湾地区当局", "location": "台湾地区", "time": "2017-10"},
+  {"tuple_id": "I004_s004_t002", "subject": "多米尼加政府", "relation": "确定军事物资援助协议", "object": "台湾地区当局", "location": "台湾地区", "time": "2017-10"},
+  {"tuple_id": "I004_s002_t001", "subject": "台湾地区当局", "relation": "提供军事装备支持", "object": "多米尼加政府", "location": null, "time": "2018"},
+  {"tuple_id": "I004_s005_t001", "subject": "台湾地区军方", "relation": "实施军事访问停靠", "object": "多米尼加政府", "location": "多米尼加", "time": "2018-01"},
+  {"tuple_id": "I004_s005_t002", "subject": "台湾地区当局", "relation": "提供军事装备支持", "object": "多米尼加政府", "location": "多米尼加", "time": "2018-01"},
+  {"tuple_id": "I004_s006_t001", "subject": "多米尼加政府", "relation": "发出外交约谈通知", "object": "台湾地区当局", "location": null, "time": "2018-04-30"},
+  {"tuple_id": "I004_s008_t001", "subject": "多米尼加政府", "relation": "释放转向与中国建交的外交信号", "object": "台湾地区当局", "location": null, "time": "2018-05"},
+  {"tuple_id": "I004_s009_t001", "subject": "多米尼加政府", "relation": "宣布与中华人民共和国建立外交关系", "object": "中国国家主体", "location": null, "time": "2018-05"},
+  {"tuple_id": "I004_s009_t002", "subject": "多米尼加政府", "relation": "终止外交关系", "object": "台湾地区当局", "location": null, "time": "2018-05"},
+  {"tuple_id": "I004_s010_t001", "subject": "多米尼加政府", "relation": "释放转向与中国建交的外交信号", "object": ["中国国家主体", "台湾地区当局"], "location": null, "time": "2018-05"},
+  {"tuple_id": "I004_s011_t001", "subject": "多米尼加政府", "relation": "宣布与台湾地区断绝外交关系", "object": "台湾地区当局", "location": null, "time": "2018-05"},
+  {"tuple_id": "I004_s013_t001", "subject": "台湾地区当局", "relation": "宣布与台湾地区断绝外交关系", "object": "多米尼加政府", "location": null, "time": "2018-05"},
+  {"tuple_id": "I004_s014_t001", "subject": "台湾地区外事部门", "relation": "释放对断交事件的遗憾与抗议信号", "object": ["多米尼加政府", "中国国家主体"], "location": null, "time": "2018-05"},
+  {"tuple_id": "I004_s015_t001", "subject": "中国国台办发言人", "relation": "释放支持一个中国原则的政治信号", "object": "多米尼加政府", "location": null, "time": "2018-05"}
+]

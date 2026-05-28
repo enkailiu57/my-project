@@ -1,0 +1,22 @@
+[
+  {"tuple_id": "NM045_s004_t001", "subject": "美国政府", "relation": "部署中程导弹系统", "object": "中国国家主体", "location": "菲律宾吕宋岛", "time": "2022"},
+  {"tuple_id": "NM045_s006_t001", "subject": "美国军方", "relation": "部署中程导弹系统", "object": "菲律宾政府", "location": "菲律宾", "time": "2022"},
+  {"tuple_id": "NM045_s001_t001", "subject": ["菲律宾军方", "美军"], "relation": "举行联合军事演习", "object": ["菲律宾军方", "美军"], "location": null, "time": "2023-04"},
+  {"tuple_id": "NM045_s005_t001", "subject": "美国政府", "relation": "部署中程导弹系统", "object": "中国国家主体", "location": "巴丹群岛", "time": "2023"},
+  {"tuple_id": "NM045_s005_t002", "subject": "美国政府", "relation": "计划部署海军陆战队远征舰艇拦截系统", "object": "中国国家主体", "location": "巴丹群岛", "time": "2023"},
+  {"tuple_id": "NM045_s005_t003", "subject": "美国政府", "relation": "计划部署海军陆战队防空综合系统", "object": "中国国家主体", "location": "巴丹群岛", "time": "2023"},
+  {"tuple_id": "NM045_s007_t001", "subject": "菲律宾政府", "relation": "获取远程空情监视系统", "object": "日本政府", "location": "南海海域", "time": "2023"},
+  {"tuple_id": "NM045_s008_t001", "subject": "美国政府", "relation": "批准对菲军售", "object": "菲律宾政府", "location": null, "time": "2023-04"},
+  {"tuple_id": "NM045_s010_t002", "subject": ["菲律宾政府", "美国政府"], "relation": "举行联合军事演习", "object": "地区战略稳定", "location": "菲律宾多地", "time": "2023-04"},
+  {"tuple_id": "NM045_s010_t003", "subject": ["菲律宾政府", "美国政府"], "relation": "部署战略战术武器", "object": "地区战略稳定", "location": "菲律宾多地", "time": "2023-04"},
+  {"tuple_id": "NM045_s010_t001", "subject": "中国外交部发言人", "relation": "释放反对军事挑衅的抗议信号", "object": ["菲律宾政府", "美国政府"], "location": null, "time": "2023-04-21"},
+  {"tuple_id": "NM045_s011_t001", "subject": ["日本政府", "菲律宾政府"], "relation": "实施联合军事巡航", "object": "中国国家主体", "location": "南海海域", "time": "2023-11"},
+  {"tuple_id": "NM045_s013_t001", "subject": "日本海上自卫队", "relation": "实施联合军事巡航", "object": "菲律宾政府", "location": "南海海域", "time": "2023-11"},
+  {"tuple_id": "NM045_s014_t001", "subject": "中国人民解放军南部战区", "relation": "实施海空联合战备警巡", "object": "菲律宾政府", "location": "黄岩岛附近海域", "time": "2023-11"},
+  {"tuple_id": "NM045_s015_t001", "subject": "中国海警", "relation": "实施海警执法巡航", "object": "菲律宾船只", "location": "黄岩岛附近海域", "time": "2023-11"},
+  {"tuple_id": "NM045_s015_t002", "subject": "中国海警", "relation": "依法跟踪监视", "object": "菲律宾船只", "location": "黄岩岛附近海域", "time": "2023-11"},
+  {"tuple_id": "NM045_s015_t003", "subject": "中国海警", "relation": "实施海上喊话警告", "object": "菲律宾船只", "location": "黄岩岛附近海域", "time": "2023-11"},
+  {"tuple_id": "NM045_s017_t001", "subject": "中国人民解放军东部战区空军", "relation": "实施空中警戒巡逻", "object": "台湾地区当局", "location": "台海空域", "time": "2023-11"},
+  {"tuple_id": "NM045_s017_t002", "subject": "中国人民解放军东部战区海军", "relation": "实施海空军事活动", "object": "台湾地区当局", "location": "台岛周边海域", "time": "2023-11"},
+  {"tuple_id": "NM045_s018_t001", "subject": "中国人民解放军南部战区发言人", "relation": "释放捍卫领土主权的威慑信号", "object": ["美国政府", "菲律宾政府"], "location": null, "time": "2023-11"}
+]

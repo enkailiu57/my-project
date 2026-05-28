@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "NM004_s001_t001", "subject": "台湾地区军方", "relation": "达成对台军售交易", "object": "美国政府", "location": null, "time": "2022-08"},
+  {"tuple_id": "NM004_s003_t001", "subject": "美国政府", "relation": "提供军事援助", "object": "台湾地区当局", "location": null, "time": "2024-07"},
+  {"tuple_id": "NM004_s004_t001", "subject": "台湾地区空军", "relation": "派遣人员赴外接受军事训练", "object": "美国政府", "location": "美国", "time": "2024"},
+  {"tuple_id": "NM004_s005_t001", "subject": "美国政府", "relation": "向台湾交付军事装备", "object": "台湾地区当局", "location": "台湾地区", "time": "2025"},
+  {"tuple_id": "NM004_s009_t001", "subject": "美国政府", "relation": "向台湾交付军事装备", "object": "台湾地区军方", "location": "台湾地区", "time": "2026-07"},
+  {"tuple_id": "NM004_s007_t001", "subject": "台湾地区空军", "relation": "部署远程侦察无人机", "object": "MQ-9B海上守护者无人机", "location": "台湾花莲、嘉义军事基地", "time": "2027-07"}
+]

@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "M070_s001_t002", "subject": "中国人民解放军", "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": "巴士海峡", "time": "2020-11"},
+  {"tuple_id": "M070_s001_t003", "subject": "中国人民解放军", "relation": "进入防空识别区", "object": "台湾地区当局", "location": "台岛西南空域", "time": "2020-11"},
+  {"tuple_id": "M070_s001_t004", "subject": "台湾地区军方", "relation": "实施雷达监视", "object": "中国人民解放军", "location": "台岛周边海空域", "time": "2020-11"},
+  {"tuple_id": "M070_s001_t001", "subject": "台湾地区军方", "relation": "发布军机逼近通报", "object": "中国国家主体", "location": "台岛西南空域", "time": "2020-11"},
+  {"tuple_id": "M070_s003_t001", "subject": "中国人民解放军空军", "relation": "穿越巴士海峡进入南海", "object": "台湾地区当局", "location": "巴士海峡", "time": "2020-11"}
+]

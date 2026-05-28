@@ -1,0 +1,17 @@
+[
+  {"tuple_id": "D008_s001_t001", "subject": "洪都拉斯政府", "relation": "宣布与中华人民共和国建立外交关系", "object": "中国国家主体", "location": null, "time": "2023-03"},
+  {"tuple_id": "D008_s002_t001", "subject": "台湾地区领导人", "relation": "进行高层政治访问", "object": ["危地马拉政府", "伯利兹政府"], "location": null, "time": "2023-03"},
+  {"tuple_id": "D008_s002_t002", "subject": "台湾地区领导人", "relation": "计划过境美国", "object": "美国政府", "location": null, "time": "2023-03"},
+  {"tuple_id": "D008_s003_t001", "subject": "台湾地区领导人", "relation": "释放支持台美互动的政治信号", "object": "美国政府", "location": null, "time": "2023-03"},
+  {"tuple_id": "D008_s003_t002", "subject": ["美国在台协会", "美国地方官员"], "relation": "出席涉台政治活动并致辞", "object": "台湾地区领导人", "location": null, "time": "2023-03"},
+  {"tuple_id": "D008_s004_t001", "subject": "台湾地区领导人", "relation": "接受美国智库政治荣誉", "object": "美国智库", "location": null, "time": "2023-03"},
+  {"tuple_id": "D008_s004_t002", "subject": "台湾地区领导人", "relation": "举行高层政治会晤", "object": "美国国会高层政要", "location": null, "time": "2023-03"},
+  {"tuple_id": "D008_s005_t001", "subject": "台湾地区领导人", "relation": "举行高层政治会晤", "object": ["美国参议员沙利文", "美国参议员厄恩斯特", "美国参议员凯利"], "location": null, "time": "2023-03-31"},
+  {"tuple_id": "D008_s006_t001", "subject": "台湾地区领导人", "relation": "进行高层政治访问", "object": "美国政府", "location": null, "time": "2023-04"},
+  {"tuple_id": "D008_s006_t002", "subject": "台湾地区领导人", "relation": "举行高层政治会晤", "object": "美国国会高层", "location": null, "time": "2023-04"},
+  {"tuple_id": "D008_s007_t001", "subject": "美国国会众议院议长", "relation": "释放无视中方反对的强硬信号", "object": "中国国家主体", "location": null, "time": "2023-04"},
+  {"tuple_id": "D008_s008_t001", "subject": "中国海事局", "relation": "宣布启动联合巡航巡查", "object": "台湾地区当局", "location": "台湾海峡中北部", "time": "2023-04"},
+  {"tuple_id": "D008_s009_t001", "subject": "中国人民解放军东部战区", "relation": "发布军事行动通报", "object": "国际社会", "location": null, "time": "2023-04-08"},
+  {"tuple_id": "D008_s009_t002", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2023-04-08/2023-04-10"},
+  {"tuple_id": "D008_s010_t001", "subject": "中国海事局", "relation": "宣布实施实弹军事演习", "object": "台湾地区当局", "location": "福建沿海水域", "time": "2023-04-10"}
+]

@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "M010_s001_t001", "subject": "台湾地区领导人", "relation": "释放支持台湾分裂的政治信号", "object": "中国国家主体", "location": null, "time": "2024-05"},
+  {"tuple_id": "M010_s002_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-05"},
+  {"tuple_id": "M010_s003_t001", "subject": "赖清德", "relation": "释放分裂国家与对抗大陆的政治信号", "object": "中国国家主体", "location": null, "time": "2024-10"},
+  {"tuple_id": "M010_s004_t001", "subject": "中国人民解放军东部战区发言人", "relation": "发布军事行动通报", "object": "台湾地区当局", "location": null, "time": "2024-10"},
+  {"tuple_id": "M010_s004_t002", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": ["台海周边海空域", "台岛北部及南部海域"], "time": "2024-10"},
+  {"tuple_id": "M010_s006_t001", "subject": "中国人民解放军东部战区", "relation": "开展航母编队军事演习", "object": "台湾地区当局", "location": "台岛以东海空域", "time": "2024-10-14"},
+  {"tuple_id": "M010_s006_t002", "subject": "中国人民解放军东部战区发言人", "relation": "发布军事行动通报", "object": "台湾地区当局", "location": null, "time": "2024-10-14"},
+  {"tuple_id": "M010_s007_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "实施远海航行部署", "object": "台湾地区当局", "location": "巴士海峡以东海域", "time": "2024-10"},
+  {"tuple_id": "M010_s008_t001", "subject": "中国海警", "relation": "实施环台岛巡航管控", "object": "台湾地区当局", "location": "台岛周边海域", "time": "2024-10"},
+  {"tuple_id": "M010_s009_t001", "subject": "中国海警局发言人", "relation": "释放依法管控台岛的政治信号", "object": "台湾地区当局", "location": null, "time": "2024-10"}
+]

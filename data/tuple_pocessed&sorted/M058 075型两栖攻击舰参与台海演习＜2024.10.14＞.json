@@ -1,0 +1,19 @@
+[
+  {"tuple_id": "M058_s001_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-05"},
+  {"tuple_id": "M058_s002_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-10"},
+  {"tuple_id": "M058_s002_t002", "subject": "中国人民解放军东部战区", "relation": "释放对台独分裂势力的惩戒警告信号", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-10"},
+  {"tuple_id": "M058_s003_t001", "subject": "中国人民解放军东部战区", "relation": "实施关键港口封控", "object": "台湾地区关键港口", "location": "台湾地区关键港口周边海域", "time": "2024-10"},
+  {"tuple_id": "M058_s003_t002", "subject": "中国人民解放军东部战区", "relation": "设置近岸及离岛演习区", "object": "台湾地区当局", "location": "大陆近岸及金门马祖东引海域", "time": "2024-10"},
+  {"tuple_id": "M058_s004_t001", "subject": "中国海警", "relation": "实施环台岛巡航管控", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-10"},
+  {"tuple_id": "M058_s006_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "穿越敏感海峡进入远海", "object": "台湾地区当局", "location": "巴士海峡及西太平洋海域", "time": "2024-10"},
+  {"tuple_id": "M058_s007_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "在台岛以东海域进行军事部署", "object": "台湾地区当局", "location": "台岛以东海域", "time": "2024-10-14"},
+  {"tuple_id": "M058_s007_t002", "subject": ["中国海军辽宁舰航母战斗群", "中国人民解放军火箭军", "中国人民解放军陆基航空兵"], "relation": "开展联合军事演训", "object": "台湾地区当局", "location": "台岛以东海域", "time": "2024-10-14"},
+  {"tuple_id": "M058_s008_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "开展海空联合军事演习", "object": "中国人民解放军轰炸机编队", "location": "台岛以东海域", "time": "2024-10"},
+  {"tuple_id": "M058_s008_t002", "subject": "中国海军辽宁舰航母战斗群", "relation": "实施空中掩护与护航", "object": "中国人民解放军空军轰-6轰炸机", "location": "巴士海峡", "time": "2024-10"},
+  {"tuple_id": "M058_s008_t003", "subject": "中国人民解放军空军轰-6轰炸机", "relation": "执行协同打击任务", "object": "台湾地区当局", "location": "远海海域", "time": "2024-10"},
+  {"tuple_id": "M058_s012_t001", "subject": "美国国务院发言人", "relation": "释放反对军事演训的抗议信号", "object": "中国人民解放军", "location": "台岛周边海空域", "time": "2024-10"},
+  {"tuple_id": "M058_s014_t001", "subject": "台湾地区军方", "relation": "实施空中警戒巡逻", "object": "中国国家主体", "location": "台岛东部和东北部空域", "time": "2024-10"},
+  {"tuple_id": "M058_s015_t001", "subject": "台湾地区军方", "relation": "部署地空导弹系统", "object": "中国国家主体", "location": "台湾南部屏东县", "time": "2024-10"},
+  {"tuple_id": "M058_s015_t002", "subject": "台湾地区军方", "relation": "部署陆基反舰导弹系统", "object": "中国国家主体", "location": "台湾东部花莲渔港", "time": "2024-10"},
+  {"tuple_id": "M058_s016_t001", "subject": "中国商务部", "relation": "释放缩减对台关税减让的经济反制信号", "object": "台湾地区当局", "location": null, "time": "2024-10"}
+]

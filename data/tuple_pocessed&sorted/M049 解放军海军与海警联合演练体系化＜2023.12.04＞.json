@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "M049_s001_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2023-04"},
+  {"tuple_id": "M049_s001_t002", "subject": "中国海警", "relation": "通报海警在台海方向的执法与演训动态", "object": "国际社会", "location": null, "time": "2023-04"},
+  {"tuple_id": "M049_s001_t003", "subject": "中国海警舰艇编队", "relation": "开展海上执法巡查", "object": "台湾地区当局", "location": "台岛周边海域", "time": "2023-04"},
+  {"tuple_id": "M049_s001_t004", "subject": "中国海警舰艇编队", "relation": "开展临检拿捕与拦截扣押科目演练", "object": "台湾地区当局", "location": "台岛周边海域", "time": "2023-04"},
+  {"tuple_id": "M049_s007_t001", "subject": "中国人民解放军海空兵力", "relation": "开展针对外部势力的模拟打击与封锁演练", "object": "外部干涉势力", "location": "台海周边海空域", "time": "2023-12"},
+  {"tuple_id": "M049_s008_t001", "subject": "日本防卫省", "relation": "实施军事跟踪监视", "object": "中国人民解放军海军", "location": "东海海域", "time": "2023-12"},
+  {"tuple_id": "M049_s008_t002", "subject": "日本防卫省", "relation": "释放中方舰船未侵入日方管辖海域的澄清信号", "object": "中国人民解放军海军", "location": "东海海域", "time": "2023-12"}
+]

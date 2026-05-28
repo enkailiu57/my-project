@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "NM046_s004_t001", "subject": "美国政府", "relation": "批准对台军售", "object": "台湾地区当局", "location": null, "time": "2017"},
+  {"tuple_id": "NM046_s001_t001", "subject": "台湾地区当局", "relation": "向美国采购军事装备", "object": "美国政府", "location": null, "time": "2024"},
+  {"tuple_id": "NM046_s002_t001", "subject": "台湾地区军方高层", "relation": "公开承认军购延误事实", "object": "台湾地区立法机构", "location": null, "time": "2024-06"},
+  {"tuple_id": "NM046_s002_t002", "subject": "美国政府", "relation": "严重延误军售交付", "object": "台湾地区当局", "location": null, "time": "2024-06"},
+  {"tuple_id": "NM046_s003_t001", "subject": "美国政府", "relation": "严重延误军售交付", "object": "台湾地区军方", "location": null, "time": "2028"},
+  {"tuple_id": "NM046_s004_t002", "subject": "美国政府", "relation": "严重延误军售交付", "object": "台湾地区当局", "location": null, "time": "2027/2028"},
+  {"tuple_id": "NM046_s005_t001", "subject": "美国政府", "relation": "严重延误军售交付", "object": "台湾地区当局", "location": null, "time": "2026/2028"},
+  {"tuple_id": "NM046_s007_t001", "subject": "台湾地区当局", "relation": "重新协商军售交付进度", "object": "美国政府", "location": null, "time": "2028"},
+  {"tuple_id": "NM046_s007_t002", "subject": "美国政府", "relation": "严重延误军售交付", "object": "台湾地区当局", "location": null, "time": "2028"},
+  {"tuple_id": "NM046_s009_t001", "subject": "台湾地区当局", "relation": "编列军事对抗预算", "object": "中国国家主体", "location": null, "time": "2029-01"}
+]

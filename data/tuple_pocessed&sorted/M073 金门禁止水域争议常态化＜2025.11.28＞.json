@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "M073_s001_t001", "subject": "台湾地区当局", "relation": "单方面划定争议海域管控区", "object": "金门附近海域", "location": "金门周边海域", "time": "2025-11"},
+  {"tuple_id": "M073_s001_t002", "subject": "台湾地区当局", "relation": "释放对大陆海上活动强硬执法的威慑信号", "object": "中国国家主体", "location": "金门周边海域", "time": "2025-11"},
+  {"tuple_id": "M073_s004_t001", "subject": "中国海警", "relation": "发布执法巡查示意图以宣示管辖权", "object": "台湾地区当局", "location": "金门附近争议水域", "time": "2024-03"},
+  {"tuple_id": "M073_s002_t001", "subject": "中国海警", "relation": "实施海警执法巡航", "object": "台湾地区当局", "location": "金门周边海域", "time": "2024-04/2024-05"},
+  {"tuple_id": "M073_s003_t001", "subject": "中国海警", "relation": "实施海警执法巡航", "object": "台湾地区当局", "location": "金门周边海域", "time": "2024"},
+  {"tuple_id": "M073_s005_t001", "subject": "中国海警", "relation": "实施海警执法巡航", "object": "台湾地区当局", "location": "金门附近争议水域", "time": "2025-11"},
+  {"tuple_id": "M073_s005_t002", "subject": "台湾地区海巡部门", "relation": "实施喊话驱离与跟踪监视", "object": "中国海警", "location": "金门附近争议水域", "time": "2025-11"},
+  {"tuple_id": "M073_s005_t003", "subject": "中国海警", "relation": "完成执法任务后驶离", "object": "台湾地区当局", "location": "金门附近争议水域", "time": "2025-11"},
+  {"tuple_id": "M073_s006_t002", "subject": "中国国台办发言人", "relation": "释放否认水域划分合法性的抗议信号", "object": "台湾地区当局", "location": null, "time": "2025-11"},
+  {"tuple_id": "M073_s007_t001", "subject": "中国国台办发言人", "relation": "释放停止不当执法行为的警告信号", "object": "台湾地区当局", "location": null, "time": "2025-11"}
+]

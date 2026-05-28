@@ -1,0 +1,20 @@
+[
+  {"tuple_id": "E043_s001_t001", "subject": "中国人民解放军海军", "relation": "开展远海军事训练", "object": "中国国家主体", "location": "宫古海峡以东海域", "time": "2025-12"},
+  {"tuple_id": "E043_s002_t001", "subject": "中国人民解放军海军", "relation": "发布海上军事行动通报", "object": "日本海上自卫队", "location": "宫古海峡以东海域", "time": "2025-12-06"},
+  {"tuple_id": "E043_s002_t002", "subject": "日本海上自卫队", "relation": "确认收到军事通报", "object": "中国人民解放军海军", "location": "宫古海峡以东海域", "time": "2025-12-06"},
+  {"tuple_id": "E043_s006_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "组织舰载机飞行训练", "object": "日本自卫队", "location": "宫古海峡以东海域", "time": "2025-12"},
+  {"tuple_id": "E043_s004_t001", "subject": "日本战机", "relation": "抵近中方军事力量", "object": "中国海军辽宁舰航母战斗群", "location": "宫古海峡以东海域", "time": "2025-12"},
+  {"tuple_id": "E043_s004_t002", "subject": "中国海军辽宁舰航母战斗群", "relation": "发现并监控对方军机动向", "object": "日本战机", "location": "宫古海峡以东海域", "time": "2025-12"},
+  {"tuple_id": "E043_s006_t002", "subject": "日本自卫队", "relation": "实施军事挑衅与滋扰", "object": "中国海军辽宁舰航母战斗群", "location": "宫古海峡以东海域", "time": "2025-12"},
+  {"tuple_id": "E043_s005_t002", "subject": "中国人民解放军海军舰载机", "relation": "实施雷达照射", "object": "日本战机", "location": "宫古海峡以东海域", "time": "2025-12"},
+  {"tuple_id": "E043_s005_t001", "subject": "日本防卫大臣", "relation": "发布并炒作军事对峙指控", "object": "中国国家主体", "location": null, "time": "2025-12"},
+  {"tuple_id": "E043_s006_t003", "subject": "中国海军发言人", "relation": "释放反对军事滋扰的抗议信号", "object": "日本自卫队", "location": null, "time": "2025-12-07"},
+  {"tuple_id": "E043_s007_t001", "subject": "中国外交部发言人", "relation": "释放军事行动合法性的澄清信号", "object": "日本政府", "location": null, "time": "2025-12"},
+  {"tuple_id": "E043_s008_t001", "subject": "日本防卫大臣", "relation": "释放否认军事干扰指控的信号", "object": "中国国家主体", "location": null, "time": "2025-12"},
+  {"tuple_id": "E043_s008_t002", "subject": "日本防卫大臣", "relation": "释放否认收到军事通告的信号", "object": "中国国家主体", "location": null, "time": "2025-12"},
+  {"tuple_id": "E043_s009_t001", "subject": "中国国家主体", "relation": "公开军事通信证据", "object": "日本政府", "location": null, "time": "2025-12"},
+  {"tuple_id": "E043_s009_t002", "subject": "中国人民解放军", "relation": "发布海上军事行动通报", "object": "日本海上自卫队", "location": "宫古海峡以东海域", "time": "2025-12"},
+  {"tuple_id": "E043_s010_t001", "subject": "日本防卫省", "relation": "释放确认中方公布信息真实性的信号", "object": "中国国家主体", "location": null, "time": "2025-12"},
+  {"tuple_id": "E043_s010_t002", "subject": "日本防卫大臣", "relation": "释放确认已掌握中方通报内容的信号", "object": "中国国家主体", "location": null, "time": "2025-12"},
+  {"tuple_id": "E043_s011_t001", "subject": "日本防卫大臣", "relation": "释放为自卫队军事行动辩护的政治信号", "object": "中国国家主体", "location": null, "time": "2025-12"}
+]

@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "E016_s001_t001", "subject": ["美国政府", "日本政府"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": "日本西南诸岛", "time": "2026-02"},
+  {"tuple_id": "E016_s004_t001", "subject": "美军", "relation": "调动重型装备参与联合军演", "object": "日本自卫队", "location": "日本西南诸岛", "time": "2026-02"},
+  {"tuple_id": "E016_s006_t001", "subject": "日本自卫队", "relation": "计划部署防空导弹系统", "object": "03式防空导弹", "location": "与那国岛", "time": "2026-03"},
+  {"tuple_id": "E016_s009_t001", "subject": "日本自民党高层", "relation": "释放强化西南诸岛防御以对抗中国的战略信号", "object": "中国国家主体", "location": "日本西南诸岛", "time": "2026-03"},
+  {"tuple_id": "E016_s009_t002", "subject": "美军太平洋舰队司令", "relation": "释放确保第一岛链军事优势的战略信号", "object": "中国国家主体", "location": "第一岛链", "time": "2026-03"},
+  {"tuple_id": "E016_s010_t001", "subject": ["美国政府", "日本政府"], "relation": "加强地区军事部署", "object": "中国国家主体", "location": "日本西南诸岛", "time": "2026-03"},
+  {"tuple_id": "E016_s010_t002", "subject": "中国国防部", "relation": "释放将采取必要反制措施的威慑信号", "object": ["美国政府", "日本政府"], "location": null, "time": "2026-03"}
+]

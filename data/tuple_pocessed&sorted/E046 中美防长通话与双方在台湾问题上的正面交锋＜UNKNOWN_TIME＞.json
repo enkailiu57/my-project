@@ -1,0 +1,21 @@
+[
+  {"tuple_id": "E046_s001_t001", "subject": "美国国会", "relation": "通过涉台法案", "object": "中国国家主体", "location": null, "time": "2024-07"},
+  {"tuple_id": "E046_s001_t002", "subject": "中国国台办发言人", "relation": "释放反对涉台立法的抗议信号", "object": "美国国会", "location": null, "time": "2024-07"},
+  {"tuple_id": "E046_s002_t001", "subject": "美国国会高层政要", "relation": "访问台湾地区", "object": "台湾地区当局", "location": "台湾", "time": "2024-08"},
+  {"tuple_id": "E046_s002_t002", "subject": "中国外交部发言人", "relation": "释放对干涉内政的抗议信号", "object": "美国政府", "location": null, "time": "2024-08"},
+  {"tuple_id": "E046_s003_t001", "subject": "美国国会部分议员", "relation": "支持台湾参与国际组织", "object": "国际民航组织", "location": null, "time": "近期"},
+  {"tuple_id": "E046_s004_t001", "subject": "台湾地区陆委会主委", "relation": "散布分裂国家言论", "object": "中国国家主体", "location": ["美国", null], "time": "2024-09"},
+  {"tuple_id": "E046_s005_t001", "subject": "中国国防部", "relation": "举行高层军事视频通话", "object": "美国国防部", "location": null, "time": "2024-09"},
+  {"tuple_id": "E046_s006_t001", "subject": "中国国防部", "relation": "释放反对台独及外部干涉的警告信号", "object": "美国政府", "location": null, "time": "2024-09"},
+  {"tuple_id": "E046_s007_t001", "subject": "美军", "relation": "在台海周边进行军事活动", "object": "中国国家主体", "location": "台海周边海空域", "time": "2024-09"},
+  {"tuple_id": "E046_s007_t002", "subject": "中国国防部", "relation": "要求停止军事挑衅行为", "object": "美国政府", "location": null, "time": "2024-09"},
+  {"tuple_id": "E046_s008_t001", "subject": "中国外交部", "relation": "举行高层外交电话会谈", "object": "美国国务院", "location": null, "time": "2024-09"},
+  {"tuple_id": "E046_s009_t002", "subject": "美国政府", "relation": "对台军售", "object": "中国国家主体", "location": null, "time": "2024-09"},
+  {"tuple_id": "E046_s009_t003", "subject": "美国政府", "relation": "访问台湾地区", "object": "中国国家主体", "location": null, "time": "2024-09"},
+  {"tuple_id": "E046_s009_t001", "subject": "中国国务委员兼外交部长", "relation": "释放对干涉内政的抗议信号", "object": "美国政府", "location": null, "time": "2024-09"},
+  {"tuple_id": "E046_s010_t001", "subject": "中国国务委员兼外交部长", "relation": "释放要求美方恪守一个中国原则及停止支持台独的政治信号", "object": "美国政府", "location": null, "time": "2024-09"},
+  {"tuple_id": "E046_s011_t001", "subject": "中国外交部长", "relation": "释放对涉台挑衅的警告信号", "object": "美国政府", "location": null, "time": "2024-09"},
+  {"tuple_id": "E046_s012_t001", "subject": "美国国会部分议员", "relation": "支持台湾参与国际组织", "object": "国际民航组织", "location": null, "time": "2024-09"},
+  {"tuple_id": "E046_s012_t002", "subject": "中国国台办发言人", "relation": "释放反对干涉台湾国际空间的抗议信号", "object": "美国政府", "location": null, "time": "2024-09-10"},
+  {"tuple_id": "E046_s013_t002", "subject": "中国国台办发言人", "relation": "释放反对台独及外部干涉的警告信号", "object": ["台湾地区陆委会主委", "民进党当局"], "location": null, "time": "2024-09-10"}
+]

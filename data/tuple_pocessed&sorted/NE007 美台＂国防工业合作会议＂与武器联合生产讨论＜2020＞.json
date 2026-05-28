@@ -1,0 +1,14 @@
+[
+  {"tuple_id": "NE007_s007_t001", "subject": "美国政府", "relation": "批准对台军售", "object": "台湾地区当局", "location": null, "time": "2017"},
+  {"tuple_id": "NE007_s004_t001", "subject": "美国政府", "relation": "拟议与台湾合作制造武器", "object": "台湾地区当局", "location": null, "time": "2020"},
+  {"tuple_id": "NE007_s008_t001", "subject": "美国政府", "relation": "加速对台军售", "object": "台湾地区当局", "location": null, "time": "2020"},
+  {"tuple_id": "NE007_s008_t002", "subject": "美国政府", "relation": "鼓励盟友提供安全援助", "object": ["美国盟友和伙伴国家", "台湾地区当局"], "location": null, "time": "2020"},
+  {"tuple_id": "NE007_s009_t001", "subject": "美国政府", "relation": "征求盟友对军售支持的意见", "object": "美国盟友和伙伴国家", "location": null, "time": "2020"},
+  {"tuple_id": "NE007_s010_t001", "subject": ["英国政府", "法国政府"], "relation": "释放愿意对台军售的政治信号", "object": "台湾地区当局", "location": null, "time": "2020-10"},
+  {"tuple_id": "NE007_s011_t001", "subject": "法国政府", "relation": "达成对台军售交易", "object": "台湾地区当局", "location": null, "time": "2020"},
+  {"tuple_id": "NE007_s012_t001", "subject": "美国政府", "relation": "对台军售", "object": "台湾地区当局", "location": null, "time": "2020"},
+  {"tuple_id": "NE007_s012_t002", "subject": ["美国政府", "台湾地区当局"], "relation": "建立军事联系", "object": "中国国家主体", "location": null, "time": "2020"},
+  {"tuple_id": "NE007_s012_t003", "subject": "中国外交部", "relation": "释放对干涉内政的抗议信号", "object": "美国政府", "location": null, "time": "2020"},
+  {"tuple_id": "NE007_s013_t001", "subject": "中国外交部发言人", "relation": "释放要求停止对台军售及军事联系的抗议信号", "object": "美国政府", "location": null, "time": "2020-10"},
+  {"tuple_id": "NE007_s014_t001", "subject": "中国国家主体", "relation": "释放将采取必要反制措施的威慑信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2020-10"}
+]

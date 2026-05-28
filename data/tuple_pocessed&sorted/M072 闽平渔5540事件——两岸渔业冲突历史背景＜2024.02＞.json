@@ -1,0 +1,15 @@
+[
+  {"tuple_id": "M072_s014_t001", "subject": "台湾地区当局", "relation": "实施粗暴遣返", "object": "大陆偷渡者", "location": "台海周边海空域", "time": "1989"},
+  {"tuple_id": "M072_s001_t001", "subject": "台湾地区海巡部门", "relation": "扣押渔船", "object": "大陆籍渔船", "location": "台湾海峡", "time": "1990-07"},
+  {"tuple_id": "M072_s002_t001", "subject": "台湾地区军警", "relation": "实施暴力拘禁", "object": "大陆渔民", "location": "渔船船舱", "time": "1990-07-21"},
+  {"tuple_id": "M072_s010_t001", "subject": "台湾地区当局", "relation": "实施粗暴遣返", "object": "大陆渔民", "location": "台湾海峡", "time": "1990-07"},
+  {"tuple_id": "M072_s005_t001", "subject": "台湾地区军方", "relation": "实施粗暴遣返", "object": "大陆渔民", "location": "基隆港外海域", "time": "1990-08"},
+  {"tuple_id": "M072_s005_t002", "subject": "台湾地区军方", "relation": "故意撞击渔船", "object": "大陆渔船", "location": "基隆港外海域", "time": "1990-08"},
+  {"tuple_id": "M072_s007_t001", "subject": "台湾地区当局", "relation": "释放淡化暴力执法责任的辩解信号", "object": "中国国家主体", "location": null, "time": "1990-08"},
+  {"tuple_id": "M072_s011_t001", "subject": ["中国红十字会", "台湾红十字会"], "relation": "签署两岸人道遣返协议", "object": ["中国红十字会", "台湾红十字会"], "location": "金门", "time": "1990-09"},
+  {"tuple_id": "M072_s013_t001", "subject": "台湾地区军方", "relation": "实施武力攻击", "object": "大陆籍渔民", "location": "金门马祖周边海域", "time": "1990/1994-05"},
+  {"tuple_id": "M072_s015_t001", "subject": "台湾地区军方及海警", "relation": "查扣大陆渔船", "object": "大陆渔民", "location": "金门马祖周边海域", "time": "1990-05"},
+  {"tuple_id": "M072_s015_t002", "subject": "台湾地区军方及海警", "relation": "扣留渔船及设备", "object": "大陆籍渔船", "location": "金门马祖周边海域", "time": "1990-05"},
+  {"tuple_id": "M072_s016_t001", "subject": "台湾地区海巡部门", "relation": "故意撞击渔船", "object": "大陆籍渔船", "location": "金门海域", "time": "2024-02"},
+  {"tuple_id": "M072_s017_t001", "subject": "中国海警", "relation": "实施海警执法巡航", "object": "台湾地区海巡部门", "location": "厦金海域", "time": "2024-02"}
+]

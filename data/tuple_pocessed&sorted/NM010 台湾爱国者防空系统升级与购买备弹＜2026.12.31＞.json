@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "NM010_s001_t001", "subject": "台湾地区防务部门", "relation": "启动军售合约商议", "object": "美国政府", "location": null, "time": "2022-01"},
+  {"tuple_id": "NM010_s002_t001", "subject": "台湾地区防务部门", "relation": "签署军售合约", "object": "美国政府", "location": null, "time": "2022-07"},
+  {"tuple_id": "NM010_s003_t001", "subject": ["美国政府", "台湾地区当局"], "relation": "签署军售合约", "object": "爱国者-3型反导系统", "location": null, "time": "2022-08"},
+  {"tuple_id": "NM010_s004_t001", "subject": "台湾地区领导人", "relation": "释放强化军事防御的战略信号", "object": "中国国家主体", "location": null, "time": "2025-10"},
+  {"tuple_id": "NM010_s007_t001", "subject": "台湾地区军方", "relation": "计划采购美国防空导弹系统", "object": "美国政府", "location": null, "time": "2025-10"},
+  {"tuple_id": "NM010_s007_t002", "subject": "台湾地区军方", "relation": "计划升级军事指挥控制系统至美军标准", "object": "美国政府", "location": null, "time": "2025-10"},
+  {"tuple_id": "NM010_s006_t001", "subject": ["台湾地区防务部门", "美国在台协会"], "relation": "整合对美军购要价", "object": "美国政府", "location": null, "time": "2025-12"},
+  {"tuple_id": "NM010_s008_t001", "subject": "台湾地区防务部门", "relation": "向立法机构报告军购预算与项目", "object": "台湾地区立法机构", "location": null, "time": "2026-01"},
+  {"tuple_id": "NM010_s008_t002", "subject": "美国政府", "relation": "推进对台军售计划", "object": "台湾地区当局", "location": null, "time": "2026-01"}
+]

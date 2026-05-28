@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "EC017_s005_t001", "subject": "台湾地区当局", "relation": "与美国政府达成政治经济协议", "object": "美国政府", "location": null, "time": "2025-03"},
+  {"tuple_id": "EC017_s005_t002", "subject": "美国政府", "relation": "对台湾出口半导体征收关税", "object": "台湾地区当局", "location": null, "time": "2025-03"},
+  {"tuple_id": "EC017_s005_t003", "subject": "美国政府", "relation": "施压促成关键产业产能回流", "object": ["美国半导体和科技企业", "台积电"], "location": null, "time": "2025-03"},
+  {"tuple_id": "EC017_s006_t001", "subject": "美国政府", "relation": "施压促成关键产业产能回流", "object": "台湾地区当局", "location": null, "time": "2025-03"},
+  {"tuple_id": "EC017_s007_t002", "subject": "台湾地区当局", "relation": "提供财政担保支持企业海外建厂", "object": "台湾半导体企业", "location": null, "time": "2025-03"}
+]

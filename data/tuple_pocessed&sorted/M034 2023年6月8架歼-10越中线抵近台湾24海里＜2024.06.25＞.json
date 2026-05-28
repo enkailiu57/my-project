@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "M034_s001_t001", "subject": "美国国会", "relation": "通过涉台军事合作法案", "object": "美国2024年度国防授权法案", "location": null, "time": "2024-06"},
+  {"tuple_id": "M034_s001_t002", "subject": "美国政府", "relation": "承诺向台军提供军事训练与支持", "object": "台湾地区军方", "location": null, "time": "2024-06"},
+  {"tuple_id": "M034_s002_t001", "subject": "中国人民解放军空军", "relation": "进入台湾海峡空域", "object": "台湾地区防务部门", "location": "台湾海峡", "time": "2024-06"},
+  {"tuple_id": "M034_s002_t002", "subject": "中国人民解放军空军", "relation": "越过海峡中线", "object": "台湾地区防务部门", "location": "台湾海峡中线附近", "time": "2024-06"},
+  {"tuple_id": "M034_s002_t003", "subject": "中国人民解放军空军", "relation": "进抵台湾邻接线", "object": "台湾地区防务部门", "location": "台岛周边海空域", "time": "2024-06"},
+  {"tuple_id": "M034_s002_t004", "subject": "中国人民解放军海军", "relation": "在台海周边进行军事活动", "object": "台湾地区防务部门", "location": "台湾海峡", "time": "2024-06"},
+  {"tuple_id": "M034_s003_t001", "subject": "中国人民解放军空军歼-10战机", "relation": "逼近台岛实施军事威慑", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-06-25"},
+  {"tuple_id": "M034_s005_t001", "subject": "中国人民解放军空军", "relation": "突破台湾周边海域管控线", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-06"},
+  {"tuple_id": "M034_s005_t002", "subject": "中国人民解放军空军", "relation": "释放对台独势力的警告信号", "object": "台湾地区‘台独’分裂势力", "location": null, "time": "2024-06"},
+  {"tuple_id": "M034_s005_t003", "subject": "中国人民解放军空军", "relation": "释放对美国对台政策变化的反制信号", "object": "美国政府", "location": null, "time": "2024-06"}
+]

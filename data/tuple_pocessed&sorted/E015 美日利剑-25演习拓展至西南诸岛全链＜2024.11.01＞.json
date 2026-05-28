@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "E015_s002_t001", "subject": ["美国政府", "日本政府"], "relation": "在联合演习中将对方列为假想敌", "object": "中国国家主体", "location": null, "time": "2024-01"},
+  {"tuple_id": "E015_s013_t001", "subject": "日本自卫队统合幕僚长", "relation": "释放强化军事遏制力的威慑信号", "object": "中国国家主体", "location": null, "time": "2024-10"},
+  {"tuple_id": "E015_s003_t001", "subject": ["日本自卫队", "美军"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": "日本周边海空域", "time": "2024-10"},
+  {"tuple_id": "E015_s009_t001", "subject": ["日本自卫队", "日本海上保安厅"], "relation": "启用民用机场作为军事用途", "object": "中国国家主体", "location": "日本西南诸岛", "time": "2024-10"},
+  {"tuple_id": "E015_s010_t001", "subject": "日本政府", "relation": "启用民用机场作为军事用途", "object": ["日本自卫队", "美军"], "location": "日本长崎机场", "time": "2024-10"},
+  {"tuple_id": "E015_s014_t001", "subject": "美国国防部", "relation": "邀请参加多边军事演习", "object": "日本政府", "location": null, "time": "2024"},
+  {"tuple_id": "E015_s014_t002", "subject": "美国政府", "relation": "计划提升军事合作层级", "object": "日本政府", "location": null, "time": "2025"}
+]

@@ -1,0 +1,13 @@
+[
+  {"tuple_id": "E001_s001_t001", "subject": "中国外交部发言人", "relation": "释放对台湾海峡主权归属的宣示信号", "object": "国际社会", "location": null, "time": "2022-06"},
+  {"tuple_id": "E001_s004_t001", "subject": ["美国海军", "加拿大海军"], "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2023-09"},
+  {"tuple_id": "E001_s004_t003", "subject": "中国人民解放军东部战区发言人", "relation": "释放对美加军舰过航的抗议信号", "object": ["美国政府", "加拿大政府"], "location": null, "time": "2023-09"},
+  {"tuple_id": "E001_s005_t001", "subject": "美国海军军舰", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-01"},
+  {"tuple_id": "E001_s006_t001", "subject": "美国海军军舰", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-03"},
+  {"tuple_id": "E001_s007_t001", "subject": "美国海军", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-05"},
+  {"tuple_id": "E001_s008_t001", "subject": "荷兰海军", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-05"},
+  {"tuple_id": "E001_s009_t001", "subject": "加拿大海军", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-07"},
+  {"tuple_id": "E001_s010_t001", "subject": "美国海军军舰", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-08"},
+  {"tuple_id": "E001_s011_t001", "subject": "中国人民解放军东部战区", "relation": "实施海空跟监警戒", "object": "美国海军", "location": "台湾海峡", "time": "2024-08"},
+  {"tuple_id": "E001_s012_t001", "subject": "德国海军", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-09"}
+]

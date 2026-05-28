@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "E012_s001_t001", "subject": ["新西兰海军", "澳大利亚海军"], "relation": "联合穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-09"},
+  {"tuple_id": "E012_s002_t001", "subject": "新西兰海军", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-11"},
+  {"tuple_id": "E012_s004_t001", "subject": "中国人民解放军", "relation": "实施海空跟监警戒", "object": "新西兰海军舰艇", "location": "台湾海峡", "time": "2024-11"},
+  {"tuple_id": "E012_s002_t002", "subject": "新西兰政府", "relation": "释放军事行动透明化信号", "object": "国际社会", "location": null, "time": "2024-11"},
+  {"tuple_id": "E012_s003_t001", "subject": "新西兰国防部长", "relation": "证实政治军事互动事件", "object": "新西兰海军舰艇穿越台湾海峡行动", "location": null, "time": "2024-11"},
+  {"tuple_id": "E012_s004_t002", "subject": "中国国防部", "relation": "释放对涉台操弄的坚决反对信号", "object": ["新西兰政府", "台湾地区当局"], "location": null, "time": "2024-11"}
+]

@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "EC009_s001_t001", "subject": "中国海关总署", "relation": "暂停进口特定农产品", "object": "台湾地区当局", "location": null, "time": "2023-02"},
+  {"tuple_id": "EC009_s002_t001", "subject": "中国海关总署", "relation": "暂停进口特定农产品", "object": "台湾地区当局", "location": null, "time": "2023-09"},
+  {"tuple_id": "EC009_s003_t001", "subject": "台湾地区农业主管部门", "relation": "释放对贸易限制措施的抗议信号", "object": "中国国家主体", "location": null, "time": "2023-09"},
+  {"tuple_id": "EC009_s008_t001", "subject": "台湾地区领导人", "relation": "释放反对政治干预的抗议信号", "object": "中国国家主体", "location": null, "time": "2023-09"},
+  {"tuple_id": "EC009_s007_t001", "subject": "台湾地区农业主管部门", "relation": "向世贸组织提起贸易诉讼", "object": "中国国家主体", "location": null, "time": "2023-10-01"}
+]

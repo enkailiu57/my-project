@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "NE023_s001_t001", "subject": "美国政府", "relation": "将特定地区排除在多边经济框架之外", "object": "台湾地区当局", "location": null, "time": "2022-05"},
+  {"tuple_id": "NE023_s006_t001", "subject": "美国政府", "relation": "推进经贸协议谈判", "object": "台湾地区当局", "location": null, "time": "2022-06"},
+  {"tuple_id": "NE023_s002_t002", "subject": "美国政府", "relation": "与台湾地区签署经贸协议", "object": "台湾地区当局", "location": null, "time": "2022-06"},
+  {"tuple_id": "NE023_s002_t001", "subject": "中国国家主体", "relation": "释放反对美台官方往来的抗议信号", "object": "美国政府", "location": null, "time": "2022-06"},
+  {"tuple_id": "NE023_s005_t001", "subject": "中国政府相关部门", "relation": "释放反对美台官方往来的抗议信号", "object": "美国政府", "location": null, "time": "2022-06"}
+]

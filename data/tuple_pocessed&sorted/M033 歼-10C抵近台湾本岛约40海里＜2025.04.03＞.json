@@ -1,0 +1,16 @@
+[
+  {"tuple_id": "M033_s001_t001", "subject": "中国人民解放军空军", "relation": "实施常态化空中巡航", "object": "台湾地区当局", "location": "台湾防空识别区", "time": "2024"},
+  {"tuple_id": "M033_s010_t001", "subject": "中国人民解放军", "relation": "越过海峡中线", "object": "台湾地区当局", "location": "台湾海峡中线附近", "time": "近年来"},
+  {"tuple_id": "M033_s010_t002", "subject": "中国人民解放军", "relation": "释放对台湾周边空域管辖权的宣示信号", "object": "台湾地区当局", "location": "台湾周边空域", "time": "近年来"},
+  {"tuple_id": "M033_s002_t001", "subject": "中国人民解放军空军", "relation": "越过海峡中线并进入台岛周边空域", "object": "台湾地区军方", "location": "台海周边海空域", "time": "2025-04"},
+  {"tuple_id": "M033_s002_t002", "subject": "中国人民解放军海军", "relation": "在台海周边海域巡航", "object": "台湾地区军方", "location": "台海周边海空域", "time": "2025-04"},
+  {"tuple_id": "M033_s002_t003", "subject": "台湾地区军方", "relation": "监测并统计解放军军机动向", "object": ["中国人民解放军空军", "中国人民解放军海军"], "location": "台海周边海空域", "time": "2025-04"},
+  {"tuple_id": "M033_s003_t001", "subject": "中国海军山东舰航母编队", "relation": "实施海上军事存在", "object": ["台湾地区当局", "美国政府"], "location": "巴士海峡以西海域", "time": "2025-04-02"},
+  {"tuple_id": "M033_s004_t001", "subject": "美国军机", "relation": "实施抵近侦察", "object": "台湾地区当局", "location": "台岛西南空域", "time": "2025-04"},
+  {"tuple_id": "M033_s009_t001", "subject": "美国军机", "relation": "实施军事侦察", "object": "中国人民解放军", "location": "东海海域", "time": "2025-04"},
+  {"tuple_id": "M033_s005_t001", "subject": "中国人民解放军空军", "relation": "实施空中拦截", "object": "美国军机", "location": "台湾周边空域", "time": "2025-04"},
+  {"tuple_id": "M033_s005_t002", "subject": "中国人民解放军空军", "relation": "进行无线电喊话警告", "object": "美国军机", "location": "台湾周边空域", "time": "2025-04"},
+  {"tuple_id": "M033_s006_t001", "subject": "美军", "relation": "释放依据国际法执行任务的辩解信号", "object": "中国人民解放军", "location": "台湾周边空域", "time": "2025-04"},
+  {"tuple_id": "M033_s008_t001", "subject": "中国人民解放军空军", "relation": "实施电子干扰与伴飞监视", "object": "美国军机", "location": "台湾周边空域", "time": "2025-04-03"},
+  {"tuple_id": "M033_s008_t002", "subject": "美国军机", "relation": "撤离争议空域", "object": "中国人民解放军", "location": "琉球群岛", "time": "2025-04-03"}
+]

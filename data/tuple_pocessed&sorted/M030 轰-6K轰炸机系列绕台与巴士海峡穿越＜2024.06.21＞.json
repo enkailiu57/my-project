@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "M030_s001_t001", "subject": "中国人民解放军空军", "relation": "实施突破第一岛链的军事巡航", "object": "美国及其盟友", "location": "巴士海峡及第一岛链", "time": "2015"},
+  {"tuple_id": "M030_s002_t001", "subject": "中国人民解放军空军", "relation": "实施远海巡航", "object": "菲律宾政府", "location": "黄岩岛附近海域", "time": "2016"},
+  {"tuple_id": "M030_s003_t001", "subject": "中国人民解放军空军", "relation": "实施突破第一岛链的军事巡航", "object": "日本政府", "location": "对马海峡", "time": "2017"},
+  {"tuple_id": "M030_s004_t001", "subject": "中国人民解放军空军", "relation": "实施绕台军事巡航", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2018"},
+  {"tuple_id": "M030_s011_t001", "subject": "中国国防部", "relation": "披露新型武器装备信息", "object": "轰-6J轰炸机", "location": null, "time": "2020-07"},
+  {"tuple_id": "M030_s005_t001", "subject": "中国人民解放军空军", "relation": "实施夜间绕岛巡航", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-06"},
+  {"tuple_id": "M030_s007_t001", "subject": "外方船只", "relation": "实施非法行动", "object": "中国国家主体", "location": "中国管辖海域", "time": "2024"},
+  {"tuple_id": "M030_s007_t002", "subject": "中国人民解放军空军", "relation": "采取驱离措施", "object": "外方船只", "location": "中国管辖海域", "time": "2024"}
+]

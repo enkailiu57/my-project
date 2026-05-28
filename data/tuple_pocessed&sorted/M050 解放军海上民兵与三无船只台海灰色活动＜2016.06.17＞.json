@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "M050_s005_t001", "subject": "中国海上民兵", "relation": "实施大规模船只集结", "object": "菲律宾政府", "location": "黄岩礁海域", "time": "2015-12"},
+  {"tuple_id": "M050_s005_t002", "subject": "菲律宾政府", "relation": "释放对中国海上灰色地带行动的抗议信号", "object": "中国海上民兵", "location": "黄岩礁海域", "time": "2015-12"},
+  {"tuple_id": "M050_s001_t002", "subject": ["中国海警", "中国海上民兵"], "relation": "实施海上包围与拦截", "object": "菲律宾政府", "location": "仁爱礁", "time": "2016-06"},
+  {"tuple_id": "M050_s001_t001", "subject": "菲律宾政府", "relation": "释放对中国海上灰色地带行动的抗议信号", "object": "中国国家主体", "location": "南海海域", "time": "2016-06"},
+  {"tuple_id": "M050_s002_t002", "subject": "中国海上民兵", "relation": "与海警协同行动", "object": "中国海警", "location": "南海海域", "time": "2016-06"},
+  {"tuple_id": "M050_s002_t001", "subject": "菲律宾政府", "relation": "释放对中国海上民兵性质的指控信号", "object": "中国海上民兵", "location": "南海海域", "time": "2016-06"},
+  {"tuple_id": "M050_s003_t001", "subject": "中国外交部发言人", "relation": "释放否认海上民兵指控的抗议信号", "object": "菲律宾政府", "location": null, "time": "2016-06"},
+  {"tuple_id": "M050_s004_t002", "subject": "中国海上民兵", "relation": "实施海上撞击和拖曳", "object": "菲律宾船只", "location": "仁爱礁附近海域", "time": "2016-06"},
+  {"tuple_id": "M050_s004_t001", "subject": "菲律宾政府", "relation": "释放对海上危险行为的抗议信号", "object": "中国海上民兵", "location": "仁爱礁附近海域", "time": "2016-06"},
+  {"tuple_id": "M050_s006_t001", "subject": "中国国家主体", "relation": "释放对中方指控的反驳信号", "object": "菲律宾政府", "location": null, "time": "2016-06"}
+]

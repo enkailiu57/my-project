@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "NE003_s001_t001", "subject": "美国参议员", "relation": "提出涉台立法提案", "object": ["台湾地区当局", "中国国家主体"], "location": null, "time": "2022-06"},
+  {"tuple_id": "NE003_s002_t001", "subject": "美国政府", "relation": "计划实施经济制裁", "object": "中国国家主体", "location": null, "time": "2022-06"},
+  {"tuple_id": "NE003_s002_t002", "subject": "美国政府", "relation": "计划提供军事经济援助", "object": "台湾地区当局", "location": null, "time": "2022-06"},
+  {"tuple_id": "NE003_s002_t003", "subject": "美国政府", "relation": "计划提升盟友地位", "object": "台湾地区当局", "location": null, "time": "2022-06"},
+  {"tuple_id": "NE003_s002_t004", "subject": "美国政府", "relation": "计划提升外交机构名义地位", "object": "台湾地区当局", "location": null, "time": "2022-06"}
+]

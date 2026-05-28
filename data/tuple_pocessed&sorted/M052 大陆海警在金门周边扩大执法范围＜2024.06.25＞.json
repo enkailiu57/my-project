@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "M052_s001_t001", "subject": "中国海警", "relation": "开展海上执法巡查", "object": "台湾地区当局", "location": "厦金海域", "time": "2024-02"},
+  {"tuple_id": "M052_s002_t001", "subject": "中国海警", "relation": "实施海警执法巡航", "object": "台湾地区当局", "location": "金门周边海域", "time": "2024-04"},
+  {"tuple_id": "M052_s003_t001", "subject": "中国海警", "relation": "开展高频次广覆盖执法巡查", "object": "台湾地区当局", "location": "金门周边海域", "time": "2024-04/2024-05"},
+  {"tuple_id": "M052_s004_t001", "subject": "中国海警", "relation": "实施海警执法巡航", "object": "台湾地区当局", "location": "金门周边海域", "time": "2024-06"},
+  {"tuple_id": "M052_s007_t001", "subject": "美国国防部", "relation": "宣布对台军售计划", "object": "台湾地区当局", "location": null, "time": "2024-06"},
+  {"tuple_id": "M052_s009_t001", "subject": "中国国家主体", "relation": "实施惩治台独分裂行为的法律反制", "object": "台独顽固分子", "location": "台湾海峡及金门附近海域", "time": "2024-06"}
+]

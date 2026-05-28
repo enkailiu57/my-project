@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "P026_s001_t001", "subject": "台湾地区当局", "relation": "举行高层外交会谈", "object": "中国国家主体", "location": null, "time": "1993-04"},
+  {"tuple_id": "P026_s006_t001", "subject": "中国国家主体", "relation": "发出高层会面邀请", "object": "台湾地区当局", "location": null, "time": "2015-11"},
+  {"tuple_id": "P026_s002_t001", "subject": "台湾地区当局", "relation": "向美方通报两岸高层互动计划", "object": "美国政府", "location": null, "time": "2015-11"},
+  {"tuple_id": "P026_s004_t001", "subject": "台湾地区官方发言人", "relation": "释放确认高层会面的政治信号", "object": "中国国家主体", "location": null, "time": "2015-11"},
+  {"tuple_id": "P026_s005_t001", "subject": "中共中央台湾工作办公室", "relation": "发布两岸高层会面消息", "object": "台湾地区当局", "location": null, "time": "2015-11"},
+  {"tuple_id": "P026_s004_t002", "subject": ["台湾地区领导人", "中国国家主体领导人"], "relation": "举行高层政治会晤", "object": ["中国国家主体领导人", "台湾地区领导人"], "location": null, "time": "2015-11"},
+  {"tuple_id": "P026_s005_t002", "subject": ["中国国家主体", "台湾地区当局"], "relation": "举行高层政治会面", "object": ["中国国家主体", "台湾地区当局"], "location": ["新加坡", null], "time": "2015-11"},
+  {"tuple_id": "P026_s009_t001", "subject": "马英九", "relation": "访问中国大陆", "object": "中国国家主体", "location": null, "time": "2023-03"}
+]

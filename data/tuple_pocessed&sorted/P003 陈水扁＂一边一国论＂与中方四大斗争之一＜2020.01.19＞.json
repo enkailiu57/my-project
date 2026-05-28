@@ -1,0 +1,4 @@
+[
+  {"tuple_id": "P003_s001_t001", "subject": "台湾地区领导人", "relation": "释放分裂国家与推行台独的政治信号", "object": "中国国家主体", "location": null, "time": "2002-08"},
+  {"tuple_id": "P003_s002_t001", "subject": "中国官方媒体", "relation": "释放对破坏台海和平稳定的警告信号", "object": "台湾地区当局", "location": null, "time": "2002-08"}
+]

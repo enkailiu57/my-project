@@ -1,0 +1,14 @@
+[
+  {"tuple_id": "E023_s001_t001", "subject": "台湾地区当局", "relation": "采购军事装备", "object": "美国政府", "location": null, "time": "2018"},
+  {"tuple_id": "E023_s002_t001", "subject": "美国政府", "relation": "批准对台军售", "object": "台湾地区当局", "location": null, "time": "2020"},
+  {"tuple_id": "E023_s003_t001", "subject": "美国国务院", "relation": "批准对台军售", "object": "台湾地区当局", "location": null, "time": "2023-10"},
+  {"tuple_id": "E023_s004_t001", "subject": "美国政府", "relation": "批准对台军售", "object": "台湾地区当局", "location": null, "time": "2023-10"},
+  {"tuple_id": "E023_s005_t001", "subject": "美国政府", "relation": "释放支持台湾安全的政治信号", "object": "台湾地区当局", "location": null, "time": "2023-10"},
+  {"tuple_id": "E023_s006_t001", "subject": "台湾地区当局", "relation": "释放对美台军事合作的欢迎信号", "object": "美国政府", "location": null, "time": "2023-10"},
+  {"tuple_id": "E023_s007_t001", "subject": "台湾地区军方", "relation": "计划扩充反舰导弹部队编制", "object": "海峰大队", "location": null, "time": "2023-10"},
+  {"tuple_id": "E023_s011_t003", "subject": "中国外交部发言人", "relation": "释放对对台军售的抗议信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2023-10-18"},
+  {"tuple_id": "E023_s009_t001", "subject": "中国国防部发言人", "relation": "释放对对台军售的抗议信号", "object": "美国政府", "location": null, "time": "2023-10"},
+  {"tuple_id": "E023_s010_t001", "subject": "中国国家主体", "relation": "释放对对台军售的抗议信号", "object": "美国政府", "location": null, "time": "2023-10"},
+  {"tuple_id": "E023_s011_t001", "subject": "美国政府", "relation": "维持美台军事联系", "object": "台湾地区当局", "location": null, "time": "2023-10"},
+  {"tuple_id": "E023_s011_t002", "subject": "美国政府", "relation": "对台军售", "object": "台湾地区当局", "location": null, "time": "2023-10"}
+]

@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "E025_s001_t001", "subject": "美国国务院", "relation": "批准对台军售", "object": "台湾地区当局", "location": null, "time": "2024-10"},
+  {"tuple_id": "E025_s002_t001", "subject": "中国外交部发言人", "relation": "释放对对台军售的抗议信号", "object": "美国政府", "location": null, "time": "2024-10"},
+  {"tuple_id": "E025_s002_t002", "subject": "中国外交部发言人", "relation": "提出严正外交交涉", "object": "美国政府", "location": null, "time": "2024-10"},
+  {"tuple_id": "E025_s004_t002", "subject": "中国国家主体", "relation": "释放将采取必要反制措施的威慑信号", "object": "美国政府", "location": null, "time": "2024-10"},
+  {"tuple_id": "E025_s006_t001", "subject": "中国国台办发言人", "relation": "释放对对台军售的抗议信号", "object": "美国政府", "location": null, "time": "2024-10"},
+  {"tuple_id": "E025_s005_t001", "subject": "中国国台办发言人", "relation": "释放对对台军售的抗议信号", "object": "美国政府", "location": null, "time": "2024-11"},
+  {"tuple_id": "E025_s007_t002", "subject": "台湾地区当局", "relation": "寻求外部军事支持以谋求分裂", "object": "美国政府", "location": null, "time": "2024-11"},
+  {"tuple_id": "E025_s007_t003", "subject": "台湾地区当局", "relation": "加剧两岸军事政治对抗", "object": "中国国家主体", "location": null, "time": "2024-11"},
+  {"tuple_id": "E025_s007_t001", "subject": "中国国台办发言人", "relation": "释放对倚美谋独行径的谴责信号", "object": "台湾地区当局", "location": null, "time": "2024-11"}
+]

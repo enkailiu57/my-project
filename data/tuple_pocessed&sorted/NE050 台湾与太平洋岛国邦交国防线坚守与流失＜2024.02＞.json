@@ -1,0 +1,20 @@
+[
+  {"tuple_id": "NE050_s001_t001", "subject": "所罗门群岛政府", "relation": "终止外交关系", "object": "台湾地区当局", "location": null, "time": "2019-09"},
+  {"tuple_id": "NE050_s001_t002", "subject": "所罗门群岛政府", "relation": "建立外交关系", "object": "中国国家主体", "location": null, "time": "2019-09"},
+  {"tuple_id": "NE050_s002_t001", "subject": "中国外交部发言人", "relation": "释放对承认一个中国原则及断交复交决定的赞赏信号", "object": "所罗门群岛政府", "location": null, "time": "2019-09"},
+  {"tuple_id": "NE050_s003_t001", "subject": "基里巴斯政府", "relation": "宣布与台湾地区断绝外交关系", "object": "台湾地区当局", "location": null, "time": "2019-09"},
+  {"tuple_id": "NE050_s003_t002", "subject": "基里巴斯政府", "relation": "宣布与中华人民共和国建立外交关系", "object": "中国国家主体", "location": null, "time": "2019-09"},
+  {"tuple_id": "NE050_s004_t001", "subject": "中国国家主体", "relation": "签署恢复外交关系联合公报", "object": "基里巴斯政府", "location": null, "time": "2019-09"},
+  {"tuple_id": "NE050_s004_t002", "subject": "中国国家主体", "relation": "恢复大使级外交关系", "object": "基里巴斯政府", "location": null, "time": "2019-09"},
+  {"tuple_id": "NE050_s005_t001", "subject": "中国外交部发言人", "relation": "释放支持一个中国原则的政治信号", "object": "国际社会", "location": null, "time": "2019-09"},
+  {"tuple_id": "NE050_s007_t001", "subject": "诺鲁政府", "relation": "释放支持一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "2024-01"},
+  {"tuple_id": "NE050_s007_t002", "subject": "诺鲁政府", "relation": "宣布与台湾地区断绝外交关系", "object": "台湾地区当局", "location": null, "time": "2024-01"},
+  {"tuple_id": "NE050_s013_t001", "subject": "美国政府", "relation": "进行外交游说", "object": "诺鲁政府", "location": null, "time": "2024-01"},
+  {"tuple_id": "NE050_s009_t001", "subject": "图瓦卢政府", "relation": "释放重新检讨外交路线的政治信号", "object": "台湾地区当局", "location": null, "time": "2024-01"},
+  {"tuple_id": "NE050_s011_t001", "subject": "美国政府", "relation": "增加对外援助承诺", "object": "南太平洋岛国政府", "location": null, "time": "2024-02"},
+  {"tuple_id": "NE050_s011_t002", "subject": "美国政府", "relation": "试图维持台湾当局外交关系", "object": "台湾地区当局", "location": null, "time": "2024-02"},
+  {"tuple_id": "NE050_s012_t002", "subject": ["帕劳政府", "马绍尔群岛政府"], "relation": "计划转向与中国建交", "object": "中国国家主体", "location": null, "time": "2024-02"},
+  {"tuple_id": "NE050_s012_t001", "subject": "美国政客", "relation": "施加政治压力", "object": "美国政府", "location": null, "time": "2024-02"},
+  {"tuple_id": "NE050_s014_t001", "subject": "中国国台办发言人", "relation": "释放支持一个中国原则的政治信号", "object": ["诺鲁政府", "美国政府", "台湾地区当局"], "location": null, "time": "2024-02"},
+  {"tuple_id": "NE050_s016_t001", "subject": "诺鲁政府", "relation": "释放呼吁转向一个中国原则的外交信号", "object": "台湾地区邦交国", "location": null, "time": "2024-02"}
+]

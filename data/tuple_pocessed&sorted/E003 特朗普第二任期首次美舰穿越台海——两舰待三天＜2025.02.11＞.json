@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "E003_s005_t001", "subject": "美国政府", "relation": "批准对台军售", "object": "台湾地区当局", "location": null, "time": "2025"},
+  {"tuple_id": "E003_s001_t001", "subject": "美国海军军舰", "relation": "过航台湾海峡并长时间逗留", "object": "中国国家主体", "location": "台湾海峡", "time": "2025-02"},
+  {"tuple_id": "E003_s002_t001", "subject": "中国人民解放军东部战区", "relation": "实施海空跟监警戒", "object": "美国海军军舰", "location": "台湾海峡", "time": "2025-02"},
+  {"tuple_id": "E003_s003_t001", "subject": "中国人民解放军东部战区发言人", "relation": "释放对美加军舰过航的抗议信号", "object": "美国政府", "location": null, "time": "2025-02"},
+  {"tuple_id": "E003_s007_t001", "subject": "中国人民解放军海军", "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-02"},
+  {"tuple_id": "E003_s007_t002", "subject": "中国人民解放军海军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-02"},
+  {"tuple_id": "E003_s009_t001", "subject": "美国国防部长", "relation": "渲染外部威胁", "object": "中国国家主体", "location": null, "time": "2025-02"},
+  {"tuple_id": "E003_s009_t002", "subject": "美国国防部长", "relation": "释放管控竞争避免冲突的信号", "object": "中国国家主体", "location": null, "time": "2025-02"}
+]

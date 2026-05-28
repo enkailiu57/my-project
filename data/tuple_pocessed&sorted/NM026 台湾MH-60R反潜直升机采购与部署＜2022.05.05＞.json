@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "NM026_s001_t001", "subject": "台湾地区军方", "relation": "向美国采购军事装备", "object": "美国政府", "location": null, "time": "2015-10"},
+  {"tuple_id": "NM026_s002_t001", "subject": "台湾地区海军", "relation": "向美国采购军事装备", "object": "美军", "location": null, "time": "2015-10"},
+  {"tuple_id": "NM026_s004_t001", "subject": "台湾国防部发言人", "relation": "释放军购选项保留多元性的信号", "object": "美国政府", "location": null, "time": "2015-10"},
+  {"tuple_id": "NM026_s005_t001", "subject": "台湾地区军方", "relation": "计划加强特定海域反潜兵力", "object": "中国国家主体", "location": "台湾东部海域", "time": "2015-10"},
+  {"tuple_id": "NM026_s006_t001", "subject": "台湾地区防务部门", "relation": "证实军购计划终止", "object": "台湾地区军方", "location": null, "time": "2022-05"},
+  {"tuple_id": "NM026_s006_t002", "subject": "台湾地区军方", "relation": "终止向美方采购军事装备", "object": "美国政府", "location": null, "time": "2022-05"},
+  {"tuple_id": "NM026_s011_t001", "subject": "美国政府", "relation": "终止对台军售计划", "object": "台湾地区当局", "location": null, "time": "2022"},
+  {"tuple_id": "NM026_s012_t001", "subject": "美国政府", "relation": "对台军售", "object": "台湾地区当局", "location": null, "time": "2022-05"},
+  {"tuple_id": "NM026_s012_t002", "subject": "中国国台办发言人", "relation": "释放要求停止对台军售及军事联系的抗议信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2022-05"}
+]

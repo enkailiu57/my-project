@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "I024_s003_t001", "subject": "个别国家", "relation": "提出分裂中国代表权的政治提案", "object": "中国国家主体", "location": null, "time": "1971"},
+  {"tuple_id": "I024_s001_t001", "subject": "联合国大会", "relation": "恢复合法席位", "object": "中国国家主体", "location": null, "time": "1971-10"},
+  {"tuple_id": "I024_s002_t002", "subject": "联合国大会", "relation": "驱逐代表", "object": "台湾地区当局", "location": null, "time": "1971-10"},
+  {"tuple_id": "I024_s005_t001", "subject": "联合国秘书处", "relation": "释放确认台湾属于中国省份的法律信号", "object": "台湾地区当局", "location": null, "time": "1971-10"},
+  {"tuple_id": "I024_s004_t001", "subject": "联合国系统各机构", "relation": "驱逐代表", "object": "台湾地区当局", "location": null, "time": "1971/1972"},
+  {"tuple_id": "I024_s004_t002", "subject": "联合国系统各机构", "relation": "恢复合法席位", "object": "中国国家主体", "location": null, "time": "1971/1972"},
+  {"tuple_id": "I024_s008_t001", "subject": "中国外交部", "relation": "发布重申一个中国原则的立场文件", "object": "国际社会", "location": null, "time": "2025-09"}
+]

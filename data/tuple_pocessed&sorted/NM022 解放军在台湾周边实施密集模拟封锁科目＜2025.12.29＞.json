@@ -1,0 +1,16 @@
+[
+  {"tuple_id": "NM022_s001_t001", "subject": "中国海军山东舰航母编队", "relation": "组织环台岛战备警巡与联合军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2023-04"},
+  {"tuple_id": "NM022_s002_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-05"},
+  {"tuple_id": "NM022_s003_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-10"},
+  {"tuple_id": "NM022_s006_t002", "subject": "台湾地区军方", "relation": "实施军事监侦", "object": "中国海军山东舰航母编队", "location": "台海周边海空域", "time": "2025-03"},
+  {"tuple_id": "NM022_s004_t002", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-04"},
+  {"tuple_id": "NM022_s006_t003", "subject": "中国海军山东舰航母编队", "relation": "进入对方军事管控区域", "object": "台湾地区军方", "location": "台湾应变区域", "time": "2025-04"},
+  {"tuple_id": "NM022_s004_t001", "subject": "中国人民解放军东部战区", "relation": "发布军事演训公告", "object": "国际社会", "location": null, "time": "2025-04"},
+  {"tuple_id": "NM022_s006_t001", "subject": "台湾地区防务部门", "relation": "发布军事动态通报", "object": "中国国家主体", "location": null, "time": "2025-04"},
+  {"tuple_id": "NM022_s008_t002", "subject": "中国海警", "relation": "开展台岛周边海域执法演练", "object": "台湾地区当局", "location": "台岛周边海域", "time": "2025-04-01"},
+  {"tuple_id": "NM022_s008_t001", "subject": "中国海警", "relation": "通报海警在台海方向的执法与演训动态", "object": "台湾地区当局", "location": "台岛周边海域", "time": "2025-04-01"},
+  {"tuple_id": "NM022_s009_t001", "subject": "美国政府", "relation": "宣布对台军售计划", "object": "台湾地区当局", "location": null, "time": "2025-12"},
+  {"tuple_id": "NM022_s010_t001", "subject": "中国外交部发言人", "relation": "释放台湾问题不可干涉的底线信号", "object": "美国政府", "location": null, "time": "2025-12"},
+  {"tuple_id": "NM022_s011_t001", "subject": "中国外交部", "relation": "宣布对美方实施制裁", "object": ["美国军工企业", "美国军工企业高级管理人员"], "location": null, "time": "2025-12"},
+  {"tuple_id": "NM022_s012_t001", "subject": ["中国人民解放军东部战区", "中国人民解放军东部战区发言人"], "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": ["台岛周边海空域", null], "time": "2025-12"}
+]

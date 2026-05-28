@@ -1,0 +1,16 @@
+[
+  {"tuple_id": "NE039_s001_t001", "subject": "美国政府", "relation": "释放支持台湾自我防卫能力的政治信号", "object": "台湾地区当局", "location": null, "time": "2017"},
+  {"tuple_id": "NE039_s002_t001", "subject": "台湾地区领导人", "relation": "举行高层政治会晤", "object": "美国在台协会高层", "location": null, "time": "2017-12"},
+  {"tuple_id": "NE039_s002_t002", "subject": "台湾地区领导人", "relation": "寻求加入美国主导的地缘战略", "object": "美国政府", "location": null, "time": "2017-12"},
+  {"tuple_id": "NE039_s003_t001", "subject": "美国国防部", "relation": "释放将台湾纳入印太战略的政治信号", "object": "台湾地区当局", "location": null, "time": "2018-07"},
+  {"tuple_id": "NE039_s005_t001", "subject": "台湾地区领导人", "relation": "释放提升台湾地缘战略地位的积极信号", "object": "美国政府", "location": null, "time": "2018-10"},
+  {"tuple_id": "NE039_s004_t001", "subject": "美国国会", "relation": "通过立法将台湾纳入印太战略", "object": "台湾地区当局", "location": null, "time": "2018-12"},
+  {"tuple_id": "NE039_s006_t001", "subject": "台湾地区领导人", "relation": "进行高层外交访问", "object": "南太平洋岛国政府", "location": null, "time": "2019-03"},
+  {"tuple_id": "NE039_s006_t002", "subject": "台湾地区领导人", "relation": "释放强化美台关系的友好信号", "object": "美国政府", "location": null, "time": "2019-03"},
+  {"tuple_id": "NE039_s007_t001", "subject": ["美国政府", "台湾地区当局"], "relation": "建立双边政治对话机制", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2019-04"},
+  {"tuple_id": "NE039_s009_t001", "subject": "美国国防部", "relation": "释放强化美台安全伙伴关系的政治信号", "object": "台湾地区当局", "location": null, "time": "2019-06"},
+  {"tuple_id": "NE039_s007_t002", "subject": ["美国政府", "台湾地区当局"], "relation": "计划举行高层政治对话", "object": ["美国政府", "台湾地区当局"], "location": "台北", "time": "2019-09"},
+  {"tuple_id": "NE039_s010_t001", "subject": "美国政府", "relation": "释放将中国塑造为安全威胁的政治信号", "object": "中国国家主体", "location": null, "time": "2019"},
+  {"tuple_id": "NE039_s010_t002", "subject": "美国政府", "relation": "支持对台军售", "object": "台湾地区当局", "location": null, "time": "2019"},
+  {"tuple_id": "NE039_s011_t001", "subject": "美国军方高层", "relation": "释放强化美台军事联系的信号", "object": "台湾地区军方", "location": null, "time": "2019"}
+]

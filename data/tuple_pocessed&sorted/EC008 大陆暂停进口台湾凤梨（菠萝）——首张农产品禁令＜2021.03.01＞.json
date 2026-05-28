@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "EC008_s002_t001", "subject": "中国海关", "relation": "暂停进口特定农产品", "object": "台湾地区当局", "location": null, "time": "2021-03"},
+  {"tuple_id": "EC008_s004_t001", "subject": "中国国家主体", "relation": "暂停进口特定农产品", "object": "台湾地区当局", "location": null, "time": "2021-03"},
+  {"tuple_id": "EC008_s003_t001", "subject": "中国国台办发言人", "relation": "释放对贸易限制举措正当性的辩护信号", "object": "台湾地区当局", "location": null, "time": "2021-03"},
+  {"tuple_id": "EC008_s004_t002", "subject": "台湾地区农业主管部门", "relation": "释放对贸易限制措施的抗议信号", "object": "中国国家主体", "location": null, "time": "2021-03"},
+  {"tuple_id": "EC008_s005_t001", "subject": "台湾地区领导人", "relation": "释放对贸易限制措施的抗议信号", "object": "中国国家主体", "location": null, "time": "2021-03"}
+]

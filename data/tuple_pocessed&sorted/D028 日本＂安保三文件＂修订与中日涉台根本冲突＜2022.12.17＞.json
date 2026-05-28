@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "D028_s005_t001", "subject": "日本政府", "relation": "计划大幅提升防卫开支", "object": "中国国家主体", "location": null, "time": "2022-10"},
+  {"tuple_id": "D028_s001_t001", "subject": "日本政府", "relation": "通过国家安全保障战略文件", "object": "中国国家主体", "location": null, "time": "2022-12"},
+  {"tuple_id": "D028_s003_t001", "subject": "日本政府", "relation": "释放将中国定性为系统性挑战的政治信号", "object": "中国国家主体", "location": null, "time": "2022-12"},
+  {"tuple_id": "D028_s004_t001", "subject": "日本政府", "relation": "计划大幅提升防卫开支", "object": "中国国家主体", "location": null, "time": "2022-12"},
+  {"tuple_id": "D028_s009_t002", "subject": "日本政府", "relation": "强化反击军事能力", "object": "中国国家主体", "location": null, "time": "2022-12"},
+  {"tuple_id": "D028_s006_t001", "subject": "中国国家主体", "relation": "释放对日本安保政策调整的抗议信号", "object": "日本政府", "location": null, "time": "2022-12"},
+  {"tuple_id": "D028_s007_t001", "subject": "中国国家主体", "relation": "释放对干涉内政及军国主义倾向的抗议与警告信号", "object": "日本政府", "location": null, "time": "2022-12"},
+  {"tuple_id": "D028_s010_t001", "subject": "中国国家主体", "relation": "释放要求停止扩军并回归政治共识的外交信号", "object": "日本政府", "location": null, "time": "2022-12"}
+]

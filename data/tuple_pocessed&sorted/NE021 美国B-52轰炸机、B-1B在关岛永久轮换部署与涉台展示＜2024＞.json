@@ -1,0 +1,16 @@
+[
+  {"tuple_id": "NE021_s001_t001", "subject": "美国空军", "relation": "实施南海军事巡航与演练", "object": "中国国家主体", "location": "南海海域", "time": "2020"},
+  {"tuple_id": "NE021_s002_t001", "subject": "美国空军轰炸机", "relation": "实施南海军事巡航与演练", "object": "中国国家主体", "location": "南海海域", "time": "2020"},
+  {"tuple_id": "NE021_s003_t001", "subject": "美国空军轰炸机", "relation": "开辟南海军事巡航新航线", "object": "中国国家主体", "location": "南海及苏禄海上空", "time": "2020"},
+  {"tuple_id": "NE021_s003_t002", "subject": "美国空军轰炸机", "relation": "实施双机南北夹击式进入", "object": "中国国家主体", "location": "南海海域", "time": "2020"},
+  {"tuple_id": "NE021_s005_t001", "subject": "美国空军", "relation": "结束军事部署", "object": "中国国家主体", "location": "关岛", "time": "2020-04"},
+  {"tuple_id": "NE021_s005_t002", "subject": "美军", "relation": "实施动态兵力部署", "object": "中国国家主体", "location": "西太平洋地区", "time": "2020-04"},
+  {"tuple_id": "NE021_s006_t001", "subject": "美国空军", "relation": "实施空中战略巡航", "object": "中国国家主体", "location": "南海海域", "time": "2020-04"},
+  {"tuple_id": "NE021_s007_t001", "subject": "美国空军", "relation": "实施空中战略巡航", "object": "中国国家主体", "location": "南海海域", "time": "2020-05"},
+  {"tuple_id": "NE021_s004_t001", "subject": "美国空军", "relation": "实施南海军事巡航与演练", "object": "中国国家主体", "location": "中国西沙群岛附近海域上空", "time": "2020-12"},
+  {"tuple_id": "NE021_s008_t001", "subject": "美国空军", "relation": "实施空中战略巡航", "object": "中国国家主体", "location": "西太平洋地区", "time": "2023"},
+  {"tuple_id": "NE021_s009_t001", "subject": "美国政府", "relation": "在关岛建立永久轰炸机部队", "object": "中国国家主体", "location": "关岛", "time": "2024"},
+  {"tuple_id": "NE021_s009_t002", "subject": "美国军方", "relation": "在台湾以东太平洋执行远程飞行", "object": "中国国家主体", "location": "台岛以东海空域", "time": "2024"},
+  {"tuple_id": "NE021_s009_t003", "subject": ["美国军方", "日本自卫队", "澳大利亚军方"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": "台岛以东海空域", "time": "2024"},
+  {"tuple_id": "NE021_s009_t004", "subject": "中国外交部", "relation": "释放反对军事挑衅的抗议信号", "object": "美国政府", "location": null, "time": "2024"}
+]

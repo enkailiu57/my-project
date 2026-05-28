@@ -1,0 +1,5 @@
+[
+  {"tuple_id": "E039_s003_t001", "subject": "美国前政府官员", "relation": "建议扩大在台半官方机构规模", "object": "美国国务院", "location": "台湾地区", "time": "2019-04"},
+  {"tuple_id": "E039_s001_t001", "subject": "美国国会", "relation": "举行涉台政策听证会", "object": "台湾地区当局", "location": null, "time": "2019-05"},
+  {"tuple_id": "E039_s009_t001", "subject": "美国海军陆战队", "relation": "实施军事驻守", "object": "美国在台协会台北办事处", "location": "台湾", "time": "2019"}
+]

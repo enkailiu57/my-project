@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "EC016_s001_t001", "subject": "美国政府", "relation": "实施芯片出口管制", "object": "中国国家主体", "location": null, "time": "2018"},
+  {"tuple_id": "EC016_s002_t001", "subject": "美国商务部", "relation": "将实体列入出口管制清单", "object": "华为", "location": null, "time": "2019-05"},
+  {"tuple_id": "EC016_s002_t002", "subject": "美国商务部", "relation": "实施出口许可限制", "object": "全球供应商", "location": null, "time": "2019-05"},
+  {"tuple_id": "EC016_s003_t001", "subject": "美国商务部", "relation": "实施芯片出口管制", "object": "中国相关企业", "location": null, "time": "2020-05"},
+  {"tuple_id": "EC016_s004_t001", "subject": "台积电", "relation": "停止接受新订单", "object": "华为", "location": null, "time": "2020-05"},
+  {"tuple_id": "EC016_s004_t002", "subject": "台积电", "relation": "彻底断供", "object": "华为", "location": null, "time": "2020-09-15"},
+  {"tuple_id": "EC016_s013_t001", "subject": "美国政府", "relation": "实施产业补贴以吸引外资", "object": "外国半导体企业", "location": null, "time": "2022-08"},
+  {"tuple_id": "EC016_s008_t001", "subject": "中国大陆科技企业", "relation": "取消芯片采购订单", "object": "台积电", "location": null, "time": "2023-02"},
+  {"tuple_id": "EC016_s022_t001", "subject": "德国政府", "relation": "提供附带条件的财政支持", "object": "台积电", "location": "德国", "time": "2023"}
+]

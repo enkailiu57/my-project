@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "D007_s004_t001", "subject": "危地马拉政府", "relation": "发出高层外交访问邀请", "object": "台湾地区当局", "location": null, "time": "2022-09"},
+  {"tuple_id": "D007_s001_t001", "subject": "美国国会众议院议长", "relation": "计划与美国国会高层政要会面", "object": "台湾地区领导人", "location": null, "time": "2023-03"},
+  {"tuple_id": "D007_s002_t002", "subject": "台湾地区领导人", "relation": "计划访问友邦", "object": ["危地马拉政府", "伯利兹政府"], "location": null, "time": "2023-03"},
+  {"tuple_id": "D007_s002_t003", "subject": "台湾地区领导人", "relation": "计划过境美国", "object": "美国政府", "location": null, "time": "2023-03"},
+  {"tuple_id": "D007_s002_t001", "subject": "台湾地区当局", "relation": "进行政治访问并过境", "object": "国际社会", "location": null, "time": "2023-03"},
+  {"tuple_id": "D007_s007_t001", "subject": "台湾地区领导人", "relation": "举行高层政治会谈", "object": "美国国会高层政要", "location": null, "time": "2023-03"},
+  {"tuple_id": "D007_s008_t001", "subject": "中国外交部发言人", "relation": "释放反对美台官方往来的抗议信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2023-03"},
+  {"tuple_id": "D007_s009_t001", "subject": "中国国家主体", "relation": "释放反对美台官方往来的抗议信号", "object": "美国政府", "location": null, "time": "2023-03"}
+]

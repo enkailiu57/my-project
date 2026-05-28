@@ -1,0 +1,15 @@
+[
+  {"tuple_id": "NM009_s001_t001", "subject": "台湾地区立法机构", "relation": "通过军事动员立法", "object": "台湾地区当局", "location": null, "time": "2021-05"},
+  {"tuple_id": "NM009_s003_t001", "subject": "台湾地区防务部门", "relation": "启动后备力量改革计划", "object": "台湾地区后备军事力量", "location": null, "time": "2021-05"},
+  {"tuple_id": "NM009_s004_t001", "subject": "台湾地区军方", "relation": "实施后备军官短期强化训练", "object": "台湾地区后备军事力量", "location": null, "time": "2025-07"},
+  {"tuple_id": "NM009_s005_t001", "subject": "台湾地区防务部门", "relation": "计划扩大后备动员范围", "object": "台湾民间宗教团体义勇", "location": null, "time": "2025"},
+  {"tuple_id": "NM009_s006_t001", "subject": "台湾地区领导人", "relation": "设立军事动员协调机构", "object": "全社会防卫韧性委员会", "location": null, "time": "2024-09"},
+  {"tuple_id": "NM009_s006_t002", "subject": "台湾地区领导人", "relation": "释放支持军事行动的备战信号", "object": "中国国家主体", "location": null, "time": "2024-09"},
+  {"tuple_id": "NM009_s007_t001", "subject": "台湾地区当局", "relation": "计划培训民防后备力量", "object": "台湾民众", "location": null, "time": "2024-09"},
+  {"tuple_id": "NM009_s012_t001", "subject": "台湾地区防务部门", "relation": "释放强化民力军事动员的信号", "object": "台湾地区后备民力", "location": null, "time": "2024-09"},
+  {"tuple_id": "NM009_s008_t001", "subject": "台湾地区领导人", "relation": "设定军事演练计划", "object": "全社会防卫韧性委员会", "location": null, "time": "2024-12"},
+  {"tuple_id": "NM009_s014_t001", "subject": "台湾地区领导人", "relation": "计划培训民防后备力量", "object": "台湾地区后备民力", "location": null, "time": "2025-07"},
+  {"tuple_id": "NM009_s014_t002", "subject": "台湾地区领导人", "relation": "释放拒绝签署和平协议的强硬信号", "object": "中国国家主体", "location": null, "time": "2025-07"},
+  {"tuple_id": "NM009_s016_t001", "subject": "台湾地区当局", "relation": "实施城镇韧性演习", "object": "中国国家主体", "location": "台湾地区", "time": "2025-07"},
+  {"tuple_id": "NM009_s017_t001", "subject": "台湾地区领导人", "relation": "视导军事民防演习", "object": "城镇韧性演习", "location": "台北", "time": "2025-07"}
+]

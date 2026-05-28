@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "I003_s001_t001", "subject": "清政府", "relation": "建立领事级外交关系", "object": "巴拿马政府", "location": null, "time": "1910-01"},
+  {"tuple_id": "I003_s002_t001", "subject": "巴拿马政府", "relation": "宣布与台湾地区断绝外交关系", "object": "台湾地区当局", "location": null, "time": "2017-06"},
+  {"tuple_id": "I003_s002_t002", "subject": "巴拿马政府", "relation": "宣布与中华人民共和国建立外交关系", "object": "中国国家主体", "location": null, "time": "2017-06"},
+  {"tuple_id": "I003_s003_t001", "subject": "中国外交部", "relation": "举行高层政治会谈", "object": "巴拿马政府", "location": null, "time": "2017-06"},
+  {"tuple_id": "I003_s003_t002", "subject": "中国国家主体", "relation": "建立大使级外交关系", "object": "巴拿马政府", "location": null, "time": "2017-06"},
+  {"tuple_id": "I003_s005_t001", "subject": "巴拿马政府", "relation": "释放支持一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "2017-06"},
+  {"tuple_id": "I003_s007_t001", "subject": "中国国家主体", "relation": "释放支持一个中国原则的政治信号", "object": "巴拿马政府", "location": null, "time": "2017-06"}
+]

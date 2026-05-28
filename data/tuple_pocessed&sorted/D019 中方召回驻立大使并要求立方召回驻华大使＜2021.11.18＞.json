@@ -1,0 +1,16 @@
+[
+  {"tuple_id": "D019_s001_t001", "subject": "立陶宛外交部", "relation": "释放对中国干预内政的指控信号", "object": "中国国家主体", "location": null, "time": "2021-08"},
+  {"tuple_id": "D019_s002_t001", "subject": "中国外交部", "relation": "进行外交交涉", "object": "立陶宛政府", "location": null, "time": "2021-08"},
+  {"tuple_id": "D019_s002_t002", "subject": "中国外交部", "relation": "召回驻外大使", "object": "立陶宛政府", "location": null, "time": "2021-08"},
+  {"tuple_id": "D019_s002_t003", "subject": "中国外交部", "relation": "要求对方召回驻华大使", "object": "立陶宛政府", "location": null, "time": "2021-08"},
+  {"tuple_id": "D019_s003_t001", "subject": "立陶宛外交部", "relation": "释放对中方外交施压的遗憾信号", "object": "中国国家主体", "location": null, "time": "2021-09"},
+  {"tuple_id": "D019_s003_t002", "subject": "立陶宛政府", "relation": "释放深化与台湾非官方关系的政治信号", "object": "台湾地区当局", "location": null, "time": "2021-09"},
+  {"tuple_id": "D019_s005_t002", "subject": "立陶宛政府", "relation": "释放恢复外交关系的沟通信号", "object": "中国国家主体", "location": null, "time": "2021-09"},
+  {"tuple_id": "D019_s005_t003", "subject": ["美国国务院", "欧盟"], "relation": "释放对立陶宛外交立场的支持信号", "object": "立陶宛政府", "location": null, "time": "2021-09"},
+  {"tuple_id": "D019_s006_t001", "subject": "立陶宛政府", "relation": "召回驻外大使", "object": "中国国家主体", "location": null, "time": "2021-09"},
+  {"tuple_id": "D019_s007_t001", "subject": "欧盟驻华代表团", "relation": "释放对立陶宛外交立场的支持信号", "object": "立陶宛驻华大使", "location": null, "time": "2021-09"},
+  {"tuple_id": "D019_s004_t001", "subject": "立陶宛总统", "relation": "释放要求撤销外交反制措施的信号", "object": "中国国家主体", "location": null, "time": "2021-11"},
+  {"tuple_id": "D019_s008_t001", "subject": "立陶宛政府", "relation": "允许设立台湾官方性质代表处", "object": "中国国家主体", "location": null, "time": "2021-11"},
+  {"tuple_id": "D019_s008_t002", "subject": "中国外交部发言人", "relation": "释放反对建交国与台湾官方往来的抗议信号", "object": "立陶宛政府", "location": null, "time": "2021-11"},
+  {"tuple_id": "D019_s009_t001", "subject": "立陶宛外交部", "relation": "释放坚持一个中国原则但扩大对台合作的复杂信号", "object": ["中国国家主体", "台湾地区当局"], "location": null, "time": "2021-11"}
+]

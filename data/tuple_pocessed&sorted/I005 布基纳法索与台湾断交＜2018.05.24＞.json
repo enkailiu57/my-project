@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "I005_s001_t001", "subject": "多米尼加政府", "relation": "终止外交关系", "object": "台湾地区当局", "location": null, "time": "2018-05"},
+  {"tuple_id": "I005_s006_t001", "subject": "台湾地区外事部门负责人", "relation": "释放邦交关系稳定的安抚信号", "object": "台湾地区邦交国", "location": null, "time": "2018-05"},
+  {"tuple_id": "I005_s003_t001", "subject": "布基纳法索政府", "relation": "宣布与台湾地区断绝外交关系", "object": "台湾地区当局", "location": null, "time": "2018-05"},
+  {"tuple_id": "I005_s004_t001", "subject": "中国外交部发言人", "relation": "释放对断交行为的外交赞赏信号", "object": "布基纳法索政府", "location": null, "time": "2018-05"},
+  {"tuple_id": "I005_s004_t002", "subject": "中国外交部发言人", "relation": "释放恢复对华外交关系的积极信号", "object": "布基纳法索政府", "location": null, "time": "2018-05"},
+  {"tuple_id": "I005_s005_t001", "subject": "台湾地区领导人", "relation": "释放指责外交打压的抗议信号", "object": "中国国家主体", "location": null, "time": "2018-05"}
+]

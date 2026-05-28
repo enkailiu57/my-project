@@ -1,0 +1,15 @@
+[
+  {"tuple_id": "M042_s001_t001", "subject": "美国海军", "relation": "部署航母战斗群至台海周边", "object": "中国国家主体", "location": "台湾东部海域", "time": "2023-04"},
+  {"tuple_id": "M042_s002_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2023-04"},
+  {"tuple_id": "M042_s002_t002", "subject": "美国海军", "relation": "采取减速并改变航向的战术机动", "object": "中国人民解放军", "location": "台海周边海空域", "time": "2023-04"},
+  {"tuple_id": "M042_s005_t001", "subject": "中国海军山东舰航母编队", "relation": "在台岛以东海域进行军事部署", "object": "台湾地区当局", "location": "台岛以东海域", "time": "2023-04"},
+  {"tuple_id": "M042_s005_t002", "subject": "中国人民解放军陆空火箭军兵力", "relation": "在台岛以西方向进行军事部署", "object": "台湾地区当局", "location": "台岛以西方向", "time": "2023-04"},
+  {"tuple_id": "M042_s008_t003", "subject": "中国人民解放军海军", "relation": "组建航母战斗群编队", "object": "台湾地区当局", "location": "宫古海峡", "time": "2023-04"},
+  {"tuple_id": "M042_s008_t002", "subject": "中国人民解放军海军", "relation": "实施舰载机起降", "object": "台湾地区当局", "location": "宫古海峡", "time": "2023-04"},
+  {"tuple_id": "M042_s008_t001", "subject": "日本自卫队", "relation": "实施军事监侦", "object": "中国人民解放军海军", "location": "宫古海峡", "time": "2023-04"},
+  {"tuple_id": "M042_s004_t003", "subject": ["中国人民解放军空军", "中国人民解放军海军"], "relation": "开展台岛周边军事演训", "object": "台湾地区防务部门", "location": "台海周边海空域", "time": "2023-04"},
+  {"tuple_id": "M042_s004_t002", "subject": "台湾地区防务部门", "relation": "实施军事监侦", "object": ["中国人民解放军空军", "中国人民解放军海军"], "location": "台海周边海空域", "time": "2023-04"},
+  {"tuple_id": "M042_s004_t001", "subject": "台湾地区防务部门", "relation": "发布军事动态通报", "object": "国际社会", "location": null, "time": "2023-04"},
+  {"tuple_id": "M042_s003_t001", "subject": "中国人民解放军东部战区", "relation": "发布针对台海局势的实战化军事推演视频", "object": ["台湾地区当局", "美国政府"], "location": null, "time": "2023-04"},
+  {"tuple_id": "M042_s006_t001", "subject": "中国人民解放军东部战区", "relation": "发布针对台海局势的实战化军事推演视频", "object": "台湾地区当局", "location": null, "time": "2023-04"}
+]

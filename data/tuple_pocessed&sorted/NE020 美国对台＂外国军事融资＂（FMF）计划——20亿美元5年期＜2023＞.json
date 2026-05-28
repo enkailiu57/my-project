@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "NE020_s001_t001", "subject": "美国国会", "relation": "授权对台军事援助与融资", "object": "台湾地区当局", "location": null, "time": "2023"},
+  {"tuple_id": "NE020_s002_t001", "subject": "美国政府", "relation": "批准对台军售", "object": "台湾地区当局", "location": null, "time": "2023-06"},
+  {"tuple_id": "NE020_s003_t001", "subject": "美国政府", "relation": "宣布对台军售计划", "object": "台湾地区当局", "location": null, "time": "2023-07"},
+  {"tuple_id": "NE020_s005_t001", "subject": "美国国防部发言人", "relation": "宣布对台军售计划", "object": "台湾地区当局", "location": null, "time": "2023-07"},
+  {"tuple_id": "NE020_s007_t001", "subject": "中国驻外使馆发言人", "relation": "释放要求停止对台军售及军事联系的抗议信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2023-07"}
+]

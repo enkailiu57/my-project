@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "P008_s001_t001", "subject": "中国国家主体", "relation": "释放缓和两岸军事对峙的政治信号", "object": "台湾地区当局", "location": null, "time": "1979-01"},
+  {"tuple_id": "P008_s002_t001", "subject": "中国国防部", "relation": "释放缓和两岸军事对峙的政治信号", "object": "台湾地区当局", "location": "金门群岛", "time": "1979-01"},
+  {"tuple_id": "P008_s002_t002", "subject": "中国人民解放军", "relation": "停止军事炮击行动", "object": "金门地区", "location": "金门群岛", "time": "1979-01"},
+  {"tuple_id": "P008_s003_t001", "subject": "中国国家主体", "relation": "举行高层政治会谈", "object": "美国政治学者", "location": null, "time": "1983-06"},
+  {"tuple_id": "P008_s003_t002", "subject": "中国国家主体", "relation": "释放对台高度自治的政策信号", "object": "台湾地区当局", "location": null, "time": "1983-06"}
+]

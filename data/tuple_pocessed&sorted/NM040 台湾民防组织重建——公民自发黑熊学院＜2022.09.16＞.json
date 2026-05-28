@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "NM040_s009_t001", "subject": "美国国际开发署", "relation": "提供资金资助", "object": "台湾民主实验室", "location": null, "time": "2017/2022"},
+  {"tuple_id": "NM040_s003_t001", "subject": "美国在台协会", "relation": "考察民间组织发展状况", "object": "黑熊学院", "location": null, "time": "2022"},
+  {"tuple_id": "NM040_s003_t002", "subject": "美国在台协会", "relation": "提供资金资助", "object": "沈伯洋", "location": null, "time": "2022"},
+  {"tuple_id": "NM040_s002_t001", "subject": "美国在台协会", "relation": "提供资金资助", "object": "黑熊学院", "location": null, "time": "2022-09"},
+  {"tuple_id": "NM040_s007_t001", "subject": "台湾地区政治人物", "relation": "释放挑衅性政治信号", "object": "中国国家主体", "location": null, "time": "2022"},
+  {"tuple_id": "NM040_s011_t001", "subject": "台湾地区在野党政治人物", "relation": "释放对违规行为的政治指控与调查呼吁信号", "object": "台湾地区民进党籍政治人物", "location": null, "time": "2022-09"}
+]

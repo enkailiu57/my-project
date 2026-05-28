@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "NM016_s001_t001", "subject": "外军驱逐舰", "relation": "实施抵近侦察与挑衅", "object": "中国人民解放军海军航母编队", "location": "远海海域", "time": "2021"},
+  {"tuple_id": "NM016_s001_t002", "subject": "中国海军055型驱逐舰", "relation": "实施军事反制", "object": "外军驱逐舰", "location": "远海海域", "time": "2021"},
+  {"tuple_id": "NM016_s002_t001", "subject": "中国人民解放军海军", "relation": "实施前出监控与威慑", "object": "外军航母战斗群", "location": "远海海域", "time": "2022"},
+  {"tuple_id": "NM016_s002_t002", "subject": "中国人民解放军海军", "relation": "采取驱离措施", "object": "外军航母战斗群", "location": "远海海域", "time": "2022"},
+  {"tuple_id": "NM016_s003_t001", "subject": "中国人民解放军海军", "relation": "实施跟踪监控与驱离", "object": "外军舰队", "location": "台岛周边海域", "time": "2022"},
+  {"tuple_id": "NM016_s006_t001", "subject": "中国人民解放军海军", "relation": "采取驱离措施", "object": "美国海军舰艇", "location": "台海周边海空域", "time": "2022"},
+  {"tuple_id": "NM016_s007_t001", "subject": "外军电子战飞机", "relation": "实施电子干扰", "object": "中国人民解放军舰艇", "location": "台海周边海空域", "time": "2022"},
+  {"tuple_id": "NM016_s007_t002", "subject": ["中国人民解放军舰艇", "中国人民解放军海军舰载机"], "relation": "实施电子对抗并驱离", "object": "外军电子战飞机", "location": "台海周边海空域", "time": "2022"}
+]

@@ -1,0 +1,17 @@
+[
+  {"tuple_id": "D013_s001_t001", "subject": "日本首相", "relation": "进行高层外交访问", "object": "美国政府", "location": null, "time": "2021-04"},
+  {"tuple_id": "D013_s001_t002", "subject": "日本首相", "relation": "举行高层政治会谈", "object": "美国总统", "location": null, "time": "2021-04"},
+  {"tuple_id": "D013_s001_t003", "subject": ["美国政府", "日本政府"], "relation": "释放干涉台海事务的政治信号", "object": "中国国家主体", "location": null, "time": "2021-04"},
+  {"tuple_id": "D013_s002_t001", "subject": "七国集团", "relation": "释放支持台湾参与国际组织的政治信号", "object": "台湾地区当局", "location": null, "time": "2021-05"},
+  {"tuple_id": "D013_s003_t001", "subject": "七国集团", "relation": "举行高层峰会", "object": "七国集团", "location": null, "time": "2021-06"},
+  {"tuple_id": "D013_s005_t002", "subject": ["美国总统", "日本首相"], "relation": "举行高层政治会谈", "object": ["美国总统", "日本首相"], "location": null, "time": "2021-06"},
+  {"tuple_id": "D013_s005_t001", "subject": ["美国政府", "日本政府"], "relation": "推动涉台议题写入多边公报", "object": "七国集团", "location": null, "time": "2021-06"},
+  {"tuple_id": "D013_s005_t003", "subject": "日本首相", "relation": "进行外交游说", "object": "德国总理", "location": null, "time": "2021-06"},
+  {"tuple_id": "D013_s006_t001", "subject": ["法国政府", "德国政府"], "relation": "释放配合美日涉华议程的政治信号", "object": ["美国政府", "日本政府"], "location": null, "time": "2021-06"},
+  {"tuple_id": "D013_s006_t002", "subject": "英国政府", "relation": "释放对华强硬的政治信号", "object": "中国国家主体", "location": null, "time": "2021-06"},
+  {"tuple_id": "D013_s003_t002", "subject": "七国集团", "relation": "释放干涉中国内政的政治信号", "object": "中国国家主体", "location": null, "time": "2021-06"},
+  {"tuple_id": "D013_s004_t001", "subject": "七国集团", "relation": "要求开展病毒溯源调查", "object": "中国国家主体", "location": null, "time": "2021-06"},
+  {"tuple_id": "D013_s007_t001", "subject": "日本首相", "relation": "释放强化日美同盟及干涉台海的政治信号", "object": ["美国政府", "中国国家主体"], "location": null, "time": "2021-06"},
+  {"tuple_id": "D013_s008_t001", "subject": "七国集团", "relation": "采取损害中方利益的政治言行", "object": "中国国家主体", "location": null, "time": "2021-06"},
+  {"tuple_id": "D013_s008_t002", "subject": "中国外交部发言人", "relation": "释放对干涉内政的抗议信号", "object": "七国集团", "location": null, "time": "2021-06"}
+]

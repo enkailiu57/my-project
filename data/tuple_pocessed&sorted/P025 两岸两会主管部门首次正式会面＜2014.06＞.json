@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "P025_s001_t001", "subject": "台湾地区大陆委员会", "relation": "进行高层政治访问", "object": "中国国家主体", "location": null, "time": "2014-02"},
+  {"tuple_id": "P025_s002_t001", "subject": ["台湾地区大陆委员会", "中共中央台湾工作办公室"], "relation": "举行两岸事务首长会谈", "object": ["中共中央台湾工作办公室", "台湾地区大陆委员会"], "location": null, "time": "2014-02"},
+  {"tuple_id": "P025_s003_t001", "subject": "中共中央台湾工作办公室", "relation": "进行高层政治访问", "object": "台湾地区当局", "location": "台湾地区", "time": "2014-06"},
+  {"tuple_id": "P025_s003_t002", "subject": "中共中央台湾工作办公室", "relation": "举行两岸事务首长会谈", "object": "台湾地区大陆委员会", "location": "台湾地区", "time": "2014-06"}
+]

@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "I016_s002_t001", "subject": "世界卫生组织", "relation": "裁定不将台湾参会议题纳入议程", "object": "台湾地区当局", "location": null, "time": "2022-05"},
+  {"tuple_id": "I016_s003_t001", "subject": "中国国台办发言人", "relation": "释放对破坏两岸关系基础的抗议信号", "object": "台湾地区当局", "location": null, "time": "2022-05"},
+  {"tuple_id": "I016_s004_t001", "subject": "世界卫生组织", "relation": "释放台湾参与需遵循成员国决定的立场信号", "object": "台湾地区当局", "location": null, "time": "2023-05"},
+  {"tuple_id": "I016_s005_t001", "subject": "联合国欧洲总部", "relation": "拒绝台湾媒体采访申请", "object": "台湾媒体", "location": null, "time": "2023-05"},
+  {"tuple_id": "I016_s006_t001", "subject": "台湾地区当局", "relation": "与外部势力勾连", "object": "外部干涉势力", "location": null, "time": "2023-05"},
+  {"tuple_id": "I016_s006_t002", "subject": "台湾地区当局", "relation": "释放在国际场合滋事挑衅的信号", "object": "中国国家主体", "location": null, "time": "2023-05"},
+  {"tuple_id": "I016_s007_t001", "subject": "外部干涉势力", "relation": "释放支持台湾参与国际组织的政治信号", "object": "台湾地区当局", "location": null, "time": "2023-05"}
+]

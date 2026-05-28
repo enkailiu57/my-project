@@ -1,0 +1,23 @@
+[
+  {"tuple_id": "M015_s001_t001", "subject": "美国海军航母战斗群", "relation": "在争议海域进行军事部署与活动", "object": "中国国家主体", "location": "巴士海峡以西海域", "time": "2022-07"},
+  {"tuple_id": "M015_s002_t001", "subject": "美国国会众议院议长", "relation": "执意进行政治访问", "object": "台湾地区当局", "location": "台湾地区", "time": "2022-08"},
+  {"tuple_id": "M015_s003_t001", "subject": "美国国会众议院议长", "relation": "窜访台湾地区", "object": "台湾地区当局", "location": ["台湾", "台湾空域"], "time": "2022-08"},
+  {"tuple_id": "M015_s003_t002", "subject": "中国人民解放军", "relation": "实施海空跟监警戒", "object": "美国国会众议院议长", "location": "台海周边海空域", "time": "2022-08"},
+  {"tuple_id": "M015_s003_t003", "subject": "中国人民解放军", "relation": "在台岛周边部署海空力量", "object": "美国国会众议院议长", "location": "台岛周边海空域", "time": "2022-08"},
+  {"tuple_id": "M015_s003_t004", "subject": "中国人民解放军", "relation": "在巴士海峡附近进行军事部署", "object": "美国国会众议院议长", "location": "巴士海峡附近海域", "time": "2022-08"},
+  {"tuple_id": "M015_s005_t001", "subject": "美国海军航母战斗群", "relation": "撤离台海周边争议海域", "object": "中国国家主体", "location": "台海周边海空域", "time": "2022-08"},
+  {"tuple_id": "M015_s006_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2022-08"},
+  {"tuple_id": "M015_s007_t001", "subject": "中国人民解放军东部战区", "relation": "实施常导火力试射", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2022-08"},
+  {"tuple_id": "M015_s009_t001", "subject": "中国人民解放军", "relation": "向台岛方向发射弹道导弹", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2022-08"},
+  {"tuple_id": "M015_s010_t002", "subject": "中国人民解放军", "relation": "实施导弹飞越台岛", "object": "台湾地区当局", "location": "台北上空", "time": "2022-08"},
+  {"tuple_id": "M015_s009_t002", "subject": "台湾地区军方", "relation": "通报解放军军事行动", "object": "中国人民解放军", "location": null, "time": "2022-08"},
+  {"tuple_id": "M015_s010_t001", "subject": "日本防卫省", "relation": "发布军事行动通报", "object": "中国人民解放军", "location": null, "time": "2022-08"},
+  {"tuple_id": "M015_s011_t001", "subject": "中国人民解放军航母编队", "relation": "实施威慑性军事演练", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2022-08"},
+  {"tuple_id": "M015_s011_t002", "subject": "中国人民解放军核潜艇部队", "relation": "参与环台军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2022-08"},
+  {"tuple_id": "M015_s012_t001", "subject": "中国人民解放军", "relation": "在台岛周边设置军事靶场", "object": "美国海军", "location": "台岛以东海域", "time": "2022-08"},
+  {"tuple_id": "M015_s013_t001", "subject": "中国人民解放军", "relation": "向特定海域发射弹道导弹", "object": "日本专属经济区", "location": "日本专属经济区", "time": "2022-08"},
+  {"tuple_id": "M015_s013_t002", "subject": "日本政府", "relation": "释放反对军事演训的抗议信号", "object": "中国国家主体", "location": null, "time": "2022-08"},
+  {"tuple_id": "M015_s014_t001", "subject": "日本防卫大臣", "relation": "释放对中方军事行动落入其管辖海域的抗议信号", "object": "中国国家主体", "location": "日本专属经济区", "time": "2022-08"},
+  {"tuple_id": "M015_s015_t001", "subject": "中国外交部发言人", "relation": "释放否认军事行动进入他国专属经济区的抗议信号", "object": "日本政府", "location": null, "time": "2022-08"},
+  {"tuple_id": "M015_s016_t001", "subject": "中国国家主体", "relation": "释放军事行动合法性的澄清信号", "object": "日本政府", "location": null, "time": "2022-08"}
+]

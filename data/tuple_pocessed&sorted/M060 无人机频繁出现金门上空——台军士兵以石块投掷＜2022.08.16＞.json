@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "M060_s001_t001", "subject": "中国人民解放军无人机", "relation": "飞越对方防务区域上空", "object": "台湾地区军方", "location": ["金门、马祖上空", "金门烈屿"], "time": "2022-08"},
+  {"tuple_id": "M060_s004_t002", "subject": "台湾地区军方", "relation": "发现并监视目标", "object": "中国人民解放军无人机", "location": "金门烈屿", "time": "2022-08-16"},
+  {"tuple_id": "M060_s003_t001", "subject": "台湾地区军方", "relation": "实施物理驱离", "object": "中国人民解放军", "location": "金门烈屿", "time": "2022-08"},
+  {"tuple_id": "M060_s004_t003", "subject": "台湾地区军方", "relation": "示警驱离", "object": "中国人民解放军无人机", "location": "金门烈屿", "time": "2022-08-16"},
+  {"tuple_id": "M060_s004_t001", "subject": "台湾地区军方", "relation": "承认解放军军事行动事实", "object": "中国人民解放军", "location": null, "time": "2022-08"}
+]

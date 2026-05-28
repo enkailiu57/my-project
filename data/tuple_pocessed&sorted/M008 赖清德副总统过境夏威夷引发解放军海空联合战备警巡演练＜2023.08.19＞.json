@@ -1,0 +1,22 @@
+[
+  {"tuple_id": "M008_s001_t001", "subject": "美国国会众议院议长", "relation": "访问台湾地区", "object": "台湾地区当局", "location": "台岛", "time": "2022-08"},
+  {"tuple_id": "M008_s001_t002", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2022-08"},
+  {"tuple_id": "M008_s001_t003", "subject": "中国人民解放军火箭军", "relation": "实施导弹飞越台岛", "object": "台湾地区当局", "location": "台湾岛上空", "time": "2022-08"},
+  {"tuple_id": "M008_s002_t001", "subject": "台湾地区领导人", "relation": "进行过境窜美活动", "object": "美国政府", "location": "美国洛杉矶", "time": "2023-04"},
+  {"tuple_id": "M008_s002_t002", "subject": "台湾地区领导人", "relation": "会晤美国国会高层", "object": "美国国会高层", "location": "美国洛杉矶", "time": "2023-04"},
+  {"tuple_id": "M008_s002_t003", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2023-04"},
+  {"tuple_id": "M008_s003_t001", "subject": "台湾地区副领导人", "relation": "过境窜访", "object": "美国政府", "location": null, "time": "2023-08"},
+  {"tuple_id": "M008_s003_t002", "subject": "台湾地区副领导人", "relation": "举行高层政治会晤", "object": "美国在台协会", "location": "美国三藩市", "time": "2023-08"},
+  {"tuple_id": "M008_s004_t001", "subject": "台湾地区副领导人", "relation": "进行过境窜美活动", "object": "美国政府", "location": null, "time": "2023-08"},
+  {"tuple_id": "M008_s004_t002", "subject": "中国国务院台湾事务办公室", "relation": "释放对窜美行为的强烈谴责信号", "object": "台湾地区副领导人", "location": null, "time": "2023-08-19"},
+  {"tuple_id": "M008_s004_t003", "subject": "中国国务院台湾事务办公室", "relation": "释放反对台独及外部干涉的警告信号", "object": "台湾地区‘台独’分裂势力", "location": null, "time": "2023-08-19"},
+  {"tuple_id": "M008_s005_t001", "subject": "中国人民解放军东部战区", "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2023-08"},
+  {"tuple_id": "M008_s005_t002", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2023-08"},
+  {"tuple_id": "M008_s006_t001", "subject": "中国人民解放军东部战区发言人", "relation": "释放反对台独及外部干涉的警告信号", "object": ["台湾地区当局", "美国政府"], "location": null, "time": "2023-08"},
+  {"tuple_id": "M008_s007_t001", "subject": "中国人民解放军", "relation": "实施兵力集结", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2023-08"},
+  {"tuple_id": "M008_s008_t001", "subject": "中国人民解放军舰艇", "relation": "实施模拟打击", "object": "台岛周边舰船目标", "location": "台岛北部海域", "time": "2023-08"},
+  {"tuple_id": "M008_s009_t001", "subject": "中国人民解放军海军舰艇编队", "relation": "组织对海打击与近距反击演练", "object": "模拟海上目标", "location": "台湾东部海域", "time": "2023-08"},
+  {"tuple_id": "M008_s010_t001", "subject": "中国人民解放军海军", "relation": "开展反潜军事演习", "object": "潜在敌方水下力量", "location": "台岛西南海域", "time": "2023-08"},
+  {"tuple_id": "M008_s011_t001", "subject": "中国人民解放军军机", "relation": "越过海峡中线", "object": "台湾地区军方", "location": "台湾海峡中线附近", "time": "2023-08"},
+  {"tuple_id": "M008_s011_t002", "subject": "台湾地区军方", "relation": "发现并监控对方军机动向", "object": "中国人民解放军军机", "location": "台海周边海空域", "time": "2023-08"}
+]

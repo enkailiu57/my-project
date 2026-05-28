@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "M069_s001_t001", "subject": "中国人民解放军", "relation": "实施绕台军事巡航", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-04"},
+  {"tuple_id": "M069_s002_t001", "subject": "中国人民解放军无人机", "relation": "实施海空域军事存在", "object": "台湾地区当局", "location": "台湾东部海域", "time": "2025-06"},
+  {"tuple_id": "M069_s003_t001", "subject": "中国人民解放军无人机", "relation": "实施多方向环绕台岛军事部署", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-09"},
+  {"tuple_id": "M069_s003_t002", "subject": "中国人民解放军无人机", "relation": "实施常态化空中巡航", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-09"}
+]

@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "M044_s001_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2022-08"},
+  {"tuple_id": "M044_s002_t001", "subject": "中国人民解放军东部战区海军", "relation": "实施抵近监视", "object": "台湾地区当局", "location": "花莲外海", "time": "2022-08"},
+  {"tuple_id": "M044_s003_t001", "subject": "台湾地区海军", "relation": "实施抵近监视", "object": "中国人民解放军", "location": "台湾东部海域", "time": "2022-08"},
+  {"tuple_id": "M044_s004_t001", "subject": "中国人民解放军东部战区海军", "relation": "越过海峡中线", "object": "台湾地区海军", "location": "高雄西南海域", "time": "2022-08"},
+  {"tuple_id": "M044_s004_t002", "subject": "中国人民解放军东部战区海军", "relation": "发生舰船对峙", "object": "台湾地区海军", "location": "高雄西南海域", "time": "2022-08"},
+  {"tuple_id": "M044_s005_t001", "subject": "中国人民解放军海军", "relation": "实施近距离军事观察", "object": "台湾地区当局", "location": "台湾海岸线附近海域", "time": "2022-08"}
+]

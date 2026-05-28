@@ -1,0 +1,16 @@
+[
+  {"tuple_id": "M002_s001_t001", "subject": "美国政府", "relation": "允许台湾地区领导人访美", "object": "台湾地区领导人", "location": null, "time": "1995-05"},
+  {"tuple_id": "M002_s002_t001", "subject": "台湾地区领导人", "relation": "进行涉外政治访问", "object": "美国政府", "location": null, "time": "1995-06"},
+  {"tuple_id": "M002_s003_t001", "subject": "台湾地区领导人", "relation": "释放支持台美互动的政治信号", "object": "美国政府", "location": null, "time": "1995-06"},
+  {"tuple_id": "M002_s004_t001", "subject": "中国国家主体", "relation": "开展反分裂反“台独”斗争", "object": "台湾地区‘台独’分裂势力", "location": null, "time": "1995"},
+  {"tuple_id": "M002_s005_t001", "subject": "中国人民解放军", "relation": "开展台海方向导弹实弹射击演习", "object": "台湾地区当局", "location": "台岛北部海域", "time": "1995-07"},
+  {"tuple_id": "M002_s006_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "1995-08"},
+  {"tuple_id": "M002_s007_t001", "subject": "中国人民解放军", "relation": "开展海空力量展示", "object": "台湾地区当局", "location": "闽南沿海地区", "time": "1995-09"},
+  {"tuple_id": "M002_s008_t001", "subject": "中国人民解放军", "relation": "举行两栖登陆作战军事演习", "object": "台湾地区当局", "location": "福建省东山岛", "time": "1995-10"},
+  {"tuple_id": "M002_s009_t001", "subject": "中国人民解放军", "relation": "开展台海方向导弹实弹射击演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "1996-03"},
+  {"tuple_id": "M002_s010_t001", "subject": "美国海军", "relation": "部署航母战斗群至台海周边", "object": "中国国家主体", "location": "台海周边海空域", "time": "1996-03"},
+  {"tuple_id": "M002_s011_t001", "subject": "中国人民解放军海军潜艇部队", "relation": "实施紧急出海警戒", "object": "美国海军航母战斗群", "location": "台海周边海空域", "time": "1996-03"},
+  {"tuple_id": "M002_s012_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": ["台湾地区当局", "美国政府"], "location": "台海周边海空域", "time": "1996-03"},
+  {"tuple_id": "M002_s013_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "1996-03"},
+  {"tuple_id": "M002_s016_t001", "subject": "美国政府", "relation": "释放反对台湾独立及参与国际组织的政治信号", "object": "台湾地区当局", "location": null, "time": "1996-03"}
+]

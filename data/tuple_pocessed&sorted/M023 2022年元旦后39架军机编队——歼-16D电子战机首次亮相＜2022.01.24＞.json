@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "M023_s001_t001", "subject": "中国人民解放军", "relation": "进入防空识别区", "object": "台湾地区当局", "location": "台岛南部和西南部空域", "time": "2021-10"},
+  {"tuple_id": "M023_s002_t001", "subject": "中国人民解放军", "relation": "进入防空识别区", "object": "台湾地区当局", "location": "台岛西南空域", "time": "2022-01"},
+  {"tuple_id": "M023_s003_t001", "subject": "中国人民解放军", "relation": "派遣军机进入台湾周边空域", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2022-01"},
+  {"tuple_id": "M023_s004_t002", "subject": "美国海军航母战斗群", "relation": "进入南海进行军事训练", "object": "中国国家主体", "location": "南海海域", "time": "2022-01"},
+  {"tuple_id": "M023_s004_t001", "subject": "美国国防部", "relation": "发布军事行动通报", "object": "国际社会", "location": null, "time": "2022-01"}
+]

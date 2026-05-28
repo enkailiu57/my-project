@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "M040_s001_t001", "subject": "中国人民解放军", "relation": "实施大规模空中军事威慑", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2020-09"},
+  {"tuple_id": "M040_s001_t002", "subject": "台湾地区防务部门", "relation": "调整军事交战规则", "object": "中国人民解放军", "location": null, "time": "2020-09"},
+  {"tuple_id": "M040_s005_t001", "subject": "台湾地区军方", "relation": "调整军事交战规则", "object": "中国人民解放军", "location": null, "time": "2021"},
+  {"tuple_id": "M040_s006_t001", "subject": "台湾地区军方", "relation": "在演习中验证交战规则", "object": "中国人民解放军", "location": "台海周边海空域", "time": "2022-04"},
+  {"tuple_id": "M040_s010_t001", "subject": "台湾地区军方高层", "relation": "释放强化基层独立作战授权的军事信号", "object": "中国人民解放军", "location": null, "time": "2022-06"},
+  {"tuple_id": "M040_s003_t001", "subject": "中国国家主体", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2022-08"},
+  {"tuple_id": "M040_s003_t002", "subject": "中国国家主体", "relation": "打破军事默契红线", "object": "台湾地区当局", "location": "台湾海峡中线附近", "time": "2022-08"},
+  {"tuple_id": "M040_s002_t001", "subject": "台湾地区防务部门", "relation": "调整军事交战规则", "object": "中国人民解放军", "location": "台海周边海空域", "time": "2022-08"},
+  {"tuple_id": "M040_s004_t001", "subject": "台湾地区防务部门", "relation": "释放降低开火门槛的威慑信号", "object": "中国人民解放军", "location": null, "time": "2022-08"}
+]

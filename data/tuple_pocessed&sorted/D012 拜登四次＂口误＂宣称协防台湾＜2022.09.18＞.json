@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "D012_s001_t001", "subject": "美国总统", "relation": "释放提升台湾地区政治地位的信号", "object": "台湾地区当局", "location": null, "time": "2021-08"},
+  {"tuple_id": "D012_s001_t002", "subject": "美国总统", "relation": "释放对台军事保护承诺信号", "object": "台湾地区当局", "location": null, "time": "2021-08"},
+  {"tuple_id": "D012_s002_t001", "subject": "美国总统", "relation": "释放对台军事保护承诺信号", "object": "台湾地区当局", "location": null, "time": "2021-10"},
+  {"tuple_id": "D012_s003_t001", "subject": "美国总统", "relation": "释放对台军事保护承诺信号", "object": "台湾地区当局", "location": null, "time": "2022-05"},
+  {"tuple_id": "D012_s004_t001", "subject": "美国总统", "relation": "释放对台军事保护承诺信号", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2022-09"},
+  {"tuple_id": "D012_s005_t001", "subject": "美国政府", "relation": "释放维持一个中国政策的信号", "object": "中国国家主体", "location": null, "time": "2022-09"},
+  {"tuple_id": "D012_s006_t001", "subject": "中国外交部发言人", "relation": "释放对干涉内政的抗议信号", "object": "美国政府", "location": null, "time": "2022-09"}
+]

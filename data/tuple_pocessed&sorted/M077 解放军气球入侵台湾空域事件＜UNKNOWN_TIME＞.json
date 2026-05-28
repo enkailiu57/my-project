@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "M077_s001_t001", "subject": ["中国人民解放军军机", "中国人民解放军舰艇"], "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-11"},
+  {"tuple_id": "M077_s002_t001", "subject": "中国人民解放军", "relation": "派遣高空探测气球进入特定空域", "object": "台湾地区当局", "location": "基隆西南空域", "time": "2024-11-24"},
+  {"tuple_id": "M077_s002_t002", "subject": "中国人民解放军", "relation": "脱离对方监控范围", "object": "台湾地区军方", "location": "台海周边海空域", "time": "2024-11-24"},
+  {"tuple_id": "M077_s003_t001", "subject": "台湾地区防务部门", "relation": "发布军事动态通报", "object": "中国人民解放军", "location": null, "time": "2024-11"},
+  {"tuple_id": "M077_s004_t001", "subject": "中国人民解放军", "relation": "派遣高空探测气球进入特定空域", "object": "台湾地区当局", "location": "台海空域", "time": "2023-11"}
+]

@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "E024_s001_t001", "subject": "美国政府", "relation": "批准对台军售", "object": "台湾地区当局", "location": null, "time": "1992"},
+  {"tuple_id": "E024_s008_t001", "subject": "美国政府", "relation": "对台军售", "object": "台湾地区当局", "location": null, "time": "2016/2019"},
+  {"tuple_id": "E024_s002_t001", "subject": "美国政府", "relation": "批准对台军售", "object": "台湾地区当局", "location": null, "time": "2019-08"},
+  {"tuple_id": "E024_s006_t002", "subject": "中国国家主体", "relation": "提出严正外交交涉", "object": "美国政府", "location": null, "time": "2019-08"},
+  {"tuple_id": "E024_s005_t001", "subject": "中国外交部发言人", "relation": "释放对干涉内政的抗议信号", "object": "美国政府", "location": null, "time": "2019-08"},
+  {"tuple_id": "E024_s006_t001", "subject": "中国外交部发言人", "relation": "释放对对台军售的抗议信号", "object": "美国政府", "location": null, "time": "2019-08"},
+  {"tuple_id": "E024_s006_t003", "subject": "中国国家主体", "relation": "计划制裁涉军企业", "object": "美国军工企业", "location": null, "time": "2019-08"},
+  {"tuple_id": "E024_s009_t001", "subject": ["美国政府", "台湾地区当局"], "relation": "商谈对台军售计划", "object": "中国国家主体", "location": null, "time": "2019-08"}
+]

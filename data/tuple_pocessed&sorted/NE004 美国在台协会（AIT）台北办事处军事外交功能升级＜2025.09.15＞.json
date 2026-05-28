@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "NE004_s003_t001", "subject": "美国在台协会台北办事处处长", "relation": "进行高层政治访问", "object": ["台湾地区外事部门负责人", "台湾地区领导人"], "location": null, "time": "2021-08"},
+  {"tuple_id": "NE004_s004_t001", "subject": "美国在台协会台北办事处处长", "relation": "释放深化美台关系的政治信号", "object": "台湾地区当局", "location": null, "time": "2021-10"},
+  {"tuple_id": "NE004_s005_t001", "subject": "美国国会议员", "relation": "窜访台湾地区", "object": "台湾地区当局", "location": "台湾", "time": "2021-11"},
+  {"tuple_id": "NE004_s007_t001", "subject": "中国国家主体", "relation": "释放对干涉内政及军国主义倾向的抗议与警告信号", "object": "美国国会众议院议长", "location": null, "time": "2022-08"},
+  {"tuple_id": "NE004_s007_t002", "subject": "美国国会众议院议长", "relation": "对台湾进行政治访问", "object": "台湾地区当局", "location": "台湾", "time": "2022-08-02"},
+  {"tuple_id": "NE004_s009_t001", "subject": "美国在台协会", "relation": "释放强化对台军事支持的承诺信号", "object": "台湾地区当局", "location": null, "time": "2025-03"},
+  {"tuple_id": "NE004_s010_t001", "subject": "美国在台协会", "relation": "释放深化美台非官方合作的信号", "object": "台湾地区当局", "location": null, "time": "2025-07"},
+  {"tuple_id": "NE004_s012_t001", "subject": "中国外交部发言人", "relation": "释放对干涉内政的抗议信号", "object": "美国在台协会", "location": null, "time": "2025-09"},
+  {"tuple_id": "NE004_s014_t001", "subject": "中国外交部发言人", "relation": "释放台湾主权归属已定的政治信号", "object": "美国政府", "location": null, "time": "2025-09"},
+  {"tuple_id": "NE004_s016_t001", "subject": "中国外交部发言人", "relation": "释放要求美方恪守一个中国原则及停止支持台独的政治信号", "object": "美国政府", "location": null, "time": "2025-09"}
+]

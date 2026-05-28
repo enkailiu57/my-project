@@ -1,0 +1,15 @@
+[
+  {"tuple_id": "M018_s001_t001", "subject": "台湾地区防务部门", "relation": "发布军事动态通报", "object": "中国人民解放军军机", "location": null, "time": "2020-09"},
+  {"tuple_id": "M018_s010_t001", "subject": "中国人民解放军", "relation": "实施环台岛战备警巡", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2021"},
+  {"tuple_id": "M018_s010_t003", "subject": "中国人民解放军", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2021"},
+  {"tuple_id": "M018_s002_t001", "subject": "中国人民解放军军机", "relation": "进入防空识别区活动", "object": "台湾地区当局", "location": "台湾西南防空识别区", "time": "2021-10"},
+  {"tuple_id": "M018_s006_t001", "subject": "中国人民解放军军机", "relation": "进入防空识别区活动", "object": "台湾地区当局", "location": "台湾西南防空识别区", "time": "2022-01"},
+  {"tuple_id": "M018_s007_t001", "subject": "中国人民解放军军机", "relation": "进入防空识别区活动", "object": "台湾地区当局", "location": ["台湾西南防空识别区", "台湾南方及东南方空域"], "time": "2022-05"},
+  {"tuple_id": "M018_s009_t001", "subject": "中国人民解放军", "relation": "实施海空军事活动", "object": "台湾地区当局", "location": "东沙群岛附近海域", "time": "2022-05"},
+  {"tuple_id": "M018_s007_t002", "subject": "台湾地区军方", "relation": "发布军事动态通报", "object": "中国人民解放军军机", "location": null, "time": "2022-05"},
+  {"tuple_id": "M018_s008_t002", "subject": "台湾地区军方", "relation": "派遣兵力应对", "object": "中国人民解放军军机", "location": "台湾南方及东南方空域", "time": "2022-05"},
+  {"tuple_id": "M018_s008_t003", "subject": "台湾地区军方", "relation": "实施广播示警", "object": "中国人民解放军军机", "location": "台湾南方及东南方空域", "time": "2022-05"},
+  {"tuple_id": "M018_s010_t004", "subject": "中国国防部发言人", "relation": "释放对台军事行动常态化及威慑信号", "object": "台湾地区当局", "location": null, "time": "2022-05"},
+  {"tuple_id": "M018_s011_t001", "subject": "中国国防部发言人", "relation": "释放反对台独及外部干涉的警告信号", "object": ["民进党当局", "外部干涉势力"], "location": null, "time": "2022-05"},
+  {"tuple_id": "M018_s012_t001", "subject": "中国国防部发言人", "relation": "释放针对分裂势力的军事威慑信号", "object": "台湾地区当局", "location": null, "time": "2022-05"}
+]

@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "M061_s001_t001", "subject": "金门县议会", "relation": "释放推动两岸和平发展与金厦融合的积极信号", "object": ["中国国家主体", "台湾地区当局"], "location": "金门", "time": "2023-02"},
+  {"tuple_id": "M061_s002_t001", "subject": "中国大陆无人机", "relation": "抵近飞行并投撒物资", "object": "台湾地区当局", "location": ["金门上空", "金门"], "time": "2024-06"},
+  {"tuple_id": "M061_s005_t001", "subject": "台湾地区军方", "relation": "发布军事动态通报", "object": "中国大陆无人机", "location": "金门马山播音站上空", "time": "2024-06"},
+  {"tuple_id": "M061_s005_t002", "subject": "台湾地区军方", "relation": "实施严密监控", "object": "中国大陆无人机", "location": "金门防区", "time": "2024-06"},
+  {"tuple_id": "M061_s006_t001", "subject": "金门县政府", "relation": "释放对无人机投撒行为的谴责信号", "object": "中国国家主体", "location": "金门", "time": "2024-06"}
+]

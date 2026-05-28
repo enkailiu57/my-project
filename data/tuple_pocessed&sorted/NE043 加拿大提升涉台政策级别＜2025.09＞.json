@@ -1,0 +1,13 @@
+[
+  {"tuple_id": "NE043_s001_t001", "subject": "加拿大政府", "relation": "发布印太战略文件", "object": "中国国家主体", "location": null, "time": "2022-11"},
+  {"tuple_id": "NE043_s002_t001", "subject": "加拿大政府", "relation": "释放对中国战略意图的负面定性信号", "object": "中国国家主体", "location": null, "time": "2022-11"},
+  {"tuple_id": "NE043_s003_t001", "subject": "中国国家主体", "relation": "释放反对干涉中国内政的抗议信号", "object": "加拿大政府", "location": null, "time": "2022-11"},
+  {"tuple_id": "NE043_s004_t001", "subject": "加拿大军舰", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2023-06"},
+  {"tuple_id": "NE043_s005_t001", "subject": "加拿大海军", "relation": "派遣军舰穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2025"},
+  {"tuple_id": "NE043_s006_t001", "subject": "七国集团", "relation": "释放支持台湾参与国际组织的政治信号", "object": "台湾地区当局", "location": null, "time": "2025-03"},
+  {"tuple_id": "NE043_s006_t002", "subject": "七国集团", "relation": "释放反对以武力改变台海现状的警告信号", "object": ["中国国家主体", "台湾地区当局"], "location": null, "time": "2025-03"},
+  {"tuple_id": "NE043_s009_t001", "subject": "加拿大政府", "relation": "释放支持台湾参与国际卫生事务的信号", "object": "台湾地区当局", "location": null, "time": "2025-05"},
+  {"tuple_id": "NE043_s010_t001", "subject": ["加拿大政府", "澳大利亚政府", "英国政府", "捷克政府", "德国政府", "法国政府", "日本政府", "立陶宛政府"], "relation": "释放支持台湾参与国际组织的政治信号", "object": "中国国家主体", "location": null, "time": "2025-05"},
+  {"tuple_id": "NE043_s011_t001", "subject": ["欧盟", "加拿大政府"], "relation": "释放关注台海和平稳定的政治信号", "object": "中国国家主体", "location": null, "time": "2025-06"},
+  {"tuple_id": "NE043_s012_t001", "subject": ["加拿大下议院跨党派议员", "台湾地区驻加拿大代表"], "relation": "释放支持台湾参与国际组织的政治信号", "object": "国际民航组织", "location": null, "time": "2025-09"}
+]

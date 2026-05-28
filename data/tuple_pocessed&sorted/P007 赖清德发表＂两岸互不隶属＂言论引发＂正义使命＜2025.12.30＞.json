@@ -1,0 +1,23 @@
+[
+  {"tuple_id": "P007_s001_t001", "subject": ["日本首相", "日本自卫队"], "relation": "释放将台湾安全与日本存亡绑定的军事介入信号", "object": ["中国国家主体", "台湾地区当局"], "location": [null, "台海周边海空域"], "time": "2025-11"},
+  {"tuple_id": "P007_s002_t001", "subject": "中国国家主体", "relation": "释放反对干涉中国内政的抗议信号", "object": "日本政要", "location": null, "time": "2025-11"},
+  {"tuple_id": "P007_s002_t002", "subject": "中国人民解放军海军", "relation": "宣布开展军事演习", "object": "日本方面", "location": "黄海海域", "time": "2025-11"},
+  {"tuple_id": "P007_s003_t001", "subject": "中国常驻联合国代表", "relation": "释放对日本重新武装的抗议信号", "object": "日本政府", "location": null, "time": "2025-12"},
+  {"tuple_id": "P007_s004_t001", "subject": "中国人民解放军海军", "relation": "开展近海军事演训", "object": "日本海上自卫队", "location": "日本琉球群岛及宫古海峡附近海域", "time": "2025-12"},
+  {"tuple_id": "P007_s004_t002", "subject": "中国人民解放军海军", "relation": "实施雷达照射", "object": "日本海上自卫队", "location": "日本琉球群岛及宫古海峡附近海域", "time": "2025-12"},
+  {"tuple_id": "P007_s004_t003", "subject": "中国国防部", "relation": "释放反对军事挑衅的抗议信号", "object": "日本防卫省", "location": null, "time": "2025-12"},
+  {"tuple_id": "P007_s004_t004", "subject": "日本防卫省", "relation": "释放反对军事挑衅的抗议信号", "object": "中国国防部", "location": null, "time": "2025-12"},
+  {"tuple_id": "P007_s005_t001", "subject": "美国国防部", "relation": "宣布对台军售计划", "object": "国际社会", "location": null, "time": "2025-12"},
+  {"tuple_id": "P007_s005_t002", "subject": "美国政府", "relation": "计划对台军售", "object": "台湾地区当局", "location": null, "time": "2025-12"},
+  {"tuple_id": "P007_s006_t001", "subject": "赖清德", "relation": "视察军事设施", "object": "台湾地区军方", "location": null, "time": "2025-12"},
+  {"tuple_id": "P007_s006_t002", "subject": "赖清德", "relation": "释放强化军事威慑的战略信号", "object": "中国国家主体", "location": null, "time": "2025-12"},
+  {"tuple_id": "P007_s007_t001", "subject": "中国国家主体", "relation": "释放对对台军售的抗议信号", "object": "美国政府", "location": null, "time": "2025-12"},
+  {"tuple_id": "P007_s008_t001", "subject": "台湾地区重要政治人物", "relation": "率团访问大陆并参与交流活动", "object": "中国国家主体", "location": null, "time": "2025-12"},
+  {"tuple_id": "P007_s009_t001", "subject": "中国人民解放军东部战区", "relation": "发布军事演训公告", "object": "国际社会", "location": null, "time": "2025-12"},
+  {"tuple_id": "P007_s009_t002", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-12"},
+  {"tuple_id": "P007_s010_t001", "subject": "中国人民解放军东部战区", "relation": "释放反对台独及外部干涉的警告信号", "object": ["台湾地区当局", "外部干涉势力"], "location": null, "time": "2025-12"},
+  {"tuple_id": "P007_s011_t001", "subject": "中国人民解放军东部战区", "relation": "宣布实施实弹军事演习", "object": "台湾地区当局", "location": "台海周边划定区域", "time": "2025-12-30"},
+  {"tuple_id": "P007_s012_t001", "subject": "中国人民解放军", "relation": "划设演训区侵入领海领空", "object": "台湾地区当局", "location": "台岛周边及离岛附近海域", "time": "2025-12"},
+  {"tuple_id": "P007_s013_t001", "subject": "中国国台办发言人", "relation": "释放反对台独及外部干涉的警告信号", "object": ["台湾地区当局", "外部干涉势力"], "location": null, "time": "2025-12"},
+  {"tuple_id": "P007_s014_t001", "subject": "中国外交部发言人", "relation": "释放反对干涉中国内政的抗议信号", "object": "美国政府", "location": null, "time": "2025-12"}
+]

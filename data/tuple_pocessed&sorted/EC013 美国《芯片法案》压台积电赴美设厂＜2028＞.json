@@ -1,0 +1,4 @@
+[
+  {"tuple_id": "EC013_s001_t001", "subject": "美国政府", "relation": "施压促成关键产业产能回流", "object": "台积电", "location": "美国", "time": "2020-05"},
+  {"tuple_id": "EC013_s002_t001", "subject": "美国参议员", "relation": "提出产业竞争法案", "object": "中国国家主体", "location": null, "time": "2020-06"}
+]

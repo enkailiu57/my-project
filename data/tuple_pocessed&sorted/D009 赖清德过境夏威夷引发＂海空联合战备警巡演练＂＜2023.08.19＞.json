@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "D009_s001_t001", "subject": "台湾地区副领导人", "relation": "过境窜访", "object": "美国政府", "location": null, "time": "2023-08"},
+  {"tuple_id": "D009_s002_t001", "subject": "台湾地区副领导人", "relation": "散布分裂国家言论", "object": "国际社会", "location": null, "time": "2023-08"},
+  {"tuple_id": "D009_s002_t002", "subject": "台湾地区副领导人", "relation": "与美国高官进行公开政治会面", "object": "美国政府高级官员", "location": "巴拉圭", "time": "2023-08"},
+  {"tuple_id": "D009_s003_t003", "subject": "中国人民解放军东部战区发言人", "relation": "发布军事行动通报", "object": ["台湾地区当局", "国际社会"], "location": null, "time": "2023-08"},
+  {"tuple_id": "D009_s003_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2023-08"},
+  {"tuple_id": "D009_s004_t001", "subject": "中国人民解放军军机", "relation": "越过海峡中线", "object": "台湾地区当局", "location": "台湾海峡中线附近", "time": "2023-08"},
+  {"tuple_id": "D009_s004_t002", "subject": "中国人民解放军舰艇", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2023-08"},
+  {"tuple_id": "D009_s005_t001", "subject": "中国人民解放军东部战区", "relation": "释放反对台独及外部干涉的警告信号", "object": ["台湾地区当局", "美国政府"], "location": null, "time": "2023-08"}
+]

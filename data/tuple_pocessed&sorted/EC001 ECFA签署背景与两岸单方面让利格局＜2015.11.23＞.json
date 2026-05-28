@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "EC001_s001_t001", "subject": "两岸官方经贸协商机制", "relation": "进行贸易磋商", "object": "两岸官方经贸协商机制", "location": null, "time": "2011-11"},
+  {"tuple_id": "EC001_s002_t001", "subject": "两岸官方经贸协商机制", "relation": "进行贸易磋商", "object": "两岸官方经贸协商机制", "location": null, "time": "2012-04"},
+  {"tuple_id": "EC001_s003_t001", "subject": "两岸官方经贸协商机制", "relation": "进行贸易磋商", "object": "两岸官方经贸协商机制", "location": null, "time": "2012-12"},
+  {"tuple_id": "EC001_s004_t001", "subject": ["中国国家主体", "台湾地区当局"], "relation": "就经贸协议文本达成共识", "object": "ECFA货品贸易协议文本", "location": null, "time": "2013-12"},
+  {"tuple_id": "EC001_s007_t001", "subject": "台湾地区当局", "relation": "进行贸易磋商", "object": "中国国家主体", "location": null, "time": "2014-09"},
+  {"tuple_id": "EC001_s011_t001", "subject": "中国国家主体", "relation": "进行贸易磋商", "object": "台湾地区当局", "location": null, "time": "2015-03"},
+  {"tuple_id": "EC001_s016_t001", "subject": "台湾地区当局", "relation": "进行贸易磋商", "object": "中国国家主体", "location": null, "time": "2015-09"}
+]

@@ -1,0 +1,5 @@
+[
+  {"tuple_id": "NM047_s001_t001", "subject": "台湾地区军方", "relation": "实施后备力量军事动员训练", "object": "台湾地区后备军事力量", "location": "台湾岛内", "time": "2023-03"},
+  {"tuple_id": "NM047_s013_t001", "subject": ["台湾地区陆军", "台湾地区海军"], "relation": "提出武器装备采购计划", "object": "武器装备", "location": null, "time": "2023"},
+  {"tuple_id": "NM047_s006_t001", "subject": "台湾地区当局", "relation": "设立军事动员协调机构", "object": "台湾地区军方", "location": null, "time": "2024-11"}
+]

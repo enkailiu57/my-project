@@ -1,0 +1,17 @@
+[
+  {"tuple_id": "NM044_s005_t001", "subject": "美国国会众议院议长", "relation": "窜访台湾地区", "object": "台湾地区当局", "location": "台湾地区", "time": "2022-08"},
+  {"tuple_id": "NM044_s005_t002", "subject": "中国国家主体", "relation": "释放否定海峡中线合法性的主权信号", "object": "台湾地区当局", "location": "台湾海峡中线附近", "time": "2022-08"},
+  {"tuple_id": "NM044_s005_t003", "subject": "中国国家主体", "relation": "实施海域行政管辖", "object": "台湾地区当局", "location": "台湾海峡", "time": "2022-08"},
+  {"tuple_id": "NM044_s015_t001", "subject": "中国海警", "relation": "实施常态化海警巡航", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2026-01"},
+  {"tuple_id": "NM044_s001_t001", "subject": "台湾地区海巡署", "relation": "实施海上执法驱离与查扣", "object": "大陆渔民", "location": "台海周边海域", "time": "2026-03"},
+  {"tuple_id": "NM044_s002_t001", "subject": "中国国家主体", "relation": "释放否认水域划分合法性的抗议信号", "object": "台湾地区当局", "location": null, "time": "2026-03"},
+  {"tuple_id": "NM044_s003_t001", "subject": "中国海警", "relation": "实施海警执法巡航", "object": "台湾地区当局", "location": "厦金海域", "time": "2026-03"},
+  {"tuple_id": "NM044_s006_t001", "subject": "台湾地区当局", "relation": "释放对大陆海上活动强硬执法的威慑信号", "object": "进入特定海域的船只", "location": "台方所谓禁限制性水域", "time": "2026-03"},
+  {"tuple_id": "NM044_s007_t001", "subject": "台湾地区大陆委员会", "relation": "释放对大陆海上活动强硬执法的威慑信号", "object": "中国国家主体", "location": null, "time": "2026-03"},
+  {"tuple_id": "NM044_s008_t001", "subject": "中国海警", "relation": "驶入争议海域", "object": "台湾地区当局", "location": "东沙群岛周边海域", "time": "2026-03"},
+  {"tuple_id": "NM044_s009_t001", "subject": "台湾地区海巡署", "relation": "命令舰艇机动集结", "object": "台湾地区海巡船只", "location": "东沙群岛周边海域", "time": "2026-03"},
+  {"tuple_id": "NM044_s010_t001", "subject": "台湾地区海巡署", "relation": "实施广播驱离与警告", "object": "中国国家主体", "location": "东沙群岛周边海域", "time": "2026-03"},
+  {"tuple_id": "NM044_s011_t001", "subject": "中国海警", "relation": "无视驱离并坚持既定航线航行", "object": "台湾地区海巡署", "location": "东沙群岛周边海域", "time": "2026-03"},
+  {"tuple_id": "NM044_s012_t001", "subject": "中国海警", "relation": "完成执法任务后驶离", "object": "台湾地区当局", "location": "东沙群岛周边海域", "time": "2026-03-19"},
+  {"tuple_id": "NM044_s017_t001", "subject": "台湾地区海巡署", "relation": "计划部署执法力量", "object": "中国国家主体", "location": "东沙群岛周边海域", "time": "2026-06"}
+]

@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "P022_s001_t001", "subject": "海峡两岸关系协会", "relation": "释放恢复两岸高层接触的积极信号", "object": "海峡交流基金会", "location": null, "time": "1992"},
+  {"tuple_id": "P022_s001_t002", "subject": "海峡交流基金会", "relation": "释放愿意进行高层对话的积极信号", "object": "海峡两岸关系协会", "location": null, "time": "1992"},
+  {"tuple_id": "P022_s002_t001", "subject": ["海峡交流基金会", "海峡两岸关系协会"], "relation": "举行两岸事务性商谈", "object": ["海峡交流基金会", "海峡两岸关系协会"], "location": null, "time": "1992-10"},
+  {"tuple_id": "P022_s004_t001", "subject": "中国国家主体", "relation": "进行高层外交访问", "object": "新加坡政府", "location": null, "time": "1993"},
+  {"tuple_id": "P022_s004_t002", "subject": ["海峡两岸关系协会", "海峡交流基金会"], "relation": "达成举行会谈的协议", "object": ["海峡两岸关系协会", "海峡交流基金会"], "location": "新加坡", "time": "1993"},
+  {"tuple_id": "P022_s005_t001", "subject": ["海峡两岸关系协会", "海峡交流基金会"], "relation": "签署两岸事务性协议", "object": "四项两岸事务性协议", "location": null, "time": "1993-04-29"}
+]

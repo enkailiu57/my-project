@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "NM027_s001_t001", "subject": "中国国家主体", "relation": "宣布划设民用航空航线", "object": "M503航线", "location": "东南沿海空域", "time": "2015-01"},
+  {"tuple_id": "NM027_s001_t002", "subject": "台湾地区当局", "relation": "释放对空域管理调整的反对信号", "object": "中国国家主体", "location": null, "time": "2015-01"},
+  {"tuple_id": "NM027_s002_t001", "subject": "中国民航局", "relation": "宣布调整民航空域管理措施", "object": "M503航线", "location": "上海飞行情报区", "time": "2024-01"},
+  {"tuple_id": "NM027_s003_t001", "subject": "台湾地区大陆委员会", "relation": "释放对大陆行动的政治指控与反对信号", "object": "中国国家主体", "location": null, "time": "2024-01"},
+  {"tuple_id": "NM027_s004_t001", "subject": "中国国台办发言人", "relation": "释放对空域管理正当性的辩护信号", "object": "台湾地区当局", "location": null, "time": "2024-01"}
+]

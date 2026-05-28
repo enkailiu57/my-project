@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "E005_s001_t001", "subject": "德国政府", "relation": "派遣军舰穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-09"},
+  {"tuple_id": "E005_s002_t001", "subject": "德国政府", "relation": "释放拒绝提前通报军事行动的信号", "object": "中国政府", "location": null, "time": "2024-09"},
+  {"tuple_id": "E005_s003_t001", "subject": "中国外交部发言人", "relation": "释放反对损害中国主权安全的抗议信号", "object": "德国政府", "location": null, "time": "2024-09"},
+  {"tuple_id": "E005_s004_t001", "subject": "中国国家主体", "relation": "释放反对未经同意穿越台湾海峡的抗议信号", "object": "德国政府", "location": "台湾海峡", "time": "2024-09"},
+  {"tuple_id": "E005_s005_t001", "subject": "德国海军", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-09"},
+  {"tuple_id": "E005_s006_t001", "subject": "德国海军", "relation": "沿台海中线东侧行驶", "object": "中国国家主体", "location": "台湾海峡中线东侧", "time": "2024-09"},
+  {"tuple_id": "E005_s007_t001", "subject": "中国人民解放军东部战区海军", "relation": "实施海空跟监警戒", "object": "德国海军舰艇", "location": "台湾海峡", "time": "2024-09"},
+  {"tuple_id": "E005_s008_t001", "subject": "台湾地区军方", "relation": "实施海空跟监警戒", "object": "德国海军", "location": "台湾海峡海域", "time": "2024-09"},
+  {"tuple_id": "E005_s009_t001", "subject": ["中国人民解放军海军", "台湾地区军方"], "relation": "实施抵近监视", "object": "德国海军", "location": "台湾海峡", "time": "2024-09"}
+]

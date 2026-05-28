@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "I029_s004_t001", "subject": "中国国务院台湾事务办公室", "relation": "释放坚持一个中国原则及两岸协商前提的信号", "object": "台湾地区当局", "location": null, "time": "2025-11"},
+  {"tuple_id": "I029_s002_t001", "subject": "中国外交部发言人", "relation": "释放反对阵营对抗的政治信号", "object": "美国政府", "location": null, "time": "2025-11"},
+  {"tuple_id": "I029_s005_t001", "subject": "台湾地区当局", "relation": "释放对大陆参会安排的负面抹黑信号", "object": "中国国家主体", "location": null, "time": "2025-11"},
+  {"tuple_id": "I029_s006_t001", "subject": "台湾地区当局", "relation": "释放对大陆立场的指责信号", "object": "中国国家主体", "location": null, "time": "2025-11"}
+]

@@ -1,0 +1,15 @@
+[
+  {"tuple_id": "NM007_s001_t001", "subject": "台湾地区当局", "relation": "启动对地攻击导弹研发计划", "object": "台湾地区当局", "location": null, "time": "1996"},
+  {"tuple_id": "NM007_s002_t001", "subject": "台湾地区军方", "relation": "进行导弹发射试验", "object": "云峰导弹", "location": null, "time": "2012"},
+  {"tuple_id": "NM007_s003_t001", "subject": "台湾地区军方", "relation": "进行导弹发射试验", "object": "云峰导弹", "location": null, "time": "2013"},
+  {"tuple_id": "NM007_s005_t001", "subject": "台湾地区军方", "relation": "重启并调整导弹研发计划", "object": "中国国家主体", "location": null, "time": "2016"},
+  {"tuple_id": "NM007_s006_t001", "subject": "台湾地区当局", "relation": "核定军事装备建设计划", "object": "中国国家主体", "location": null, "time": "2019"},
+  {"tuple_id": "NM007_s007_t001", "subject": "台湾地区军方科研机构", "relation": "规划武器量产计划", "object": "台湾地区当局", "location": null, "time": "2021"},
+  {"tuple_id": "NM007_s008_t001", "subject": "台湾地区防务部门", "relation": "公开证实武器量产计划", "object": "雄升导弹", "location": null, "time": "2022-03"},
+  {"tuple_id": "NM007_s008_t002", "subject": "台湾地区军方", "relation": "计划量产远程对地攻击导弹", "object": "中国国家主体", "location": null, "time": "2022-03"},
+  {"tuple_id": "NM007_s010_t001", "subject": "台湾地区军方", "relation": "部署地对地巡航导弹", "object": "云峰导弹", "location": null, "time": "2022-07"},
+  {"tuple_id": "NM007_s014_t001", "subject": "台湾地区立法机构负责人", "relation": "释放针对中国大陆的军事威慑信号", "object": "中国国家主体", "location": null, "time": "2023"},
+  {"tuple_id": "NM007_s015_t001", "subject": "台湾地区军方", "relation": "部署远程对陆攻击导弹", "object": "中国国家主体", "location": "台北和台中地区", "time": "2023"},
+  {"tuple_id": "NM007_s019_t001", "subject": "台湾地区军方", "relation": "启动武器装备量产", "object": "擎天2型中程弹道导弹", "location": null, "time": "2024"},
+  {"tuple_id": "NM007_s019_t002", "subject": "台湾地区军方", "relation": "核定采购配套军事装备", "object": "导弹发射车", "location": null, "time": "2024"}
+]

@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "NE040_s001_t001", "subject": ["美国政府", "七国集团", "欧盟委员会"], "relation": "宣布启动全球基础设施和投资伙伴关系计划", "object": "全球基础设施和投资伙伴关系", "location": null, "time": "2022-06"},
+  {"tuple_id": "NE040_s002_t001", "subject": "美国政府", "relation": "宣布启动全球基础设施和投资伙伴关系计划", "object": "中国国家主体", "location": null, "time": "2022-06"},
+  {"tuple_id": "NE040_s003_t001", "subject": "欧盟委员会", "relation": "宣布参与全球基建投资计划", "object": "全球基础设施和投资伙伴关系", "location": null, "time": "2022-06"},
+  {"tuple_id": "NE040_s005_t001", "subject": "美国政府", "relation": "释放针对中国的战略竞争信号", "object": "中国国家主体", "location": null, "time": "2022-06"},
+  {"tuple_id": "NE040_s007_t001", "subject": "美国政府", "relation": "释放对中国基建倡议的抹黑信号", "object": "中国国家主体", "location": null, "time": "2022-06"},
+  {"tuple_id": "NE040_s008_t001", "subject": "中国外交部发言人", "relation": "释放驳斥债务陷阱论调的抗议信号", "object": "美国政府", "location": null, "time": "2022-06"},
+  {"tuple_id": "NE040_s009_t001", "subject": "中国外交部发言人", "relation": "释放指责美国制造债务陷阱的信号", "object": "美国政府", "location": null, "time": "2022-06"},
+  {"tuple_id": "NE040_s010_t001", "subject": "中国外交部发言人", "relation": "释放反对地缘政治算计及抹黑行为的抗议信号", "object": ["美国政府", "七国集团"], "location": null, "time": "2022-06"}
+]

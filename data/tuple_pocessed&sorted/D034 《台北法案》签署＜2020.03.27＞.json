@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "D034_s001_t001", "subject": "美国国会众议院", "relation": "通过涉台关系法案", "object": "台北法案", "location": null, "time": "2020-03"},
+  {"tuple_id": "D034_s002_t001", "subject": "美国总统", "relation": "签署涉台法案", "object": "台北法案", "location": null, "time": "2020-03"},
+  {"tuple_id": "D034_s003_t001", "subject": "美国政府", "relation": "释放支持台湾参与国际组织的政治信号", "object": "台湾地区当局", "location": null, "time": "2020-03"},
+  {"tuple_id": "D034_s003_t002", "subject": "美国政府", "relation": "释放深化与台湾非官方关系的政治信号", "object": "台湾地区当局", "location": null, "time": "2020-03"},
+  {"tuple_id": "D034_s004_t001", "subject": "台湾地区外事部门", "relation": "释放对美方涉台政治动作的欢迎信号", "object": "美国政府", "location": null, "time": "2020-03"},
+  {"tuple_id": "D034_s005_t001", "subject": "台湾地区重要政治人物", "relation": "释放恢复外交关系的沟通信号", "object": "美国政府", "location": null, "time": "2020-03"},
+  {"tuple_id": "D034_s006_t001", "subject": "美国在台协会发言人", "relation": "释放维持涉台立场的政治信号", "object": ["台湾地区当局", "中国国家主体"], "location": null, "time": "2020-03"},
+  {"tuple_id": "D034_s007_t001", "subject": "中国外交部发言人", "relation": "释放对干涉内政的抗议信号", "object": "美国政府", "location": null, "time": "2020-03"},
+  {"tuple_id": "D034_s008_t001", "subject": "中国外交部发言人", "relation": "释放将采取必要反制措施的威慑信号", "object": "美国政府", "location": null, "time": "2020-03"},
+  {"tuple_id": "D034_s009_t001", "subject": "中国国台办发言人", "relation": "释放对干涉内政的抗议信号", "object": "美国政府", "location": null, "time": "2020-03"}
+]

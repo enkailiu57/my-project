@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "E018_s002_t001", "subject": "印度政府", "relation": "邀请参加多边军事演习", "object": "澳大利亚政府", "location": null, "time": "2020"},
+  {"tuple_id": "E018_s009_t001", "subject": "印度海军", "relation": "在南海及西太平洋区域开展军事演习", "object": "中国国家主体", "location": "南海及西太平洋海域", "time": "2021-08"},
+  {"tuple_id": "E018_s009_t002", "subject": "印度海军", "relation": "举行联合军事演习", "object": ["越南海军", "菲律宾海军"], "location": "东南亚海域", "time": "2021-08"},
+  {"tuple_id": "E018_s003_t001", "subject": "印度海军", "relation": "派遣舰艇抵达特定区域", "object": "美国政府", "location": "关岛", "time": "2021-08"},
+  {"tuple_id": "E018_s008_t001", "subject": "中国人民解放军海军", "relation": "实施远海军事训练与巡航", "object": "日本海上自卫队", "location": "日本海及对马海峡", "time": "2021-08"},
+  {"tuple_id": "E018_s004_t001", "subject": "澳大利亚海军", "relation": "举行联合军事演习", "object": ["美国海军", "日本海上自卫队", "印度海军"], "location": "关岛海域", "time": "2021-08"},
+  {"tuple_id": "E018_s006_t001", "subject": ["美国政府", "日本政府", "印度政府", "澳大利亚政府"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": "关岛海域", "time": "2021-08"},
+  {"tuple_id": "E018_s005_t001", "subject": "澳大利亚军方", "relation": "释放强化印太安全合作的积极信号", "object": ["美国政府", "日本政府", "印度政府", "澳大利亚政府"], "location": null, "time": "2021-08"},
+  {"tuple_id": "E018_s010_t001", "subject": "中国外交部发言人", "relation": "释放维持地区和平稳定的外交信号", "object": ["美国政府", "日本政府", "印度政府", "澳大利亚政府"], "location": null, "time": "2021-08"}
+]

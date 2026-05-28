@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "NE025_s001_t001", "subject": "北约", "relation": "释放将中国定性为系统性挑战的政治信号", "object": "中国国家主体", "location": null, "time": "2022"},
+  {"tuple_id": "NE025_s001_t002", "subject": "北约", "relation": "释放反对中俄战略协作的政治信号", "object": ["中国国家主体", "俄罗斯国家主体"], "location": null, "time": "2022"},
+  {"tuple_id": "NE025_s002_t001", "subject": "北约", "relation": "释放反对以武力改变台海现状的警告信号", "object": "中国国家主体", "location": null, "time": "2023-02"},
+  {"tuple_id": "NE025_s003_t001", "subject": "北约", "relation": "举行高层峰会", "object": "北约成员国", "location": null, "time": "2023"},
+  {"tuple_id": "NE025_s003_t002", "subject": "立陶宛政府", "relation": "释放涉台挑衅信号", "object": "中国国家主体", "location": null, "time": "2023"},
+  {"tuple_id": "NE025_s005_t001", "subject": "中国外交部发言人", "relation": "释放反对干涉中国内政的抗议信号", "object": "欧洲国家政府", "location": null, "time": "2025-06"}
+]

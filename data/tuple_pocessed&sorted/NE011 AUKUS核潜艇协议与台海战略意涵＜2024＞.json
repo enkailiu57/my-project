@@ -1,0 +1,14 @@
+[
+  {"tuple_id": "NE011_s001_t001", "subject": ["英国政府", "美国政府", "澳大利亚政府"], "relation": "签署三边安全合作协议", "object": "中国国家主体", "location": null, "time": "2021-09"},
+  {"tuple_id": "NE011_s002_t001", "subject": "美国政府", "relation": "提供核潜艇技术援助", "object": "澳大利亚政府", "location": null, "time": "2021-09"},
+  {"tuple_id": "NE011_s002_t002", "subject": "美国政府", "relation": "释放遵守核不扩散义务的澄清信号", "object": "国际社会", "location": null, "time": "2021-09"},
+  {"tuple_id": "NE011_s004_t001", "subject": ["美国政府", "澳大利亚政府"], "relation": "达成排他性军事技术合作协议", "object": "法国政府", "location": null, "time": "2021-09"},
+  {"tuple_id": "NE011_s004_t002", "subject": "澳大利亚政府", "relation": "取消重大军事采购合同", "object": "法国政府", "location": null, "time": "2021-09"},
+  {"tuple_id": "NE011_s005_t001", "subject": "法国政府", "relation": "提出严正外交交涉", "object": ["美国政府", "澳大利亚政府"], "location": null, "time": "2021-09"},
+  {"tuple_id": "NE011_s005_t002", "subject": "法国政府", "relation": "召回驻外大使", "object": ["美国政府", "澳大利亚政府"], "location": null, "time": "2021-09"},
+  {"tuple_id": "NE011_s006_t001", "subject": "法国外交部", "relation": "释放对违背承诺行为的谴责信号", "object": "澳大利亚政府", "location": null, "time": "2021-09"},
+  {"tuple_id": "NE011_s007_t001", "subject": "中国驻美大使馆", "relation": "释放反对针对第三方的军事合作信号", "object": ["美国政府", "英国政府", "澳大利亚政府"], "location": null, "time": "2021-09"},
+  {"tuple_id": "NE011_s008_t001", "subject": "中国外交部发言人", "relation": "释放对破坏地区稳定及核扩散风险的抗议信号", "object": ["美国政府", "英国政府", "澳大利亚政府"], "location": null, "time": "2021-09"},
+  {"tuple_id": "NE011_s009_t001", "subject": ["美国政府", "英国政府"], "relation": "提供核潜艇技术援助", "object": "澳大利亚政府", "location": null, "time": "2021-09"},
+  {"tuple_id": "NE011_s010_t001", "subject": ["美国政府", "英国政府", "澳大利亚政府"], "relation": "启动加入安全伙伴关系谈判", "object": "日本政府", "location": null, "time": "2024"}
+]

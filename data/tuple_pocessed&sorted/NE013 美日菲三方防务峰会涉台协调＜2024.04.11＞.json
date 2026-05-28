@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "NE013_s002_t001", "subject": ["美国政府", "日本政府", "菲律宾政府"], "relation": "释放干涉中国内政及领土主权的挑衅信号", "object": "中国国家主体", "location": null, "time": "2024-04"},
+  {"tuple_id": "NE013_s004_t001", "subject": "美国政府", "relation": "释放挑动地区对抗的干涉信号", "object": "中国国家主体", "location": null, "time": "2024-04"},
+  {"tuple_id": "NE013_s003_t002", "subject": "中国外交部发言人", "relation": "释放对海上侵权挑衅的抗议信号", "object": "菲律宾政府", "location": "南海海域", "time": "2024-04"},
+  {"tuple_id": "NE013_s003_t001", "subject": "中国外交部发言人", "relation": "释放对拉拢域外势力干涉的抗议信号", "object": ["菲律宾政府", "美国政府"], "location": null, "time": "2024-04"},
+  {"tuple_id": "NE013_s005_t001", "subject": "中国外交部发言人", "relation": "释放反对域外势力干涉的抗议信号", "object": ["美国政府", "日本政府", "菲律宾政府"], "location": null, "time": "2024-04"}
+]

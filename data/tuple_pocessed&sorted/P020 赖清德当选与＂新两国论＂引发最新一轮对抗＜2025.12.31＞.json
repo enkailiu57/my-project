@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "P020_s003_t001", "subject": "台湾地区领导人", "relation": "释放分裂国家与推行台独的政治信号", "object": "中国国家主体", "location": null, "time": "2024-05"},
+  {"tuple_id": "P020_s004_t001", "subject": "中国国台办发言人", "relation": "释放反对台独分裂行径的抗议信号", "object": "台湾地区领导人", "location": null, "time": "2024-05"},
+  {"tuple_id": "P020_s005_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-05"},
+  {"tuple_id": "P020_s006_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-10"},
+  {"tuple_id": "P020_s007_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-04"},
+  {"tuple_id": "P020_s008_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-12"},
+  {"tuple_id": "P020_s009_t001", "subject": "中国人民解放军", "relation": "释放针对外部干涉势力的军事威慑信号", "object": "外部干涉势力", "location": "台岛周边海空域", "time": "2025-12"},
+  {"tuple_id": "P020_s009_t002", "subject": "中国人民解放军", "relation": "进行实弹射击", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-12"},
+  {"tuple_id": "P020_s009_t003", "subject": "中国人民解放军", "relation": "实施临海抵近行动", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-12"}
+]

@@ -1,0 +1,16 @@
+[
+  {"tuple_id": "NE019_s001_t001", "subject": "美国国会众议院议长", "relation": "进行高层政治访问", "object": "台湾地区当局", "location": "台湾地区", "time": "2022-08"},
+  {"tuple_id": "NE019_s002_t001", "subject": "美国国会众议院议长", "relation": "进行高层政治访问", "object": "台湾地区立法机构", "location": "台湾地区", "time": "2022-08"},
+  {"tuple_id": "NE019_s002_t002", "subject": "美国国会众议院议长", "relation": "会晤美国国会高层", "object": "台湾地区领导人", "location": "台湾地区", "time": "2022-08"},
+  {"tuple_id": "NE019_s003_t001", "subject": "美国参议员", "relation": "推动涉台立法讨论", "object": "台湾地区当局", "location": null, "time": "2022-08"},
+  {"tuple_id": "NE019_s006_t001", "subject": "美国国会高层政要", "relation": "窜访台湾地区", "object": "台湾地区当局", "location": "台湾地区", "time": "2022-08"},
+  {"tuple_id": "NE019_s007_t002", "subject": "美国政要", "relation": "访问台湾地区", "object": "台湾地区当局", "location": "台湾地区", "time": "2022-08"},
+  {"tuple_id": "NE019_s006_t002", "subject": ["中国国家主体"], "relation": "释放反对干涉中国内政的抗议信号", "object": ["美国国会高层政要"], "location": null, "time": "2022-08"},
+  {"tuple_id": "NE019_s007_t001", "subject": "中国外交部发言人", "relation": "释放反对干涉中国内政的抗议信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2022-08"},
+  {"tuple_id": "NE019_s008_t001", "subject": "中国国家主体", "relation": "释放反对干涉中国内政的抗议信号", "object": "美国政府", "location": null, "time": "2022-08"},
+  {"tuple_id": "NE019_s009_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": ["台湾地区当局", "美国政府"], "location": "台海周边海空域", "time": "2022-08"},
+  {"tuple_id": "NE019_s004_t001", "subject": "美国政府", "relation": "计划提供军事援助", "object": "台湾地区当局", "location": null, "time": "2023"},
+  {"tuple_id": "NE019_s004_t002", "subject": "美国政府", "relation": "计划提升盟友地位", "object": "台湾地区当局", "location": null, "time": "2023"},
+  {"tuple_id": "NE019_s010_t001", "subject": "美国政府", "relation": "阻止涉台法案通过", "object": "美国国会涉台立法势力", "location": null, "time": "2023"},
+  {"tuple_id": "NE019_s010_t002", "subject": "美国政府", "relation": "将涉台条款纳入国防授权法案", "object": "美国国会涉台立法势力", "location": null, "time": "2023"}
+]

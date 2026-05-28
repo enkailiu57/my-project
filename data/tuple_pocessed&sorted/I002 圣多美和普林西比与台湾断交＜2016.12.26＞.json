@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "I002_s001_t001", "subject": "台湾地区当局", "relation": "释放拒绝承认九二共识的政治信号", "object": "中国国家主体", "location": null, "time": "2016"},
+  {"tuple_id": "I002_s001_t002", "subject": "台湾地区当局", "relation": "推行去中国化分裂路线", "object": "中国国家主体", "location": null, "time": "2016"},
+  {"tuple_id": "I002_s001_t003", "subject": "台湾地区当局", "relation": "寻求加入美国主导的地缘战略", "object": "美国政府", "location": null, "time": "2016"},
+  {"tuple_id": "I002_s002_t001", "subject": "圣多美和普林西比政府", "relation": "宣布与台湾地区断绝外交关系", "object": "台湾地区当局", "location": null, "time": "2016-12"},
+  {"tuple_id": "I002_s003_t001", "subject": "中国外交部发言人", "relation": "释放恢复对华外交关系的积极信号", "object": "圣多美和普林西比政府", "location": null, "time": "2016-12"},
+  {"tuple_id": "I002_s004_t001", "subject": "中国外交部", "relation": "举行高层政治会谈", "object": "圣多美和普林西比外交部", "location": null, "time": "2016-12"},
+  {"tuple_id": "I002_s004_t002", "subject": "中国国家主体", "relation": "签署恢复外交关系联合公报", "object": "圣多美和普林西比政府", "location": null, "time": "2016-12"}
+]

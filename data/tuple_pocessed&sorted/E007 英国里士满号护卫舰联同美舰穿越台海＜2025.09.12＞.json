@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "E007_s001_t001", "subject": ["加拿大海军", "澳大利亚海军"], "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2025-09"},
+  {"tuple_id": "E007_s002_t001", "subject": ["美国海军", "英国皇家海军"], "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2025-09"},
+  {"tuple_id": "E007_s003_t001", "subject": "中国人民解放军东部战区", "relation": "实施海空跟监警戒", "object": ["美国海军", "英国皇家海军"], "location": "台湾海峡", "time": "2025-09"},
+  {"tuple_id": "E007_s005_t002", "subject": "中国人民解放军军机", "relation": "实施军事威慑性跟踪", "object": "英国皇家海军舰艇", "location": "台湾海峡", "time": "2025-09"},
+  {"tuple_id": "E007_s006_t001", "subject": "中国人民解放军", "relation": "实施空中跟踪监视", "object": "英国皇家海军", "location": "台海周边海空域", "time": "2025-09"},
+  {"tuple_id": "E007_s004_t001", "subject": "中国人民解放军东部战区发言人", "relation": "释放对破坏台海和平稳定的抗议信号", "object": ["美国政府", "英国政府"], "location": null, "time": "2025-09"},
+  {"tuple_id": "E007_s005_t001", "subject": "英国皇家海军", "relation": "披露军事对抗细节", "object": "中国人民解放军", "location": null, "time": "2025-09"},
+  {"tuple_id": "E007_s007_t001", "subject": "英国皇家海军", "relation": "实施航母打击群巡航", "object": "中国国家主体", "location": "南沙群岛海域", "time": "2025-09"},
+  {"tuple_id": "E007_s007_t002", "subject": ["中国人民解放军海军", "中国海警"], "relation": "实施海空跟监警戒", "object": "英国皇家海军", "location": "南沙群岛海域", "time": "2025-09"}
+]

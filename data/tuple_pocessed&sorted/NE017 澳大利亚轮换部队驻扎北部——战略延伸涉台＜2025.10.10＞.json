@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "NE017_s001_t001", "subject": "澳大利亚政府", "relation": "进行高层外交访问", "object": "美国政府", "location": null, "time": "2014-06"},
+  {"tuple_id": "NE017_s001_t002", "subject": ["澳大利亚政府", "美国政府"], "relation": "签署双边防务合作协议", "object": ["澳大利亚政府", "美国政府"], "location": null, "time": "2014-06"},
+  {"tuple_id": "NE017_s001_t003", "subject": "美国政府", "relation": "向盟友部署军事力量", "object": "澳大利亚政府", "location": "澳大利亚达尔文地区", "time": "2014-06"},
+  {"tuple_id": "NE017_s001_t004", "subject": "美国政府", "relation": "计划扩大海外军事资产", "object": "澳大利亚政府", "location": "澳大利亚", "time": "2014-06"},
+  {"tuple_id": "NE017_s002_t001", "subject": ["日本政府", "美国政府", "澳大利亚政府"], "relation": "开展覆盖台海方向的联合军事演习", "object": "中国国家主体", "location": "日本三泽基地", "time": "2025-09"},
+  {"tuple_id": "NE017_s003_t001", "subject": "澳大利亚政府", "relation": "释放关注台海和平稳定的政治信号", "object": "中国国家主体", "location": "台海周边海空域", "time": "2025-10"},
+  {"tuple_id": "NE017_s004_t001", "subject": "中国国家主体", "relation": "释放对充当遏制中国棋子的抗议信号", "object": "澳大利亚政府", "location": null, "time": "2025-10"}
+]

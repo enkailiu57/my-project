@@ -1,0 +1,13 @@
+[
+  {"tuple_id": "NE026_s001_t001", "subject": "日本陆上自卫队", "relation": "启用军事基地", "object": "中国国家主体", "location": "奄美大岛", "time": "2019-03"},
+  {"tuple_id": "NE026_s006_t001", "subject": "日本自卫队", "relation": "部署情报监听部队", "object": "中国国家主体", "location": "与那国岛", "time": "2019/2020"},
+  {"tuple_id": "NE026_s006_t002", "subject": "日本自卫队", "relation": "部署导弹及警备部队", "object": "中国国家主体", "location": "宫古岛", "time": "2019/2020"},
+  {"tuple_id": "NE026_s002_t001", "subject": "日本陆上自卫队", "relation": "计划部署岸舰导弹基地", "object": "中国国家主体", "location": "宫古岛", "time": "2020-03"},
+  {"tuple_id": "NE026_s002_t002", "subject": "日本陆上自卫队", "relation": "计划常驻导弹部队", "object": "中国国家主体", "location": "冲绳岛周围岛屿", "time": "2020-03"},
+  {"tuple_id": "NE026_s005_t001", "subject": "日本陆上自卫队", "relation": "建立军事基地", "object": "中国国家主体", "location": "石垣岛", "time": "2023"},
+  {"tuple_id": "NE026_s009_t001", "subject": "美国国防部", "relation": "释放加强地区军事威慑的信号", "object": "中国国家主体", "location": "日本三泽基地", "time": "2024-07"},
+  {"tuple_id": "NE026_s009_t002", "subject": "美国国防部", "relation": "计划部署先进战机", "object": "中国国家主体", "location": "日本三泽基地", "time": "2024-07"},
+  {"tuple_id": "NE026_s010_t001", "subject": "美军", "relation": "计划部署新型战斗机", "object": "中国国家主体", "location": "日本嘉手纳空军基地", "time": "2024-07"},
+  {"tuple_id": "NE026_s011_t001", "subject": "日本防卫省", "relation": "计划部署监视设备以监控军事动向", "object": "中国国家主体", "location": "宫古海峡", "time": "2025-12"},
+  {"tuple_id": "NE026_s007_t001", "subject": "日本陆上自卫队", "relation": "实施常态化兵力部署", "object": "中国国家主体", "location": "石垣岛", "time": "2026"}
+]

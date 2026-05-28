@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "M024_s001_t001", "subject": "美国总统", "relation": "签署涉台法案", "object": "美国国防政策", "location": null, "time": "2022-12"},
+  {"tuple_id": "M024_s001_t002", "subject": "美国政府", "relation": "计划提供军事援助", "object": "台湾地区当局", "location": null, "time": "2022-12"},
+  {"tuple_id": "M024_s002_t001", "subject": "美国政府", "relation": "加速处理军购请求", "object": "台湾地区当局", "location": null, "time": "2022-12"},
+  {"tuple_id": "M024_s002_t002", "subject": "美国政府", "relation": "邀请参加多边军事演习", "object": "台湾地区当局", "location": null, "time": "2022-12"},
+  {"tuple_id": "M024_s003_t001", "subject": "中国国家主体", "relation": "释放对干涉内政的抗议信号", "object": "美国政府", "location": null, "time": "2022-12"},
+  {"tuple_id": "M024_s004_t001", "subject": "中国人民解放军东部战区", "relation": "组织环台岛战备警巡与联合军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2022-12"},
+  {"tuple_id": "M024_s005_t001", "subject": "中国人民解放军东部战区", "relation": "释放针对美台挑衅的严正震慑信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2022-12"},
+  {"tuple_id": "M024_s006_t003", "subject": "台湾地区军方", "relation": "监测并统计解放军军机动向", "object": "中国人民解放军军机", "location": null, "time": "2022-12-25"},
+  {"tuple_id": "M024_s006_t001", "subject": "中国人民解放军军机", "relation": "逾越海峡中线及进入西南空域", "object": "台湾地区当局", "location": "台岛西南空域", "time": "2022-12-25"},
+  {"tuple_id": "M024_s006_t002", "subject": "中国人民解放军舰艇", "relation": "在台海周边进行军事活动", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2022-12-25"}
+]

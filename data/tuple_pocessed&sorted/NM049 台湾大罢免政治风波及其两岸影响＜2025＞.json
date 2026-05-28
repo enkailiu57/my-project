@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "NM049_s002_t001", "subject": "台湾地区当局", "relation": "发起政治罢免行动", "object": "中国国民党", "location": null, "time": "2025"},
+  {"tuple_id": "NM049_s004_t001", "subject": "日本政府", "relation": "邀请台湾官员窜访", "object": "民进党当局", "location": "日本", "time": "2025"},
+  {"tuple_id": "NM049_s005_t001", "subject": "以色列国会部分议员", "relation": "释放支持台湾参与国际组织的政治信号", "object": "台湾地区当局", "location": null, "time": "2025"},
+  {"tuple_id": "NM049_s006_t001", "subject": "捷克总统", "relation": "释放将台湾问题国际化的政治信号", "object": "中国国家主体", "location": null, "time": "2025"},
+  {"tuple_id": "NM049_s007_t001", "subject": "英国国防大臣", "relation": "释放介入台海冲突的军事威胁信号", "object": "中国国家主体", "location": "太平洋", "time": "2025"},
+  {"tuple_id": "NM049_s008_t001", "subject": "中国驻日本大使馆", "relation": "释放反对外部势力干涉台湾问题的抗议信号", "object": "日本政府", "location": null, "time": "2025"},
+  {"tuple_id": "NM049_s009_t001", "subject": "中国驻以色列使馆", "relation": "释放反对台独分裂及外部干涉的抗议信号", "object": "以色列政府", "location": null, "time": "2025"},
+  {"tuple_id": "NM049_s010_t001", "subject": "中国外交部", "relation": "释放反对外部势力干涉台湾问题的抗议信号", "object": "日本政府", "location": null, "time": "2025"},
+  {"tuple_id": "NM049_s011_t001", "subject": "中国国家主体", "relation": "释放要求恪守一个中国原则的政治信号", "object": "捷克政府", "location": null, "time": "2025"}
+]

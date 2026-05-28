@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "M019_s002_t001", "subject": "中国人民解放军", "relation": "实施绕台军事巡航", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2019-03"},
+  {"tuple_id": "M019_s002_t002", "subject": "中国人民解放军", "relation": "开展针对性军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2019-03"},
+  {"tuple_id": "M019_s004_t001", "subject": "中国人民解放军军机", "relation": "越过海峡中线", "object": "台湾地区当局", "location": "台湾海峡中线附近", "time": "2019-03"},
+  {"tuple_id": "M019_s005_t001", "subject": "台湾地区军方", "relation": "实施空中拦截", "object": "中国人民解放军军机", "location": "台湾海峡中线附近", "time": "2019-03"},
+  {"tuple_id": "M019_s005_t002", "subject": "中国人民解放军军机", "relation": "撤离争议空域", "object": "台湾地区军方", "location": "台湾海峡中线附近", "time": "2019-03"},
+  {"tuple_id": "M019_s007_t001", "subject": "美国海军", "relation": "派遣军舰穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2019-03"},
+  {"tuple_id": "M019_s008_t001", "subject": "美国政府", "relation": "实施军事挑衅与滋扰", "object": "中国国家主体", "location": "台湾海峡", "time": "2019-03"},
+  {"tuple_id": "M019_s008_t002", "subject": "中国国家主体", "relation": "释放反对军事挑衅的抗议信号", "object": "美国政府", "location": null, "time": "2019-03"}
+]

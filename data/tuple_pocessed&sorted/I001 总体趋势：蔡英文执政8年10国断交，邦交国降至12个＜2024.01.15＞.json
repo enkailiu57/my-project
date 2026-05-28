@@ -1,0 +1,21 @@
+[
+  {"tuple_id": "I001_s004_t002", "subject": "台湾地区当局", "relation": "终止外交关系", "object": "哥斯达黎加政府", "location": null, "time": "2007"},
+  {"tuple_id": "I001_s001_t001", "subject": "台湾地区当局", "relation": "达成外交休兵默契", "object": "中国国家主体", "location": null, "time": "2008/2016"},
+  {"tuple_id": "I001_s001_t002", "subject": "冈比亚政府", "relation": "宣布与台湾地区断绝外交关系", "object": "台湾地区当局", "location": null, "time": "2013"},
+  {"tuple_id": "I001_s002_t001", "subject": "台湾地区领导人", "relation": "进行直接高层通话", "object": "美国候任总统", "location": null, "time": "2016-12"},
+  {"tuple_id": "I001_s003_t001", "subject": "台湾地区当局", "relation": "终止外交关系", "object": "圣多美和普林西比政府", "location": null, "time": "2016-12"},
+  {"tuple_id": "I001_s004_t001", "subject": "台湾地区当局", "relation": "终止外交关系", "object": "巴拿马政府", "location": null, "time": "2017-06"},
+  {"tuple_id": "I001_s005_t001", "subject": "台湾地区当局", "relation": "终止外交关系", "object": "多米尼加政府", "location": null, "time": "2018-05"},
+  {"tuple_id": "I001_s006_t001", "subject": "台湾地区当局", "relation": "终止外交关系", "object": "布基纳法索政府", "location": null, "time": "2018-05"},
+  {"tuple_id": "I001_s007_t001", "subject": "台湾地区当局", "relation": "终止外交关系", "object": "萨尔瓦多政府", "location": null, "time": "2018-08"},
+  {"tuple_id": "I001_s008_t001", "subject": "台湾地区当局", "relation": "终止外交关系", "object": "所罗门群岛政府", "location": null, "time": "2019-09"},
+  {"tuple_id": "I001_s009_t001", "subject": "台湾地区当局", "relation": "终止外交关系", "object": "基里巴斯政府", "location": null, "time": "2019-09"},
+  {"tuple_id": "I001_s010_t001", "subject": "台湾地区当局", "relation": "实施物资援助外交", "object": "国际社会相关国家", "location": null, "time": "2020-04"},
+  {"tuple_id": "I001_s011_t001", "subject": "台湾地区当局", "relation": "允许设立官方性质代表处", "object": "立陶宛政府", "location": "立陶宛", "time": "2021-11"},
+  {"tuple_id": "I001_s012_t001", "subject": "台湾地区当局", "relation": "终止外交关系", "object": "尼加拉瓜政府", "location": null, "time": "2021-12"},
+  {"tuple_id": "I001_s013_t001", "subject": "尼加拉瓜政府", "relation": "释放支持一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "2022-04"},
+  {"tuple_id": "I001_s014_t001", "subject": "台湾地区当局", "relation": "终止外交关系", "object": "洪都拉斯政府", "location": null, "time": "2023-03"},
+  {"tuple_id": "I001_s015_t001", "subject": "台湾地区当局", "relation": "退出区域多边合作机制", "object": "中美洲议会", "location": null, "time": "2023-08"},
+  {"tuple_id": "I001_s016_t001", "subject": "台湾地区当局", "relation": "终止外交关系", "object": "诺鲁政府", "location": null, "time": "2024-01"},
+  {"tuple_id": "I001_s017_t001", "subject": "台湾地区当局", "relation": "终止外交关系", "object": ["圣多美和普林西比政府", "巴拿马政府", "多米尼加政府", "布基纳法索政府", "萨尔瓦多政府", "所罗门群岛政府", "基里巴斯政府", "尼加拉瓜政府", "洪都拉斯政府", "诺鲁政府"], "location": null, "time": "2016/2024"}
+]

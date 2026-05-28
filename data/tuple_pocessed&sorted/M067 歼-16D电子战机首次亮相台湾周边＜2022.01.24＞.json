@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "M067_s001_t001", "subject": ["美国海军", "日本海上自卫队"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": "菲律宾海", "time": "2022-01"},
+  {"tuple_id": "M067_s002_t001", "subject": "中国人民解放军", "relation": "进入防空识别区", "object": "台湾地区当局", "location": "台岛西南空域", "time": "2022-01"},
+  {"tuple_id": "M067_s003_t002", "subject": "美国海军", "relation": "在南海开展军事演习", "object": "中国国家主体", "location": "南海海域", "time": "2022-01"},
+  {"tuple_id": "M067_s003_t001", "subject": "美国国防部", "relation": "发布军事行动通报", "object": "国际社会", "location": null, "time": "2022-01"},
+  {"tuple_id": "M067_s004_t001", "subject": "中国人民解放军", "relation": "实施绕台军事巡航", "object": "台湾地区当局", "location": "台岛西南空域", "time": "2022-01"}
+]

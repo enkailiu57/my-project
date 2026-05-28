@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "E034_s001_t001", "subject": "台湾地区军方", "relation": "举行军事演习", "object": "汉光40号演习", "location": null, "time": "2024-04"},
+  {"tuple_id": "E034_s002_t001", "subject": "中国国台办发言人", "relation": "释放反对台独及外部干涉的警告信号", "object": ["台湾地区当局", "外部干涉势力"], "location": null, "time": "2024-04"},
+  {"tuple_id": "E034_s003_t001", "subject": "中国国防部发言人", "relation": "释放反对以武谋独的警告信号", "object": "台湾地区当局", "location": null, "time": "2024-04"},
+  {"tuple_id": "E034_s004_t001", "subject": "中国国防部发言人", "relation": "释放反对以武谋独的警告信号", "object": "台湾地区当局", "location": null, "time": "2024-06"},
+  {"tuple_id": "E034_s005_t001", "subject": "台湾地区军方", "relation": "举行军事演习", "object": "中国国家主体", "location": "台岛周边海空域", "time": "2024-07"},
+  {"tuple_id": "E034_s013_t001", "subject": "中国官方发言人", "relation": "释放反对以武谋独的警告信号", "object": "台湾地区当局", "location": null, "time": "2024-07"},
+  {"tuple_id": "E034_s014_t001", "subject": "台湾地区防务部门", "relation": "规划扩大规模军事演习", "object": "汉光实兵操演", "location": null, "time": "2025-05"}
+]

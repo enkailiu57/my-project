@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "E036_s001_t001", "subject": "台湾地区军方", "relation": "举行军事演习", "object": "中国国家主体", "location": "台湾地区", "time": "2025-04"},
+  {"tuple_id": "E036_s001_t002", "subject": "美军", "relation": "派遣人员介入军事训练与演习", "object": "台湾地区军方", "location": "台湾地区", "time": "2025-04"},
+  {"tuple_id": "E036_s003_t001", "subject": "台湾地区军方", "relation": "释放构建美台军事联防体系的信号", "object": "美国政府", "location": null, "time": "2025-04"},
+  {"tuple_id": "E036_s010_t001", "subject": "美国军方", "relation": "减少台海自由航行频率", "object": "中国国家主体", "location": "台海周边海空域", "time": "2025"},
+  {"tuple_id": "E036_s011_t001", "subject": "日本自卫队", "relation": "释放将台湾安全与日本存亡绑定的军事介入信号", "object": ["中国国家主体", "台湾地区当局"], "location": null, "time": "2025"}
+]

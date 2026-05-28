@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "NE005_s001_t001", "subject": "美军印太司令部", "relation": "申请增加印太军事部署预算", "object": "美国国会", "location": null, "time": "2021"},
+  {"tuple_id": "NE005_s002_t001", "subject": "美军印太司令部", "relation": "加强地区军事部署", "object": "中国国家主体", "location": "印太地区", "time": "2021"},
+  {"tuple_id": "NE005_s004_t001", "subject": "美国国会", "relation": "制定针对中国的军事威慑计划", "object": "中国国家主体", "location": "第一岛链", "time": "2022"},
+  {"tuple_id": "NE005_s003_t001", "subject": "美军印太司令部", "relation": "释放强化军事威慑的战略信号", "object": "中国国家主体", "location": null, "time": "2023-12"},
+  {"tuple_id": "NE005_s010_t001", "subject": "美国国防部", "relation": "释放以中国为战略竞争对象的信号", "object": "中国国家主体", "location": null, "time": "2023-12"}
+]

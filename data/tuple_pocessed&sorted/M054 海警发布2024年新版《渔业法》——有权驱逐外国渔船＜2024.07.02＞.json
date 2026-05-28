@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "M054_s001_t001", "subject": "中国国家主体", "relation": "发布海警执法法规确立扣留权", "object": "外国船只", "location": "中国管辖海域", "time": "2024-05"},
+  {"tuple_id": "M054_s002_t001", "subject": "中国海警", "relation": "依法登检查扣", "object": "台湾渔船", "location": "泉州近海", "time": "2024-07"},
+  {"tuple_id": "M054_s003_t001", "subject": "台湾地区海巡船只", "relation": "试图干扰执法行动", "object": "中国海警", "location": "泉州近海", "time": "2024-07"},
+  {"tuple_id": "M054_s003_t002", "subject": "中国海警", "relation": "实施警告驱离", "object": "台湾地区海巡船只", "location": "泉州近海", "time": "2024-07"},
+  {"tuple_id": "M054_s004_t001", "subject": "台湾地区海巡部门", "relation": "释放避免军事冲突的退让信号", "object": "中国海警", "location": "泉州近海", "time": "2024-07"},
+  {"tuple_id": "M054_s004_t002", "subject": "台湾地区海巡部门", "relation": "撤离争议海域", "object": "中国海警", "location": "泉州近海", "time": "2024-07"},
+  {"tuple_id": "M054_s005_t001", "subject": "民进党", "relation": "释放要求释放扣押人员及船只的政治施压信号", "object": "中国国家主体", "location": null, "time": "2024-07"},
+  {"tuple_id": "M054_s006_t001", "subject": "台湾地区农业主管部门", "relation": "释放要求释放扣押人员及船只的政治施压信号", "object": "中国海警", "location": null, "time": "2024-07"},
+  {"tuple_id": "M054_s007_t001", "subject": "中国国民党", "relation": "释放呼吁两岸克制避免冲突的政治信号", "object": "台湾地区当局", "location": null, "time": "2024-07"}
+]

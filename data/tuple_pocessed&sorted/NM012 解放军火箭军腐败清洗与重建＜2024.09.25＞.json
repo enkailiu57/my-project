@@ -1,0 +1,4 @@
+[
+  {"tuple_id": "NM012_s012_t001", "subject": "中国国家主体", "relation": "发布军事行动通报", "object": "有关国家", "location": null, "time": "2024-09"},
+  {"tuple_id": "NM012_s011_t001", "subject": "中国人民解放军火箭军", "relation": "实施洲际弹道导弹发射", "object": "洲际弹道导弹", "location": "公海水域", "time": "2024-09"}
+]

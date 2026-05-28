@@ -1,0 +1,13 @@
+[
+  {"tuple_id": "E006_s001_t001", "subject": "台湾地区当局", "relation": "释放支持台湾分裂的政治信号", "object": "中国国家主体", "location": null, "time": "2024-05"},
+  {"tuple_id": "E006_s002_t001", "subject": "美西方国家", "relation": "释放干涉中国内政的政治信号", "object": "中国国家主体", "location": null, "time": "2024-05"},
+  {"tuple_id": "E006_s003_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-05"},
+  {"tuple_id": "E006_s004_t001", "subject": "台湾地区当局", "relation": "实施针对大陆企业的歧视性贸易限制", "object": "中国国家主体", "location": null, "time": "2024-05"},
+  {"tuple_id": "E006_s004_t002", "subject": "中国国家主体", "relation": "实施经贸反制", "object": "台湾地区当局", "location": null, "time": "2024-05"},
+  {"tuple_id": "E006_s005_t001", "subject": "荷兰海军", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-05"},
+  {"tuple_id": "E006_s006_t001", "subject": "中国外交部发言人", "relation": "释放反对损害中国主权安全的抗议信号", "object": "荷兰政府", "location": null, "time": "2024-05"},
+  {"tuple_id": "E006_s007_t001", "subject": "中国外交部发言人", "relation": "释放维护台海主权与管辖权的抗议信号", "object": "荷兰政府", "location": null, "time": "2024-05"},
+  {"tuple_id": "E006_s008_t001", "subject": ["美国海军", "澳大利亚海军"], "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-05"},
+  {"tuple_id": "E006_s008_t002", "subject": "中国人民解放军海军", "relation": "实施海空跟监警戒", "object": ["美国海军", "澳大利亚海军"], "location": "台湾海峡", "time": "2024-05"},
+  {"tuple_id": "E006_s008_t003", "subject": "中国人民解放军海军", "relation": "实施近距离战术横切", "object": "美国海军", "location": "台湾海峡", "time": "2024-05"}
+]

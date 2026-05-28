@@ -1,0 +1,4 @@
+[
+  {"tuple_id": "NM002_s001_t001", "subject": "台湾地区当局", "relation": "宣布延长义务役役期", "object": "台湾地区兵役制度", "location": null, "time": "2022-12"},
+  {"tuple_id": "NM002_s002_t001", "subject": "美国白宫发言人", "relation": "释放强化对台军事支持的承诺信号", "object": "台湾地区当局", "location": null, "time": "2024-11"}
+]

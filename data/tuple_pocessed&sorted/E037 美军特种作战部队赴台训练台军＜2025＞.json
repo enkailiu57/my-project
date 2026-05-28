@@ -1,0 +1,15 @@
+[
+  {"tuple_id": "E037_s001_t001", "subject": "美国特种作战部队", "relation": "派遣人员介入军事训练与演习", "object": "台湾地区军方", "location": "台湾地区", "time": "2021-10"},
+  {"tuple_id": "E037_s002_t001", "subject": "美军", "relation": "实施军事训练", "object": "台湾地区军方", "location": "台湾地区", "time": "2021"},
+  {"tuple_id": "E037_s002_t002", "subject": "中国外交部发言人", "relation": "释放反对军事干预的警告信号", "object": "美国政府", "location": null, "time": "2021"},
+  {"tuple_id": "E037_s003_t001", "subject": "中国国防部发言人", "relation": "释放捍卫主权安全的强硬威慑信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2021-10"},
+  {"tuple_id": "E037_s004_t001", "subject": "美国参议院", "relation": "通过涉台军事合作法案", "object": "台湾地区当局", "location": null, "time": "2023"},
+  {"tuple_id": "E037_s004_t002", "subject": "美国政府", "relation": "提出对台军事训练计划", "object": "台湾地区军方", "location": null, "time": "2023"},
+  {"tuple_id": "E037_s005_t001", "subject": "美军", "relation": "派遣人员介入军事训练与演习", "object": "台湾地区军方", "location": "台湾地区", "time": "2023"},
+  {"tuple_id": "E037_s008_t001", "subject": "美国国防部", "relation": "提供军事合作资金支持", "object": "台湾地区军方", "location": "台海地区", "time": "2024"},
+  {"tuple_id": "E037_s009_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-05"},
+  {"tuple_id": "E037_s010_t001", "subject": "中国人民解放军东部战区", "relation": "出动海空兵力", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-05"},
+  {"tuple_id": "E037_s010_t002", "subject": "中国人民解放军东部战区", "relation": "突破防空识别区", "object": "台湾地区当局", "location": "台湾防空识别区", "time": "2024-05"},
+  {"tuple_id": "E037_s012_t001", "subject": "中国人民解放军东部战区发言人", "relation": "释放反对台独及外部干涉的警告信号", "object": ["台湾地区‘台独’分裂势力", "美国政府"], "location": null, "time": "2024-05"},
+  {"tuple_id": "E037_s011_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": ["台湾地区当局", "外部干涉势力"], "location": "台海周边海空域", "time": "2025"}
+]

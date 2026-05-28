@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "P034_s001_t001", "subject": "中国国民党", "relation": "进行高层政治访问", "object": "中国国家主体", "location": null, "time": "2005-04"},
+  {"tuple_id": "P034_s004_t001", "subject": "中国国民党主席", "relation": "进行高层政治访问", "object": "中国国家主体", "location": null, "time": "2005-04"},
+  {"tuple_id": "P034_s004_t002", "subject": "中共中央台湾工作办公室", "relation": "官方迎接外宾", "object": "中国国民党主席", "location": null, "time": "2005-04"},
+  {"tuple_id": "P034_s008_t001", "subject": "中国国民党主席", "relation": "举行高层政治会晤", "object": "中共中央总书记", "location": null, "time": "2005-04"},
+  {"tuple_id": "P034_s009_t001", "subject": ["中国国民党", "中国共产党"], "relation": "达成恢复两岸谈判的政治共识", "object": ["中国国民党", "中国共产党"], "location": null, "time": "2005-04-29"},
+  {"tuple_id": "P034_s015_t001", "subject": "中国国家主体", "relation": "发出高层政治访问邀请", "object": "台湾亲民党", "location": null, "time": "2005-05"},
+  {"tuple_id": "P034_s015_t002", "subject": "台湾亲民党", "relation": "进行高层政治访问", "object": "中国国家主体", "location": null, "time": "2005-05"}
+]

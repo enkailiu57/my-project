@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "M078_s001_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2023"},
+  {"tuple_id": "M078_s002_t001", "subject": "中国人民解放军军机", "relation": "进行无线电喊话警告", "object": "台湾地区军方军机", "location": "台海空域", "time": "2023-04"},
+  {"tuple_id": "M078_s002_t002", "subject": "中国人民解放军舰艇", "relation": "实施抵近监视", "object": "台湾地区军方水面舰艇", "location": "台海周边海域", "time": "2023-04"},
+  {"tuple_id": "M078_s002_t003", "subject": "中国人民解放军电子战部队", "relation": "实施电子干扰", "object": "台湾地区军方雷达系统", "location": "台海空域", "time": "2023-04"},
+  {"tuple_id": "M078_s003_t001", "subject": "美军", "relation": "撤离争议海域", "object": "中国人民解放军", "location": "台湾东部海域", "time": "2023-04"},
+  {"tuple_id": "M078_s004_t001", "subject": "台湾地区当局", "relation": "释放反对军事演训的抗议信号", "object": "中国国家主体", "location": null, "time": "2023-04"},
+  {"tuple_id": "M078_s005_t001", "subject": "中国人民解放军", "relation": "划设军事禁航区", "object": "台湾地区当局", "location": "台岛北部空域", "time": "2023-04"}
+]

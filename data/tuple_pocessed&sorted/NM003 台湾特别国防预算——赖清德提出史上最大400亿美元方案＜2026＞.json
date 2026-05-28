@@ -1,0 +1,5 @@
+[
+  {"tuple_id": "NM003_s001_t001", "subject": "台湾地区领导人", "relation": "释放加码对美军事采购的信号", "object": "美国政府", "location": null, "time": "2025-11"},
+  {"tuple_id": "NM003_s002_t001", "subject": "台湾地区领导人", "relation": "渲染外部威胁", "object": "中国国家主体", "location": null, "time": "2025-11"},
+  {"tuple_id": "NM003_s002_t002", "subject": "台湾地区当局", "relation": "计划大幅提升防卫开支", "object": "中国国家主体", "location": null, "time": "2025-11"}
+]

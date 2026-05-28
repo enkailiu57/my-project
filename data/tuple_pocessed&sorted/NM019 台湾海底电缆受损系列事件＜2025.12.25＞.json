@@ -1,0 +1,13 @@
+[
+  {"tuple_id": "NM019_s003_t001", "subject": "中国大陆电信运营商", "relation": "释放否认破坏指控的澄清信号", "object": "台湾地区当局", "location": null, "time": "2023-02"},
+  {"tuple_id": "NM019_s003_t002", "subject": "中国大陆电信运营商", "relation": "释放恢复两岸通信合作的积极信号", "object": "台湾地区电信运营商", "location": null, "time": "2023-02"},
+  {"tuple_id": "NM019_s004_t001", "subject": "多哥籍货轮宏泰58号", "relation": "破坏海底通信基础设施", "object": "台湾地区海底电缆", "location": "台南外海海域", "time": "2025-02"},
+  {"tuple_id": "NM019_s007_t002", "subject": "台湾地区海巡署", "relation": "实施警告驱离", "object": "涉嫌走私的船只", "location": "台南外海海域", "time": "2025-02"},
+  {"tuple_id": "NM019_s005_t001", "subject": "台湾地区司法机构", "relation": "实施司法判决", "object": "中国大陆籍船员", "location": "台湾台南", "time": "2025-06"},
+  {"tuple_id": "NM019_s005_t002", "subject": "台湾地区当局", "relation": "释放指控大陆实施灰色作战的政治信号", "object": "中国国家主体", "location": null, "time": "2025-06"},
+  {"tuple_id": "NM019_s006_t001", "subject": "中国地方公安机关", "relation": "发布悬赏通告指控", "object": "台湾走私犯罪集团", "location": null, "time": "2025-12"},
+  {"tuple_id": "NM019_s006_t002", "subject": "台湾走私犯罪集团", "relation": "操控船只向大陆走私", "object": "中国国家主体", "location": null, "time": "2025-12"},
+  {"tuple_id": "NM019_s007_t001", "subject": "中国国家主体", "relation": "释放否认破坏指控的澄清信号", "object": "台湾地区当局", "location": null, "time": "2025-12"},
+  {"tuple_id": "NM019_s007_t003", "subject": "中国国家主体", "relation": "释放反对政治操弄的抗议信号", "object": "中国国民党", "location": null, "time": "2025-12"},
+  {"tuple_id": "NM019_s008_t001", "subject": "台湾地区海巡署", "relation": "释放对大陆官方说法的抗议与谴责信号", "object": "中国国家主体", "location": null, "time": "2025-12"}
+]

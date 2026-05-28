@@ -1,0 +1,22 @@
+[
+  {"tuple_id": "E010_s001_t001", "subject": "美国海军", "relation": "派遣军舰穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2021-02"},
+  {"tuple_id": "E010_s002_t001", "subject": "法国海军", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2021-04"},
+  {"tuple_id": "E010_s002_t002", "subject": "中国人民解放军", "relation": "实施抵近监视", "object": "法国海军", "location": "台湾海峡", "time": "2021-04"},
+  {"tuple_id": "E010_s003_t001", "subject": "法国海军", "relation": "进入中国管辖海域", "object": "中国国家主体", "location": "中国管辖海域", "time": "2021-04"},
+  {"tuple_id": "E010_s003_t002", "subject": "中国人民解放军", "relation": "实施警告驱离", "object": "法国海军", "location": "中国管辖海域", "time": "2021-04"},
+  {"tuple_id": "E010_s003_t003", "subject": "中国国家主体", "relation": "释放反对军事挑衅的抗议信号", "object": "法国政府", "location": null, "time": "2021-04"},
+  {"tuple_id": "E010_s005_t001", "subject": "法国国防部", "relation": "发布航行自由与例行过境声明", "object": "中国国家主体", "location": null, "time": "2021-04"},
+  {"tuple_id": "E010_s006_t002", "subject": ["法国海军", "日本海上自卫队"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": "台海周边海空域", "time": "2021-04"},
+  {"tuple_id": "E010_s008_t001", "subject": "法国国防部", "relation": "释放否认军事存在的澄清信号", "object": "中国国家主体", "location": "台湾海峡", "time": "2021-08"},
+  {"tuple_id": "E010_s009_t002", "subject": "法国海军", "relation": "派遣军舰穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2021-10"},
+  {"tuple_id": "E010_s009_t001", "subject": "法国国防部", "relation": "释放重视自由航行及台海存在的政治信号", "object": "国际社会", "location": null, "time": "2021-10"},
+  {"tuple_id": "E010_s010_t001", "subject": "意大利参议院副议长", "relation": "进行高层政治访问", "object": "台湾地区当局", "location": "台湾地区", "time": "2021-10"},
+  {"tuple_id": "E010_s010_t002", "subject": "意大利参议院副议长", "relation": "举行高层政治会晤", "object": "台湾地区领导人", "location": "台湾地区", "time": "2021-10"},
+  {"tuple_id": "E010_s011_t001", "subject": "意大利政府", "relation": "释放支持台湾参与国际事务的政治信号", "object": "台湾地区当局", "location": null, "time": "2021-10"},
+  {"tuple_id": "E010_s012_t001", "subject": "意大利政府", "relation": "退出区域多边合作机制", "object": "中国国家主体", "location": null, "time": "2021-10"},
+  {"tuple_id": "E010_s012_t002", "subject": "意大利政府", "relation": "释放对双边关系发展的积极信号", "object": "中国国家主体", "location": null, "time": "2021-10"},
+  {"tuple_id": "E010_s013_t001", "subject": "意大利海军", "relation": "实施军事访问停靠", "object": "日本政府", "location": "日本", "time": "2021-10"},
+  {"tuple_id": "E010_s013_t002", "subject": "意大利军方", "relation": "释放支持台海现状的政治信号", "object": ["中国国家主体", "台湾地区当局"], "location": null, "time": "2021-10"},
+  {"tuple_id": "E010_s004_t001", "subject": "法国海军", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2021"},
+  {"tuple_id": "E010_s004_t002", "subject": "法国国防部", "relation": "发布航行自由与例行过境声明", "object": "中国国家主体", "location": null, "time": "2021"}
+]

@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "E041_s001_t001", "subject": "台湾地区当局", "relation": "邀请美方官员访台", "object": "美国政府高级官员", "location": null, "time": "2022-12"},
+  {"tuple_id": "E041_s002_t001", "subject": "美国政府高级官员", "relation": "前往台湾进行政治访问", "object": "台湾地区当局", "location": null, "time": "2023-08/2023-09"},
+  {"tuple_id": "E041_s003_t001", "subject": "中国国台办发言人", "relation": "释放反对美台官方往来的抗议信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2023-11"},
+  {"tuple_id": "E041_s003_t002", "subject": "中国国台办发言人", "relation": "释放对美台勾连挑衅的抗议信号", "object": "台湾地区当局", "location": null, "time": "2023-11"},
+  {"tuple_id": "E041_s004_t001", "subject": "美国军方高层官员", "relation": "进行高层外交访问", "object": "台湾地区当局", "location": "台湾", "time": "2023-11"},
+  {"tuple_id": "E041_s008_t001", "subject": "台湾地区军方", "relation": "部署美军军事设施", "object": "美国军方", "location": "台湾地区军事设施", "time": "长期以来"},
+  {"tuple_id": "E041_s008_t002", "subject": "台湾地区军方", "relation": "建立反潜情报数据库", "object": "美国军方", "location": null, "time": "长期以来"},
+  {"tuple_id": "E041_s008_t003", "subject": "台湾地区军方", "relation": "开展军事合作", "object": "美军印太司令部", "location": null, "time": "长期以来"},
+  {"tuple_id": "E041_s008_t004", "subject": ["台湾地区军方", "美国军方"], "relation": "交流军事情报", "object": "中国人民解放军", "location": "台海周边海空域", "time": "近来"}
+]

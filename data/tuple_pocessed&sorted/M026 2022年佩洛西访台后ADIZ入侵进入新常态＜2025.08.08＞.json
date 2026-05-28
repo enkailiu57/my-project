@@ -1,0 +1,13 @@
+[
+  {"tuple_id": "M026_s001_t001", "subject": "美国国会众议院议长", "relation": "窜访台湾地区", "object": "台湾地区当局", "location": "台湾地区", "time": "2022"},
+  {"tuple_id": "M026_s001_t002", "subject": "中国人民解放军", "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2022"},
+  {"tuple_id": "M026_s002_t001", "subject": "中国人民解放军", "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-01/2025-07"},
+  {"tuple_id": "M026_s003_t001", "subject": ["中国人民解放军军机", "中国人民解放军舰艇", "中国公务船"], "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-08"},
+  {"tuple_id": "M026_s004_t001", "subject": "中国人民解放军军机", "relation": "进入防空识别区", "object": "台湾地区当局", "location": "台湾防空识别区", "time": "2025-08"},
+  {"tuple_id": "M026_s004_t002", "subject": "台湾地区军方", "relation": "实施军事监侦", "object": "中国人民解放军军机", "location": "台湾防空识别区", "time": "2025-08"},
+  {"tuple_id": "M026_s005_t001", "subject": "中国人民解放军", "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-08"},
+  {"tuple_id": "M026_s005_t002", "subject": "中国人民解放军", "relation": "实施对关键军事设施的监控与打击演练", "object": "台湾地区军方", "location": "台岛以东海空域", "time": "2025-08"},
+  {"tuple_id": "M026_s007_t001", "subject": "中国人民解放军军机", "relation": "越过海峡中线", "object": "台湾地区当局", "location": "台湾海峡中线附近", "time": "2025-08"},
+  {"tuple_id": "M026_s007_t002", "subject": "中国海警船", "relation": "在台海中线以东巡弋", "object": "台湾地区当局", "location": "台湾海峡中线东侧", "time": "2025-08"},
+  {"tuple_id": "M026_s008_t001", "subject": "中国海警", "relation": "实施海警执法巡航", "object": "台湾地区当局", "location": "台湾海峡中线东侧", "time": "2025-08"}
+]

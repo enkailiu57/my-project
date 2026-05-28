@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "E020_s002_t002", "subject": ["俄罗斯军方", "中国人民解放军"], "relation": "实施空中战略巡航", "object": "日本方面", "location": ["对马海峡", "东海海域"], "time": "2025-12"},
+  {"tuple_id": "E020_s002_t004", "subject": ["俄罗斯军方", "中国人民解放军"], "relation": "联合穿越宫古海峡", "object": "日本方面", "location": "宫古海峡", "time": "2025-12"},
+  {"tuple_id": "E020_s002_t005", "subject": ["俄罗斯军方", "中国人民解放军"], "relation": "逼近日本本土岛屿", "object": "日本方面", "location": "四国岛附近空域", "time": "2025-12"},
+  {"tuple_id": "E020_s003_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "在争议海域实施军事机动与演练", "object": "日本政府", "location": "大东群岛附近海域", "time": "2025-12"},
+  {"tuple_id": "E020_s002_t001", "subject": "日本防卫省", "relation": "发布军事行动路线图", "object": "中俄联合空中战略巡航行动", "location": null, "time": "2025-12"},
+  {"tuple_id": "E020_s004_t001", "subject": "日本防卫省", "relation": "释放对中俄军事行动的抗议信号", "object": ["中国国家主体", "俄罗斯国家主体"], "location": null, "time": "2025-12"},
+  {"tuple_id": "E020_s007_t001", "subject": "中国军机", "relation": "实施雷达照射", "object": "日本战机", "location": null, "time": "2025-12"},
+  {"tuple_id": "E020_s007_t002", "subject": "美国国务院", "relation": "释放反对军事挑衅的抗议信号", "object": "中国国家主体", "location": null, "time": "2025-12"},
+  {"tuple_id": "E020_s007_t003", "subject": "美国国务院", "relation": "释放对盟友安全承诺的坚定信号", "object": "日本政府", "location": null, "time": "2025-12"}
+]

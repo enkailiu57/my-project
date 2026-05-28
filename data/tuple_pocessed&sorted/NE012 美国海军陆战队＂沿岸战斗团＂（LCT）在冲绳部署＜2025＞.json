@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "NE012_s001_t001", "subject": "美国军方", "relation": "计划重组海外驻军并组建新型作战部队", "object": "美国海军陆战队", "location": "冲绳", "time": "2023-01"},
+  {"tuple_id": "NE012_s002_t001", "subject": "美军", "relation": "计划增加反舰导弹部署", "object": "中国国家主体", "location": "日本", "time": "2023-01"},
+  {"tuple_id": "NE012_s003_t001", "subject": "美国政府", "relation": "通报军事部署计划", "object": "日本政府", "location": null, "time": "2023-01"},
+  {"tuple_id": "NE012_s003_t002", "subject": ["美国政府", "日本政府"], "relation": "举行高层防务外交会谈", "object": ["美国政府", "日本政府"], "location": null, "time": "2023-01"},
+  {"tuple_id": "NE012_s006_t001", "subject": "美国海军陆战队", "relation": "实施大规模军事力量转移", "object": "关岛", "location": "关岛", "time": "2023-01"},
+  {"tuple_id": "NE012_s007_t001", "subject": "日本防卫省", "relation": "接收美制远程导弹", "object": "美国政府", "location": null, "time": "2025"},
+  {"tuple_id": "NE012_s008_t001", "subject": "中国外交部与国防部", "relation": "释放对军事扩张的抗议信号", "object": "日本政府", "location": null, "time": "2025"},
+  {"tuple_id": "NE012_s009_t001", "subject": "中国国家主体", "relation": "释放对地区军事部署的抗议信号", "object": ["美国政府", "日本政府"], "location": "冲绳", "time": "2025"}
+]

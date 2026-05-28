@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "NE033_s001_t001", "subject": "美国政府", "relation": "出台科技竞争法案", "object": "中国国家主体", "location": null, "time": "2022"},
+  {"tuple_id": "NE033_s002_t001", "subject": "美国政府", "relation": "施压促成关键产业产能回流", "object": ["英特尔", "台积电", "三星电子"], "location": "美国", "time": "2022"},
+  {"tuple_id": "NE033_s003_t001", "subject": "美国政府", "relation": "实施半导体产业链精准打压", "object": "中国国家主体", "location": null, "time": "2022"},
+  {"tuple_id": "NE033_s003_t002", "subject": "美国政府", "relation": "构建排他性半导体产业链联盟", "object": "中国国家主体", "location": null, "time": "2022"},
+  {"tuple_id": "NE033_s004_t001", "subject": "美国政府", "relation": "组建排他性联盟制造分裂", "object": "韩国政府", "location": null, "time": "2022"},
+  {"tuple_id": "NE033_s004_t002", "subject": "美国政府", "relation": "构建排他性半导体产业链联盟", "object": ["韩国政府", "日本政府", "台湾地区当局", "印度政府", "澳大利亚政府"], "location": null, "time": "2022"},
+  {"tuple_id": "NE033_s005_t001", "subject": "美国政府", "relation": "施加政治压力", "object": ["荷兰政府", "日本政府"], "location": null, "time": "2022"},
+  {"tuple_id": "NE033_s005_t002", "subject": ["荷兰政府", "日本政府"], "relation": "实施芯片出口管制", "object": "中国国家主体", "location": null, "time": "2022"},
+  {"tuple_id": "NE033_s006_t001", "subject": "美国政府", "relation": "彻底断供", "object": "华为", "location": null, "time": "2022"},
+  {"tuple_id": "NE033_s007_t001", "subject": "美国政府", "relation": "计划限制对华科技投资", "object": "中国国家主体", "location": null, "time": "2022"}
+]

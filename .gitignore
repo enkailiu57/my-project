@@ -5,7 +5,9 @@ __pycache__/
 .mypy_cache/
 .venv/
 cache.db
-output/
-data/
+# 忽略 data 下所有内容，仅跟踪 tuple_pocessed&sorted
+data/*
+!data/tuple_pocessed&sorted/
+!data/tuple_pocessed&sorted/**
 tests/
 

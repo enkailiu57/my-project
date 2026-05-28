@@ -1,0 +1,17 @@
+[
+  {"tuple_id": "M045_s001_t001", "subject": ["中国海军辽宁舰航母战斗群", "中国海军山东舰航母编队", "中国海军福建舰编队"], "relation": "穿越巴士海峡进入西太平洋", "object": "美国及其盟友", "location": "巴士海峡", "time": "2013"},
+  {"tuple_id": "M045_s012_t001", "subject": "中国人民解放军海军", "relation": "举行复杂联合作战军事演习", "object": "外部潜在军事对手", "location": null, "time": "2025-01"},
+  {"tuple_id": "M045_s008_t001", "subject": "中国人民解放军海军", "relation": "穿越宫古海峡进入西太平洋", "object": "日本海上自卫队", "location": "宫古海峡", "time": "2025-01"},
+  {"tuple_id": "M045_s009_t001", "subject": "中国人民解放军海军", "relation": "开展远海军事训练", "object": "日本海上自卫队", "location": "宫古海峡", "time": "2025-01"},
+  {"tuple_id": "M045_s010_t001", "subject": "日本防卫省", "relation": "实施全程军事监侦", "object": "中国人民解放军海军", "location": "宫古海峡", "time": "2025-01"},
+  {"tuple_id": "M045_s010_t002", "subject": "日本防卫省", "relation": "实施海空跟监警戒", "object": "中国人民解放军海军", "location": "宫古海峡", "time": "2025-01"},
+  {"tuple_id": "M045_s011_t002", "subject": "中国人民解放军海军", "relation": "加强周边军事存在", "object": "日本政府", "location": "日本周边海空域", "time": "2025-01"},
+  {"tuple_id": "M045_s011_t001", "subject": "日本防卫大臣", "relation": "释放对中国军事行动的指责信号", "object": "中国国家主体", "location": null, "time": "2025-01"},
+  {"tuple_id": "M045_s002_t001", "subject": ["美国政府", "菲律宾政府"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": "巴士海峡", "time": "2025-04"},
+  {"tuple_id": "M045_s002_t002", "subject": ["美国政府", "菲律宾政府"], "relation": "部署陆基反舰导弹系统", "object": "中国国家主体", "location": "巴士海峡", "time": "2025-04"},
+  {"tuple_id": "M045_s003_t001", "subject": ["美国政府", "菲律宾政府", "日本政府", "澳大利亚政府"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": null, "time": "2025-05"},
+  {"tuple_id": "M045_s004_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "穿越宫古海峡进入西太平洋", "object": "西太平洋海域", "location": "宫古海峡", "time": "2025-06"},
+  {"tuple_id": "M045_s004_t002", "subject": "中国海军山东舰航母编队", "relation": "穿越巴布延通道进入西太平洋", "object": "西太平洋海域", "location": "巴布延通道", "time": "2025-06"},
+  {"tuple_id": "M045_s006_t001", "subject": "中国人民解放军海军", "relation": "穿越台湾海峡", "object": "台湾地区当局", "location": "台湾海峡", "time": "2025-09"},
+  {"tuple_id": "M045_s007_t001", "subject": "中国人民解放军海军", "relation": "实施远海军事训练与巡航", "object": "美国政府和日本政府", "location": "巴士海峡", "time": "2025-10"}
+]

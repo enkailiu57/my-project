@@ -1,0 +1,15 @@
+[
+  {"tuple_id": "M025_s001_t001", "subject": "中国人民解放军东部战区", "relation": "组织台海周边实战化军事演练", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2021-09"},
+  {"tuple_id": "M025_s001_t002", "subject": "中国国防部发言人", "relation": "释放维护国家主权的正当性信号", "object": ["台湾地区当局", "外部干涉势力"], "location": null, "time": "2021-09"},
+  {"tuple_id": "M025_s002_t001", "subject": "中国外交部发言人", "relation": "释放否定海峡中线合法性的主权信号", "object": "台湾地区当局", "location": null, "time": "2021-09"},
+  {"tuple_id": "M025_s004_t001", "subject": "中国人民解放军", "relation": "组织台海周边实战化军事演练", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2021-09"},
+  {"tuple_id": "M025_s004_t002", "subject": "中国国防部发言人", "relation": "释放反对外部干涉和分裂活动的抗议信号", "object": ["外部干涉势力", "台湾地区‘台独’分裂势力"], "location": null, "time": "2021-09"},
+  {"tuple_id": "M025_s006_t001", "subject": "中国国台办发言人", "relation": "释放维护国家主权和领土完整的坚定信号", "object": ["台湾地区当局", "外部干涉势力"], "location": null, "time": "2021-09"},
+  {"tuple_id": "M025_s007_t001", "subject": "台湾地区防务部门", "relation": "发布军事动态通报", "object": "台湾地区立法机构", "location": null, "time": "2021-10"},
+  {"tuple_id": "M025_s007_t002", "subject": "台湾地区军方", "relation": "实施空中拦截", "object": "中国人民解放军军机", "location": "台湾周边空域", "time": "2021-01/2021-10"},
+  {"tuple_id": "M025_s008_t001", "subject": "中国人民解放军军机", "relation": "进入敏感空域巡航", "object": "台湾地区当局", "location": "台岛西南空域", "time": "2021-01/2021-10"},
+  {"tuple_id": "M025_s008_t002", "subject": "台湾地区防务部门", "relation": "发布军事动态通报", "object": "中国人民解放军军机", "location": null, "time": "2021-10"},
+  {"tuple_id": "M025_s009_t001", "subject": ["中国人民解放军军机", "中国人民解放军舰艇"], "relation": "进入防空识别区", "object": "台湾地区当局", "location": "台湾防空识别区", "time": "2021"},
+  {"tuple_id": "M025_s010_t001", "subject": "中国人民解放军军机", "relation": "越过海峡中线", "object": "台湾地区当局", "location": "台湾海峡中线附近", "time": "2021"},
+  {"tuple_id": "M025_s010_t002", "subject": "台湾地区军方", "relation": "派遣兵力应对", "object": "中国人民解放军军机", "location": "台湾海峡中线附近", "time": "2021"}
+]

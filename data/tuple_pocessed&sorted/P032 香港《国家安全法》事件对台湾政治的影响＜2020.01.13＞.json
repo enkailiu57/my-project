@@ -1,0 +1,5 @@
+[
+  {"tuple_id": "P032_s002_t001", "subject": "台湾地区领导人", "relation": "释放拒绝一国两制的政治信号", "object": "中国国家主体", "location": null, "time": "2019-06"},
+  {"tuple_id": "P032_s007_t001", "subject": "中国外交部发言人", "relation": "释放坚持一个中国原则及国家统一的坚定信号", "object": "台湾地区当局", "location": null, "time": "2020-01"},
+  {"tuple_id": "P032_s008_t001", "subject": "台湾地区大陆委员会", "relation": "释放反对一个中国原则及反制政治施压的信号", "object": "中国国家主体", "location": null, "time": "2020-01"}
+]

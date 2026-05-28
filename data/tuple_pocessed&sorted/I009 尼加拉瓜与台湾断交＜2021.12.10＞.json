@@ -1,0 +1,15 @@
+[
+  {"tuple_id": "I009_s001_t001", "subject": "中国国家主体", "relation": "建立外交关系", "object": "尼加拉瓜政府", "location": null, "time": "1985-12"},
+  {"tuple_id": "I009_s002_t001", "subject": "尼加拉瓜政府", "relation": "建立外交关系", "object": "台湾地区当局", "location": null, "time": "1990-11"},
+  {"tuple_id": "I009_s003_t001", "subject": "中国国家主体", "relation": "终止外交关系", "object": "尼加拉瓜政府", "location": null, "time": "1990-11"},
+  {"tuple_id": "I009_s005_t001", "subject": "美国政府", "relation": "释放对尼加拉瓜内政干涉的抗议信号", "object": "尼加拉瓜政府", "location": null, "time": "2021-11"},
+  {"tuple_id": "I009_s005_t002", "subject": "美国政府", "relation": "实施个人制裁", "object": "尼加拉瓜政府", "location": null, "time": "2021-11"},
+  {"tuple_id": "I009_s006_t001", "subject": "尼加拉瓜政府", "relation": "释放支持一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "2021-12"},
+  {"tuple_id": "I009_s007_t001", "subject": "尼加拉瓜政府", "relation": "宣布与台湾地区断绝外交关系", "object": "台湾地区当局", "location": null, "time": "2021-12"},
+  {"tuple_id": "I009_s008_t001", "subject": "中国常驻联合国代表", "relation": "释放对承认一个中国原则及断交复交决定的赞赏信号", "object": "尼加拉瓜政府", "location": null, "time": "2021-12"},
+  {"tuple_id": "I009_s009_t001", "subject": "中国国家主体", "relation": "恢复大使级外交关系", "object": "尼加拉瓜政府", "location": null, "time": "2021-12"},
+  {"tuple_id": "I009_s010_t001", "subject": "尼加拉瓜政府", "relation": "宣布承认一个中国原则", "object": "中国国家主体", "location": null, "time": "2021-12"},
+  {"tuple_id": "I009_s010_t002", "subject": "尼加拉瓜政府", "relation": "终止外交关系", "object": "台湾地区当局", "location": null, "time": "2021-12"},
+  {"tuple_id": "I009_s010_t003", "subject": "尼加拉瓜政府", "relation": "恢复大使级外交关系", "object": "中国国家主体", "location": null, "time": "2021-12"},
+  {"tuple_id": "I009_s010_t004", "subject": "尼加拉瓜政府", "relation": "承诺切断官方往来", "object": "台湾地区当局", "location": null, "time": "2021-12"}
+]

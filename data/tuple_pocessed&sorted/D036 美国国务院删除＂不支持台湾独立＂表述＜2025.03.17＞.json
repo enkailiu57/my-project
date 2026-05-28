@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "D036_s001_t001", "subject": "美国政府", "relation": "释放背离一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "2022-05"},
+  {"tuple_id": "D036_s002_t001", "subject": "美国政府", "relation": "释放支持一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "2022-06"},
+  {"tuple_id": "D036_s003_t001", "subject": "美国国务卿", "relation": "进行直接高层通话", "object": "中国国务委员兼外交部长", "location": null, "time": "2025-01"},
+  {"tuple_id": "D036_s003_t002", "subject": "美国政府", "relation": "释放支持一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "2025-01"},
+  {"tuple_id": "D036_s004_t001", "subject": "美国政府", "relation": "释放背离一个中国原则的政治信号", "object": ["中国国家主体", "台湾地区当局"], "location": null, "time": "2025-02"},
+  {"tuple_id": "D036_s005_t001", "subject": "美国国务院", "relation": "释放背离一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "2025-03"},
+  {"tuple_id": "D036_s005_t002", "subject": "中国外交部发言人", "relation": "释放对美方涉台立场倒退的抗议信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2025-03-17"},
+  {"tuple_id": "D036_s006_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-03"},
+  {"tuple_id": "D036_s007_t001", "subject": "中国外交部发言人", "relation": "释放反对分裂活动的抗议信号", "object": "美国政府", "location": null, "time": "2025-03"},
+  {"tuple_id": "D036_s007_t002", "subject": "中国外交部发言人", "relation": "释放反对台独及外部干涉的警告信号", "object": "台湾地区当局", "location": null, "time": "2025-03"}
+]

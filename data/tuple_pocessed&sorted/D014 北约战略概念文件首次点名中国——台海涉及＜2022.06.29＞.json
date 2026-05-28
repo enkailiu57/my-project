@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "D014_s002_t001", "subject": "北约", "relation": "释放将俄罗斯定性为最主要安全威胁的政治信号", "object": "俄罗斯政府", "location": null, "time": "2022-06"},
+  {"tuple_id": "D014_s002_t002", "subject": "北约", "relation": "释放将中国定性为系统性挑战的政治信号", "object": "中国国家主体", "location": null, "time": "2022-06"},
+  {"tuple_id": "D014_s004_t001", "subject": "北约", "relation": "释放对中国核武发展与军控意愿的负面指控信号", "object": "中国国家主体", "location": null, "time": "2022-06"},
+  {"tuple_id": "D014_s005_t001", "subject": "北约", "relation": "释放对中国战略意图的负面定性信号", "object": "中国国家主体", "location": null, "time": "2022-06"},
+  {"tuple_id": "D014_s006_t001", "subject": "北约", "relation": "释放反对中俄战略协作的政治信号", "object": ["中国国家主体", "俄罗斯政府"], "location": null, "time": "2022-06"},
+  {"tuple_id": "D014_s007_t001", "subject": "北约", "relation": "释放重视印太地区战略价值的信号", "object": "印度-太平洋地区", "location": null, "time": "2022-06"},
+  {"tuple_id": "D014_s007_t002", "subject": "北约", "relation": "计划加强外交对话与合作", "object": ["印太地区新伙伴", "印太地区现有伙伴"], "location": null, "time": "2022-06"},
+  {"tuple_id": "D014_s008_t001", "subject": "北约", "relation": "吸纳新成员国", "object": ["芬兰政府", "瑞典政府"], "location": null, "time": "2022"},
+  {"tuple_id": "D014_s010_t001", "subject": "中国外交部发言人", "relation": "释放反对北约干涉亚太事务的抗议信号", "object": "北约", "location": null, "time": "2022-06"},
+  {"tuple_id": "D014_s011_t001", "subject": "俄罗斯外交部", "relation": "释放对北约东扩及战略文件的抗议信号", "object": "北约", "location": null, "time": "2022-06"}
+]

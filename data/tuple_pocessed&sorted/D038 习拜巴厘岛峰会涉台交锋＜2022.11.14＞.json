@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "D038_s001_t001", "subject": "中国国家主体", "relation": "进行高层外交访问", "object": "印度尼西亚政府", "location": null, "time": "2022-11"},
+  {"tuple_id": "D038_s002_t001", "subject": "中国国家主席", "relation": "举行高层政治会晤", "object": "美国总统", "location": null, "time": "2022-11"},
+  {"tuple_id": "D038_s003_t001", "subject": "中国国家主体", "relation": "释放台湾问题不可干涉的底线信号", "object": "美国政府", "location": null, "time": "2022-11"},
+  {"tuple_id": "D038_s005_t001", "subject": "美国政府", "relation": "释放对华战略竞争底线的政治信号", "object": "中国国家主体", "location": null, "time": "2022-11"}
+]

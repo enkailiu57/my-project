@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "EC004_s001_t001", "subject": "中国国务院关税税则委员会", "relation": "中止关税减让", "object": "台湾地区当局", "location": null, "time": "2023-12"},
+  {"tuple_id": "EC004_s001_t002", "subject": "台湾地区当局", "relation": "持续实施对大陆贸易限制", "object": "中国国家主体", "location": null, "time": "2023-12"},
+  {"tuple_id": "EC004_s002_t001", "subject": "台湾地区当局", "relation": "实施歧视性贸易限制", "object": "中国国家主体", "location": null, "time": "2024-05"},
+  {"tuple_id": "EC004_s003_t001", "subject": "台湾地区当局", "relation": "完成政权更迭", "object": "中国国家主体", "location": null, "time": "2024-05"},
+  {"tuple_id": "EC004_s003_t002", "subject": "中国国家主体", "relation": "中止关税减让", "object": "台湾地区当局", "location": null, "time": "2024-05"},
+  {"tuple_id": "EC004_s004_t001", "subject": "中国国家主体", "relation": "中止对台部分产品关税减让", "object": "台湾地区当局", "location": null, "time": "2024-06"}
+]

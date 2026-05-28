@@ -1,0 +1,19 @@
+[
+  {"tuple_id": "D024_s002_t001", "subject": "美国国务卿", "relation": "进行高层外交访问", "object": "捷克政府", "location": "捷克", "time": "2020-08"},
+  {"tuple_id": "D024_s002_t002", "subject": "美国国务卿", "relation": "释放干涉中国内政的批评信号", "object": "中国国家主体", "location": "捷克参议院", "time": "2020-08"},
+  {"tuple_id": "D024_s003_t001", "subject": "捷克参议院议长", "relation": "访问台湾地区", "object": "台湾地区当局", "location": "台湾地区", "time": "2020-08-30/2020-09-04"},
+  {"tuple_id": "D024_s004_t001", "subject": "捷克参议院议长", "relation": "访问台湾地区", "object": "台湾地区当局", "location": "台湾桃园机场", "time": "2020-08"},
+  {"tuple_id": "D024_s004_t002", "subject": "台湾地区外事部门负责人", "relation": "官方迎接外宾", "object": "捷克参议院议长", "location": "台湾桃园机场", "time": "2020-08"},
+  {"tuple_id": "D024_s005_t001", "subject": "中国人民解放军军机", "relation": "实施周边海域军事巡航", "object": "捷克参议院议长维斯特奇尔", "location": "台海周边海空域", "time": "2020-08"},
+  {"tuple_id": "D024_s006_t001", "subject": "中国外交部", "relation": "约见外国驻华大使", "object": "捷克驻华大使馆", "location": null, "time": "2020-08"},
+  {"tuple_id": "D024_s006_t002", "subject": "中国外交部", "relation": "释放对干涉内政的抗议信号", "object": "捷克参议院议长维斯特奇尔", "location": null, "time": "2020-08"},
+  {"tuple_id": "D024_s007_t001", "subject": "捷克参议院议长维斯特奇尔", "relation": "释放支持台湾分裂的政治信号", "object": "中国国家主体", "location": "台湾地区", "time": "2020-09"},
+  {"tuple_id": "D024_s007_t002", "subject": "捷克参议院议长维斯特奇尔", "relation": "举行高层政治会晤", "object": "台湾地区领导人", "location": "台湾地区", "time": "2020-09"},
+  {"tuple_id": "D024_s008_t001", "subject": "中国外交部", "relation": "释放对干涉内政的抗议信号", "object": "捷克参议院议长", "location": null, "time": "2020-09"},
+  {"tuple_id": "D024_s009_t001", "subject": "中国外交部发言人", "relation": "释放反对分裂活动的抗议信号", "object": "捷克参议院议长", "location": null, "time": "2020-09"},
+  {"tuple_id": "D024_s010_t001", "subject": "中国驻捷克大使馆发言人", "relation": "释放反对分裂活动的抗议信号", "object": "捷克参议院议长", "location": null, "time": "2020-09"},
+  {"tuple_id": "D024_s012_t001", "subject": "捷克总统府发言人", "relation": "释放反对内部官员违规出访的政治信号", "object": "捷克参议院议长", "location": null, "time": "2020-08"},
+  {"tuple_id": "D024_s011_t001", "subject": "捷克总统", "relation": "释放反对内部官员违规出访的政治信号", "object": "捷克参议院议长维斯特奇尔", "location": null, "time": "2020-09"},
+  {"tuple_id": "D024_s013_t001", "subject": "捷克参议院议长", "relation": "结束窜访台湾地区", "object": "台湾地区当局", "location": "台湾地区", "time": "2020-09"},
+  {"tuple_id": "D024_s013_t002", "subject": "中国企业", "relation": "宣布取消商业订单", "object": "捷克方面", "location": null, "time": "2020-09"}
+]

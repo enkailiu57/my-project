@@ -1,0 +1,20 @@
+[
+  {"tuple_id": "M051_s001_t001", "subject": "台湾地区当局", "relation": "放宽执法武力使用权限", "object": "台湾地区海巡部门", "location": null, "time": "2023-04"},
+  {"tuple_id": "M051_s002_t001", "subject": "台湾地区海巡部门", "relation": "查扣渔船并带回侦办", "object": "大陆渔船及渔民", "location": "厦金海域", "time": "2023-11"},
+  {"tuple_id": "M051_s003_t001", "subject": "台湾地区海巡部门", "relation": "实施警告驱离", "object": "大陆籍渔船", "location": "厦金海域", "time": "2024-02"},
+  {"tuple_id": "M051_s003_t002", "subject": "台湾地区海巡部门", "relation": "发生海上碰撞", "object": "大陆籍渔船", "location": "厦金海域", "time": "2024-02"},
+  {"tuple_id": "M051_s005_t001", "subject": "中国国台办发言人", "relation": "释放对恶性事件的强烈谴责信号", "object": "台湾地区当局", "location": null, "time": "2024-02"},
+  {"tuple_id": "M051_s005_t002", "subject": "中国国台办发言人", "relation": "要求查明真相并妥善处理善后", "object": "台湾地区当局", "location": null, "time": "2024-02"},
+  {"tuple_id": "M051_s007_t001", "subject": "中国国台办发言人", "relation": "释放要求释放人员及追究责任的抗议信号", "object": "台湾地区当局", "location": "厦金海域", "time": "2024-02"},
+  {"tuple_id": "M051_s007_t002", "subject": "中国国家主体", "relation": "释放将采取必要反制措施的威慑信号", "object": "台湾地区当局", "location": "厦金海域", "time": "2024-02"},
+  {"tuple_id": "M051_s008_t001", "subject": "中国海警", "relation": "实施海警执法巡航", "object": "台湾地区海巡部门", "location": "厦金海域", "time": "2024-02"},
+  {"tuple_id": "M051_s012_t001", "subject": "台湾地区海巡部门", "relation": "承认执法过程中的物理接触事实", "object": "中国国家主体", "location": "厦金海域", "time": "2024-02-20"},
+  {"tuple_id": "M051_s012_t002", "subject": "台湾地区海巡部门", "relation": "释放推卸执法责任的辩解信号", "object": "中国国家主体", "location": "厦金海域", "time": "2024-02-20"},
+  {"tuple_id": "M051_s013_t001", "subject": "台湾地区海巡部门", "relation": "公布调查证据", "object": "中国国家主体", "location": null, "time": "2024-02"},
+  {"tuple_id": "M051_s013_t002", "subject": "台湾地区海巡部门", "relation": "释放推卸执法责任的辩解信号", "object": ["中国国家主体", "遇难渔民家属"], "location": null, "time": "2024-02"},
+  {"tuple_id": "M051_s017_t001", "subject": "中国国家主体", "relation": "就善后事宜进行协商并达成共识", "object": "台湾地区当局", "location": "金门", "time": "2024-07"},
+  {"tuple_id": "M051_s018_t001", "subject": "中国国家主体", "relation": "收回被扣押人员及物资", "object": "台湾地区当局", "location": "金门", "time": "2024-07"},
+  {"tuple_id": "M051_s019_t001", "subject": "台湾地区海巡部门", "relation": "释放承担责任的道歉信号", "object": "中国国家主体", "location": "金门地区", "time": "2024-07-30"},
+  {"tuple_id": "M051_s020_t001", "subject": "台湾地区司法机构", "relation": "公布事件调查结论", "object": "中国国家主体", "location": "金门地区", "time": "2024-08"},
+  {"tuple_id": "M051_s020_t002", "subject": "中国国台办发言人", "relation": "释放对推卸责任的抗议信号", "object": "台湾地区当局", "location": null, "time": "2024-08"}
+]

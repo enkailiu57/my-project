@@ -1,0 +1,23 @@
+[
+  {"tuple_id": "M032_s009_t001", "subject": "中国人民解放军", "relation": "实施战备警巡", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024"},
+  {"tuple_id": "M032_s002_t001", "subject": ["中国人民解放军军机", "中国人民解放军舰艇", "中国海警"], "relation": "在台岛周边部署海空力量", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-08"},
+  {"tuple_id": "M032_s004_t001", "subject": "中国人民解放军海军", "relation": "实施伴航监视", "object": "台湾地区军方", "location": "花莲外海", "time": "2024-08"},
+  {"tuple_id": "M032_s005_t001", "subject": "中国人民解放军", "relation": "实施抵近侦察", "object": "台湾地区军方", "location": "台岛以东海空域", "time": "2024-08"},
+  {"tuple_id": "M032_s006_t001", "subject": "中国人民解放军海军", "relation": "无视警告向台岛方向推进", "object": "台湾地区军方", "location": "台湾本岛方向海域", "time": "2024-08"},
+  {"tuple_id": "M032_s007_t001", "subject": "中国人民解放军海军", "relation": "实施战术机动", "object": "台湾地区军方", "location": "花莲丰滨乡石梯坪外海", "time": "2024-08"},
+  {"tuple_id": "M032_s008_t001", "subject": "台湾地区军方", "relation": "出动舰艇实施拦截", "object": "中国人民解放军海军", "location": "台湾东部海域", "time": "2024-08"},
+  {"tuple_id": "M032_s008_t002", "subject": ["台湾地区军方", "中国人民解放军海军"], "relation": "发生舰船对峙", "object": ["中国人民解放军海军", "台湾地区军方"], "location": "台湾东部海域", "time": "2024-08"},
+  {"tuple_id": "M032_s011_t001", "subject": "台湾地区军方", "relation": "计划集中部署主力部队", "object": "中国国家主体", "location": "台湾东部沿海及台东外海", "time": "2024"},
+  {"tuple_id": "M032_s011_t002", "subject": "台湾地区军方", "relation": "计划强化东岸军事设施", "object": "中国国家主体", "location": "台湾东部沿海及台东外海", "time": "2024"},
+  {"tuple_id": "M032_s012_t001", "subject": "台湾地区军方", "relation": "建设战时备用指挥设施", "object": "中国国家主体", "location": "佳山基地", "time": "2025-01"},
+  {"tuple_id": "M032_s013_t001", "subject": "台湾地区军方", "relation": "计划战时兵力转移", "object": "台湾地区军方海空力量", "location": "台湾东部沿海及海峡西侧", "time": "2025-01"},
+  {"tuple_id": "M032_s001_t001", "subject": "中国人民解放军", "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": "台岛以东海空域", "time": "2025-01"},
+  {"tuple_id": "M032_s010_t001", "subject": "中国人民解放军", "relation": "实施海空联合战备警巡", "object": "台湾地区军方", "location": ["台海周边海空域", "台湾东部海域"], "time": "2025-01"},
+  {"tuple_id": "M032_s014_t002", "subject": "台湾地区军方", "relation": "战略构想失效", "object": "中国人民解放军", "location": "台湾东部海域", "time": "2025-01"},
+  {"tuple_id": "M032_s015_t001", "subject": "中国人民解放军无人机", "relation": "实施空中侦察", "object": "台湾地区军方", "location": "台岛以东海空域", "time": "2025-01"},
+  {"tuple_id": "M032_s015_t002", "subject": "中国人民解放军舰艇", "relation": "实施常态海上巡逻", "object": "西太平洋区域态势", "location": "西太平洋海域", "time": "2025-01"},
+  {"tuple_id": "M032_s016_t001", "subject": "中国人民解放军", "relation": "实施海空联合战备警巡", "object": "台湾地区军方", "location": "台湾东部海域", "time": "2025"},
+  {"tuple_id": "M032_s016_t002", "subject": "台湾地区军方", "relation": "加强东部防御部署", "object": "中国人民解放军", "location": "台湾东部沿海及台东外海", "time": "2025"},
+  {"tuple_id": "M032_s017_t001", "subject": "中国人民解放军", "relation": "实施常态化空中监视与威慑", "object": "台湾地区军方", "location": "台岛以东海空域", "time": "2025-01"},
+  {"tuple_id": "M032_s017_t002", "subject": "台湾地区军方", "relation": "军事能力遭到全面压制", "object": "中国人民解放军", "location": "台岛以东海空域", "time": "2025-01"}
+]

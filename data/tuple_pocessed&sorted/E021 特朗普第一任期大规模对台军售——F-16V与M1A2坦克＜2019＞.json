@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "E021_s002_t001", "subject": "美国国务院", "relation": "向国会通报军售进展", "object": "美国国会", "location": null, "time": "2019-01-15"},
+  {"tuple_id": "E021_s002_t002", "subject": "美国政府", "relation": "计划向国会提交对台军售案", "object": "台湾地区当局", "location": null, "time": "2019-01-16"},
+  {"tuple_id": "E021_s003_t001", "subject": "美国国会两党议员", "relation": "支持对台军售", "object": "台湾地区当局", "location": null, "time": "2019-06"},
+  {"tuple_id": "E021_s001_t001", "subject": "美国政府", "relation": "批准对台军售", "object": "台湾地区当局", "location": null, "time": "2019-11"},
+  {"tuple_id": "E021_s004_t001", "subject": "台湾地区当局", "relation": "释放对美方涉台政治动作的欢迎信号", "object": "美国政府", "location": null, "time": "2019-01"},
+  {"tuple_id": "E021_s007_t001", "subject": "中国外交部发言人", "relation": "释放对干涉内政的抗议信号", "object": "美国政府", "location": null, "time": "2019-01"}
+]

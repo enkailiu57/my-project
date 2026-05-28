@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "I010_s001_t001", "subject": "联合国大会", "relation": "恢复合法席位", "object": "中国国家主体", "location": null, "time": "1971"},
+  {"tuple_id": "I010_s001_t002", "subject": "联合国大会", "relation": "驱逐代表", "object": "台湾地区当局", "location": null, "time": "1971"},
+  {"tuple_id": "I010_s003_t001", "subject": "洪都拉斯政府", "relation": "宣布与台湾地区断绝外交关系", "object": "台湾地区当局", "location": null, "time": "2023-03"},
+  {"tuple_id": "I010_s004_t001", "subject": "洪都拉斯政府", "relation": "签署恢复外交关系联合公报", "object": "中国国家主体", "location": null, "time": "2023-03"},
+  {"tuple_id": "I010_s008_t001", "subject": "洪都拉斯执政党议员", "relation": "释放支持与中国建交的政治信号", "object": "中国国家主体", "location": null, "time": "2023-03"}
+]

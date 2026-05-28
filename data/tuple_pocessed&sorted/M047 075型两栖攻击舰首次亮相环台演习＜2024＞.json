@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "M047_s003_t002", "subject": "中国人民解放军轰炸机编队", "relation": "开展远海打击演练", "object": "模拟外部军事目标", "location": "第一岛链外海域", "time": "2024-10"},
+  {"tuple_id": "M047_s001_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台岛东南海空域", "time": "2024-05"},
+  {"tuple_id": "M047_s007_t002", "subject": "中国人民解放军东部战区", "relation": "开展联合军事演训", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-05"},
+  {"tuple_id": "M047_s005_t001", "subject": "台湾地区海巡部门", "relation": "调度舰船预置应对", "object": "中国人民解放军", "location": "台海周边海域", "time": "2024-05"},
+  {"tuple_id": "M047_s005_t002", "subject": "台湾地区海巡部门", "relation": "出动舰艇出港应对", "object": "中国人民解放军", "location": "高雄港", "time": "2024-05"},
+  {"tuple_id": "M047_s004_t001", "subject": "中国人民解放军", "relation": "释放对武力介入台海的军事威慑信号", "object": "外部干涉势力", "location": "台岛周边海空域", "time": "2024-05"},
+  {"tuple_id": "M047_s007_t001", "subject": "中国人民解放军东部战区", "relation": "发布军事演训画面", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-05"},
+  {"tuple_id": "M047_s003_t001", "subject": "中国人民解放军东部战区", "relation": "发布军事演训画面", "object": "外部干涉势力", "location": null, "time": "2024-10"}
+]

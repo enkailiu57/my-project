@@ -1,0 +1,5 @@
+[
+  {"tuple_id": "M053_s001_t001", "subject": "中国国家主体", "relation": "开展反分裂反“台独”斗争", "object": "台湾地区当局", "location": null, "time": "2005"},
+  {"tuple_id": "M053_s003_t001", "subject": "中国海警", "relation": "实施海警执法巡航", "object": "台湾地区当局", "location": "金门周边海域", "time": "2025"},
+  {"tuple_id": "M053_s004_t001", "subject": "中国国家主体", "relation": "下达依法管控指令", "object": "福建海警", "location": "台岛周边海域", "time": "2026-02"}
+]

@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "M017_s001_t001", "subject": "中国人民解放军空军", "relation": "实施远海军事训练", "object": "西太平洋安全环境", "location": "西太平洋及巴士海峡", "time": "2015-03"},
+  {"tuple_id": "M017_s002_t001", "subject": "中国人民解放军空军", "relation": "实施绕台军事巡航", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2017"},
+  {"tuple_id": "M017_s003_t001", "subject": "中国国防部发言人", "relation": "释放军事行动例行化的正当性信号", "object": "国际社会及台湾地区当局", "location": null, "time": "2017-08"},
+  {"tuple_id": "M017_s008_t001", "subject": "中国国防部发言人", "relation": "释放反对分裂活动的警告信号", "object": "台湾地区当局", "location": null, "time": "2017-09"},
+  {"tuple_id": "M017_s004_t001", "subject": "中国人民解放军空军", "relation": "实施绕台军事巡航", "object": "台湾地区当局", "location": ["台岛周边海空域", "宫古海峡及巴士海峡"], "time": "2017-11"},
+  {"tuple_id": "M017_s007_t001", "subject": "中国人民解放军", "relation": "实施远海军事训练", "object": "台湾地区当局", "location": "第一岛链", "time": "2017-11"},
+  {"tuple_id": "M017_s007_t002", "subject": "台湾地区军方", "relation": "实施全程军事监侦", "object": "中国人民解放军", "location": "第一岛链", "time": "2017-11"},
+  {"tuple_id": "M017_s006_t001", "subject": "中国空军发言人", "relation": "释放维持军事演训常态化的信号", "object": "台湾地区当局", "location": null, "time": "2017-11"},
+  {"tuple_id": "M017_s007_t003", "subject": "中国国防部发言人", "relation": "释放突破外部遏制的坚定信号", "object": ["台湾地区当局", "美国政府"], "location": null, "time": "2017-11"}
+]

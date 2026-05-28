@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "NM024_s001_t001", "subject": "中国人民解放军海军", "relation": "实施近距离军事巡航", "object": "台湾地区当局", "location": "台湾东部海域", "time": "2022-08"},
+  {"tuple_id": "NM024_s003_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2023-04"},
+  {"tuple_id": "NM024_s003_t002", "subject": "中国人民解放军海军", "relation": "部署航母战斗群至台海周边", "object": "台湾地区当局", "location": "台湾东部海域", "time": "2023-04"},
+  {"tuple_id": "NM024_s004_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-04"},
+  {"tuple_id": "NM024_s005_t001", "subject": "中国人民解放军东部战区", "relation": "实施舰机多向抵近台岛", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-04"}
+]

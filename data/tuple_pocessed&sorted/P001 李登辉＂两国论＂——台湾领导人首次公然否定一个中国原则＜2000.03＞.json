@@ -1,0 +1,17 @@
+[
+  {"tuple_id": "P001_s001_t001", "subject": "美国政府", "relation": "进行高层外交访问", "object": "中国国家主体", "location": null, "time": "1998-06"},
+  {"tuple_id": "P001_s001_t002", "subject": "美国政府", "relation": "释放支持一个中国原则的政治信号", "object": ["中国国家主体", "台湾地区当局"], "location": null, "time": "1998-06"},
+  {"tuple_id": "P001_s002_t001", "subject": "台湾地区国安部门", "relation": "进行高层外交访问", "object": "德国政府", "location": null, "time": "1998-07"},
+  {"tuple_id": "P001_s002_t002", "subject": "台湾地区国安部门", "relation": "举行高层政治会谈", "object": "德国政府", "location": null, "time": "1998-07"},
+  {"tuple_id": "P001_s002_t003", "subject": "德国政府", "relation": "释放提升台湾地区政治地位的信号", "object": "台湾地区当局", "location": null, "time": "1998-07"},
+  {"tuple_id": "P001_s005_t001", "subject": "美国政府", "relation": "发生双边关系变化", "object": "中国国家主体", "location": null, "time": "1998-08"},
+  {"tuple_id": "P001_s005_t002", "subject": "台湾地区当局", "relation": "推动法理台独研究计划", "object": "强化台湾地区主权国家地位专案小组", "location": "台湾地区总统府", "time": "1998-08"},
+  {"tuple_id": "P001_s009_t001", "subject": "台湾地区领导人", "relation": "释放将两岸关系定性为特殊国与国关系的政治信号", "object": "中国国家主体", "location": null, "time": "1999-07"},
+  {"tuple_id": "P001_s012_t002", "subject": "中国国家主体", "relation": "释放反对台独分裂行径的抗议信号", "object": "台湾地区领导人", "location": null, "time": "1999-07"},
+  {"tuple_id": "P001_s013_t001", "subject": "中国国台办发言人", "relation": "释放反对台独分裂行径的抗议信号", "object": ["台湾地区领导人", "台湾地区‘台独’分裂势力"], "location": null, "time": "1999-07"},
+  {"tuple_id": "P001_s014_t001", "subject": "中国国家主体", "relation": "取消两岸高层互访计划", "object": "台湾地区当局", "location": null, "time": "1999-07"},
+  {"tuple_id": "P001_s014_t002", "subject": "中国国家主体", "relation": "导致两岸沟通机制停摆", "object": "台湾地区当局", "location": null, "time": "1999-07"},
+  {"tuple_id": "P001_s014_t003", "subject": "中国国家主体", "relation": "暂停官方人员赴台交流", "object": "台湾地区当局", "location": null, "time": "1999-07"},
+  {"tuple_id": "P001_s015_t001", "subject": "世界主要国家", "relation": "释放支持一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "1999-07"},
+  {"tuple_id": "P001_s015_t002", "subject": "世界主要国家", "relation": "释放呼吁和平解决两岸争议的友好信号", "object": ["中国国家主体", "台湾地区当局"], "location": null, "time": "1999-07"}
+]

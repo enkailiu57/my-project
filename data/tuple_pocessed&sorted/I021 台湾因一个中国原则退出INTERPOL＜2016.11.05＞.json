@@ -1,0 +1,14 @@
+[
+  {"tuple_id": "I021_s001_t001", "subject": "国际刑警组织", "relation": "接纳成员加入", "object": "中国国家主体", "location": null, "time": "1984"},
+  {"tuple_id": "I021_s001_t002", "subject": "国际刑警组织", "relation": "要求更改成员名称", "object": "台湾地区当局", "location": null, "time": "1984"},
+  {"tuple_id": "I021_s001_t003", "subject": "台湾地区当局", "relation": "退出国际组织", "object": "国际刑警组织", "location": null, "time": "1984"},
+  {"tuple_id": "I021_s003_t001", "subject": "美国总统", "relation": "签署涉台法案", "object": "台湾地区当局", "location": null, "time": "2016-03"},
+  {"tuple_id": "I021_s003_t002", "subject": "美国众议院外委会主席", "relation": "释放支持台湾参与国际组织的政治信号", "object": "台湾地区当局", "location": null, "time": "2016-03"},
+  {"tuple_id": "I021_s002_t001", "subject": "美国国会众议院", "relation": "指令行政部门在国际组织支持台湾", "object": "台湾地区当局", "location": null, "time": "2016-05"},
+  {"tuple_id": "I021_s005_t001", "subject": "国际刑警组织", "relation": "拒绝台湾以观察员身份参会", "object": "台湾地区当局", "location": null, "time": "2016-11"},
+  {"tuple_id": "I021_s006_t001", "subject": "台湾地区当局", "relation": "释放反对政治排除的抗议信号", "object": "中国国家主体", "location": null, "time": "2016-11"},
+  {"tuple_id": "I021_s007_t001", "subject": "台湾地区大陆委员会", "relation": "释放对国际组织排除台湾的抗议信号", "object": "中国国家主体", "location": null, "time": "2016-11"},
+  {"tuple_id": "I021_s008_t001", "subject": "台湾地区当局", "relation": "要求国际组织提供情报共享权限", "object": "国际刑警组织", "location": null, "time": "2016-11"},
+  {"tuple_id": "I021_s009_t001", "subject": "台湾地区外事部门", "relation": "释放对大陆阻挠国际参与的抗议信号", "object": "中国国家主体", "location": null, "time": "2016-11"},
+  {"tuple_id": "I021_s011_t001", "subject": "中国国台办发言人", "relation": "对台参与国际组织作出务实安排", "object": "台湾地区当局", "location": null, "time": "2016-11"}
+]

@@ -1,0 +1,17 @@
+[
+  {"tuple_id": "P018_s001_t001", "subject": "台湾地区领导人", "relation": "释放拒绝承认九二共识的政治信号", "object": "中国国家主体", "location": null, "time": "2016"},
+  {"tuple_id": "P018_s002_t001", "subject": "中国国家主体", "relation": "宣布中断两岸官方交流", "object": "台湾地区当局", "location": null, "time": "2016"},
+  {"tuple_id": "P018_s003_t001", "subject": "中国国家主体", "relation": "实施多维度对台施压", "object": "台湾地区当局", "location": null, "time": "2016"},
+  {"tuple_id": "P018_s003_t002", "subject": "中国人民解放军", "relation": "实施绕台军事巡航", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2016"},
+  {"tuple_id": "P018_s003_t003", "subject": "中国人民解放军", "relation": "越过海峡中线", "object": "台湾地区当局", "location": "台湾海峡中线附近", "time": "2016"},
+  {"tuple_id": "P018_s003_t004", "subject": "中国国家主体", "relation": "启用争议空域航路", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2016"},
+  {"tuple_id": "P018_s003_t005", "subject": "中国国家主体", "relation": "阻止参与国际组织活动", "object": "台湾地区当局", "location": null, "time": "2016"},
+  {"tuple_id": "P018_s003_t007", "subject": "中国国家主体", "relation": "要求国际主体使用特定称谓", "object": ["跨国公司", "国际媒体"], "location": null, "time": "2016"},
+  {"tuple_id": "P018_s004_t001", "subject": ["圣多美和普林西比政府", "巴拿马政府", "多米尼加政府", "布基纳法索政府", "萨尔瓦多政府", "所罗门群岛政府", "基里巴斯政府"], "relation": "宣布与中华人民共和国建立外交关系", "object": "中国国家主体", "location": null, "time": "2016/2019"},
+  {"tuple_id": "P018_s006_t001", "subject": "美国政府", "relation": "释放支持台湾的政治信号", "object": "台湾地区当局", "location": null, "time": "2016"},
+  {"tuple_id": "P018_s006_t002", "subject": "美国政府", "relation": "对台军售", "object": "台湾地区当局", "location": null, "time": "2016"},
+  {"tuple_id": "P018_s006_t003", "subject": "美国政府", "relation": "扩大军事人员交流", "object": "台湾地区军方", "location": null, "time": "2016"},
+  {"tuple_id": "P018_s003_t006", "subject": "中国国家主体", "relation": "取消国际赛事举办权", "object": "台湾地区当局", "location": null, "time": "2019"},
+  {"tuple_id": "P018_s005_t001", "subject": "中国国家主体", "relation": "暂停参与台湾影视奖项", "object": "台湾地区当局", "location": null, "time": "2019"},
+  {"tuple_id": "P018_s005_t002", "subject": "中国国家主体", "relation": "安排影视奖项与台湾奖项同日举行", "object": "台湾地区当局", "location": null, "time": "2019"}
+]

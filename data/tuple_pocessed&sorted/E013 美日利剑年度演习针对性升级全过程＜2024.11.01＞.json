@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "E013_s006_t001", "subject": ["美国政府", "日本政府"], "relation": "邀请北约观察员观摩军演", "object": "北约", "location": null, "time": "2022-11"},
+  {"tuple_id": "E013_s008_t001", "subject": "美国海军陆战队", "relation": "实施兵力投送", "object": "日本与那国岛", "location": "与那国岛", "time": "2022-11"},
+  {"tuple_id": "E013_s006_t002", "subject": ["美国政府", "日本政府"], "relation": "设立联合战术协调中心", "object": "中国国家主体", "location": "与那国岛", "time": "2022-11"},
+  {"tuple_id": "E013_s008_t002", "subject": ["美国海军陆战队", "日本自卫队"], "relation": "设立联合战术协调中心", "object": "日本与那国岛", "location": "与那国岛", "time": "2022-11"},
+  {"tuple_id": "E013_s009_t001", "subject": ["日本自卫队", "美军"], "relation": "实施联合两栖登陆演练", "object": "中国国家主体", "location": "日本西南诸岛", "time": "2022"},
+  {"tuple_id": "E013_s009_t002", "subject": ["美军", "日本自卫队"], "relation": "首次协同投入关键装备", "object": "中国国家主体", "location": "日本德之岛", "time": "2022"},
+  {"tuple_id": "E013_s010_t001", "subject": ["日本自卫队", "美军"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": "日本周边海空域", "time": "2024-10"},
+  {"tuple_id": "E013_s014_t001", "subject": ["美国政府", "日本政府"], "relation": "启用民用机场作为军事用途", "object": "长崎机场", "location": "日本长崎", "time": "2024-10"},
+  {"tuple_id": "E013_s014_t002", "subject": ["美国政府", "日本政府"], "relation": "邀请第三方国家参与联合军演", "object": ["澳大利亚政府", "加拿大政府"], "location": null, "time": "2024-10"}
+]

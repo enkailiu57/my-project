@@ -1,0 +1,7 @@
+[
+  {"tuple_id": "I028_s007_t001", "subject": "台湾地区当局", "relation": "放宽农产品进口限制", "object": "美国政府", "location": null, "time": "2020-08"},
+  {"tuple_id": "I028_s007_t002", "subject": "台湾地区当局", "relation": "释放加入区域经贸组织的政治信号", "object": ["CPTPP成员方"], "location": null, "time": "2020-08"},
+  {"tuple_id": "I028_s001_t001", "subject": "台湾地区当局", "relation": "申请加入国际经贸协定", "object": "CPTPP成员方", "location": null, "time": "2021-09"},
+  {"tuple_id": "I028_s004_t001", "subject": "中国外交部发言人", "relation": "释放支持一个中国原则的政治信号", "object": "台湾地区当局", "location": null, "time": "2021-09"},
+  {"tuple_id": "I028_s005_t001", "subject": "中国国家主体", "relation": "释放反对台湾参与国际组织及官方往来的抗议信号", "object": ["台湾地区当局", "CPTPP成员方"], "location": null, "time": "2021-09"}
+]

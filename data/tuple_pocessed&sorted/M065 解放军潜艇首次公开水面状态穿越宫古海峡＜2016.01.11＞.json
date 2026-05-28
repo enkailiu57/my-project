@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "M065_s003_t001", "subject": "中国人民解放军海军潜艇部队", "relation": "穿越宫古海峡进入西太平洋", "object": "日本海上自卫队", "location": "宫古海峡", "time": "2016-01"},
+  {"tuple_id": "M065_s003_t002", "subject": "中国人民解放军海军潜艇部队", "relation": "驶入争议海域", "object": "日本海上自卫队", "location": "钓鱼岛附近海域", "time": "2016-01"},
+  {"tuple_id": "M065_s003_t003", "subject": "日本海上自卫队军舰", "relation": "跟踪监视", "object": "中国人民解放军海军潜艇部队", "location": "钓鱼岛毗连区", "time": "2016-01"},
+  {"tuple_id": "M065_s001_t001", "subject": "中国人民解放军海军", "relation": "驶入争议海域", "object": "日本海上自卫队", "location": "钓鱼岛附近海域", "time": "2016-01"},
+  {"tuple_id": "M065_s001_t002", "subject": "日本海上自卫队", "relation": "发出警告并跟踪监控", "object": "中国人民解放军海军", "location": "钓鱼岛附近海域", "time": "2016-01"},
+  {"tuple_id": "M065_s002_t001", "subject": "日本海上自卫队", "relation": "驶入争议海域", "object": "中国国家主体", "location": "钓鱼岛附近海域", "time": "2016-01"},
+  {"tuple_id": "M065_s002_t002", "subject": "中国人民解放军海军", "relation": "实施全程军事监侦", "object": "日本海上自卫队", "location": "钓鱼岛附近海域", "time": "2016-01"},
+  {"tuple_id": "M065_s002_t003", "subject": "中国国防部", "relation": "释放否认指控的抗议信号", "object": "日本政府", "location": null, "time": "2016-01"}
+]

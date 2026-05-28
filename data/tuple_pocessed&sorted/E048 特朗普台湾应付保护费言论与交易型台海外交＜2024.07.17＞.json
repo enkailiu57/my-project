@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "E048_s001_t001", "subject": "美国政府", "relation": "批准对台军售", "object": "台湾地区当局", "location": null, "time": "2017/2021"},
+  {"tuple_id": "E048_s002_t001", "subject": "中国外交部", "relation": "发布对美军工企业及高管的反制决定", "object": ["美国军工企业", "美国军工企业高级管理人员"], "location": null, "time": "2024-07"},
+  {"tuple_id": "E048_s003_t001", "subject": "美国前总统特朗普", "relation": "释放要求台湾支付防务费用的政治信号", "object": "台湾地区当局", "location": null, "time": "2024-07"},
+  {"tuple_id": "E048_s004_t001", "subject": "美国前政府官员", "relation": "释放敦促增加军费的政治信号", "object": "台湾地区当局", "location": null, "time": "2024-07"},
+  {"tuple_id": "E048_s005_t001", "subject": "美国国务院发言人", "relation": "释放对台军购自费性质的澄清信号", "object": "台湾地区当局", "location": null, "time": "2024-07"},
+  {"tuple_id": "E048_s007_t001", "subject": "中国外交部发言人", "relation": "释放反对干涉中国内政的抗议信号", "object": "美国政府", "location": null, "time": "2024-07"},
+  {"tuple_id": "E048_s010_t001", "subject": "中国外交部发言人", "relation": "释放对对台军售的抗议信号", "object": "美国政府", "location": null, "time": "2024-07"},
+  {"tuple_id": "E048_s010_t002", "subject": "美国政府", "relation": "对台军售", "object": "台湾地区当局", "location": null, "time": "2024-07"},
+  {"tuple_id": "E048_s010_t003", "subject": "美国政府", "relation": "破坏中美军控磋商政治气氛", "object": "中国国家主体", "location": null, "time": "2024-07"},
+  {"tuple_id": "E048_s011_t001", "subject": "中国国家主体", "relation": "暂停中美军控与防扩散磋商", "object": "美国政府", "location": null, "time": "2024-07"}
+]

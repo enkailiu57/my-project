@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "M057_s001_t001", "subject": "赖清德", "relation": "进行高层政治访问", "object": "南太平洋岛国政府", "location": "南太平洋岛国", "time": "2025"},
+  {"tuple_id": "M057_s001_t002", "subject": "赖清德", "relation": "计划过境美国", "object": "美国政府", "location": "美国夏威夷和关岛", "time": "2025"},
+  {"tuple_id": "M057_s002_t001", "subject": "美国海军", "relation": "集结航母战斗群", "object": "中国国家主体", "location": "中国周边海域", "time": "2025"},
+  {"tuple_id": "M057_s003_t002", "subject": "中国人民解放军", "relation": "派出电子侦察船", "object": "美国海军", "location": "中国周边海域", "time": "2025"},
+  {"tuple_id": "M057_s003_t003", "subject": "中国人民解放军", "relation": "派出两栖登陆舰", "object": "美国海军", "location": "中国周边海域", "time": "2025"},
+  {"tuple_id": "M057_s004_t001", "subject": "日本自卫队", "relation": "实施军事跟踪监视", "object": "中国人民解放军海军", "location": "台海周边海空域", "time": "2025"},
+  {"tuple_id": "M057_s005_t001", "subject": "中国人民解放军海军", "relation": "出动军舰进行周边活动", "object": "台湾地区当局", "location": "台岛以东海域", "time": "2025"},
+  {"tuple_id": "M057_s005_t002", "subject": "中国人民解放军海军", "relation": "发生舰船对峙", "object": "美国海军", "location": "台岛以东海域", "time": "2025"},
+  {"tuple_id": "M057_s006_t001", "subject": "中国人民解放军", "relation": "在台海周边进行军事活动", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025"}
+]

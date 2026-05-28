@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "M027_s006_t001", "subject": "美军", "relation": "实施军事力量西调部署", "object": "台海周边海空域", "location": "台海周边海空域", "time": "2024"},
+  {"tuple_id": "M027_s001_t001", "subject": "中国人民解放军", "relation": "实施绕台军事巡航", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024"},
+  {"tuple_id": "M027_s002_t001", "subject": "台湾地区军方", "relation": "实施雷达监视", "object": "中国人民解放军", "location": "台海周边海空域", "time": "2024"},
+  {"tuple_id": "M027_s002_t002", "subject": "台湾地区军方", "relation": "实施战机伴飞监视", "object": "中国人民解放军", "location": "台海周边海空域", "time": "2024"},
+  {"tuple_id": "M027_s003_t001", "subject": "中国人民解放军空军", "relation": "实施抵近飞行", "object": "台湾地区当局", "location": "台岛北部海域", "time": "2024"},
+  {"tuple_id": "M027_s006_t002", "subject": "中国人民解放军", "relation": "加大海空巡航与合围力度", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024"},
+  {"tuple_id": "M027_s005_t001", "subject": "中国国家主体", "relation": "实施法律追诉", "object": "台独顽固分子", "location": null, "time": "2024"}
+]

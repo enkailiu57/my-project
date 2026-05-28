@@ -1,0 +1,16 @@
+[
+  {"tuple_id": "NE024_s001_t001", "subject": "英国皇家海军", "relation": "派遣军舰穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2019"},
+  {"tuple_id": "NE024_s002_t001", "subject": "荷兰海军", "relation": "穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024-06"},
+  {"tuple_id": "NE024_s003_t001", "subject": "英国皇家海军", "relation": "派遣军舰穿越台湾海峡", "object": "中国国家主体", "location": "台湾海峡", "time": "2024"},
+  {"tuple_id": "NE024_s004_t001", "subject": "中国人民解放军东部战区", "relation": "实施海空跟监警戒", "object": "英国皇家海军舰艇", "location": "台湾海峡", "time": "2024"},
+  {"tuple_id": "NE024_s005_t001", "subject": "中国人民解放军海军", "relation": "开展突破岛链军事演训", "object": "美国及其盟友", "location": "西太平洋海域", "time": "2024"},
+  {"tuple_id": "NE024_s006_t001", "subject": "赖清德", "relation": "进行政治访问并过境", "object": "南太平洋岛国", "location": null, "time": "2024-10"},
+  {"tuple_id": "NE024_s006_t002", "subject": "赖清德", "relation": "计划过境美国", "object": "美国政府", "location": null, "time": "2024-10"},
+  {"tuple_id": "NE024_s007_t001", "subject": "美国海军", "relation": "集结航母战斗群", "object": "中国国家主体", "location": "中国周边海域", "time": "2024-10"},
+  {"tuple_id": "NE024_s008_t001", "subject": "中国人民解放军", "relation": "派出电子侦察船", "object": "美国海军", "location": "中国周边海域", "time": "2024-10"},
+  {"tuple_id": "NE024_s008_t002", "subject": "中国人民解放军", "relation": "派出两栖登陆舰", "object": "美国海军", "location": "中国周边海域", "time": "2024-10"},
+  {"tuple_id": "NE024_s009_t001", "subject": "日本自卫队", "relation": "跟踪监视", "object": "中国人民解放军海军", "location": "台海周边海空域", "time": "2024-10"},
+  {"tuple_id": "NE024_s010_t001", "subject": "中国人民解放军", "relation": "实施海空兵力机动", "object": "中国人民解放军", "location": "台湾东部海域", "time": "2024-10"},
+  {"tuple_id": "NE024_s010_t002", "subject": "中国人民解放军", "relation": "发生舰船对峙", "object": "美国海军", "location": "台湾东部海域", "time": "2024-10"},
+  {"tuple_id": "NE024_s011_t001", "subject": "中国人民解放军", "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-10"}
+]

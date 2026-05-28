@@ -1,0 +1,16 @@
+[
+  {"tuple_id": "D022_s001_t001", "subject": "立陶宛总统", "relation": "释放调整对华关系的反思信号", "object": "中国国家主体", "location": null, "time": "2024-05"},
+  {"tuple_id": "D022_s002_t001", "subject": "中国国家主体", "relation": "给予免签证入境待遇", "object": "部分欧洲国家", "location": null, "time": "2024"},
+  {"tuple_id": "D022_s002_t002", "subject": "中国国家主体", "relation": "实施外交排斥", "object": "立陶宛政府", "location": null, "time": "2024"},
+  {"tuple_id": "D022_s003_t001", "subject": "立陶宛政府", "relation": "驱逐外交人员", "object": "中国驻立陶宛外交人员", "location": null, "time": "2024-11"},
+  {"tuple_id": "D022_s004_t001", "subject": "中国外交部", "relation": "释放对驱逐外交官行为的抗议信号", "object": "立陶宛政府", "location": null, "time": "2024-11"},
+  {"tuple_id": "D022_s005_t001", "subject": "立陶宛政府", "relation": "立法限制特定国籍人员军事服役", "object": "中国国家主体", "location": null, "time": "2024-12"},
+  {"tuple_id": "D022_s006_t001", "subject": "立陶宛政府", "relation": "拒绝中国外交人员入境", "object": "中国驻立陶宛外交人员", "location": "维尔纽斯机场", "time": "2025-05"},
+  {"tuple_id": "D022_s007_t001", "subject": "中国国家主体", "relation": "陷入外交关系僵持", "object": "立陶宛政府", "location": null, "time": "2025-06"},
+  {"tuple_id": "D022_s007_t002", "subject": "中国驻立陶宛外交人员", "relation": "撤离驻在国", "object": "立陶宛政府", "location": "立陶宛境内", "time": "2025-06"},
+  {"tuple_id": "D022_s007_t003", "subject": "中国驻立陶宛代办处", "relation": "公告领事业务由第三国使馆代管", "object": "中国驻拉脱维亚大使馆", "location": null, "time": "2025-06"},
+  {"tuple_id": "D022_s008_t001", "subject": "立陶宛政府", "relation": "发起外交接触请求", "object": "中国国家主体", "location": null, "time": "2025-06"},
+  {"tuple_id": "D022_s009_t001", "subject": "立陶宛政府", "relation": "释放恢复对华外交关系的积极信号", "object": "中国国家主体", "location": null, "time": "2025-09"},
+  {"tuple_id": "D022_s010_t001", "subject": "立陶宛政府", "relation": "释放调整对华关系的反思信号", "object": "中国国家主体", "location": null, "time": "2026-02"},
+  {"tuple_id": "D022_s011_t001", "subject": "立陶宛政府", "relation": "释放恢复对华外交关系的积极信号", "object": "中国国家主体", "location": null, "time": "2026-02"}
+]

@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "D023_s001_t001", "subject": "捷克参议院议长", "relation": "参加台湾驻外机构举办的政治社交活动", "object": "台湾地区驻外机构", "location": null, "time": "2019-10"},
+  {"tuple_id": "D023_s001_t002", "subject": "捷克参议院议长", "relation": "计划访问台湾", "object": "台湾地区当局", "location": null, "time": "2019-10"},
+  {"tuple_id": "D023_s002_t001", "subject": "中国驻外使领馆", "relation": "释放反对涉台访问的经济制裁警告信号", "object": "捷克政府", "location": null, "time": "2020-01"},
+  {"tuple_id": "D023_s004_t001", "subject": "中国驻捷克大使馆", "relation": "举行高层单独会谈", "object": "捷克参议院议长", "location": "中国驻捷克大使馆", "time": "2020-01"},
+  {"tuple_id": "D023_s004_t002", "subject": "中国驻捷克大使馆", "relation": "释放反对访问台湾的政治施压信号", "object": "捷克参议院议长", "location": "中国驻捷克大使馆", "time": "2020-01"},
+  {"tuple_id": "D023_s008_t001", "subject": "立陶宛参议院议长", "relation": "计划访问台湾", "object": "台湾地区当局", "location": null, "time": "2020-01"}
+]

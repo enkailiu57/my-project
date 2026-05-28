@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "NE022_s001_t001", "subject": "美军", "relation": "实施抵近侦察", "object": "中国国家主体", "location": "台海周边海空域", "time": "2021-11"},
+  {"tuple_id": "NE022_s002_t001", "subject": "美国空军", "relation": "实施空中侦察", "object": "中国国家主体", "location": "南海及东海海域", "time": "2021-11"},
+  {"tuple_id": "NE022_s003_t001", "subject": "美国军机", "relation": "实施抵近侦察", "object": "中国国家主体", "location": "东沙群岛与台湾本岛之间海域", "time": "2021-11"},
+  {"tuple_id": "NE022_s003_t002", "subject": "美国军机", "relation": "撤离争议空域", "object": "中国人民解放军空军", "location": "东沙群岛与台湾本岛之间海域", "time": "2021-11"},
+  {"tuple_id": "NE022_s004_t001", "subject": ["美国政府", "日本政府", "台湾地区当局"], "relation": "交流军事情报", "object": "中国国家主体", "location": null, "time": "2023-06"},
+  {"tuple_id": "NE022_s005_t001", "subject": "中国外交部发言人", "relation": "释放支持一个中国原则的政治信号", "object": ["美国政府", "日本政府"], "location": null, "time": "2023-06"},
+  {"tuple_id": "NE022_s007_t001", "subject": "中国外交部发言人", "relation": "释放反对建交国与台湾军事联系的抗议信号", "object": ["台湾地区邦交国", "台湾地区当局"], "location": null, "time": "2023-06"},
+  {"tuple_id": "NE022_s007_t002", "subject": "中国外交部发言人", "relation": "释放要求恪守一个中国原则的政治信号", "object": "有关国家", "location": null, "time": "2023-06"}
+]

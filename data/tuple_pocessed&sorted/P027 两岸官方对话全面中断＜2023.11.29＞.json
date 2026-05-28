@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "P027_s001_t001", "subject": "台湾地区领导人", "relation": "释放拒绝承认九二共识的政治信号", "object": "中国国家主体", "location": null, "time": "2016"},
+  {"tuple_id": "P027_s001_t002", "subject": "中国国家主体", "relation": "宣布中断两岸官方交流", "object": "台湾地区当局", "location": null, "time": "2016"},
+  {"tuple_id": "P027_s002_t001", "subject": "中国人民解放军军机", "relation": "实施绕台军事巡航", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2016-12"},
+  {"tuple_id": "P027_s003_t001", "subject": "中国国家主体", "relation": "释放反对台湾独立及参与国际组织的政治信号", "object": "台湾地区外事部门", "location": null, "time": "2017"},
+  {"tuple_id": "P027_s003_t002", "subject": "台湾地区当局", "relation": "提高国防预算", "object": "中国国家主体", "location": null, "time": "2017"},
+  {"tuple_id": "P027_s004_t001", "subject": "中国人民解放军军机", "relation": "越过海峡中线", "object": "台湾地区当局", "location": "台湾海峡中线附近", "time": "2019"},
+  {"tuple_id": "P027_s005_t001", "subject": "中共中央台湾工作办公室", "relation": "列入‘台独’顽固分子清单", "object": ["台湾地区行政机构负责人", "台湾地区驻外代表"], "location": null, "time": "2021-11"},
+  {"tuple_id": "P027_s005_t002", "subject": ["中国国家主体", "台湾地区当局"], "relation": "导致双边关系恶化", "object": ["中国国家主体", "台湾地区当局"], "location": null, "time": "2021-11"},
+  {"tuple_id": "P027_s006_t001", "subject": "台湾地区领导人", "relation": "释放降低军事冲突风险的信号", "object": "中国国家主体", "location": null, "time": "2023-11"},
+  {"tuple_id": "P027_s007_t001", "subject": "台湾地区领导人", "relation": "释放强化自我防卫决心的政治信号", "object": "美国政府", "location": null, "time": "2023-11"}
+]

@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "M043_s001_t001", "subject": "赖清德", "relation": "释放分裂国家与推行台独的政治信号", "object": "中国国家主体", "location": null, "time": "2024-10"},
+  {"tuple_id": "M043_s002_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-10"},
+  {"tuple_id": "M043_s003_t001", "subject": "中国人民解放军海军辽宁舰", "relation": "部署航母战斗群至台海周边", "object": "台湾地区当局", "location": "台湾东部海域", "time": "2024-10"},
+  {"tuple_id": "M043_s004_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "实施海上军事部署与封锁", "object": "台湾地区当局", "location": "西太平洋及巴士海峡", "time": "2024-10"},
+  {"tuple_id": "M043_s004_t002", "subject": "中国海军辽宁舰航母战斗群", "relation": "参与环台军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-10"},
+  {"tuple_id": "M043_s005_t001", "subject": "中国人民解放军", "relation": "实施海空域封控", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-10"},
+  {"tuple_id": "M043_s006_t001", "subject": "中国人民解放军军机", "relation": "在台海周边海空域巡航活动", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-10"},
+  {"tuple_id": "M043_s006_t002", "subject": "中国人民解放军舰艇", "relation": "在台海周边进行军事活动", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-10"},
+  {"tuple_id": "M043_s006_t003", "subject": "台湾地区军方", "relation": "监测并统计解放军军机动向", "object": ["中国人民解放军军机", "中国人民解放军舰艇"], "location": "台岛周边海空域", "time": "2024-10"},
+  {"tuple_id": "M043_s007_t001", "subject": "美国国务院", "relation": "释放要求克制军事行动的警告信号", "object": "中国国家主体", "location": null, "time": "2024-10"}
+]

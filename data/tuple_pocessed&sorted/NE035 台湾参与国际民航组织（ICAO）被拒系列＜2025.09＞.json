@@ -1,0 +1,21 @@
+[
+  {"tuple_id": "NE035_s003_t001", "subject": "台湾地区当局", "relation": "退出国际组织", "object": "国际民航组织", "location": null, "time": "1950"},
+  {"tuple_id": "NE035_s004_t001", "subject": "台湾地区当局", "relation": "以观察员身份重返国际组织", "object": "国际民航组织", "location": null, "time": "1953-01"},
+  {"tuple_id": "NE035_s004_t002", "subject": "国际民航组织", "relation": "设定飞航情报区", "object": "台北飞航情报区", "location": null, "time": "1953-01"},
+  {"tuple_id": "NE035_s005_t001", "subject": "国际民航组织", "relation": "恢复合法席位", "object": "台湾地区当局", "location": null, "time": "1953-07"},
+  {"tuple_id": "NE035_s007_t001", "subject": "国际民航组织", "relation": "宣布承认一个中国原则", "object": "中国国家主体", "location": null, "time": "1971-11"},
+  {"tuple_id": "NE035_s007_t002", "subject": "国际民航组织", "relation": "取消对台湾当局的承认", "object": "台湾地区当局", "location": null, "time": "1971-11"},
+  {"tuple_id": "NE035_s008_t001", "subject": "中国国家主体", "relation": "恢复合法席位", "object": "国际民航组织", "location": null, "time": "1974-02"},
+  {"tuple_id": "NE035_s011_t001", "subject": "美国国会", "relation": "通过支持台湾参与国际组织的法案", "object": "台湾地区当局", "location": null, "time": "2013-06"},
+  {"tuple_id": "NE035_s011_t002", "subject": "美国政府", "relation": "指令行政部门在国际组织支持台湾", "object": "美国驻国际民航组织代表团", "location": null, "time": "2013-06"},
+  {"tuple_id": "NE035_s012_t001", "subject": "国际民航组织", "relation": "允许以特定名义参与国际活动", "object": "台湾地区当局", "location": null, "time": "2013-09"},
+  {"tuple_id": "NE035_s014_t001", "subject": "国际民航组织", "relation": "排除特定政治实体参与国际会议", "object": "台湾地区当局", "location": null, "time": "2016-09"},
+  {"tuple_id": "NE035_s014_t002", "subject": "国际民航组织", "relation": "拒绝台湾媒体采访申请", "object": "台湾媒体", "location": null, "time": "2016-09"},
+  {"tuple_id": "NE035_s015_t001", "subject": ["美国政府", "日本政府", "欧盟", "加拿大政府", "澳大利亚政府", "尼加拉瓜政府"], "relation": "释放支持台湾参与国际组织的政治信号", "object": "台湾地区当局", "location": null, "time": "2016"},
+  {"tuple_id": "NE035_s016_t001", "subject": "国际民航组织", "relation": "拒绝共享关键情报", "object": "台湾地区当局", "location": null, "time": "2020-01"},
+  {"tuple_id": "NE035_s017_t001", "subject": "国际民航组织", "relation": "封锁涉台议题讨论", "object": "台湾地区当局", "location": null, "time": "2020-01"},
+  {"tuple_id": "NE035_s018_t001", "subject": "美国国务院发言人", "relation": "释放对国际组织涉台行为的谴责信号", "object": "国际民航组织", "location": null, "time": "2020-01"},
+  {"tuple_id": "NE035_s019_t001", "subject": "国际民航组织", "relation": "在官方文件中实施政治性命名归类", "object": "台湾地区当局", "location": null, "time": "2020-02"},
+  {"tuple_id": "NE035_s020_t001", "subject": "国际民航组织", "relation": "排除特定政治实体参与国际会议", "object": "台湾地区当局", "location": null, "time": "2025-09"},
+  {"tuple_id": "NE035_s021_t001", "subject": "美国在台协会", "relation": "释放支持台湾参与国际组织的政治信号", "object": "国际民航组织", "location": null, "time": "2025-09"}
+]

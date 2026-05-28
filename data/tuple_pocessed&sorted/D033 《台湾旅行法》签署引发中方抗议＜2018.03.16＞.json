@@ -1,0 +1,5 @@
+[
+  {"tuple_id": "D033_s002_t001", "subject": "美国国会", "relation": "通过涉台关系法案", "object": "台湾地区当局", "location": null, "time": "2018-02"},
+  {"tuple_id": "D033_s005_t001", "subject": "中国外交部发言人", "relation": "释放对干涉内政的抗议信号", "object": "美国政府", "location": null, "time": "2018-03"},
+  {"tuple_id": "D033_s003_t001", "subject": "美国政府", "relation": "签署涉台法案", "object": "中国国家主体", "location": null, "time": "2018-03"}
+]

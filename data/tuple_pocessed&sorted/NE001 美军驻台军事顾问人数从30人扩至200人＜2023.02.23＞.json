@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "NE001_s001_t001", "subject": "美国政府", "relation": "接受建交政治条件", "object": "中国国家主体", "location": null, "time": "1979"},
+  {"tuple_id": "NE001_s001_t002", "subject": "美国军方", "relation": "撤离驻军", "object": "台湾地区当局", "location": "台湾地区", "time": "1979"},
+  {"tuple_id": "NE001_s002_t002", "subject": "美军", "relation": "在台湾地区驻留", "object": "台湾地区", "location": "台湾地区", "time": "2021-10"},
+  {"tuple_id": "NE001_s002_t001", "subject": "台湾地区领导人", "relation": "释放美军在台存在的确认信号", "object": "国际社会", "location": null, "time": "2021-10"},
+  {"tuple_id": "NE001_s005_t001", "subject": "美国前政府官员", "relation": "释放支持美军在台驻军的信号", "object": ["美国政府", "中国国家主体"], "location": "台湾地区", "time": "2022-04"},
+  {"tuple_id": "NE001_s004_t001", "subject": "美国军方", "relation": "实施军事训练", "object": "台湾地区军方", "location": "台湾地区", "time": "2023-02"},
+  {"tuple_id": "NE001_s006_t001", "subject": "美国政府", "relation": "计划扩大在台湾的军事部署", "object": "中国国家主体", "location": "台湾地区", "time": "2023-02"},
+  {"tuple_id": "NE001_s007_t001", "subject": "美国政府", "relation": "计划扩大在台湾的军事部署", "object": "台湾地区当局", "location": "台湾", "time": "2023"}
+]

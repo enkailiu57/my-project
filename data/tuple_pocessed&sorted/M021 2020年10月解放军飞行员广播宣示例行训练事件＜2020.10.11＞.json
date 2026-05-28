@@ -1,0 +1,10 @@
+[
+  {"tuple_id": "M021_s001_t001", "subject": "中国人民解放军军机", "relation": "进入争议空域进行实战化演练", "object": "台湾地区当局", "location": "台岛西南空域", "time": "2020-10"},
+  {"tuple_id": "M021_s002_t001", "subject": "中国人民解放军军机", "relation": "进入特定空域进行例行训练", "object": "台湾地区当局", "location": "台岛西南空域", "time": "2020-10"},
+  {"tuple_id": "M021_s002_t002", "subject": "台湾地区军方", "relation": "实施广播示警", "object": "中国人民解放军军机", "location": "台岛西南空域", "time": "2020-10"},
+  {"tuple_id": "M021_s002_t003", "subject": "中国人民解放军军机", "relation": "释放反对军事滋扰的抗议信号", "object": "台湾地区军方", "location": "台岛西南空域", "time": "2020-10"},
+  {"tuple_id": "M021_s007_t001", "subject": "台湾地区军方", "relation": "举行军事演习", "object": "null", "location": "台岛西南空域", "time": "2020-10"},
+  {"tuple_id": "M021_s005_t002", "subject": "中国人民解放军军机", "relation": "进行无线电喊话警告", "object": "台湾地区军方", "location": "台岛西南空域", "time": "2020-10"},
+  {"tuple_id": "M021_s008_t001", "subject": "中国人民解放军军机", "relation": "进入争议空域飞行", "object": "台湾地区当局", "location": "台岛西南空域", "time": "2020-10"},
+  {"tuple_id": "M021_s010_t001", "subject": "中国人民解放军东部战区发言人", "relation": "释放维护国家主权和领土完整的坚定信号", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2020-10"}
+]

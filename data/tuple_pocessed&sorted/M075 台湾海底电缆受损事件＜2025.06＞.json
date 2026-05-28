@@ -1,0 +1,15 @@
+[
+  {"tuple_id": "M075_s018_t002", "subject": "具有大陆背景的权宜船", "relation": "实施针对关键基础设施的异常活动", "object": "台湾地区", "location": "台湾地区北部海域", "time": "2024-12/2025-07"},
+  {"tuple_id": "M075_s005_t001", "subject": "台湾地区海巡署", "relation": "实施现场执法检查", "object": "顺兴39号货轮", "location": "台湾地区北部海域", "time": "2025-01"},
+  {"tuple_id": "M075_s007_t001", "subject": "台湾地区当局", "relation": "请求协助调查并扣押涉事船舶", "object": "韩国政府", "location": null, "time": "2025-01"},
+  {"tuple_id": "M075_s011_t001", "subject": "台湾地区当局", "relation": "释放指控他方破坏国际秩序的抗议信号", "object": "中国国家主体", "location": null, "time": "2025-01"},
+  {"tuple_id": "M075_s012_t001", "subject": "台湾地区海巡署", "relation": "扣留涉嫌违规船舶", "object": "多哥籍货轮宏泰58号", "location": "台湾地区管辖海域", "time": "2025-02"},
+  {"tuple_id": "M075_s012_t002", "subject": "台湾地区当局", "relation": "指控故意破坏基础设施", "object": "多哥籍货轮宏泰58号", "location": null, "time": "2025-02"},
+  {"tuple_id": "M075_s014_t001", "subject": "台湾地区海巡署", "relation": "依法登检查扣", "object": "多哥籍货轮宏泰58号", "location": "台湾地区北部海域", "time": "2025-02"},
+  {"tuple_id": "M075_s015_t001", "subject": "台湾地区当局", "relation": "提升安全警戒级别", "object": "中国国家主体", "location": "台海周边海空域", "time": "2025-02"},
+  {"tuple_id": "M075_s016_t001", "subject": "台湾地区防务部门", "relation": "启动国际情报交换机制", "object": "国际合作伙伴", "location": null, "time": "2025-02"},
+  {"tuple_id": "M075_s016_t002", "subject": "台湾地区防务部门", "relation": "实施海上目标监控", "object": "可疑船舶", "location": "台岛周边海域", "time": "2025-02"},
+  {"tuple_id": "M075_s017_t001", "subject": "蒙古籍权宜船", "relation": "涉嫌破坏海底电缆", "object": "台湾地区海底电缆", "location": "台湾地区管辖海域", "time": "2025-06"},
+  {"tuple_id": "M075_s017_t002", "subject": "台湾地区海巡署", "relation": "扣留涉嫌违规船舶", "object": "蒙古籍权宜船", "location": "台湾地区管辖海域", "time": "2025-06"},
+  {"tuple_id": "M075_s018_t001", "subject": "台湾地区当局", "relation": "发布安全威胁通报", "object": "具有大陆背景的权宜船", "location": "台湾地区北部海域", "time": "2025-07"}
+]

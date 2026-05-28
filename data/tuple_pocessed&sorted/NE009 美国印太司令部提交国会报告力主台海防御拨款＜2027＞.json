@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "NE009_s001_t001", "subject": "美国国防部", "relation": "释放对中国军力扩张的威胁警告信号", "object": "中国国家主体", "location": null, "time": "2006"},
+  {"tuple_id": "NE009_s004_t001", "subject": "中国国家主体", "relation": "设定军队现代化目标", "object": "中国人民解放军", "location": null, "time": "2021"},
+  {"tuple_id": "NE009_s004_t002", "subject": "美国军方高层", "relation": "释放对中国军力扩张的威胁警告信号", "object": "美国国会", "location": null, "time": "2021"},
+  {"tuple_id": "NE009_s005_t001", "subject": "美国政府", "relation": "制定印太地区防卫计划", "object": "中国国家主体", "location": "印太地区", "time": "2021"},
+  {"tuple_id": "NE009_s006_t001", "subject": ["美国政府", "澳大利亚政府"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": null, "time": "2023"},
+  {"tuple_id": "NE009_s007_t001", "subject": "美国政府", "relation": "在盟友领土建立军事后勤设施", "object": "澳大利亚政府", "location": "澳大利亚", "time": "2023"},
+  {"tuple_id": "NE009_s007_t002", "subject": "美国政府", "relation": "寻求军事安全合作", "object": "日本政府", "location": null, "time": "2023"},
+  {"tuple_id": "NE009_s008_t001", "subject": "美军印太司令部", "relation": "提出无人武器部署威慑计划", "object": "中国国家主体", "location": "台湾海峡", "time": "2023"},
+  {"tuple_id": "NE009_s009_t001", "subject": "美国国防部", "relation": "提出无人武器研发计划", "object": "中国国家主体", "location": null, "time": "2023"}
+]

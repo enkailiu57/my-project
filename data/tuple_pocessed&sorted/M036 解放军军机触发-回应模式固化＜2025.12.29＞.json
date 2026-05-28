@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "M036_s001_t001", "subject": "美国政府", "relation": "宣布对台军售计划", "object": "台湾地区当局", "location": null, "time": "2025-12"},
+  {"tuple_id": "M036_s002_t001", "subject": "台湾地区当局", "relation": "展示军事防御成果", "object": "中国国家主体", "location": null, "time": "2025-12"},
+  {"tuple_id": "M036_s002_t002", "subject": "台湾地区当局", "relation": "释放以武谋独的政治信号", "object": "中国国家主体", "location": null, "time": "2025-12"},
+  {"tuple_id": "M036_s003_t001", "subject": "中国人民解放军东部战区", "relation": "发布针对台海局势的实战化军事推演视频", "object": ["台湾地区当局", "美国政府"], "location": "台海周边海空域", "time": "2025-12"}
+]

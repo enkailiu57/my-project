@@ -1,0 +1,14 @@
+[
+  {"tuple_id": "NE041_s008_t001", "subject": "美国海军航母战斗群", "relation": "实施北极圈军事部署", "object": "俄罗斯国家主体", "location": "北极圈海域", "time": "2018-04/2018-12"},
+  {"tuple_id": "NE041_s009_t001", "subject": "美国空军轰炸机", "relation": "举行联合军事演习", "object": "北约成员国", "location": "欧洲地区", "time": "2019-10"},
+  {"tuple_id": "NE041_s009_t002", "subject": "美国政府", "relation": "释放战略支援与威慑信号", "object": "欧洲盟友", "location": "欧洲地区", "time": "2019-10"},
+  {"tuple_id": "NE041_s004_t001", "subject": "美国空军", "relation": "结束军事部署", "object": "美国空军轰炸机", "location": "关岛安德森空军基地", "time": "2020-04"},
+  {"tuple_id": "NE041_s004_t002", "subject": "美国空军", "relation": "宣布调整兵力部署模式", "object": "美国空军轰炸机", "location": "关岛安德森空军基地", "time": "2020-04"},
+  {"tuple_id": "NE041_s006_t001", "subject": "美国空军", "relation": "实施战术兵力部署", "object": "中国国家主体", "location": "日本岩国基地", "time": "2021-03"},
+  {"tuple_id": "NE041_s006_t002", "subject": ["美国空军", "美国海军陆战队", "日本航空自卫队"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": "日本岩国基地", "time": "2021-03"},
+  {"tuple_id": "NE041_s010_t001", "subject": "美国陆军部队", "relation": "实施多区域军事部署", "object": "俄罗斯国家主体", "location": "欧洲及北非地区", "time": "2021-06"},
+  {"tuple_id": "NE041_s010_t002", "subject": "美国陆军部队", "relation": "开展远程火力射击演练", "object": "俄罗斯国家主体", "location": "北极圈海域", "time": "2021-06"},
+  {"tuple_id": "NE041_s007_t001", "subject": "美国空军", "relation": "部署第五代战斗机至盟友基地", "object": "中国国家主体", "location": "日本岩国基地", "time": "2021-12"},
+  {"tuple_id": "NE041_s007_t002", "subject": ["美国空军", "美国海军陆战队"], "relation": "进行跨军种战力整合", "object": "中国国家主体", "location": "日本岩国基地", "time": "2021-12"},
+  {"tuple_id": "NE041_s011_t001", "subject": "美国军机", "relation": "进入防空识别区", "object": "台湾地区当局", "location": "东海防空识别区", "time": "2022-12"}
+]

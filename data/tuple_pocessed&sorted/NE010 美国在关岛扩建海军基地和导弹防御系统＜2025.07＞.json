@@ -1,0 +1,5 @@
+[
+  {"tuple_id": "NE010_s003_t001", "subject": "美国导弹防御局", "relation": "披露导弹防御部署规划", "object": "中国国家主体", "location": "关岛", "time": "2025-07"},
+  {"tuple_id": "NE010_s004_t001", "subject": "美军", "relation": "释放对关岛袭击的同等报复威慑信号", "object": "潜在军事对手", "location": "关岛", "time": "2025-07"},
+  {"tuple_id": "NE010_s005_t001", "subject": "美国空军", "relation": "部署战略轰炸机", "object": "中国国家主体", "location": "关岛安德森空军基地", "time": "2025-07"}
+]

@@ -1,0 +1,17 @@
+[
+  {"tuple_id": "D039_s002_t001", "subject": "美国政府高级官员", "relation": "进行高层外交访问", "object": "中国国家主体", "location": null, "time": "2023"},
+  {"tuple_id": "D039_s001_t001", "subject": "中国国家主体", "relation": "举行高层政治会谈", "object": "美国政府", "location": null, "time": "2023-11"},
+  {"tuple_id": "D039_s003_t001", "subject": "中国国家主席", "relation": "释放坚持相互尊重、和平共处、合作共赢的信号", "object": "美国政府", "location": null, "time": "2023-11"},
+  {"tuple_id": "D039_s004_t001", "subject": "美国总统", "relation": "释放管控竞争避免冲突的信号", "object": "中国国家主体", "location": null, "time": "2023-11"},
+  {"tuple_id": "D039_s007_t001", "subject": ["中国国家主体", "美国政府"], "relation": "恢复两军高层沟通机制", "object": ["美国政府", "中国国家主体"], "location": null, "time": "2023-11"},
+  {"tuple_id": "D039_s008_t001", "subject": "中国国家主体", "relation": "释放台湾问题不可干涉的底线信号", "object": "美国政府", "location": null, "time": "2023-11"},
+  {"tuple_id": "D039_s009_t001", "subject": "中国国家主体", "relation": "释放要求落实涉台承诺的政治信号", "object": "美国政府", "location": null, "time": "2023-11"},
+  {"tuple_id": "D039_s010_t001", "subject": "中国国家主体", "relation": "释放对对台军售的抗议信号", "object": "美国政府", "location": null, "time": "2023-11"},
+  {"tuple_id": "D039_s010_t002", "subject": "中国国家主体", "relation": "释放要求支持中国和平统一的政治信号", "object": "美国政府", "location": null, "time": "2023-11"},
+  {"tuple_id": "D039_s011_t001", "subject": "中国国家主体", "relation": "释放维护国家统一的坚定信号", "object": "美国政府", "location": null, "time": "2023-11"},
+  {"tuple_id": "D039_s013_t001", "subject": "美国总统", "relation": "释放维持涉台立场的政治信号", "object": "中国国家主体", "location": null, "time": "2023-11"},
+  {"tuple_id": "D039_s013_t002", "subject": "美国政府", "relation": "释放要求克制军事行动的警告信号", "object": "中国国家主体", "location": "台湾海峡及其周边地区", "time": "2023-11"},
+  {"tuple_id": "D039_s014_t001", "subject": "中国国家主体", "relation": "释放关系缓和的积极信号", "object": "美国政府", "location": null, "time": "2023-11"},
+  {"tuple_id": "D039_s014_t002", "subject": "中国国家主体", "relation": "举行高层政治会谈", "object": "日本政府", "location": null, "time": "2023-11"},
+  {"tuple_id": "D039_s015_t001", "subject": ["中国外交部", "日本外务省", "韩国外交部"], "relation": "举行高层政治会晤", "object": ["中国外交部", "日本外务省", "韩国外交部"], "location": "韩国釜山", "time": "2023-11"}
+]

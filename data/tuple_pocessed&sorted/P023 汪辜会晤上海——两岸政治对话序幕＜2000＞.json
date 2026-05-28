@@ -1,0 +1,18 @@
+[
+  {"tuple_id": "P023_s001_t001", "subject": "台湾地区当局", "relation": "推行务实外交政策", "object": "中国国家主体", "location": null, "time": "1995"},
+  {"tuple_id": "P023_s001_t002", "subject": "台湾地区领导人", "relation": "访问美国", "object": "美国政府", "location": "美国", "time": "1995-06"},
+  {"tuple_id": "P023_s001_t003", "subject": "中国国家主体", "relation": "释放对台方缺乏诚意的抗议信号", "object": "台湾地区当局", "location": null, "time": "1995-06"},
+  {"tuple_id": "P023_s001_t004", "subject": "中国国家主体", "relation": "取消两岸协商准备", "object": "台湾地区当局", "location": null, "time": "1995-06"},
+  {"tuple_id": "P023_s002_t001", "subject": "台湾地区当局", "relation": "举行总统直接选举", "object": "台湾地区民众", "location": null, "time": "1995/1996"},
+  {"tuple_id": "P023_s002_t002", "subject": "中国人民解放军", "relation": "开展台海方向导弹实弹射击演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "1995/1996"},
+  {"tuple_id": "P023_s002_t003", "subject": "中国国家主体", "relation": "中断两岸协商机制", "object": "台湾地区当局", "location": null, "time": "1995/1996"},
+  {"tuple_id": "P023_s003_t001", "subject": "台湾地区海基会董事长", "relation": "访问中国大陆", "object": "中国国家主体", "location": "中国大陆", "time": "1998-10"},
+  {"tuple_id": "P023_s003_t002", "subject": ["海峡交流基金会", "海峡两岸关系协会"], "relation": "达成两岸政治共识", "object": ["海峡交流基金会", "海峡两岸关系协会"], "location": "中国大陆", "time": "1998-10"},
+  {"tuple_id": "P023_s003_t003", "subject": ["海峡交流基金会", "海峡两岸关系协会"], "relation": "协定安排高层互访", "object": ["海协会会长", "海峡交流基金会"], "location": "中国大陆", "time": "1998-10"},
+  {"tuple_id": "P023_s004_t001", "subject": "台湾地区国安部门", "relation": "获取情报", "object": "中国国家主体", "location": null, "time": "1999-07"},
+  {"tuple_id": "P023_s005_t001", "subject": "台湾地区领导人", "relation": "释放拒绝统一谈判的政治信号", "object": "中国国家主体", "location": null, "time": "1999-07"},
+  {"tuple_id": "P023_s006_t001", "subject": "中国国家主体", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "1999-07"},
+  {"tuple_id": "P023_s004_t002", "subject": "中国国家主体", "relation": "释放推进两岸和平统一的政治信号", "object": "台湾地区当局", "location": "台湾地区", "time": "1999-10"},
+  {"tuple_id": "P023_s008_t001", "subject": "民进党", "relation": "完成政权更迭", "object": "台湾地区当局", "location": null, "time": "2000"},
+  {"tuple_id": "P023_s008_t002", "subject": "台湾地区当局", "relation": "释放两岸关系紧张的对抗信号", "object": "中国国家主体", "location": null, "time": "2000"}
+]

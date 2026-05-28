@@ -1,0 +1,11 @@
+[
+  {"tuple_id": "E040_s001_t001", "subject": "台湾地区当局", "relation": "对台军售", "object": "美国政府", "location": null, "time": "2022"},
+  {"tuple_id": "E040_s001_t002", "subject": "美国政府", "relation": "计划向台交付军事装备", "object": "台湾地区当局", "location": "台湾", "time": "2025"},
+  {"tuple_id": "E040_s002_t001", "subject": "美军", "relation": "实施军事训练", "object": "台湾地区军方", "location": null, "time": "2024-08"},
+  {"tuple_id": "E040_s003_t001", "subject": "台湾地区军方", "relation": "接收美制军事装备", "object": "美国政府", "location": "台湾", "time": "2024-12"},
+  {"tuple_id": "E040_s003_t002", "subject": "台湾地区军方", "relation": "释放强化美台军事联系的信号", "object": "中国国家主体", "location": null, "time": "2024-12"},
+  {"tuple_id": "E040_s004_t001", "subject": "美国政府", "relation": "批准对台军售", "object": "台湾地区当局", "location": null, "time": "2024-12"},
+  {"tuple_id": "E040_s005_t001", "subject": "中国国防部发言人", "relation": "释放对对台军售的抗议信号", "object": "美国政府", "location": null, "time": "2024-12"},
+  {"tuple_id": "E040_s005_t002", "subject": "中国国家主体", "relation": "提出严正外交交涉", "object": "美国政府", "location": null, "time": "2024-12"},
+  {"tuple_id": "E040_s007_t001", "subject": "中国国防部发言人", "relation": "释放捍卫主权安全的强硬威慑信号", "object": ["台湾地区当局", "美国政府"], "location": null, "time": "2024-12"}
+]

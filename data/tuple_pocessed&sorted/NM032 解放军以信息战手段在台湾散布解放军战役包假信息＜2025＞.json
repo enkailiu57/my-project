@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "NM032_s001_t001", "subject": "中国人民解放军东部战区", "relation": "启动军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-04-29"},
+  {"tuple_id": "NM032_s001_t002", "subject": "中国人民解放军东部战区", "relation": "进行实弹射击", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-04-30"},
+  {"tuple_id": "NM032_s003_t001", "subject": "中国人民解放军", "relation": "进行实弹射击", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-03-30"},
+  {"tuple_id": "NM032_s003_t002", "subject": "台湾地区军方", "relation": "实施全程军事监侦", "object": "中国人民解放军", "location": "台海周边海空域", "time": "2025-03-30"}
+]

@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "NE032_s001_t001", "subject": "美国政府", "relation": "限制在华先进半导体产能扩张", "object": "半导体制造企业", "location": "中国大陆", "time": "2022-08"},
+  {"tuple_id": "NE032_s002_t001", "subject": "美国政府", "relation": "实施芯片出口管制", "object": "中国大陆半导体产业", "location": null, "time": "2022-10"},
+  {"tuple_id": "NE032_s003_t001", "subject": "美国商务部", "relation": "发放半导体设备出口许可", "object": ["SK海力士", "三星电子"], "location": null, "time": "2022-10"},
+  {"tuple_id": "NE032_s008_t001", "subject": ["三星电子", "SK海力士"], "relation": "向美方申请政策豁免", "object": "美国政府", "location": "美国", "time": "2023-02"}
+]

@@ -1,0 +1,15 @@
+[
+  {"tuple_id": "NM036_s002_t001", "subject": "台湾地区当局", "relation": "与外部势力勾连", "object": ["美国政府", "中国国家主体"], "location": "台海周边海空域", "time": "2016-01"},
+  {"tuple_id": "NM036_s003_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边一体化联合军事演训", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2022-08"},
+  {"tuple_id": "NM036_s004_t001", "subject": "中国人民解放军火箭军", "relation": "实施常导火力突击", "object": "台湾地区当局", "location": "台岛中央山脉上空及东部外海", "time": "2022-08"},
+  {"tuple_id": "NM036_s005_t001", "subject": ["中国人民解放军海军舰艇编队", "中国人民解放军空军战机编队"], "relation": "穿越海峡中线并抵近演训", "object": "台湾地区当局", "location": "台湾海峡中线及台岛海岸线附近", "time": "2022-08"},
+  {"tuple_id": "NM036_s006_t001", "subject": "中国人民解放军东部战区", "relation": "组织环台岛战备警巡与联合军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2023-04"},
+  {"tuple_id": "NM036_s007_t001", "subject": "中国海军山东舰航母编队", "relation": "参与环台军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2023-04"},
+  {"tuple_id": "NM036_s008_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-05"},
+  {"tuple_id": "NM036_s008_t002", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-10"},
+  {"tuple_id": "NM036_s009_t001", "subject": "中国海军辽宁舰航母战斗群", "relation": "参与联合军事演习", "object": "中国人民解放军东部战区", "location": "台岛周边海空域", "time": "2024-10"},
+  {"tuple_id": "NM036_s010_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-04"},
+  {"tuple_id": "NM036_s010_t002", "subject": "中国人民解放军陆军", "relation": "实施远程火力实弹精确打击", "object": "台湾地区当局", "location": "东海海域", "time": "2025-04"},
+  {"tuple_id": "NM036_s011_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-12"},
+  {"tuple_id": "NM036_s011_t002", "subject": "中国人民解放军", "relation": "实施多向抵近与联合突击", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-12"}
+]

@@ -1,0 +1,14 @@
+[
+  {"tuple_id": "EC005_s001_t001", "subject": "中国国家主体", "relation": "暂停进口特定农产品", "object": "台湾地区当局", "location": null, "time": "2021-03"},
+  {"tuple_id": "EC005_s002_t001", "subject": "中国国家主体", "relation": "暂停进口特定农产品", "object": "台湾地区当局", "location": null, "time": "2021-09"},
+  {"tuple_id": "EC005_s003_t001", "subject": "中国国家主体", "relation": "暂停进口特定农产品", "object": "台湾地区当局", "location": null, "time": "2022-06"},
+  {"tuple_id": "EC005_s004_t001", "subject": "中国国家主体", "relation": "暂停进口特定农产品", "object": "台湾地区当局", "location": null, "time": "2022-12"},
+  {"tuple_id": "EC005_s006_t001", "subject": "中国国台办发言人", "relation": "实施对台企业进口注册管理", "object": "台湾地区企业", "location": null, "time": "2023-01"},
+  {"tuple_id": "EC005_s007_t001", "subject": "中国国家主体", "relation": "恢复特定农产品进口许可", "object": "台湾地区当局", "location": null, "time": "2023-06"},
+  {"tuple_id": "EC005_s008_t001", "subject": "中国商务部", "relation": "实施临时反倾销措施", "object": "台湾地区当局", "location": null, "time": "2023-08"},
+  {"tuple_id": "EC005_s009_t001", "subject": "中国商务部", "relation": "释放对违反经贸协议行为的抗议信号", "object": "台湾地区当局", "location": null, "time": "2023-08"},
+  {"tuple_id": "EC005_s010_t001", "subject": "中国国家主体", "relation": "实施特定商品进口禁令", "object": "台湾地区当局", "location": null, "time": "2023-08"},
+  {"tuple_id": "EC005_s011_t001", "subject": "中国国家主体", "relation": "对特定产品征收反倾销税", "object": "台湾地区当局", "location": null, "time": "2024-04"},
+  {"tuple_id": "EC005_s012_t001", "subject": "中国海关", "relation": "恢复特定农产品进口许可", "object": "台湾地区农产品", "location": null, "time": "2024-09"},
+  {"tuple_id": "EC005_s013_t001", "subject": "中国国家主体", "relation": "中止对台部分产品关税减让", "object": "台湾地区当局", "location": null, "time": "2024-09"}
+]

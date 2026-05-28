@@ -1,0 +1,18 @@
+[
+  {"tuple_id": "M003_s001_t001", "subject": "台湾地区领导人", "relation": "推动法理台独研究计划", "object": "中国国家主体", "location": null, "time": "1998"},
+  {"tuple_id": "M003_s002_t001", "subject": "台湾地区当局", "relation": "释放将两岸关系定性为特殊国与国关系的政治信号", "object": "中国国家主体", "location": null, "time": "1999-05"},
+  {"tuple_id": "M003_s003_t001", "subject": "台湾地区领导人", "relation": "释放将两岸关系定性为特殊国与国关系的政治信号", "object": "中国国家主体", "location": null, "time": "1999-07"},
+  {"tuple_id": "M003_s004_t001", "subject": "中国人民解放军", "relation": "释放不承诺放弃使用武力的威慑信号", "object": "台湾地区当局", "location": null, "time": "1999-07"},
+  {"tuple_id": "M003_s005_t001", "subject": "中国国家主席", "relation": "进行直接高层通话", "object": "美国总统", "location": null, "time": "1999-07"},
+  {"tuple_id": "M003_s005_t002", "subject": "中国国家主体", "relation": "释放不承诺放弃使用武力的威慑信号", "object": "美国政府", "location": null, "time": "1999-07"},
+  {"tuple_id": "M003_s012_t001", "subject": "台湾地区大陆委员会", "relation": "释放反对法理台独的妥协信号", "object": "李登辉", "location": null, "time": "1999-07"},
+  {"tuple_id": "M003_s006_t001", "subject": "中国人民解放军空军", "relation": "进行地对空导弹实弹打靶试验", "object": "台湾地区当局", "location": null, "time": "1999-08"},
+  {"tuple_id": "M003_s007_t001", "subject": "中国人民解放军海军", "relation": "开展反潜军事演习", "object": "台湾地区当局", "location": "台岛北部海域", "time": "1999-08"},
+  {"tuple_id": "M003_s013_t001", "subject": "台湾地区当局", "relation": "放弃推进分裂政策", "object": "中国国家主体", "location": null, "time": "1999-08"},
+  {"tuple_id": "M003_s008_t001", "subject": "中国国家主体", "relation": "举行高层政治会谈", "object": "美国政府", "location": null, "time": "1999-09"},
+  {"tuple_id": "M003_s008_t002", "subject": "中国国家主体", "relation": "释放维护国家主权和领土完整的坚定信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "1999-09"},
+  {"tuple_id": "M003_s009_t001", "subject": "美国政府", "relation": "释放支持一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "1999-09"},
+  {"tuple_id": "M003_s009_t002", "subject": "美国政府", "relation": "释放反对台湾分裂的施压信号", "object": "台湾地区当局", "location": null, "time": "1999-09"},
+  {"tuple_id": "M003_s010_t001", "subject": ["日本政府", "欧盟", "东盟", "国际社会多数国家"], "relation": "释放支持一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "1999-09"},
+  {"tuple_id": "M003_s014_t001", "subject": "中国国家主体", "relation": "暂停针对台湾的军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "1999-09"}
+]

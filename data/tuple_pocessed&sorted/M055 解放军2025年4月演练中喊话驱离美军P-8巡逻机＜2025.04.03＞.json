@@ -1,0 +1,16 @@
+[
+  {"tuple_id": "M055_s009_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-04"},
+  {"tuple_id": "M055_s009_t002", "subject": "美国军方", "relation": "实施军事试探行动", "object": "中国人民解放军", "location": "台岛周边海空域", "time": "2025-04"},
+  {"tuple_id": "M055_s001_t001", "subject": "美国军机", "relation": "实施空中侦察", "object": "中国国家主体", "location": "台岛北部空域", "time": "2025-04"},
+  {"tuple_id": "M055_s001_t002", "subject": "中国人民解放军", "relation": "实施空中拦截", "object": "美国军机", "location": "台岛北部空域", "time": "2025-04"},
+  {"tuple_id": "M055_s002_t001", "subject": "美国军机", "relation": "靠近台岛东部海域", "object": "中国国家主体", "location": "台岛以东海域", "time": "2025-04"},
+  {"tuple_id": "M055_s003_t001", "subject": "美国军机", "relation": "进入争议海域巡航", "object": "中国国家主体", "location": "巴士海峡", "time": "2025-04"},
+  {"tuple_id": "M055_s004_t001", "subject": "美国军机", "relation": "进入台岛南部空域", "object": "中国国家主体", "location": "台岛南部空域", "time": "2025-04"},
+  {"tuple_id": "M055_s004_t002", "subject": "中国人民解放军", "relation": "拦截并驱离", "object": "美国军机", "location": "台岛南部空域", "time": "2025-04"},
+  {"tuple_id": "M055_s005_t001", "subject": "中国人民解放军空军", "relation": "实施广播示警", "object": "美国军机", "location": "台岛24海里毗连区空域", "time": "2025-04"},
+  {"tuple_id": "M055_s006_t001", "subject": "美国军机", "relation": "释放依据国际法执行任务的辩解信号", "object": "中国人民解放军", "location": "台岛南部空域", "time": "2025-04"},
+  {"tuple_id": "M055_s008_t001", "subject": "中国人民解放军", "relation": "实施常态化空中巡航", "object": "台湾地区军方", "location": "台岛周边海空域", "time": "2025-04"},
+  {"tuple_id": "M055_s010_t001", "subject": "中国人民解放军", "relation": "在台海方向展示新型隐形战机", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-04"},
+  {"tuple_id": "M055_s010_t002", "subject": "中国人民解放军", "relation": "挂载高超音速导弹进行威慑巡航", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-04"},
+  {"tuple_id": "M055_s010_t003", "subject": "中国人民解放军", "relation": "模拟攻击关键基础设施", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-04"}
+]

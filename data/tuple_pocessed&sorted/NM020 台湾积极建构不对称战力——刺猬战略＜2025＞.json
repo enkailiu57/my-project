@@ -1,0 +1,6 @@
+[
+  {"tuple_id": "NM020_s001_t001", "subject": "台湾地区军方高层", "relation": "释放发展不对称战力以对抗统一的威慑信号", "object": "中国国家主体", "location": null, "time": "2025"},
+  {"tuple_id": "NM020_s002_t001", "subject": "美国国会众议院", "relation": "授权对台军事援助与融资", "object": "台湾地区当局", "location": null, "time": "2025"},
+  {"tuple_id": "NM020_s004_t001", "subject": "台湾地区当局", "relation": "采购军事装备", "object": "美国政府", "location": null, "time": "2025"},
+  {"tuple_id": "NM020_s003_t001", "subject": "台湾地区军方", "relation": "举行城市巷战模拟军事演习", "object": "中国人民解放军", "location": "台湾城市区域", "time": "2025"}
+]

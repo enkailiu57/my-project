@@ -1,0 +1,13 @@
+[
+  {"tuple_id": "I022_s006_t001", "subject": "美国政府", "relation": "支持台湾参与国际组织", "object": "台湾地区当局", "location": null, "time": "2016-03"},
+  {"tuple_id": "I022_s006_t002", "subject": "台湾地区外事部门", "relation": "释放对美方涉台政治动作的欢迎信号", "object": "美国政府", "location": null, "time": "2016-03"},
+  {"tuple_id": "I022_s002_t001", "subject": "台湾地区当局", "relation": "推动以观察员身份参与国际组织", "object": "国际刑警组织", "location": null, "time": "2016"},
+  {"tuple_id": "I022_s003_t001", "subject": "国际刑警组织", "relation": "拒绝台湾以观察员身份参会", "object": "台湾地区当局", "location": null, "time": "2016"},
+  {"tuple_id": "I022_s005_t001", "subject": "台湾地区当局", "relation": "释放对国际组织排除台湾的抗议信号", "object": "国际刑警组织", "location": null, "time": "2016-11"},
+  {"tuple_id": "I022_s005_t002", "subject": "台湾地区当局", "relation": "推动以观察员身份参与国际组织", "object": ["美国政府", "理念相近国家"], "location": null, "time": "2016-11"},
+  {"tuple_id": "I022_s008_t001", "subject": "台湾地区外事部门", "relation": "要求国际组织提供情报共享权限", "object": "国际刑警组织", "location": null, "time": "2017"},
+  {"tuple_id": "I022_s009_t001", "subject": "台湾地区当局", "relation": "被排除参与国际组织活动", "object": "国际民航组织", "location": null, "time": "2017-09"},
+  {"tuple_id": "I022_s009_t002", "subject": "台湾地区领导人", "relation": "释放对国际组织排除台湾的抗议信号", "object": "国际民航组织", "location": null, "time": "2017-09"},
+  {"tuple_id": "I022_s010_t001", "subject": "海协会会长", "relation": "释放坚持一个中国原则及两岸协商前提的信号", "object": "台湾地区当局", "location": null, "time": "2017-09"},
+  {"tuple_id": "I022_s011_t001", "subject": "中国国台办发言人", "relation": "释放坚持一个中国原则及两岸协商前提的信号", "object": "台湾地区当局", "location": null, "time": "2017"}
+]

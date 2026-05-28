@@ -1,0 +1,23 @@
+[
+  {"tuple_id": "E042_s001_t001", "subject": "日本政府", "relation": "调整军事战略重心", "object": "西南诸岛方向", "location": null, "time": "2010"},
+  {"tuple_id": "E042_s002_t001", "subject": "日本自卫队", "relation": "在西南诸岛部署军事力量", "object": "中国国家主体", "location": "与那国岛", "time": "2016"},
+  {"tuple_id": "E042_s003_t001", "subject": "日本自卫队", "relation": "部署地对空及岸舰导弹", "object": "中国国家主体", "location": ["奄美大岛", "宫古岛"], "time": "2019"},
+  {"tuple_id": "E042_s004_t001", "subject": "日本自卫队", "relation": "部署地对空及岸舰导弹", "object": "中国国家主体", "location": "石垣岛", "time": "2023"},
+  {"tuple_id": "E042_s005_t001", "subject": "日本海上自卫队", "relation": "完成舰载电磁轨道炮实弹测试", "object": "舰载电磁轨道炮", "location": "海上", "time": "2025-06/2025-07"},
+  {"tuple_id": "E042_s006_t001", "subject": "日本自卫队", "relation": "实施大规模军事力量转移", "object": "中国国家主体", "location": "日本西南诸岛", "time": "2025-12"},
+  {"tuple_id": "E042_s008_t001", "subject": "日本防卫省", "relation": "计划部署防空导弹系统", "object": "中国国家主体", "location": "与那国岛", "time": "2025"},
+  {"tuple_id": "E042_s011_t001", "subject": "日本海上自卫队", "relation": "成立两栖投送作战单位", "object": "中国国家主体", "location": null, "time": "2025"},
+  {"tuple_id": "E042_s009_t001", "subject": "日本自卫队", "relation": "计划部署导弹武器系统", "object": "中国国家主体", "location": "与那国岛", "time": "2026"},
+  {"tuple_id": "E042_s013_t001", "subject": "日本自卫队", "relation": "计划组建特种作战部队", "object": "日本特种作战旅", "location": null, "time": "2026"},
+  {"tuple_id": "E042_s007_t001", "subject": "日本自卫队", "relation": "在西南诸岛部署军事力量", "object": "中国国家主体", "location": "日本西南诸岛", "time": "2027"},
+  {"tuple_id": "E042_s010_t001", "subject": "日本陆上自卫队", "relation": "计划扩编并转变作战职能", "object": "中国国家主体", "location": "冲绳", "time": "2027"},
+  {"tuple_id": "E042_s011_t002", "subject": "日本海上自卫队", "relation": "计划扩充两栖投送力量", "object": "中国国家主体", "location": null, "time": "2027"},
+  {"tuple_id": "E042_s012_t001", "subject": "日本自卫队", "relation": "部署倾转旋翼机", "object": "中国国家主体", "location": "日本佐贺县", "time": "2027"},
+  {"tuple_id": "E042_s012_t002", "subject": "日本自卫队", "relation": "扩大夜间飞行训练范围", "object": "中国国家主体", "location": "日本佐贺县", "time": "2027"},
+  {"tuple_id": "E042_s014_t001", "subject": "日本政府", "relation": "磋商武器出口与转让", "object": "菲律宾政府", "location": null, "time": "2027"},
+  {"tuple_id": "E042_s015_t001", "subject": "日本右翼政治势力", "relation": "释放将台湾安全与日本存亡绑定的军事介入信号", "object": "美国政府", "location": null, "time": "2027"},
+  {"tuple_id": "E042_s016_t001", "subject": "美国政府", "relation": "纵容他国扩军备武", "object": "日本政府", "location": null, "time": "2027"},
+  {"tuple_id": "E042_s016_t002", "subject": "美国政府", "relation": "鼓励他国承担更多军事任务", "object": "日本政府", "location": null, "time": "2027"},
+  {"tuple_id": "E042_s017_t001", "subject": "中国外交部发言人", "relation": "释放对涉台操弄的坚决反对信号", "object": "日本政府", "location": null, "time": "2027"},
+  {"tuple_id": "E042_s018_t001", "subject": "俄罗斯政府", "relation": "释放对干涉内政及军国主义倾向的抗议与警告信号", "object": "日本政府", "location": null, "time": "2027"}
+]

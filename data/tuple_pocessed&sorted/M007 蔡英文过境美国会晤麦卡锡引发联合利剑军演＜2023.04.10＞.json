@@ -1,0 +1,16 @@
+[
+  {"tuple_id": "M007_s008_t002", "subject": "中国国家主体", "relation": "列入‘台独’顽固分子清单", "object": "台湾地区‘驻美代表’萧美琴", "location": null, "time": "2022"},
+  {"tuple_id": "M007_s001_t001", "subject": "台湾地区领导人", "relation": "过境窜访", "object": "美国政府", "location": null, "time": "2023-03"},
+  {"tuple_id": "M007_s001_t002", "subject": "台湾地区领导人", "relation": "举行高层政治会晤", "object": ["美国国会议员", "美国政府官员"], "location": null, "time": "2023-03"},
+  {"tuple_id": "M007_s001_t003", "subject": "台湾地区领导人", "relation": "在美方智库发表政治演讲", "object": "美国智库", "location": null, "time": "2023-03"},
+  {"tuple_id": "M007_s002_t001", "subject": "台湾地区领导人", "relation": "进行过境窜美活动", "object": "美国政府", "location": null, "time": "2023-04"},
+  {"tuple_id": "M007_s002_t002", "subject": "台湾地区领导人", "relation": "举行高层政治会晤", "object": "美国国会高层政要", "location": null, "time": "2023-04"},
+  {"tuple_id": "M007_s003_t001", "subject": "中国官方发言人", "relation": "释放针对美台挑衅的严正震慑信号", "object": ["台湾地区领导人", "美国政府"], "location": null, "time": "2023-04"},
+  {"tuple_id": "M007_s004_t001", "subject": "台湾地区领导人", "relation": "返回台岛", "object": "台湾地区", "location": "台岛", "time": "2023-04"},
+  {"tuple_id": "M007_s004_t002", "subject": "中国人民解放军东部战区", "relation": "实施战备警巡", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2023-04"},
+  {"tuple_id": "M007_s004_t003", "subject": "中国人民解放军东部战区", "relation": "启动军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2023-04"},
+  {"tuple_id": "M007_s006_t001", "subject": "中国人民解放军东部战区发言人", "relation": "释放针对分裂势力的军事威慑信号", "object": "台湾地区‘台独’分裂势力", "location": null, "time": "2023-04"},
+  {"tuple_id": "M007_s007_t002", "subject": ["哈德逊研究所", "里根图书馆"], "relation": "为美台政治接触提供便利", "object": ["台湾地区领导人", "美国政客"], "location": null, "time": "2023-04"},
+  {"tuple_id": "M007_s007_t001", "subject": "中国外交部", "relation": "宣布对美方实施制裁", "object": ["哈德逊研究所", "里根图书馆"], "location": null, "time": "2023-04"},
+  {"tuple_id": "M007_s008_t001", "subject": "中国国家主体", "relation": "依法制裁台独顽固分子", "object": "台湾地区‘驻美代表’萧美琴", "location": null, "time": "2023-04"}
+]

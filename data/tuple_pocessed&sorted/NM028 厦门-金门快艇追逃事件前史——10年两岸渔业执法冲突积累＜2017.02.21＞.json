@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "NM028_s001_t001", "subject": "台湾地区海巡署", "relation": "实施海上执法驱离与查扣", "object": "大陆籍渔船", "location": "厦金海域", "time": "2016-05"},
+  {"tuple_id": "NM028_s001_t002", "subject": "台湾地区海巡署", "relation": "造成安全威胁", "object": "大陆渔民", "location": "厦金海域", "time": "2016-05"},
+  {"tuple_id": "NM028_s002_t001", "subject": "台湾地区海巡署", "relation": "实施海上暴力执法", "object": "大陆籍渔船", "location": "厦金海域", "time": "2017-02"},
+  {"tuple_id": "NM028_s003_t001", "subject": "台湾地区海巡署", "relation": "释放对执法行为正当性的辩护信号", "object": "中国国家主体", "location": null, "time": "2017-02"},
+  {"tuple_id": "NM028_s004_t001", "subject": "中国国台办发言人", "relation": "释放否认水域划分合法性的抗议信号", "object": "台湾地区当局", "location": "厦金海域", "time": "2017-02"},
+  {"tuple_id": "NM028_s005_t001", "subject": "台湾地区司法机构", "relation": "开展内部司法调查", "object": "台湾地区海巡署", "location": "金门地区", "time": "2017-02"},
+  {"tuple_id": "NM028_s006_t001", "subject": "中国国台办发言人", "relation": "释放要求彻查事故并追责道歉的政治信号", "object": "台湾地区当局", "location": null, "time": "2017-02"},
+  {"tuple_id": "NM028_s007_t001", "subject": "福建海警", "relation": "实施海警执法巡航", "object": "台湾地区当局", "location": "厦金海域", "time": "2017-02"},
+  {"tuple_id": "NM028_s007_t002", "subject": "福建海警", "relation": "登临检查", "object": "台湾地区当局", "location": "厦金海域", "time": "2017-02"},
+  {"tuple_id": "NM028_s008_t001", "subject": "中国海监", "relation": "进入特定海域巡航", "object": "台湾地区当局", "location": "金门海域", "time": "2017-02"}
+]

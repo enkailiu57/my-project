@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "M071_s003_t001", "subject": "台湾地区海巡部门", "relation": "实施海上执法驱离与查扣", "object": "大陆籍渔船", "location": "台湾周边海域", "time": "2016-07/2023-12"},
+  {"tuple_id": "M071_s004_t001", "subject": "台湾地区海巡部门", "relation": "实施海上执法驱离与查扣", "object": "大陆籍渔船", "location": "台湾周边海域", "time": "2022-06/2024-06"},
+  {"tuple_id": "M071_s004_t002", "subject": "台湾地区海巡部门", "relation": "查扣大陆渔船", "object": "大陆籍渔船", "location": "台湾周边海域", "time": "2022-06/2024-06"},
+  {"tuple_id": "M071_s004_t003", "subject": "台湾地区海巡部门", "relation": "留置涉案人员", "object": "大陆渔民", "location": "台湾周边海域", "time": "2022-06/2024-06"},
+  {"tuple_id": "M071_s005_t001", "subject": "台湾地区海巡部门", "relation": "扣留人员遗体", "object": "大陆渔民", "location": "金门周边海域", "time": "2024-02"},
+  {"tuple_id": "M071_s006_t001", "subject": "中国海警", "relation": "单方面宣布管辖权", "object": "台湾地区当局", "location": "金门马祖周边海域", "time": "2024-02"},
+  {"tuple_id": "M071_s007_t001", "subject": "台湾地区行政机构负责人", "relation": "释放对大陆海上活动强硬执法的威慑信号", "object": ["大陆渔船及渔民", "中国海警船"], "location": null, "time": "2024-06"}
+]

@@ -1,0 +1,14 @@
+[
+  {"tuple_id": "D030_s002_t001", "subject": "美国政府", "relation": "关闭海外军事基地", "object": "菲律宾政府", "location": "菲律宾苏比克湾", "time": "1992"},
+  {"tuple_id": "D030_s003_t001", "subject": ["美国政府", "菲律宾政府"], "relation": "签署双边防务合作协议", "object": ["美国政府", "菲律宾政府"], "location": "菲律宾", "time": "1998"},
+  {"tuple_id": "D030_s004_t001", "subject": ["美国政府", "菲律宾政府"], "relation": "签署双边防务合作协议", "object": ["美国政府", "菲律宾政府"], "location": null, "time": "2014"},
+  {"tuple_id": "D030_s004_t002", "subject": "美军", "relation": "获准在盟友基地预先部署装备", "object": "菲律宾政府", "location": "菲律宾军事基地", "time": "2014"},
+  {"tuple_id": "D030_s005_t001", "subject": "菲律宾国防部", "relation": "同意开放军事基地使用权", "object": "美军", "location": "菲律宾军事基地", "time": "2023-02"},
+  {"tuple_id": "D030_s006_t001", "subject": "菲律宾政府", "relation": "公布军事基地部署细节", "object": "美军", "location": "菲律宾吕宋岛及巴拉望省", "time": "2023-04"},
+  {"tuple_id": "D030_s007_t001", "subject": "菲律宾政府", "relation": "释放支持美菲军事合作的辩护信号", "object": "国际社会", "location": null, "time": "2023-04"},
+  {"tuple_id": "D030_s007_t002", "subject": "菲律宾军方", "relation": "释放强化南海军事存在的战略信号", "object": "国际社会", "location": "南海海域", "time": "2023-04"},
+  {"tuple_id": "D030_s008_t001", "subject": "美国国防部", "relation": "释放强化军事同盟与地区威慑的信号", "object": "菲律宾政府", "location": null, "time": "2023-04"},
+  {"tuple_id": "D030_s010_t001", "subject": "菲律宾政府", "relation": "同意开放军事基地使用权", "object": "美国政府", "location": "菲律宾军事基地", "time": "2023-04"},
+  {"tuple_id": "D030_s010_t002", "subject": "中国外交部发言人", "relation": "释放反对针对第三方的军事合作信号", "object": ["菲律宾政府", "美国政府"], "location": null, "time": "2023-04"},
+  {"tuple_id": "D030_s011_t001", "subject": "美国政府", "relation": "加强地区军事部署", "object": "中国国家主体", "location": "印太地区", "time": "2023-04"}
+]

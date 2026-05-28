@@ -1,0 +1,5 @@
+[
+  {"tuple_id": "D005_s001_t001", "subject": "美国驻联合国大使", "relation": "访问台湾地区", "object": "台湾地区当局", "location": "台湾地区", "time": "2021-01"},
+  {"tuple_id": "D005_s002_t001", "subject": "中国外交部发言人", "relation": "释放反对美台官方往来的抗议信号", "object": ["美国政府", "台湾地区当局"], "location": null, "time": "2021-01"},
+  {"tuple_id": "D005_s003_t001", "subject": "美国国务院", "relation": "取消高层政要访台行程", "object": "美国驻联合国大使", "location": null, "time": "2021-01"}
+]

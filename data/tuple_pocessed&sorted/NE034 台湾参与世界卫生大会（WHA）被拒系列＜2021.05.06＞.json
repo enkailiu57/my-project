@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "NE034_s002_t001", "subject": "台湾地区当局", "relation": "释放拒绝承认九二共识的政治信号", "object": "中国国家主体", "location": null, "time": "2016"},
+  {"tuple_id": "NE034_s002_t002", "subject": "台湾地区当局", "relation": "破坏两岸协商政治基础", "object": "中国国家主体", "location": null, "time": "2016"},
+  {"tuple_id": "NE034_s004_t001", "subject": "美国政府", "relation": "释放对台湾政治体制的肯定信号", "object": "台湾地区当局", "location": null, "time": "2020"},
+  {"tuple_id": "NE034_s004_t002", "subject": "台湾地区当局", "relation": "争取参与国际组织", "object": "世界卫生组织", "location": null, "time": "2020"},
+  {"tuple_id": "NE034_s005_t001", "subject": "七国集团", "relation": "释放支持台湾参与国际组织的政治信号", "object": "台湾地区当局", "location": null, "time": "2021-05"},
+  {"tuple_id": "NE034_s006_t001", "subject": "中国外交部发言人", "relation": "释放反对干涉中国内政的抗议信号", "object": "七国集团", "location": null, "time": "2021-05"},
+  {"tuple_id": "NE034_s007_t001", "subject": "中国外交部发言人", "relation": "释放坚持一个中国原则及两岸协商前提的信号", "object": "台湾地区当局", "location": null, "time": "2021-05"}
+]

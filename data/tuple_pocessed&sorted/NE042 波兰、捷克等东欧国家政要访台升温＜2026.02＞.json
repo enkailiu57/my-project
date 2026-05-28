@@ -1,0 +1,15 @@
+[
+  {"tuple_id": "NE042_s001_t001", "subject": "捷克参议院议长", "relation": "访问台湾地区", "object": "台湾地区当局", "location": null, "time": "2020-08"},
+  {"tuple_id": "NE042_s001_t002", "subject": "台湾地区外交部门", "relation": "官方迎接外宾", "object": "捷克参议院议长", "location": null, "time": "2020-08"},
+  {"tuple_id": "NE042_s002_t001", "subject": "捷克参议院议长", "relation": "举行高层政治会晤", "object": "台湾地区高层政要", "location": null, "time": "2020-08"},
+  {"tuple_id": "NE042_s002_t002", "subject": "捷克参议院议长", "relation": "在立法机构发表政治演说", "object": "台湾地区立法机构", "location": null, "time": "2020-08"},
+  {"tuple_id": "NE042_s003_t001", "subject": "捷克参议院议长", "relation": "释放支持台湾分裂的政治信号", "object": ["台湾地区当局", "中国国家主体"], "location": null, "time": "2020-08"},
+  {"tuple_id": "NE042_s005_t001", "subject": "台湾地区当局", "relation": "实施外交礼仪互动", "object": "捷克政府", "location": null, "time": "2020-08"},
+  {"tuple_id": "NE042_s007_t001", "subject": ["捷克政要", "斯洛伐克政要", "波罗的海三国政要"], "relation": "访问台湾地区", "object": "台湾地区当局", "location": null, "time": "2021/2023"},
+  {"tuple_id": "NE042_s008_t001", "subject": "立陶宛政府", "relation": "允许设立台湾官方性质代表处", "object": "台湾地区当局", "location": null, "time": "2021"},
+  {"tuple_id": "NE042_s009_t001", "subject": "中国国家主体", "relation": "实施外交降级", "object": "立陶宛政府", "location": null, "time": "2021"},
+  {"tuple_id": "NE042_s009_t002", "subject": "中国国家主体", "relation": "缩减双边人员与经济交流", "object": "立陶宛政府", "location": null, "time": "2021"},
+  {"tuple_id": "NE042_s010_t001", "subject": ["立陶宛议会", "爱沙尼亚国会", "芬兰国会", "德国国会", "波兰国会", "瑞典国会", "乌克兰国会"], "relation": "访问台湾地区", "object": "台湾地区当局", "location": null, "time": "2026-02"},
+  {"tuple_id": "NE042_s011_t001", "subject": "欧洲多国议员代表团", "relation": "举行高层政治会晤", "object": "台湾地区高层政要", "location": null, "time": "2026-02"},
+  {"tuple_id": "NE042_s011_t002", "subject": "欧洲多国议员代表团", "relation": "计划前往敏感地区", "object": "金门地区", "location": null, "time": "2026-02"}
+]

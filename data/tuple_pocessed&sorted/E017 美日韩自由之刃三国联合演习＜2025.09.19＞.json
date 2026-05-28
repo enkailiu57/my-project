@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "E017_s001_t001", "subject": ["美国政府", "日本政府", "韩国政府"], "relation": "举行联合军事演习", "object": "朝鲜民主主义人民共和国", "location": "济州岛以南公海", "time": "2024-06"},
+  {"tuple_id": "E017_s002_t001", "subject": ["美国军方", "日本海上自卫队"], "relation": "举行联合军事演习", "object": ["日本海上自卫队", "韩国军方"], "location": "济州岛以南公海", "time": "2024-06"},
+  {"tuple_id": "E017_s003_t001", "subject": ["美国", "日本政府", "韩国政府"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": "东海海域", "time": "2024-11"},
+  {"tuple_id": "E017_s004_t001", "subject": "朝鲜劳动党高层官员", "relation": "释放强化核武装正当性的政治信号", "object": ["美国政府", "日本政府", "韩国政府"], "location": null, "time": "2024-11"},
+  {"tuple_id": "E017_s005_t001", "subject": ["美国政府", "日本政府", "韩国政府"], "relation": "举行联合军事演习", "object": "朝鲜民主主义人民共和国", "location": "济州岛以南公海", "time": "2025-04"},
+  {"tuple_id": "E017_s007_t001", "subject": "朝鲜劳动党高层官员", "relation": "释放反对军事演训的抗议信号", "object": ["美国政府", "韩国政府", "日本政府"], "location": null, "time": "2025-09"},
+  {"tuple_id": "E017_s008_t001", "subject": "朝鲜劳动党中央军事委员会副委员长", "relation": "释放反对军事演训的抗议信号", "object": ["美国政府", "韩国政府", "日本政府"], "location": null, "time": "2025-09"},
+  {"tuple_id": "E017_s009_t001", "subject": "朝鲜军方高层", "relation": "释放将采取必要反制措施的威慑信号", "object": ["美国政府", "日本政府", "韩国政府"], "location": null, "time": "2025-09"},
+  {"tuple_id": "E017_s006_t001", "subject": "朝鲜官方", "relation": "释放增强核遏制力的威慑信号", "object": ["美国政府", "日本政府", "韩国政府"], "location": null, "time": "2025-09"},
+  {"tuple_id": "E017_s010_t001", "subject": ["美国政府", "日本政府", "韩国政府"], "relation": "举行联合军事演习", "object": "朝鲜民主主义人民共和国", "location": "东海及济州岛周边海域", "time": "2025-09"}
+]

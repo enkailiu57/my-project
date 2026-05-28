@@ -1,0 +1,21 @@
+[
+  {"tuple_id": "P028_s001_t001", "subject": "中国国台办发言人", "relation": "释放对台独顽固分子的严惩与追责信号", "object": "吴钊燮", "location": null, "time": "2021-05"},
+  {"tuple_id": "P028_s002_t001", "subject": "中国国台办发言人", "relation": "释放对台独分子实施惩戒的警告信号", "object": ["吴钊燮", "苏贞昌", "游锡堃"], "location": null, "time": "2021-11"},
+  {"tuple_id": "P028_s003_t001", "subject": "中国国台办发言人", "relation": "公布机构为台独关联机构", "object": ["台湾民主基金会", "国际合作发展基金会"], "location": null, "time": "2022-08"},
+  {"tuple_id": "P028_s004_t001", "subject": "中共中央台湾工作办公室", "relation": "禁止与特定企业交易合作", "object": ["宣德能源", "凌网科技", "天亮医疗", "天眼卫星科技"], "location": null, "time": "2022-08"},
+  {"tuple_id": "P028_s004_t002", "subject": "中共中央台湾工作办公室", "relation": "禁止特定人员入境", "object": ["宣德能源负责人", "凌网科技负责人", "天亮医疗负责人", "天眼卫星科技负责人"], "location": null, "time": "2022-08"},
+  {"tuple_id": "P028_s005_t001", "subject": "中共中央台湾工作办公室", "relation": "列入‘台独’顽固分子清单", "object": ["台湾地区‘驻美代表’萧美琴", "顾立雄", "蔡其昌", "柯建铭", "林飞帆", "陈椒华", "王定宇"], "location": null, "time": "2022-08"},
+  {"tuple_id": "P028_s005_t002", "subject": "中共中央台湾工作办公室", "relation": "制裁机构负责人", "object": ["台湾民主基金会执行长", "台湾民主基金会秘书长", "国际合作发展基金会执行长", "国际合作发展基金会秘书长"], "location": null, "time": "2022-08"},
+  {"tuple_id": "P028_s006_t001", "subject": "中共中央台湾工作办公室", "relation": "实施加重制裁", "object": "萧美琴", "location": null, "time": "2023-04"},
+  {"tuple_id": "P028_s006_t002", "subject": "中共中央台湾工作办公室", "relation": "实施制裁", "object": ["两岸交流远景基金会", "亚洲自由民主联盟"], "location": null, "time": "2023-04"},
+  {"tuple_id": "P028_s007_t001", "subject": "中国外交部", "relation": "实施外交制裁", "object": ["哈德逊研究所", "里根图书馆"], "location": null, "time": "2023-04"},
+  {"tuple_id": "P028_s008_t001", "subject": "中国国家主体", "relation": "实施个人制裁", "object": ["美国智库及基金会高级管理人员"], "location": null, "time": "2023-04"},
+  {"tuple_id": "P028_s009_t001", "subject": "中国外交部", "relation": "实施资产冻结与交易禁令制裁", "object": ["哈德逊研究所董事会主席斯特恩", "哈德逊研究所所长沃尔特斯", "里根基金会前执行主任海布施", "里根基金会首席行政官德雷克"], "location": null, "time": "2023-04"},
+  {"tuple_id": "P028_s011_t001", "subject": "沈伯洋", "relation": "推进“台独”分裂活动", "object": "中国国家主体", "location": null, "time": "2024-10"},
+  {"tuple_id": "P028_s011_t002", "subject": "沈伯洋", "relation": "培育台独分子", "object": "中国国家主体", "location": null, "time": "2024-10"},
+  {"tuple_id": "P028_s012_t001", "subject": "曹兴诚", "relation": "提供资金资助", "object": "黑熊学院", "location": null, "time": "2024-10"},
+  {"tuple_id": "P028_s010_t001", "subject": "中国国家主体", "relation": "实施政治惩戒", "object": ["沈伯洋", "曹兴诚", "黑熊学院"], "location": null, "time": "2024-10"},
+  {"tuple_id": "P028_s012_t002", "subject": "中共中央台湾工作办公室", "relation": "实施制裁", "object": ["曹兴诚", "黑熊学院"], "location": null, "time": "2024-10"},
+  {"tuple_id": "P028_s012_t003", "subject": "中共中央台湾工作办公室", "relation": "禁止特定人员入境", "object": "曹兴诚", "location": null, "time": "2024-10"},
+  {"tuple_id": "P028_s013_t001", "subject": "中共中央台湾工作办公室", "relation": "列入‘台独’顽固分子清单", "object": ["刘世芳", "郑英耀"], "location": null, "time": "2026-01"}
+]

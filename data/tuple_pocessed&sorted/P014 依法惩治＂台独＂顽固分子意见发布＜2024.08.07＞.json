@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "P014_s001_t001", "subject": "中国政法部门", "relation": "实施惩治台独分裂行为的法律反制", "object": "台独顽固分子", "location": null, "time": "2024-05"},
+  {"tuple_id": "P014_s005_t001", "subject": "中国国家主体", "relation": "实施惩治台独分裂行为的法律反制", "object": "台独顽固分子", "location": null, "time": "2024-06"},
+  {"tuple_id": "P014_s004_t001", "subject": "中国国台办发言人", "relation": "释放依法惩治台独分子的正当性信号", "object": "台独顽固分子", "location": null, "time": "2024-08"},
+  {"tuple_id": "P014_s006_t001", "subject": "中国国务院台湾事务办公室", "relation": "建立针对特定政治势力的司法举报机制", "object": "台独顽固分子", "location": null, "time": "2024-08"},
+  {"tuple_id": "P014_s008_t001", "subject": "台湾地区领导人", "relation": "释放反对制裁与跨域追溯的抗议信号", "object": "中国国家主体", "location": null, "time": "2024-08"},
+  {"tuple_id": "P014_s009_t001", "subject": "美国国务院发言人", "relation": "释放对中方升级局势行为的谴责信号", "object": "中国国家主体", "location": null, "time": "2024-08"},
+  {"tuple_id": "P014_s009_t002", "subject": "美国国务院发言人", "relation": "敦促中方保持克制并推动两岸对话", "object": "中国国家主体", "location": null, "time": "2024-08"}
+]

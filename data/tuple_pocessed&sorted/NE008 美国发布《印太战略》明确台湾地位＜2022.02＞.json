@@ -1,0 +1,5 @@
+[
+  {"tuple_id": "NE008_s001_t001", "subject": "美国政府", "relation": "释放支持台湾自我防卫能力的政治信号", "object": "台湾地区当局", "location": null, "time": "2022-02"},
+  {"tuple_id": "NE008_s001_t002", "subject": "美国政府", "relation": "释放将台湾问题纳入地区战略的信号", "object": "中国国家主体", "location": null, "time": "2022-02"},
+  {"tuple_id": "NE008_s002_t001", "subject": "中国外交部", "relation": "释放对干涉内政的抗议信号", "object": "美国政府", "location": null, "time": "2022-02"}
+]

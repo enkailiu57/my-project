@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "NM023_s001_t001", "subject": "美国国会众议院议长", "relation": "窜访台湾地区", "object": "台湾地区当局", "location": "台湾地区", "time": "2022-08"},
+  {"tuple_id": "NM023_s001_t002", "subject": "中国国家主体", "relation": "采取反制措施", "object": "美国政府", "location": null, "time": "2022-08"},
+  {"tuple_id": "NM023_s001_t003", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2022-08"},
+  {"tuple_id": "NM023_s011_t001", "subject": "中国国家主体", "relation": "宣布开展大规模围台军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-02"},
+  {"tuple_id": "NM023_s011_t002", "subject": "中国人民解放军", "relation": "开展联合军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-02"},
+  {"tuple_id": "NM023_s013_t001", "subject": "中国民航局", "relation": "发布航行通告", "object": "国际航空界", "location": null, "time": "2025-02-29"},
+  {"tuple_id": "NM023_s012_t001", "subject": "中国人民解放军东部战区", "relation": "在台湾周边展开实弹射击", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-02-30"},
+  {"tuple_id": "NM023_s012_t002", "subject": "中国人民解放军东部战区", "relation": "发布军事演习航行警告", "object": "相关海域船舶及航空器", "location": "台岛周边海空域", "time": "2025-02-30"},
+  {"tuple_id": "NM023_s013_t002", "subject": "中国人民解放军", "relation": "划设军事禁航区", "object": "台海周边海空域", "location": "台海周边海空域", "time": "2025-03-01"},
+  {"tuple_id": "NM023_s013_t003", "subject": "中国人民解放军", "relation": "进行火箭发射演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-03-01"}
+]

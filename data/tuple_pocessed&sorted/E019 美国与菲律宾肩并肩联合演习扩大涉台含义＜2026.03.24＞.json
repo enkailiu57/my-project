@@ -1,0 +1,20 @@
+[
+  {"tuple_id": "E019_s001_t001", "subject": ["菲律宾政府", "美国政府"], "relation": "签署双边共同防御条约", "object": ["菲律宾政府", "美国政府"], "location": null, "time": "1951"},
+  {"tuple_id": "E019_s001_t002", "subject": "菲律宾政府", "relation": "允许外国军队境内轮换部署", "object": "美军", "location": "菲律宾境内", "time": "1951"},
+  {"tuple_id": "E019_s003_t001", "subject": ["美国政府", "菲律宾政府"], "relation": "暂停双边联合军事演习", "object": ["美国政府", "菲律宾政府"], "location": null, "time": "1995"},
+  {"tuple_id": "E019_s003_t002", "subject": ["美国政府", "菲律宾政府"], "relation": "恢复双边联合军事演习", "object": ["美国政府", "菲律宾政府"], "location": null, "time": "1999"},
+  {"tuple_id": "E019_s005_t002", "subject": ["菲律宾军方", "中国海警或军方"], "relation": "发生舰船对峙", "object": ["中国海警或军方", "菲律宾军方"], "location": "黄岩岛附近海域", "time": "2012-04"},
+  {"tuple_id": "E019_s005_t001", "subject": "菲律宾军方", "relation": "释放演习与争端无关的澄清信号", "object": ["中国国家主体", "国际社会"], "location": null, "time": "2012-04"},
+  {"tuple_id": "E019_s006_t001", "subject": ["美国政府", "菲律宾政府"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": "菲律宾苏比克湾", "time": "2013-04"},
+  {"tuple_id": "E019_s012_t001", "subject": ["美国政府", "日本政府", "澳大利亚政府", "菲律宾政府"], "relation": "举行联合军事演习", "object": "中国国家主体", "location": "南海海域", "time": "2024-04"},
+  {"tuple_id": "E019_s016_t001", "subject": "美军", "relation": "部署陆基反舰导弹系统", "object": "中国国家主体", "location": "吕宋岛北部", "time": "2025-04"},
+  {"tuple_id": "E019_s019_t001", "subject": "中国外交部发言人", "relation": "释放反对军事演训的抗议信号", "object": ["菲律宾政府", "美国政府"], "location": null, "time": "2025-04"},
+  {"tuple_id": "E019_s020_t001", "subject": "中国国家主体", "relation": "释放反对以台湾问题为借口强化军事部署的抗议信号", "object": ["美国政府", "菲律宾政府"], "location": null, "time": "2025-04"},
+  {"tuple_id": "E019_s021_t001", "subject": "中国国防部发言人", "relation": "释放反对针对第三方的军事合作信号", "object": ["美国政府", "菲律宾政府"], "location": null, "time": "2025-04"},
+  {"tuple_id": "E019_s022_t001", "subject": "中国国防部发言人", "relation": "释放反对以台湾问题为借口强化军事部署的抗议信号", "object": ["美国政府", "菲律宾政府"], "location": null, "time": "2025-04"},
+  {"tuple_id": "E019_s023_t001", "subject": "中国海军山东舰航母编队", "relation": "在相关海域执行军事训练任务", "object": "菲律宾政府", "location": "菲律宾北部海域", "time": "2025-05"},
+  {"tuple_id": "E019_s023_t002", "subject": "中国国防部发言人", "relation": "释放军事行动合法性的澄清信号", "object": ["菲律宾政府", "美国政府"], "location": null, "time": "2025-05"},
+  {"tuple_id": "E019_s024_t001", "subject": "中国国防部发言人", "relation": "释放要求停止损害主权和领土完整的抗议信号", "object": "菲律宾政府", "location": null, "time": "2025-05"},
+  {"tuple_id": "E019_s025_t001", "subject": "菲律宾军方高层", "relation": "披露他国军事参与计划", "object": "日本自卫队", "location": null, "time": "2026-03"},
+  {"tuple_id": "E019_s025_t002", "subject": "日本自卫队", "relation": "计划派遣作战部队参加联合军演", "object": ["美国政府", "菲律宾政府"], "location": "菲律宾境内", "time": "2026-03"}
+]

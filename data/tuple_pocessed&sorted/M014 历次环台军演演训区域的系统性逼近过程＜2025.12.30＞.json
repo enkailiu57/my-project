@@ -1,0 +1,21 @@
+[
+  {"tuple_id": "M014_s001_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-12"},
+  {"tuple_id": "M014_s002_t001", "subject": "中国人民解放军东部战区", "relation": "宣布实施实弹军事演习", "object": "台湾地区当局", "location": null, "time": "2025-12-29"},
+  {"tuple_id": "M014_s002_t002", "subject": "中国人民解放军东部战区", "relation": "计划开展实弹射击演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-12-30"},
+  {"tuple_id": "M014_s004_t001", "subject": "中国海警", "relation": "开展海上执法巡查", "object": "台湾地区当局", "location": "台岛周边及离岛附近海域", "time": "2025-12"},
+  {"tuple_id": "M014_s008_t001", "subject": ["中国人民解放军海军", "中国海警"], "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": ["台岛周边及离岛附近海域", "台湾东部及西太平洋海域"], "time": "2025-12"},
+  {"tuple_id": "M014_s006_t001", "subject": "台湾地区防务部门", "relation": "成立军事应急指挥机制", "object": "中国人民解放军", "location": null, "time": "2025-12-29"},
+  {"tuple_id": "M014_s006_t002", "subject": "台湾地区军方", "relation": "执行战备操演", "object": "中国人民解放军", "location": null, "time": "2025-12-29"},
+  {"tuple_id": "M014_s007_t002", "subject": "中国人民解放军军机", "relation": "进入对方军事管控区域", "object": "台湾地区军方", "location": "台湾应变区域", "time": "2025-12-29"},
+  {"tuple_id": "M014_s007_t001", "subject": "台湾地区军方", "relation": "发现并监控对方军机动向", "object": "中国人民解放军军机", "location": "台海周边海空域", "time": "2025-12-29"},
+  {"tuple_id": "M014_s005_t002", "subject": "中国人民解放军军机", "relation": "进入台湾上空", "object": "台湾地区当局", "location": "台湾岛上空", "time": "2025-12"},
+  {"tuple_id": "M014_s005_t001", "subject": "中国人民解放军东部战区", "relation": "释放强化军事遏制力的威慑信号", "object": "台湾地区当局", "location": null, "time": "2025-12"},
+  {"tuple_id": "M014_s009_t001", "subject": "中国人民解放军东部战区", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台岛北部及南部海域", "time": "2025-12"},
+  {"tuple_id": "M014_s010_t002", "subject": "中国人民解放军", "relation": "划设演训区侵入领海领空", "object": "台湾地区当局", "location": "台湾12海里领海领空", "time": "2025-12"},
+  {"tuple_id": "M014_s010_t001", "subject": "台湾地区军方", "relation": "证实演训区侵入领海领空", "object": "中国人民解放军", "location": "台湾12海里领海领空", "time": "2025-12"},
+  {"tuple_id": "M014_s011_t001", "subject": "中国国防部发言人", "relation": "释放反对台独及外部干涉的警告信号", "object": ["台湾地区当局", "外部干涉势力"], "location": null, "time": "2025-12"},
+  {"tuple_id": "M014_s012_t001", "subject": "中国国防部发言人", "relation": "释放反对外部势力干涉台湾问题的抗议信号", "object": "外部干涉势力", "location": null, "time": "2025-12"},
+  {"tuple_id": "M014_s013_t001", "subject": "台湾地区当局", "relation": "与外部势力勾连", "object": "外部干涉势力", "location": null, "time": "2025-12"},
+  {"tuple_id": "M014_s013_t002", "subject": "台湾地区当局", "relation": "推进“台独”分裂活动", "object": "中国国家主体", "location": null, "time": "2025-12"},
+  {"tuple_id": "M014_s014_t001", "subject": "中国人民解放军", "relation": "开展反分裂反“台独”斗争", "object": ["台湾地区当局", "外部干涉势力"], "location": null, "time": "2025-12"}
+]

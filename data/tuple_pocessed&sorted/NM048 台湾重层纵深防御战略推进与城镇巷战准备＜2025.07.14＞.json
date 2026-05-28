@@ -1,0 +1,17 @@
+[
+  {"tuple_id": "NM048_s001_t001", "subject": "台湾地区军方", "relation": "开展城镇及纵深防卫军事演习", "object": "中国国家主体", "location": "台湾地区", "time": "2025-07"},
+  {"tuple_id": "NM048_s002_t001", "subject": "台湾地区军方", "relation": "开展城镇及纵深防卫军事演习", "object": "台湾地区本土防御体系", "location": "台湾北部、中部和南部地区", "time": "2025-07"},
+  {"tuple_id": "NM048_s003_t001", "subject": "台湾地区陆军机步269旅", "relation": "开展城镇及纵深防卫军事演习", "object": "中国人民解放军", "location": "台北港", "time": "2025-07"},
+  {"tuple_id": "NM048_s004_t001", "subject": "台湾地区军方", "relation": "实施空中侦察", "object": "中国人民解放军", "location": "台湾西部沿海地区", "time": "2025-07"},
+  {"tuple_id": "NM048_s004_t002", "subject": "台湾地区军方", "relation": "部署地面防御力量", "object": "中国人民解放军", "location": "台湾西部沿海地区", "time": "2025-07"},
+  {"tuple_id": "NM048_s005_t001", "subject": "台湾地区军方", "relation": "部署陆地防御工事", "object": "中国人民解放军", "location": "台北港周边公路", "time": "2025-07"},
+  {"tuple_id": "NM048_s007_t001", "subject": "台湾地区军方", "relation": "利用民用基础设施进行兵力机动部署", "object": "台北捷运系统", "location": ["台北市区", "台北地区"], "time": "2025-07"},
+  {"tuple_id": "NM048_s008_t002", "subject": "台湾地区军方", "relation": "举行城市巷战模拟军事演习", "object": "万华地区", "location": "台北地区", "time": "2025-07"},
+  {"tuple_id": "NM048_s010_t001", "subject": "台湾地区军方", "relation": "实施战术搜索行动", "object": "中国人民解放军", "location": "高雄港口附近", "time": "2025-07"},
+  {"tuple_id": "NM048_s011_t001", "subject": "台湾地区军方", "relation": "开展滩岸防御反击演练", "object": "中国人民解放军", "location": "马祖地区", "time": "2025-07"},
+  {"tuple_id": "NM048_s012_t001", "subject": "台湾地区军方", "relation": "实施城市街区装甲巡逻", "object": "中国人民解放军", "location": "台湾城市区域", "time": "2025-07"},
+  {"tuple_id": "NM048_s013_t001", "subject": "台湾地区军方", "relation": "分散部署导弹发射车", "object": "中国人民解放军", "location": "台湾各地预设阵地", "time": "2025-07"},
+  {"tuple_id": "NM048_s015_t001", "subject": "台湾地区军方", "relation": "实施防御性军事部署与实爆演练", "object": "中国国家主体", "location": "淡水河", "time": "2025-07"},
+  {"tuple_id": "NM048_s018_t001", "subject": "台湾地区军方", "relation": "实施防御性军事部署与实爆演练", "object": "中国人民解放军", "location": "淡水河", "time": "2025-07"},
+  {"tuple_id": "NM048_s019_t001", "subject": "台湾地区军方", "relation": "部署地空导弹系统", "object": "车载式“复仇者”防空导弹系统", "location": "淡水河", "time": "2025-07"}
+]

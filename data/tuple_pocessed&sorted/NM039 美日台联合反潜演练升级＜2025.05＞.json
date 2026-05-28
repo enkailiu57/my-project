@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "NM039_s002_t001", "subject": "中国人民解放军军机", "relation": "实施西太平洋常态化飞行活动", "object": "西太平洋地区安全环境", "location": "西太平洋地区", "time": "2023"},
+  {"tuple_id": "NM039_s009_t001", "subject": "中国人民解放军军机", "relation": "增加军事活动频率", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-05/2024-08"},
+  {"tuple_id": "NM039_s009_t002", "subject": "中国人民解放军", "relation": "实施大机群连日出动演练", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-05/2024-08"},
+  {"tuple_id": "NM039_s010_t001", "subject": "中国人民解放军空军", "relation": "实施海上夜航训练", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-05/2024-08"},
+  {"tuple_id": "NM039_s012_t001", "subject": "中国人民解放军", "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2024-05"},
+  {"tuple_id": "NM039_s011_t001", "subject": "中国人民解放军", "relation": "实施海上夜航训练", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2024-06-17"}
+]

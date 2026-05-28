@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "EC018_s001_t001", "subject": "马英九", "relation": "就任台湾地区领导人", "object": "台湾地区当局", "location": null, "time": "2008-05"},
+  {"tuple_id": "EC018_s001_t002", "subject": "中国国家主体", "relation": "开放赴台旅游政策", "object": "台湾地区当局", "location": null, "time": "2008-05"},
+  {"tuple_id": "EC018_s005_t001", "subject": "美国国务院", "relation": "批准对台军售", "object": "台湾地区当局", "location": null, "time": "2019-07"},
+  {"tuple_id": "EC018_s006_t001", "subject": "中国外交部", "relation": "宣布对美方实施制裁", "object": "美国政府", "location": null, "time": "2019-07"},
+  {"tuple_id": "EC018_s007_t002", "subject": "民进党当局", "relation": "推进分裂国家活动", "object": "中国国家主体", "location": null, "time": "2019-08"},
+  {"tuple_id": "EC018_s007_t001", "subject": "中国国台办发言人", "relation": "释放对破坏两岸关系基础的抗议信号", "object": "民进党当局", "location": null, "time": "2019-08"},
+  {"tuple_id": "EC018_s008_t001", "subject": "中国国家主体", "relation": "暂停两岸人员交流往来", "object": "台湾地区当局", "location": null, "time": "2019-08"}
+]

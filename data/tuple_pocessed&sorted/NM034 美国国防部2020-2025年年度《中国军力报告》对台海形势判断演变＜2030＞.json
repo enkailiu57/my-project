@@ -1,0 +1,17 @@
+[
+  {"tuple_id": "NM034_s004_t001", "subject": "中国国家主体", "relation": "加强战略核武库建设", "object": "美国国家主体", "location": null, "time": "2021-11"},
+  {"tuple_id": "NM034_s005_t001", "subject": "美国国防部", "relation": "释放对中国核力量发展的警告信号", "object": "中国国家主体", "location": null, "time": "2021-11"},
+  {"tuple_id": "NM034_s005_t002", "subject": "中国国家主体", "relation": "建立三位一体核打击能力", "object": "中国国家主体", "location": null, "time": "2021-11"},
+  {"tuple_id": "NM034_s006_t001", "subject": "中国人民解放军", "relation": "计划获得对台军事绝对优势", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2027"},
+  {"tuple_id": "NM034_s006_t002", "subject": "中国人民解放军", "relation": "计划以军事优势迫使对方谈判", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2027"},
+  {"tuple_id": "NM034_s007_t001", "subject": "美国军方高层", "relation": "释放对台军事保护承诺信号", "object": "台湾地区当局", "location": null, "time": "2021-11"},
+  {"tuple_id": "NM034_s010_t001", "subject": "美国国防部", "relation": "发布对台局势评估报告", "object": "中国国家主体", "location": null, "time": "2021-11"},
+  {"tuple_id": "NM034_s010_t002", "subject": "中国国家主体", "relation": "实施多维度对台施压", "object": "台湾地区当局", "location": null, "time": "2021"},
+  {"tuple_id": "NM034_s010_t003", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2021"},
+  {"tuple_id": "NM034_s011_t001", "subject": "中国人民解放军", "relation": "开展对台海上军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2021"},
+  {"tuple_id": "NM034_s011_t002", "subject": "中国人民解放军", "relation": "组织两栖登陆军事训练", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2021"},
+  {"tuple_id": "NM034_s014_t001", "subject": "美国国会众议院议长", "relation": "窜访台湾地区", "object": "台湾地区当局", "location": "台湾地区", "time": "2022-08"},
+  {"tuple_id": "NM034_s014_t002", "subject": "美国国防部官员", "relation": "释放对中国海空行动常态化的警告信号", "object": "中国人民解放军", "location": "台海周边海空域", "time": "2022-08"},
+  {"tuple_id": "NM034_s013_t001", "subject": "美国国防部官员", "relation": "释放对中国军事意图与能力的评估信号", "object": "中国国家主体", "location": null, "time": "2022-11"},
+  {"tuple_id": "NM034_s017_t001", "subject": "中国国家主体", "relation": "研制战略威慑武器", "object": "美国政府", "location": null, "time": "2023-10"}
+]

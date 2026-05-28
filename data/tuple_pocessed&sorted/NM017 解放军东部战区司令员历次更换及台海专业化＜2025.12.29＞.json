@@ -1,0 +1,14 @@
+[
+  {"tuple_id": "NM017_s012_t001", "subject": "美国国会众议院议长", "relation": "窜访台湾地区", "object": "台湾地区当局", "location": "台湾地区", "time": "2022-08"},
+  {"tuple_id": "NM017_s012_t002", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2022-08"},
+  {"tuple_id": "NM017_s004_t001", "subject": "中国人民解放军东部战区", "relation": "释放强化战备威慑的政治信号", "object": "台湾地区当局", "location": null, "time": "2025-03"},
+  {"tuple_id": "NM017_s005_t001", "subject": "中国人民解放军", "relation": "实施海空联合战备警巡", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-03"},
+  {"tuple_id": "NM017_s008_t001", "subject": "中国国台办发言人", "relation": "释放对破坏台海和平稳定的警告信号", "object": "台湾地区当局", "location": null, "time": "2025-03"},
+  {"tuple_id": "NM017_s009_t001", "subject": ["中国国民党", "台湾民众党"], "relation": "联合反对执政党政治主张", "object": "中国国民党", "location": null, "time": "2025"},
+  {"tuple_id": "NM017_s009_t002", "subject": ["中国国民党", "台湾民众党"], "relation": "否决政府预算提案", "object": "台湾地区当局", "location": null, "time": "2025"},
+  {"tuple_id": "NM017_s011_t001", "subject": "中国人民解放军", "relation": "宣布开展大规模围台军事演习", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-12"},
+  {"tuple_id": "NM017_s011_t002", "subject": "中国人民解放军", "relation": "实施实弹射击与海域禁航", "object": "台湾地区当局", "location": "台岛周边海空域", "time": "2025-12"},
+  {"tuple_id": "NM017_s007_t001", "subject": "中国人民解放军", "relation": "开展台岛周边军事演训", "object": "台湾地区当局", "location": ["台岛周边海空域", "台海周边海空域"], "time": "2025-12"},
+  {"tuple_id": "NM017_s007_t002", "subject": "中国国台办发言人", "relation": "释放维护国家主权与台海和平的正当性信号", "object": "台湾地区当局", "location": null, "time": "2025-12"},
+  {"tuple_id": "NM017_s012_t004", "subject": "中国人民解放军", "relation": "宣布实施实弹军事演习", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2025-12"}
+]

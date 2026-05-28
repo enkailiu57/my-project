@@ -1,0 +1,13 @@
+[
+  {"tuple_id": "M004_s001_t002", "subject": "台湾地区当局", "relation": "推动公投制宪", "object": "中国国家主体", "location": null, "time": "2003"},
+  {"tuple_id": "M004_s002_t001", "subject": "台湾地区领导人", "relation": "释放推行分裂国家政治论调的信号", "object": "中国国家主体", "location": null, "time": "2003-12"},
+  {"tuple_id": "M004_s002_t002", "subject": "台湾地区领导人", "relation": "释放破坏两岸政治基础的分裂信号", "object": "中国国家主体", "location": null, "time": "2003-12"},
+  {"tuple_id": "M004_s002_t003", "subject": "台湾地区领导人", "relation": "释放极端对抗与敌视的政治信号", "object": "中国共产党", "location": null, "time": "2003-12"},
+  {"tuple_id": "M004_s003_t001", "subject": "台湾地区领导人", "relation": "释放推动公投及公投国际化的政治信号", "object": "国际社会", "location": null, "time": "2003-12"},
+  {"tuple_id": "M004_s004_t001", "subject": "美国政府", "relation": "释放反对单方面改变台海现状的政治信号", "object": "台湾地区当局", "location": null, "time": "2004"},
+  {"tuple_id": "M004_s005_t001", "subject": "欧盟", "relation": "释放对单方面改变现状的关切信号", "object": "台湾地区当局", "location": null, "time": "2004-01"},
+  {"tuple_id": "M004_s005_t002", "subject": "日本外务省", "relation": "释放要求克制与遵守承诺的外交警告信号", "object": "台湾地区当局", "location": null, "time": "2004-01"},
+  {"tuple_id": "M004_s006_t001", "subject": "台湾地区领导人", "relation": "释放维持现状的政治信号", "object": "中国国家主体", "location": null, "time": "2004-01"},
+  {"tuple_id": "M004_s007_t001", "subject": "台湾地区当局", "relation": "宣布举行政治性公投计划", "object": "中国国家主体", "location": null, "time": "2004-01"},
+  {"tuple_id": "M004_s001_t001", "subject": "台湾地区当局", "relation": "推行渐进式分裂路线", "object": "中国国家主体", "location": null, "time": "2004-03"}
+]

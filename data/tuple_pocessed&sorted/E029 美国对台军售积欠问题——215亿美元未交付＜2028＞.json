@@ -1,0 +1,4 @@
+[
+  {"tuple_id": "E029_s001_t001", "subject": "美国政府", "relation": "宣布对台军售计划", "object": "台湾地区当局", "location": null, "time": "2024-12"},
+  {"tuple_id": "E029_s003_t001", "subject": "中国外交部", "relation": "发布对美军工企业及高管的反制决定", "object": ["美国军工企业", "美国军工企业高级管理人员"], "location": null, "time": "2024-12-26"}
+]

@@ -1,0 +1,20 @@
+[
+  {"tuple_id": "I025_s002_t001", "subject": "台湾地区当局", "relation": "释放争取加入联合国的政治信号", "object": "联合国", "location": null, "time": "2007-07"},
+  {"tuple_id": "I025_s003_t001", "subject": "联合国秘书长", "relation": "释放拒绝台湾加入联合国的政治信号", "object": "台湾地区当局", "location": null, "time": "2007-07"},
+  {"tuple_id": "I025_s004_t001", "subject": "美国国务院", "relation": "释放反对联合国涉台表述的政治信号", "object": "联合国", "location": null, "time": "2007-07"},
+  {"tuple_id": "I025_s004_t002", "subject": "美国国务院", "relation": "重申对台湾主权不采立场", "object": "中国国家主体", "location": null, "time": "2007-07"},
+  {"tuple_id": "I025_s005_t001", "subject": "联合国秘书长", "relation": "举行高层政治会谈", "object": "美国驻联合国大使", "location": null, "time": "2007-08"},
+  {"tuple_id": "I025_s005_t002", "subject": "联合国", "relation": "释放背离一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "2007-08"},
+  {"tuple_id": "I025_s006_t001", "subject": ["澳大利亚政府", "加拿大政府", "日本政府", "新西兰政府"], "relation": "释放背离一个中国原则的政治信号", "object": "联合国", "location": null, "time": "2007"},
+  {"tuple_id": "I025_s008_t001", "subject": "联合国官方发言人", "relation": "在官方文件中实施政治性命名归类", "object": "台湾地区当局", "location": null, "time": "2016"},
+  {"tuple_id": "I025_s009_t001", "subject": "联合国官方发言人", "relation": "释放支持一个中国原则的政治信号", "object": "中国国家主体", "location": null, "time": "2024"},
+  {"tuple_id": "I025_s010_t001", "subject": "美国政府", "relation": "释放曲解联大第2758号决议的政治信号", "object": "中国国家主体", "location": null, "time": "2025-04"},
+  {"tuple_id": "I025_s011_t001", "subject": "美国政府", "relation": "释放对涉台立场的抗议信号", "object": "中国国家主体", "location": null, "time": "2025-04"},
+  {"tuple_id": "I025_s012_t001", "subject": "台湾地区外事部门", "relation": "释放对美方涉台政治动作的欢迎信号", "object": "美国政府", "location": null, "time": "2025-04"},
+  {"tuple_id": "I025_s012_t002", "subject": "台湾地区外事部门", "relation": "释放对主权打压的抗议信号", "object": "中国国家主体", "location": null, "time": "2025-04"},
+  {"tuple_id": "I025_s013_t001", "subject": "台湾地区外事部门", "relation": "释放曲解联大第2758号决议的政治信号", "object": "中国国家主体", "location": null, "time": "2025-04"},
+  {"tuple_id": "I025_s015_t001", "subject": "美国国会众议院", "relation": "通过涉台法案", "object": "台湾地区当局", "location": null, "time": "2025-05"},
+  {"tuple_id": "I025_s016_t001", "subject": "美国国会", "relation": "释放干涉中国内政的政治信号", "object": "中国国家主体", "location": null, "time": "2025-05"},
+  {"tuple_id": "I025_s017_t001", "subject": "美国政府", "relation": "支持台湾参与国际组织", "object": "台湾地区当局", "location": null, "time": "2025-05"},
+  {"tuple_id": "I025_s017_t002", "subject": "美国政府", "relation": "宣称抵制中方涉台表述修正", "object": "中国国家主体", "location": null, "time": "2025-05"}
+]

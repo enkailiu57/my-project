@@ -1,0 +1,9 @@
+[
+  {"tuple_id": "P021_s001_t001", "subject": ["海峡两岸关系协会", "海峡交流基金会"], "relation": "达成两岸政治共识", "object": "九二共识", "location": "香港", "time": "1992"},
+  {"tuple_id": "P021_s003_t001", "subject": "中国国家主体", "relation": "拒绝接受对方政治解释", "object": "台湾地区当局", "location": null, "time": "1992"},
+  {"tuple_id": "P021_s003_t002", "subject": "台湾地区当局", "relation": "拒绝接受对方政治解释", "object": "中国国家主体", "location": null, "time": "1992"},
+  {"tuple_id": "P021_s004_t001", "subject": "台湾地区陆委会主委", "relation": "释放对九二共识的政治定义信号", "object": "中国国家主体", "location": null, "time": "2000"},
+  {"tuple_id": "P021_s005_t001", "subject": "中国国家主体", "relation": "拒绝接受对方政治解释", "object": "台湾地区当局", "location": null, "time": "2000"},
+  {"tuple_id": "P021_s006_t001", "subject": "中国国民党", "relation": "释放对九二共识的政治定义信号", "object": "中国国家主体", "location": null, "time": "2008"},
+  {"tuple_id": "P021_s006_t002", "subject": "中国国家主体", "relation": "拒绝接受对方政治解释", "object": "中国国民党", "location": null, "time": "2008"}
+]

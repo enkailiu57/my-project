@@ -1,0 +1,8 @@
+[
+  {"tuple_id": "NE037_s001_t001", "subject": "俄罗斯政府", "relation": "发动军事入侵", "object": "乌克兰政府", "location": "乌克兰领土", "time": "2022"},
+  {"tuple_id": "NE037_s002_t001", "subject": "台积电", "relation": "释放执行出口管制的合规信号", "object": "俄罗斯政府", "location": null, "time": "2022-02"},
+  {"tuple_id": "NE037_s002_t002", "subject": "台积电", "relation": "停止向特定国家供货", "object": "俄罗斯政府", "location": null, "time": "2022-02"},
+  {"tuple_id": "NE037_s003_t002", "subject": "台湾地区当局", "relation": "向乌克兰运送人道援助物资", "object": "乌克兰政府", "location": null, "time": "2022-02"},
+  {"tuple_id": "NE037_s003_t001", "subject": "台湾地区外事部门", "relation": "实施物资援助外交", "object": "乌克兰政府", "location": null, "time": "2022-03"},
+  {"tuple_id": "NE037_s004_t001", "subject": "台湾地区当局", "relation": "实施高科技出口管制", "object": ["俄罗斯政府", "白俄罗斯政府"], "location": null, "time": "2022-04"}
+]

@@ -1,0 +1,5 @@
+[
+  {"tuple_id": "EC028_s001_t001", "subject": "台湾地区经济主管部门", "relation": "计划禁止代理经销特定大陆数字服务", "object": "中国大陆OTT TV服务", "location": "台湾地区", "time": "2020-08"},
+  {"tuple_id": "EC028_s002_t001", "subject": "台湾地区当局", "relation": "禁止使用特定大陆互联网应用", "object": "中国大陆互联网科技企业", "location": null, "time": "2022-12"},
+  {"tuple_id": "EC028_s002_t002", "subject": "台湾地区当局", "relation": "释放扩大行政禁令范围的对抗信号", "object": "中国国家主体", "location": null, "time": "2022-12"}
+]

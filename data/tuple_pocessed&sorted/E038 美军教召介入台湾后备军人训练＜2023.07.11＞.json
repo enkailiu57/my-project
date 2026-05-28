@@ -1,0 +1,12 @@
+[
+  {"tuple_id": "E038_s001_t001", "subject": "台湾地区军方", "relation": "计划举行实兵军事演习", "object": "汉光41号演习", "location": "台湾地区", "time": "2023-07"},
+  {"tuple_id": "E038_s002_t001", "subject": "台湾地区军方", "relation": "计划动员特定军事单位参与演习", "object": "台湾陆军206步兵旅", "location": null, "time": "2023-07"},
+  {"tuple_id": "E038_s004_t001", "subject": "美军", "relation": "计划动员特定军事单位参与演习", "object": "台湾地区军方", "location": "台湾地区", "time": "2023-07"},
+  {"tuple_id": "E038_s005_t001", "subject": "美军", "relation": "派遣人员介入军事训练与演习", "object": "台湾地区军方", "location": "台湾地区", "time": "2023-07"},
+  {"tuple_id": "E038_s008_t001", "subject": "台湾地区军方", "relation": "开展大规模军事演习", "object": "中国国家主体", "location": "台岛周边海空域", "time": "2023-07"},
+  {"tuple_id": "E038_s009_t001", "subject": "美国政府", "relation": "派遣人员观察与指导动员演习", "object": "台湾地区军方", "location": "台湾地区", "time": "2023-07"},
+  {"tuple_id": "E038_s006_t001", "subject": ["中国人民解放军军机", "中国人民解放军舰艇"], "relation": "在台海周边进行军事活动", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2023-07"},
+  {"tuple_id": "E038_s006_t003", "subject": "中国公务船", "relation": "在台海周边进行公务活动", "object": "台湾地区当局", "location": "台海周边海空域", "time": "2023-07"},
+  {"tuple_id": "E038_s006_t004", "subject": "台湾地区防务部门", "relation": "发布军事动态通报", "object": "国际社会", "location": null, "time": "2023-07"},
+  {"tuple_id": "E038_s007_t001", "subject": "中国国防部发言人", "relation": "释放维护台海和平稳定的正当性信号", "object": ["台湾地区当局", "美国政府"], "location": "台海周边海空域", "time": "2023-07"}
+]
