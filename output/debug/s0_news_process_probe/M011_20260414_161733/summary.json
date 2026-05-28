@@ -1,0 +1,50 @@
+{
+  "doc_code": "M011",
+  "input_file": "C:\\Users\\27941\\Desktop\\VS code\\KG\\data\\cleaned\\M011 海峡雷霆-2025A演练：以封控为主的思路转变（2025.4.1-2）.txt",
+  "input_source": "cleaned",
+  "llm_provider": "siliconflow",
+  "llm_base_url": "https://api.siliconflow.cn/v1",
+  "model": "Qwen/Qwen3-32B",
+  "temperature": 0.1,
+  "thinking": "disabled",
+  "max_tokens": 15000,
+  "repeat": 1,
+  "sentence_limit": 0,
+  "cache_probe_mode": "exact",
+  "system_prompt_chars": 25201,
+  "user_prompt_chars": 6939,
+  "original_sentence_count": 76,
+  "selected_sentence_count": 76,
+  "rounds": [
+    {
+      "round_index": 1,
+      "elapsed_seconds": 30.91154660000757,
+      "prompt_tokens": 17157,
+      "cached_tokens": 13216,
+      "completion_tokens": 942,
+      "total_tokens": 18099,
+      "cache_hit": true,
+      "cache_ratio": 0.7702978376172991,
+      "finish_reason": "stop",
+      "reasoning_chars": 0,
+      "content_chars": 1779,
+      "quality": {
+        "parse_ok": true,
+        "parse_error": null,
+        "event_count": 10,
+        "unique_event_count": 10,
+        "covered_sentence_count": 19,
+        "covered_sentence_ratio": 0.25,
+        "preview_events": [
+          "2025年4月2日，中国人民解放军东部战区新闻发言人施毅陆军大校表示，东部战区位台湾海峡中部、南部相关海域组织“海峡雷霆-2025A”演练，重点实施查证识别、警告驱离、拦截扣押等科目，检验部队区域管控、联合封控、精打击要能力。",
+          "4月2日，中国人民解放军东部战区陆军部队按照“海峡雷霆-2025A”演练计划，位东海相关海域实施远程火力实弹射击演练，对重要港口、能源设施等模拟目标进行精确打击，取得预期效果。",
+          "4月2日，东部战区新闻发言人施毅陆军大校表示，4月1日至2日，东部战区圆满完成联合演训各项任务，全面检验部队一体化联合作战能力。",
+          "2025年3月13日，赖清德召开所谓“国安高层会议”，并在会后讲话中将大陆界定为“境外敌对势力”，抛出所谓“17项策略”，企图织密织牢“反中抗中”牢笼。",
+          "2025年4月2日，中国人民解放军东部战区组织山东舰航母编队位台岛以东海空域，与海空兵力进行舰机协同、区域制空、对海对陆打击等科目演练，重点检验内线外线一体联动、立体封控和诸军兵种联合作战能力。"
+        ]
+      },
+      "request_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\debug\\s0_news_process_probe\\M011_20260414_161733\\round_01_request.json",
+      "response_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\debug\\s0_news_process_probe\\M011_20260414_161733\\round_01_response.json"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "doc_code": "M038",
+  "input_file": "C:\\Users\\27941\\Desktop\\VS code\\KG\\data\\cleaned\\M038 台海中线事实消亡（2022.8）.txt",
+  "input_source": "cleaned",
+  "llm_provider": "siliconflow",
+  "llm_base_url": "https://api.siliconflow.cn/v1",
+  "model": "Qwen/Qwen3-32B",
+  "temperature": 0.1,
+  "thinking": "disabled",
+  "max_tokens": 15000,
+  "repeat": 1,
+  "sentence_limit": 0,
+  "cache_probe_mode": "exact",
+  "system_prompt_chars": 25201,
+  "user_prompt_chars": 4108,
+  "original_sentence_count": 56,
+  "selected_sentence_count": 56,
+  "rounds": [
+    {
+      "round_index": 1,
+      "elapsed_seconds": 30.18186660000356,
+      "prompt_tokens": 15343,
+      "cached_tokens": 13056,
+      "completion_tokens": 935,
+      "total_tokens": 16278,
+      "cache_hit": true,
+      "cache_ratio": 0.8509417975624063,
+      "finish_reason": "stop",
+      "reasoning_chars": 0,
+      "content_chars": 2071,
+      "quality": {
+        "parse_ok": true,
+        "parse_error": null,
+        "event_count": 16,
+        "unique_event_count": 16,
+        "covered_sentence_count": 16,
+        "covered_sentence_ratio": 0.2857142857142857,
+        "preview_events": [
+          "台湾海峡中线是上世纪五十年代美国在冷战背景下单方面划定的虚拟界限，用于区隔两岸军事活动。",
+          "中国从一开始就明确否认台湾海峡中线的存在，强调台湾地区是中国领土的一部分，外力无权随意分割。",
+          "2019年，两架歼-11战机平稳越过分界线，台湾地区仅能监视，无法拦截。",
+          "2020年，赖清德访美后，轰-6轰炸机绕台湾岛进入太平洋，完全忽略中线，台湾地区飞机只能保持距离观察。",
+          "2020年，中国外交部公开声明，台湾海峡不存在此类界限。"
+        ]
+      },
+      "request_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\debug\\s0_news_process_probe\\M038_20260414_161820\\round_01_request.json",
+      "response_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\debug\\s0_news_process_probe\\M038_20260414_161820\\round_01_response.json"
+    }
+  ]
+}

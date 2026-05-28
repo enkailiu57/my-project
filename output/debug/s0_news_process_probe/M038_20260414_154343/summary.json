@@ -1,0 +1,45 @@
+{
+  "doc_code": "M038",
+  "input_file": "C:\\Users\\27941\\Desktop\\VS code\\KG\\data\\cleaned\\M038 台海中线事实消亡（2022.8）.txt",
+  "input_source": "cleaned",
+  "model": "glm-4.5-air",
+  "temperature": 0.1,
+  "thinking": "disabled",
+  "max_tokens": 15000,
+  "repeat": 2,
+  "sentence_limit": 10,
+  "cache_probe_mode": "exact",
+  "system_prompt_chars": 25175,
+  "user_prompt_chars": 858,
+  "original_sentence_count": 56,
+  "selected_sentence_count": 10,
+  "rounds": [],
+  "error": {
+    "round_index": 1,
+    "elapsed_seconds": 0.8105948000011267,
+    "request_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\debug\\s0_news_process_probe\\M038_20260414_154343\\round_01_request.json",
+    "error_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\debug\\s0_news_process_probe\\M038_20260414_154343\\round_01_error.json",
+    "status_code": 400,
+    "error_code": "1301",
+    "error_message": "系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。",
+    "content_filter": [
+      {
+        "level": 1,
+        "role": "user"
+      }
+    ],
+    "response_json": {
+      "contentFilter": [
+        {
+          "level": 1,
+          "role": "user"
+        }
+      ],
+      "error": {
+        "code": "1301",
+        "message": "系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。"
+      }
+    },
+    "response_text": "{\"contentFilter\":[{\"level\":1,\"role\":\"user\"}],\"error\":{\"code\":\"1301\",\"message\":\"系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。\"}}"
+  }
+}

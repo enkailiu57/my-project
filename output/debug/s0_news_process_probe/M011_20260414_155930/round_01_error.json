@@ -1,0 +1,28 @@
+{
+  "round_index": 1,
+  "elapsed_seconds": 5.609609599996475,
+  "request_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\debug\\s0_news_process_probe\\M011_20260414_155930\\round_01_request.json",
+  "error_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\debug\\s0_news_process_probe\\M011_20260414_155930\\round_01_error.json",
+  "status_code": 400,
+  "error_code": "1301",
+  "error_message": "系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。",
+  "content_filter": [
+    {
+      "level": 1,
+      "role": "assistant"
+    }
+  ],
+  "response_json": {
+    "contentFilter": [
+      {
+        "level": 1,
+        "role": "assistant"
+      }
+    ],
+    "error": {
+      "code": "1301",
+      "message": "系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。"
+    }
+  },
+  "response_text": "{\"contentFilter\":[{\"level\":1,\"role\":\"assistant\"}],\"error\":{\"code\":\"1301\",\"message\":\"系统检测到输入或生成内容可能包含不安全或敏感内容，请您避免输入易产生敏感内容的提示语，感谢您的配合。\"}}"
+}

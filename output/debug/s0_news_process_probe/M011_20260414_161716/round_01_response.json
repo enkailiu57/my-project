@@ -1,0 +1,30 @@
+{
+  "id": "019d8b10ecac88fa173dda979bac06ee",
+  "object": "chat.completion",
+  "created": 1776154635,
+  "model": "Qwen/Qwen3-32B",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"timeline\": [\n    {\n      \"event_id\": 0,\n      \"text\": \"2025年4月2日，中国人民解放军东部战区在台湾海峡中部、南部相关海域组织“海峡雷霆-2025A”演练，目的是维护国家主权、安全、发展利益，惩戒图谋分裂国家的行径，并守护台海和平稳定及台湾同胞的安全福祉。\",\n      \"source_sentence_ids\": [0]\n    },\n    {\n      \"event_id\": 1,\n      \"text\": \"此次演练重点实施查证识别、警告驱离、拦截扣押等科目，检验部队在区域管控、联合封控和精确打击方面的能力。\",\n      \"source_sentence_ids\": [1]\n    }\n  ]\n}"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 13251,
+    "completion_tokens": 160,
+    "total_tokens": 13411,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "prompt_cache_hit_tokens": 0,
+    "prompt_cache_miss_tokens": 13251
+  },
+  "system_fingerprint": ""
+}

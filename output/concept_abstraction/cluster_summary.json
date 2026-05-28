@@ -1,0 +1,16 @@
+{
+  "concept_dir": "output/concept_abstraction/compliant_pools",
+  "description_dir": "output/concept_abstraction/descriptions",
+  "embedding_dir": "output/concept_abstraction/embeddings",
+  "output_dir": "output/concept_abstraction",
+  "cluster_method": "leiden_balanced",
+  "runs": [
+    {
+      "concept_type": "relation",
+      "cluster_method": "leiden_balanced",
+      "cluster_file": "output/concept_abstraction/clusters/relation/relation_leiden_balanced_t10_mn5_mx50_k28_ir0p15_me0p03_sa0p22_fw0p4-0p4-0p2_sr1p581203_c105_mm105_h32419a5b.json",
+      "cluster_count": 105,
+      "multi_member_cluster_count": 105
+    }
+  ]
+}

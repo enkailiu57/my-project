@@ -1,0 +1,71 @@
+{
+  "doc_code": "M038",
+  "input_file": "C:\\Users\\27941\\Desktop\\VS code\\KG\\data\\cleaned\\M038 台海中线事实消亡（2022.8）.txt",
+  "input_source": "cleaned",
+  "model": "glm-4.5-air",
+  "temperature": 0.1,
+  "thinking": "enabled",
+  "max_tokens": 15000,
+  "repeat": 2,
+  "sentence_limit": 2,
+  "cache_probe_mode": "exact",
+  "system_prompt_chars": 25175,
+  "user_prompt_chars": 218,
+  "original_sentence_count": 56,
+  "selected_sentence_count": 2,
+  "rounds": [
+    {
+      "round_index": 1,
+      "elapsed_seconds": 20.76696790001006,
+      "prompt_tokens": 12633,
+      "cached_tokens": 12632,
+      "completion_tokens": 767,
+      "total_tokens": 13400,
+      "cache_hit": true,
+      "cache_ratio": 0.9999208422385815,
+      "finish_reason": "stop",
+      "reasoning_chars": 1216,
+      "content_chars": 213,
+      "quality": {
+        "parse_ok": true,
+        "parse_error": null,
+        "event_count": 2,
+        "unique_event_count": 2,
+        "covered_sentence_count": 2,
+        "covered_sentence_ratio": 1.0,
+        "preview_events": [
+          "上世纪五十年代，美国在冷战背景下单方面划定台湾海峡中线这一虚拟界限，用以区隔两岸军事活动，避免直接摩擦波及全球格局。",
+          "当时美国海军穿越海峡总按这条线走，台湾当局也借此作为防御依据，与美方协作巡逻。"
+        ]
+      },
+      "request_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\debug\\s0_news_process_probe\\M038_20260414_154145\\round_01_request.json",
+      "response_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\debug\\s0_news_process_probe\\M038_20260414_154145\\round_01_response.json"
+    },
+    {
+      "round_index": 2,
+      "elapsed_seconds": 23.66368519999378,
+      "prompt_tokens": 12633,
+      "cached_tokens": 12632,
+      "completion_tokens": 798,
+      "total_tokens": 13431,
+      "cache_hit": true,
+      "cache_ratio": 0.9999208422385815,
+      "finish_reason": "stop",
+      "reasoning_chars": 1241,
+      "content_chars": 171,
+      "quality": {
+        "parse_ok": true,
+        "parse_error": null,
+        "event_count": 1,
+        "unique_event_count": 1,
+        "covered_sentence_count": 2,
+        "covered_sentence_ratio": 1.0,
+        "preview_events": [
+          "上世纪五十年代，美国在冷战背景下单方面划定台湾海峡中线这一虚拟界限，用于区隔两岸军事活动，避免直接摩擦波及全球格局；当时美国海军穿越海峡总按这条线走，台湾当局也借此作为防御依据，与美方协作巡逻。"
+        ]
+      },
+      "request_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\debug\\s0_news_process_probe\\M038_20260414_154145\\round_02_request.json",
+      "response_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\debug\\s0_news_process_probe\\M038_20260414_154145\\round_02_response.json"
+    }
+  ]
+}

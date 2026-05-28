@@ -1,0 +1,1 @@
+{"custom_id": "probe_2", "method": "POST", "url": "/v1/chat/completions", "body": {"model": "Pro/Qwen/Qwen2.5-7B-Instruct", "messages": [{"role": "system", "content": "你是一个助手"}, {"role": "user", "content": "你好"}], "max_tokens": 32}}

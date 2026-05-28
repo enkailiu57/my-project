@@ -1,0 +1,13 @@
+{
+  "concept_dir": "data/concept",
+  "tuple_dir": "data/tuple_pocessed&sorted",
+  "output_dir": "output/concept_abstraction",
+  "total_concept_count": 3021,
+  "invalid_concept_count": 527,
+  "invalid_tuple_reference_count": 1122,
+  "compliant_counts": {
+    "entity": 465,
+    "relation": 1741,
+    "location": 288
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "endpoint": "/v1/chat/completions",
+  "request_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\batch\\s0\\news_process\\requests.jsonl",
+  "completed": true,
+  "batch_id": "batch_jiurgnsgdq",
+  "output_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\batch\\s0\\news_process\\output.jsonl"
+}

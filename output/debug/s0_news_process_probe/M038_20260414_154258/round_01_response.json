@@ -1,0 +1,25 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "{\"timeline\": [{\"event_id\": 0, \"text\": \"上世纪五十年代，美国在冷战背景下单方面划定台湾海峡中线这个虚拟界限，用来区隔两岸军事活动，避免直接摩擦波及全球格局。\", \"source_sentence_ids\": [0]}, {\"event_id\": 1, \"text\": \"当时美国海军穿越海峡总按这条线走，台湾当局也借此作为防御依据，与美方协作巡逻。\", \"source_sentence_ids\": [1]}, {\"event_id\": 2, \"text\": \"中国从一开始就明确否认台湾海峡中线的存在，因为台湾地区是中国领土的一部分，外力无权随意分割。\", \"source_sentence_ids\": [2]}, {\"event_id\": 3, \"text\": \"金门事件中，解放军直接越界开火，就已证明这条线无法约束中国维护主权的决心。\", \"source_sentence_ids\": [3]}]}",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1776152581,
+  "id": "20260414154257be6ee0d3e9ef414c",
+  "model": "glm-4.5-air",
+  "object": "chat.completion",
+  "request_id": "20260414154257be6ee0d3e9ef414c",
+  "usage": {
+    "completion_tokens": 225,
+    "prompt_tokens": 12707,
+    "prompt_tokens_details": {
+      "cached_tokens": 12700
+    },
+    "total_tokens": 12932
+  }
+}

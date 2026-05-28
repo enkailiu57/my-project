@@ -1,0 +1,47 @@
+{
+  "doc_code": "M011",
+  "input_file": "C:\\Users\\27941\\Desktop\\VS code\\KG\\data\\cleaned\\M011 海峡雷霆-2025A演练：以封控为主的思路转变（2025.4.1-2）.txt",
+  "input_source": "cleaned",
+  "llm_provider": "siliconflow",
+  "llm_base_url": "https://api.siliconflow.cn/v1",
+  "model": "Qwen/Qwen3-32B",
+  "temperature": 0.1,
+  "thinking": "disabled",
+  "max_tokens": 15000,
+  "repeat": 1,
+  "sentence_limit": 2,
+  "cache_probe_mode": "exact",
+  "system_prompt_chars": 25201,
+  "user_prompt_chars": 292,
+  "original_sentence_count": 76,
+  "selected_sentence_count": 2,
+  "rounds": [
+    {
+      "round_index": 1,
+      "elapsed_seconds": 7.824999300006311,
+      "prompt_tokens": 13251,
+      "cached_tokens": 0,
+      "completion_tokens": 160,
+      "total_tokens": 13411,
+      "cache_hit": false,
+      "cache_ratio": 0.0,
+      "finish_reason": "stop",
+      "reasoning_chars": 0,
+      "content_chars": 345,
+      "quality": {
+        "parse_ok": true,
+        "parse_error": null,
+        "event_count": 2,
+        "unique_event_count": 2,
+        "covered_sentence_count": 2,
+        "covered_sentence_ratio": 1.0,
+        "preview_events": [
+          "2025年4月2日，中国人民解放军东部战区在台湾海峡中部、南部相关海域组织“海峡雷霆-2025A”演练，目的是维护国家主权、安全、发展利益，惩戒图谋分裂国家的行径，并守护台海和平稳定及台湾同胞的安全福祉。",
+          "此次演练重点实施查证识别、警告驱离、拦截扣押等科目，检验部队在区域管控、联合封控和精确打击方面的能力。"
+        ]
+      },
+      "request_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\debug\\s0_news_process_probe\\M011_20260414_161716\\round_01_request.json",
+      "response_path": "C:\\Users\\27941\\Desktop\\VS code\\KG\\output\\debug\\s0_news_process_probe\\M011_20260414_161716\\round_01_response.json"
+    }
+  ]
+}

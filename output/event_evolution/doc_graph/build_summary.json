@@ -1,0 +1,13 @@
+{
+  "input_dir": "C:/Users/27941/Desktop/VS code/KG/data/processed",
+  "timeline_dir": "C:/Users/27941/Desktop/VS code/KG/data/processed_timeline",
+  "output_dir": "C:/Users/27941/Desktop/VS code/KG/output/event_evolution/doc_graph",
+  "document_count": 351,
+  "sentence_count": 4009,
+  "eligible_edge_count": 60145,
+  "known_time_documents": 346,
+  "unknown_time_documents": 5,
+  "sentence_set_dir": "C:/Users/27941/Desktop/VS code/KG/output/event_evolution/doc_graph/sentence_sets",
+  "weight_matrix_path": "C:/Users/27941/Desktop/VS code/KG/output/event_evolution/doc_graph/document_graph_matrix.npz",
+  "graph_json_path": "C:/Users/27941/Desktop/VS code/KG/output/event_evolution/doc_graph/document_graph.json"
+}

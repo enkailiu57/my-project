@@ -1,0 +1,10 @@
+{
+  "concept_dir": "output/concept_abstraction/compliant_pools",
+  "output_dir": "output/concept_abstraction/descriptions",
+  "description_count": 2494,
+  "description_counts": {
+    "entity": 465,
+    "relation": 1741,
+    "location": 288
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "total_documents": 351,
+  "corrected_documents": 346,
+  "unknown_time_documents": 5,
+  "needs_review_documents": 111,
+  "high_confidence_documents": 132,
+  "open_ended_documents": 15,
+  "repeated_documents": 6,
+  "title_body_conflict_documents": 71
+}

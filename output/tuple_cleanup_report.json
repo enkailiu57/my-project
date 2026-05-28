@@ -1,0 +1,1111 @@
+{
+  "s2_file": "output/s2_raw_tuples.jsonl",
+  "deleted_tuple_count": 97,
+  "duplicate_tuple_count": 1,
+  "self_loop_tuple_count": 0,
+  "unreliable_time_tuple_count": 96,
+  "deleted_tuples": [
+    {
+      "tuple_id": "D008_s009_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/D008 蔡英文会晤众议长麦卡锡——首次台湾领导人在美国本土会见众议长＜2023.04.10＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "D024_s003_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/D024 捷克参议长维特齐率89人代表团访台＜2020.09.04＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "E022_s009_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/E022 拜登政府高频对台军售与中方制裁累计＜2025＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "E024_s008_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/E024 美国批准出售台湾F-16V战斗机66架＜2019.08.20＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "E041_s002_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/E041 美国驻扎台湾情报人员扩大＜2023.11.24＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "E041_s008_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/E041 美国驻扎台湾情报人员扩大＜2023.11.24＞.json",
+        "output/s2_raw_tuples.jsonl"
+      ]
+    },
+    {
+      "tuple_id": "E041_s008_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/E041 美国驻扎台湾情报人员扩大＜2023.11.24＞.json",
+        "output/s2_raw_tuples.jsonl"
+      ]
+    },
+    {
+      "tuple_id": "E041_s008_t003",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/E041 美国驻扎台湾情报人员扩大＜2023.11.24＞.json",
+        "output/s2_raw_tuples.jsonl"
+      ]
+    },
+    {
+      "tuple_id": "E041_s008_t004",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/E041 美国驻扎台湾情报人员扩大＜2023.11.24＞.json",
+        "output/s2_raw_tuples.jsonl"
+      ]
+    },
+    {
+      "tuple_id": "E041_s008_t005",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/E041 美国驻扎台湾情报人员扩大＜2023.11.24＞.json",
+        "output/s2_raw_tuples.jsonl"
+      ]
+    },
+    {
+      "tuple_id": "E042_s005_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/E042 日本在西南诸岛密集部署对台战略军事力量＜2027＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "E045_s006_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/E045 中美军事热线中断与断续重启＜2025.11.02＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "E045_s006_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/E045 中美军事热线中断与断续重启＜2025.11.02＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "E046_s003_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/E046 中美防长通话与双方在台湾问题上的正面交锋＜UNKNOWN_TIME＞.json",
+        "output/s2_raw_tuples.jsonl"
+      ]
+    },
+    {
+      "tuple_id": "E048_s001_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/E048 特朗普台湾应付保护费言论与交易型台海外交＜2024.07.17＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "EC002_s022_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/EC002 大陆启动对台贸易壁垒调查＜2024.12.13＞.json",
+        "output/s2_raw_tuples.jsonl"
+      ]
+    },
+    {
+      "tuple_id": "EC015_s012_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/EC015 大陆稀土管制对台积电的战略威慑＜2025.10.09＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "EC015_s012_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/EC015 大陆稀土管制对台积电的战略威慑＜2025.10.09＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "I001_s001_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I001 总体趋势：蔡英文执政8年10国断交，邦交国降至12个＜2024.01.15＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "I001_s017_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I001 总体趋势：蔡英文执政8年10国断交，邦交国降至12个＜2024.01.15＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "I001_s017_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I001 总体趋势：蔡英文执政8年10国断交，邦交国降至12个＜2024.01.15＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "I001_s017_t003",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I001 总体趋势：蔡英文执政8年10国断交，邦交国降至12个＜2024.01.15＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "I001_s017_t004",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I001 总体趋势：蔡英文执政8年10国断交，邦交国降至12个＜2024.01.15＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "I001_s017_t005",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I001 总体趋势：蔡英文执政8年10国断交，邦交国降至12个＜2024.01.15＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "I001_s017_t006",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I001 总体趋势：蔡英文执政8年10国断交，邦交国降至12个＜2024.01.15＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "I001_s017_t007",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I001 总体趋势：蔡英文执政8年10国断交，邦交国降至12个＜2024.01.15＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "I001_s017_t008",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I001 总体趋势：蔡英文执政8年10国断交，邦交国降至12个＜2024.01.15＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "I001_s017_t009",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I001 总体趋势：蔡英文执政8年10国断交，邦交国降至12个＜2024.01.15＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "I001_s017_t010",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I001 总体趋势：蔡英文执政8年10国断交，邦交国降至12个＜2024.01.15＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "I018_s002_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I018 马英九时期台湾曾以＂来宾＂身份参与ICAO大会＜2013.09.13＞.json",
+        "output/s2_raw_tuples.jsonl"
+      ]
+    },
+    {
+      "tuple_id": "I018_s006_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I018 马英九时期台湾曾以＂来宾＂身份参与ICAO大会＜2013.09.13＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "I024_s004_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I024 联大2758号决议的历史与基本内容＜2025.09.30＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "I024_s004_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/I024 联大2758号决议的历史与基本内容＜2025.09.30＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M016_s020_t003",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M016 环台军演中台军应对模式的演变＜2025.12.30＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M016_s020_t004",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M016 环台军演中台军应对模式的演变＜2025.12.30＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M025_s007_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M025 2021年全年ADIZ入侵从数十架次暴增至约950架次＜2021.10.07＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M025_s008_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M025 2021年全年ADIZ入侵从数十架次暴增至约950架次＜2021.10.07＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M026_s002_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M026 2022年佩洛西访台后ADIZ入侵进入新常态＜2025.08.08＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M028_s003_t001",
+      "delete_reasons": [
+        "duplicate_in_doc"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M028 解放军军机夜间绕台常态化＜2024.07.16＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M028_s013_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M028 解放军军机夜间绕台常态化＜2024.07.16＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M028_s014_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M028 解放军军机夜间绕台常态化＜2024.07.16＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M028_s015_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M028 解放军军机夜间绕台常态化＜2024.07.16＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M028_s017_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M028 解放军军机夜间绕台常态化＜2024.07.16＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M028_s021_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M028 解放军军机夜间绕台常态化＜2024.07.16＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M028_s022_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M028 解放军军机夜间绕台常态化＜2024.07.16＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M028_s023_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M028 解放军军机夜间绕台常态化＜2024.07.16＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M028_s024_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M028 解放军军机夜间绕台常态化＜2024.07.16＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M033_s010_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M033 歼-10C抵近台湾本岛约40海里＜2025.04.03＞.json",
+        "output/s2_raw_tuples.jsonl"
+      ]
+    },
+    {
+      "tuple_id": "M033_s010_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M033 歼-10C抵近台湾本岛约40海里＜2025.04.03＞.json",
+        "output/s2_raw_tuples.jsonl"
+      ]
+    },
+    {
+      "tuple_id": "M052_s003_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M052 大陆海警在金门周边扩大执法范围＜2024.06.25＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M056_s006_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M056 东山岛两栖登陆演习＜1996.11＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M056_s006_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M056 东山岛两栖登陆演习＜1996.11＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M071_s003_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M071 1992年至2024年大陆渔船越界与台湾驱离积累矛盾＜2024.06.03＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M071_s004_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M071 1992年至2024年大陆渔船越界与台湾驱离积累矛盾＜2024.06.03＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M071_s004_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M071 1992年至2024年大陆渔船越界与台湾驱离积累矛盾＜2024.06.03＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M071_s004_t003",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M071 1992年至2024年大陆渔船越界与台湾驱离积累矛盾＜2024.06.03＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M072_s013_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M072 闽平渔5540事件——两岸渔业冲突历史背景＜2024.02＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M073_s002_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M073 金门禁止水域争议常态化＜2025.11.28＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "M075_s018_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/M075 台湾海底电缆受损事件＜2025.06＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE026_s006_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE026 日本启动＂西南诸岛＂防务建设全面强化＜2026＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE026_s006_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE026 日本启动＂西南诸岛＂防务建设全面强化＜2026＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE041_s008_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE041 美军＂动态力量运用＂战略频繁在台海以东、关岛等地展示＜2022.12.03＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE042_s007_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE042 波兰、捷克等东欧国家政要访台升温＜2026.02＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE042_s007_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE042 波兰、捷克等东欧国家政要访台升温＜2026.02＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE042_s007_t003",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE042 波兰、捷克等东欧国家政要访台升温＜2026.02＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE045_s004_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE045 美日发展＂一体化防空反导＂体系涵盖台海＜2026.03.30＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE045_s004_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE045 美日发展＂一体化防空反导＂体系涵盖台海＜2026.03.30＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE045_s004_t003",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE045 美日发展＂一体化防空反导＂体系涵盖台海＜2026.03.30＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE045_s004_t004",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE045 美日发展＂一体化防空反导＂体系涵盖台海＜2026.03.30＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE047_s008_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE047 新西兰、加拿大、澳大利亚＂五眼联盟＂协调涉台立场＜2026.02.16＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE047_s008_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE047 新西兰、加拿大、澳大利亚＂五眼联盟＂协调涉台立场＜2026.02.16＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE047_s008_t003",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE047 新西兰、加拿大、澳大利亚＂五眼联盟＂协调涉台立场＜2026.02.16＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE047_s018_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE047 新西兰、加拿大、澳大利亚＂五眼联盟＂协调涉台立场＜2026.02.16＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NE049_s006_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NE049 台湾与以色列非官方关系及＂断交＂讨论＜2025.12.29＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NM005_s008_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NM005 台湾无人机国家队与国内无人机战力建设＜2027＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NM039_s009_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NM039 美日台联合反潜演练升级＜2025.05＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NM039_s009_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NM039 美日台联合反潜演练升级＜2025.05＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NM039_s010_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NM039 美日台联合反潜演练升级＜2025.05＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NM040_s009_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NM040 台湾民防组织重建——公民自发黑熊学院＜2022.09.16＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NM046_s004_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NM046 台湾已付款军售积欠215亿美元——战备缺口持续扩大＜2028＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "NM046_s005_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/NM046 台湾已付款军售积欠215亿美元——战备缺口持续扩大＜2028＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P002_s002_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P002 陈水扁＂四不一没有＂就职承诺与后续失信＜2006.01.29＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P002_s002_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P002 陈水扁＂四不一没有＂就职承诺与后续失信＜2006.01.29＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P015_s003_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P015 1996年台湾首次领导人直选与第三次台海危机＜1996.03.25＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P015_s003_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P015 1996年台湾首次领导人直选与第三次台海危机＜1996.03.25＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P015_s003_t003",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P015 1996年台湾首次领导人直选与第三次台海危机＜1996.03.25＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P017_s004_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P017 马英九当选与两岸关系和平发展时期＜2016.05.20＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P018_s004_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P018 蔡英文首次当选与两岸官方对话全面中断＜2019＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P018_s004_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P018 蔡英文首次当选与两岸官方对话全面中断＜2019＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P018_s004_t003",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P018 蔡英文首次当选与两岸官方对话全面中断＜2019＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P018_s004_t004",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P018 蔡英文首次当选与两岸官方对话全面中断＜2019＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P018_s004_t005",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P018 蔡英文首次当选与两岸官方对话全面中断＜2019＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P018_s004_t006",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P018 蔡英文首次当选与两岸官方对话全面中断＜2019＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P018_s004_t007",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P018 蔡英文首次当选与两岸官方对话全面中断＜2019＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P023_s002_t001",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P023 汪辜会晤上海——两岸政治对话序幕＜2000＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P023_s002_t002",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P023 汪辜会晤上海——两岸政治对话序幕＜2000＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    },
+    {
+      "tuple_id": "P023_s002_t003",
+      "delete_reasons": [
+        "unreliable_time_anchor"
+      ],
+      "hit_files": [
+        "data/tuple_extrct/P023 汪辜会晤上海——两岸政治对话序幕＜2000＞.json",
+        "output/s2_raw_tuples.jsonl",
+        "output/tuple_time_normalize_report.json"
+      ]
+    }
+  ],
+  "removed_records": {
+    "data/tuple_extrct/D008 蔡英文会晤众议长麦卡锡——首次台湾领导人在美国本土会见众议长＜2023.04.10＞.json": 1,
+    "data/tuple_extrct/D024 捷克参议长维特齐率89人代表团访台＜2020.09.04＞.json": 1,
+    "data/tuple_extrct/E022 拜登政府高频对台军售与中方制裁累计＜2025＞.json": 1,
+    "data/tuple_extrct/E024 美国批准出售台湾F-16V战斗机66架＜2019.08.20＞.json": 1,
+    "data/tuple_extrct/E041 美国驻扎台湾情报人员扩大＜2023.11.24＞.json": 6,
+    "data/tuple_extrct/E042 日本在西南诸岛密集部署对台战略军事力量＜2027＞.json": 1,
+    "data/tuple_extrct/E045 中美军事热线中断与断续重启＜2025.11.02＞.json": 2,
+    "data/tuple_extrct/E046 中美防长通话与双方在台湾问题上的正面交锋＜UNKNOWN_TIME＞.json": 1,
+    "data/tuple_extrct/E048 特朗普台湾应付保护费言论与交易型台海外交＜2024.07.17＞.json": 1,
+    "data/tuple_extrct/EC002 大陆启动对台贸易壁垒调查＜2024.12.13＞.json": 1,
+    "data/tuple_extrct/EC015 大陆稀土管制对台积电的战略威慑＜2025.10.09＞.json": 2,
+    "data/tuple_extrct/I001 总体趋势：蔡英文执政8年10国断交，邦交国降至12个＜2024.01.15＞.json": 11,
+    "data/tuple_extrct/I018 马英九时期台湾曾以＂来宾＂身份参与ICAO大会＜2013.09.13＞.json": 2,
+    "data/tuple_extrct/I024 联大2758号决议的历史与基本内容＜2025.09.30＞.json": 2,
+    "data/tuple_extrct/M016 环台军演中台军应对模式的演变＜2025.12.30＞.json": 2,
+    "data/tuple_extrct/M025 2021年全年ADIZ入侵从数十架次暴增至约950架次＜2021.10.07＞.json": 2,
+    "data/tuple_extrct/M026 2022年佩洛西访台后ADIZ入侵进入新常态＜2025.08.08＞.json": 1,
+    "data/tuple_extrct/M028 解放军军机夜间绕台常态化＜2024.07.16＞.json": 9,
+    "data/tuple_extrct/M033 歼-10C抵近台湾本岛约40海里＜2025.04.03＞.json": 2,
+    "data/tuple_extrct/M052 大陆海警在金门周边扩大执法范围＜2024.06.25＞.json": 1,
+    "data/tuple_extrct/M056 东山岛两栖登陆演习＜1996.11＞.json": 2,
+    "data/tuple_extrct/M071 1992年至2024年大陆渔船越界与台湾驱离积累矛盾＜2024.06.03＞.json": 4,
+    "data/tuple_extrct/M072 闽平渔5540事件——两岸渔业冲突历史背景＜2024.02＞.json": 1,
+    "data/tuple_extrct/M073 金门禁止水域争议常态化＜2025.11.28＞.json": 1,
+    "data/tuple_extrct/M075 台湾海底电缆受损事件＜2025.06＞.json": 1,
+    "data/tuple_extrct/NE026 日本启动＂西南诸岛＂防务建设全面强化＜2026＞.json": 2,
+    "data/tuple_extrct/NE041 美军＂动态力量运用＂战略频繁在台海以东、关岛等地展示＜2022.12.03＞.json": 1,
+    "data/tuple_extrct/NE042 波兰、捷克等东欧国家政要访台升温＜2026.02＞.json": 3,
+    "data/tuple_extrct/NE045 美日发展＂一体化防空反导＂体系涵盖台海＜2026.03.30＞.json": 4,
+    "data/tuple_extrct/NE047 新西兰、加拿大、澳大利亚＂五眼联盟＂协调涉台立场＜2026.02.16＞.json": 4,
+    "data/tuple_extrct/NE049 台湾与以色列非官方关系及＂断交＂讨论＜2025.12.29＞.json": 1,
+    "data/tuple_extrct/NM005 台湾无人机国家队与国内无人机战力建设＜2027＞.json": 1,
+    "data/tuple_extrct/NM039 美日台联合反潜演练升级＜2025.05＞.json": 3,
+    "data/tuple_extrct/NM040 台湾民防组织重建——公民自发黑熊学院＜2022.09.16＞.json": 1,
+    "data/tuple_extrct/NM046 台湾已付款军售积欠215亿美元——战备缺口持续扩大＜2028＞.json": 2,
+    "data/tuple_extrct/P002 陈水扁＂四不一没有＂就职承诺与后续失信＜2006.01.29＞.json": 2,
+    "data/tuple_extrct/P015 1996年台湾首次领导人直选与第三次台海危机＜1996.03.25＞.json": 3,
+    "data/tuple_extrct/P017 马英九当选与两岸关系和平发展时期＜2016.05.20＞.json": 1,
+    "data/tuple_extrct/P018 蔡英文首次当选与两岸官方对话全面中断＜2019＞.json": 7,
+    "data/tuple_extrct/P023 汪辜会晤上海——两岸政治对话序幕＜2000＞.json": 3,
+    "output/s2_raw_tuples.jsonl": 97,
+    "output/tuple_time_normalize_report.json": 87
+  },
+  "dry_run": false
+}

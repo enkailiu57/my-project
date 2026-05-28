@@ -1,0 +1,1 @@
+{"custom_id":"probe_1","method":"POST","url":"/v1/chat/completions","body":{"model":"Qwen/Qwen3-32B","messages":[{"role":"system","content":"你是一个助手"},{"role":"user","content":"你好"}]}}

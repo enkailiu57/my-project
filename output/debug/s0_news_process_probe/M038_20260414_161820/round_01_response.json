@@ -1,0 +1,30 @@
+{
+  "id": "019d8b11e5a903eee225339971b595d8",
+  "object": "chat.completion",
+  "created": 1776154699,
+  "model": "Qwen/Qwen3-32B",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"timeline\": [\n    {\n      \"event_id\": 0,\n      \"text\": \"台湾海峡中线是上世纪五十年代美国在冷战背景下单方面划定的虚拟界限，用于区隔两岸军事活动。\",\n      \"source_sentence_ids\": [0]\n    },\n    {\n      \"event_id\": 1,\n      \"text\": \"中国从一开始就明确否认台湾海峡中线的存在，强调台湾地区是中国领土的一部分，外力无权随意分割。\",\n      \"source_sentence_ids\": [2]\n    },\n    {\n      \"event_id\": 2,\n      \"text\": \"2019年，两架歼-11战机平稳越过分界线，台湾地区仅能监视，无法拦截。\",\n      \"source_sentence_ids\": [5]\n    },\n    {\n      \"event_id\": 3,\n      \"text\": \"2020年，赖清德访美后，轰-6轰炸机绕台湾岛进入太平洋，完全忽略中线，台湾地区飞机只能保持距离观察。\",\n      \"source_sentence_ids\": [7]\n    },\n    {\n      \"event_id\": 4,\n      \"text\": \"2020年，中国外交部公开声明，台湾海峡不存在此类界限。\",\n      \"source_sentence_ids\": [8]\n    },\n    {\n      \"event_id\": 5,\n      \"text\": \"2021年，运-8干扰机和反潜机反复穿越进入西南空域，全年进入台湾防空识别区超900次，多次越界。\",\n      \"source_sentence_ids\": [10]\n    },\n    {\n      \"event_id\": 6,\n      \"text\": \"2022年佩洛西访台事件成为转折点，解放军启动大规模军演，包括24架苏-30和6架歼-11越界西北，导弹发射模拟打击，49架飞机进入识别区越界。\",\n      \"source_sentence_ids\": [12]\n    },\n    {\n      \"event_id\": 7,\n      \"text\": \"2022年，中国外交部重申台湾海峡不存在中线。\",\n      \"source_sentence_ids\": [13]\n    },\n    {\n      \"event_id\": 8,\n      \"text\": \"2024年1月，中国民航局调整M503航线，取消偏置，飞机优化路径，空域正常化。\",\n      \"source_sentence_ids\": [40]\n    },\n    {\n      \"event_id\": 9,\n      \"text\": \"2024年4月，中国激活W122和W123航线，实现直飞厦门和福州。\",\n      \"source_sentence_ids\": [41]\n    },\n    {\n      \"event_id\": 10,\n      \"text\": \"2024年5月，赖清德就职后，解放军举行“联合利剑-2024A”演习，部队模拟登陆，37架飞机越界。\",\n      \"source_sentence_ids\": [43]\n    },\n    {\n      \"event_id\": 11,\n      \"text\": \"2024年10月，解放军举行“联合利剑-2024B”演习，包围外岛，舰机巡航。\",\n      \"source_sentence_ids\": [44]\n    },\n    {\n      \"event_id\": 12,\n      \"text\": \"2025年4月，解放军举行“海峡雷霆-2025A”演习，76架飞机24小时活动，37架次越界。\",\n      \"source_sentence_ids\": [47]\n    },\n    {\n      \"event_id\": 13,\n      \"text\": \"2025年7月，中国国防部声明，没有所谓台湾海峡中线，重申台湾地区是中国的一部分。\",\n      \"source_sentence_ids\": [48]\n    },\n    {\n      \"event_id\": 14,\n      \"text\": \"2025年9月，中国海军进一步抹除中线痕迹，飞机越界成为常态。\",\n      \"source_sentence_ids\": [50]\n    },\n    {\n      \"event_id\": 15,\n      \"text\": \"2025年10月，台湾地区报告313架次飞机越界进入防空识别区，中国加强路径控制。\",\n      \"source_sentence_ids\": [51]\n    }\n  ]\n}"
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 15343,
+    "completion_tokens": 935,
+    "total_tokens": 16278,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens_details": {
+      "cached_tokens": 13056
+    },
+    "prompt_cache_hit_tokens": 13056,
+    "prompt_cache_miss_tokens": 2287
+  },
+  "system_fingerprint": ""
+}
